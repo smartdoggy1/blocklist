@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-07-07
+# Backed up on: 2020-07-27
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -48,6 +48,7 @@
 0.0.0.0	a.vfgtb.com
 0.0.0.0	a.xanga.com
 0.0.0.0	a135.wftv.com
+0.0.0.0	a5.overclockers.ua
 0.0.0.0	aa-metrics.beauty.hotpepper.jp
 0.0.0.0	aa-metrics.trip-ai.jp
 0.0.0.0	aaddzz.com
@@ -140,6 +141,7 @@
 0.0.0.0	ad.lupa.cz
 0.0.0.0	ad.media-servers.net
 0.0.0.0	ad.mediastorm.hu
+0.0.0.0	ad.mg
 0.0.0.0	ad.mgd.de
 0.0.0.0	ad.mobstazinc.cn
 0.0.0.0	ad.musicmatch.com
@@ -161,6 +163,7 @@
 0.0.0.0	ad.simflight.com
 0.0.0.0	ad.simgames.net
 0.0.0.0	ad.smartclip.net
+0.0.0.0	ad.tapthislink.com
 0.0.0.0	ad.tbn.ru
 0.0.0.0	ad.technoratimedia.com
 0.0.0.0	ad.thewheelof.com
@@ -407,6 +410,7 @@
 0.0.0.0	ads.bigfoot.com
 0.0.0.0	ads.bing.com
 0.0.0.0	ads.bittorrent.com
+0.0.0.0	ads.biz.tr
 0.0.0.0	ads.blog.com
 0.0.0.0	ads.bloomberg.com
 0.0.0.0	ads.bluemountain.com
@@ -770,6 +774,7 @@
 0.0.0.0	adsatt.abcnews.starwave.com
 0.0.0.0	adsatt.espn.go.com
 0.0.0.0	adsatt.espn.starwave.com
+0.0.0.0	adsatt.go.starwave.com
 0.0.0.0	adsby.bidtheatre.com
 0.0.0.0	adsbydelema.com
 0.0.0.0	adscale.de
@@ -801,6 +806,7 @@
 0.0.0.0	adserver.diariodosertao.com.br
 0.0.0.0	adserver.digitoday.com
 0.0.0.0	adserver.echdk.pl
+0.0.0.0	adserver.ekokatu.com
 0.0.0.0	adserver.freecity.de
 0.0.0.0	adserver.friendfinder.com
 0.0.0.0	adserver.hardsextube.com
@@ -890,6 +896,7 @@
 0.0.0.0	adsynergy.com
 0.0.0.0	adsys.townnews.com
 0.0.0.0	adsystem.simplemachines.org
+0.0.0.0	adtech-digital.ru
 0.0.0.0	adtech.com
 0.0.0.0	adtech.de
 0.0.0.0	adtechjp.com
@@ -954,6 +961,7 @@
 0.0.0.0	adworx.nl
 0.0.0.0	adx.allstar.cz
 0.0.0.0	adx.atnext.com
+0.0.0.0	adx.gayboy.at
 0.0.0.0	adx.relaksit.ru
 0.0.0.0	adxpansion.com
 0.0.0.0	adxpose.com
@@ -1032,6 +1040,7 @@
 0.0.0.0	analytics.bitrix.info
 0.0.0.0	analytics.cloudron.io
 0.0.0.0	analytics.cohesionapps.com
+0.0.0.0	analytics.dnsfilter.com
 0.0.0.0	analytics.ext.go-tellm.com
 0.0.0.0	analytics.google.com
 0.0.0.0	analytics.htmedia.in
@@ -1288,6 +1297,7 @@
 0.0.0.0	boudja.com
 0.0.0.0	bounceads.net
 0.0.0.0	bounceexchange.com
+0.0.0.0	bowie-cdn.fathomdns.com
 0.0.0.0	box.anchorfree.net
 0.0.0.0	bpath.com
 0.0.0.0	bpu.samsungelectronics.com
@@ -1386,6 +1396,7 @@
 0.0.0.0	click.a-ads.com
 0.0.0.0	click.fool.com
 0.0.0.0	click.kmindex.ru
+0.0.0.0	click.negociosdigitaisnapratica.com.br
 0.0.0.0	click.twcwigs.com
 0.0.0.0	click2freemoney.com
 0.0.0.0	clickability.com
@@ -1679,6 +1690,7 @@
 0.0.0.0	encouragingwilderness.com
 0.0.0.0	endurableshop.com
 0.0.0.0	energeticladybug.com
+0.0.0.0	engage.dnsfilter.com
 0.0.0.0	engagebdr.com
 0.0.0.0	engine.espace.netavenir.com
 0.0.0.0	enginenetwork.com
@@ -1786,6 +1798,7 @@
 0.0.0.0	fourarithmetic.com
 0.0.0.0	fpctraffic.com
 0.0.0.0	fpctraffic2.com
+0.0.0.0	fpjs.io
 0.0.0.0	fqtag.com
 0.0.0.0	frailoffer.com
 0.0.0.0	free-banners.com
@@ -1881,6 +1894,7 @@
 0.0.0.0	h92zbpn4zcv1.com
 0.0.0.0	habitualhumor.com
 0.0.0.0	hadskiz.com
+0.0.0.0	haltingbadge.com
 0.0.0.0	hammerhearing.com
 0.0.0.0	handyfield.com
 0.0.0.0	hardtofindmilk.com
@@ -1945,6 +1959,7 @@
 0.0.0.0	hsadspixel.net
 0.0.0.0	htlbid.com
 0.0.0.0	httpool.com
+0.0.0.0	hubadnetwork.com
 0.0.0.0	hud8mxdt.computerhelpmirror.top
 0.0.0.0	hueads.com
 0.0.0.0	hueadsortb.com
@@ -2062,6 +2077,7 @@
 0.0.0.0	j93557g.com
 0.0.0.0	jadeitite.com
 0.0.0.0	jaizouji.com
+0.0.0.0	jauchuwa.net
 0.0.0.0	jcount.com
 0.0.0.0	jdoqocy.com
 0.0.0.0	jinkads.de
@@ -2105,6 +2121,7 @@
 0.0.0.0	ladsreds.com
 0.0.0.0	ladsup.com
 0.0.0.0	lakequincy.com
+0.0.0.0	lameletters.com
 0.0.0.0	lanistaads.com
 0.0.0.0	larati.net
 0.0.0.0	laughablecopper.com
@@ -2446,6 +2463,7 @@
 0.0.0.0	offer.sponsorpay.com
 0.0.0.0	offerforge.com
 0.0.0.0	offermatica.com
+0.0.0.0	oglasi.posjetnica.com
 0.0.0.0	ogury.com
 0.0.0.0	omnijay.com
 0.0.0.0	omniscientspark.com
@@ -2473,7 +2491,9 @@
 0.0.0.0	openads.org
 0.0.0.0	openadsnetwork.com
 0.0.0.0	opentag-stats.qubit.com
+0.0.0.0	openx.actvtech.com
 0.0.0.0	openx.angelsgroup.org.uk
+0.0.0.0	openx.cairo360.com
 0.0.0.0	openx.smcaen.fr
 0.0.0.0	operationkettle.com
 0.0.0.0	opienetwork.com
@@ -2576,6 +2596,7 @@
 0.0.0.0	play4traffic.com
 0.0.0.0	playhaven.com
 0.0.0.0	playmobileads.com
+0.0.0.0	pleasantpump.com
 0.0.0.0	plista.com
 0.0.0.0	plugrush.com
 0.0.0.0	pocketmath.com
@@ -2692,6 +2713,7 @@
 0.0.0.0	radar.cedexis.com
 0.0.0.0	radarurl.com
 0.0.0.0	radiate.com
+0.0.0.0	rads.realadmin.pl
 0.0.0.0	railwayrainstorm.com
 0.0.0.0	railwayreason.com
 0.0.0.0	rampidads.com
@@ -2768,7 +2790,10 @@
 0.0.0.0	revenue.net
 0.0.0.0	revenuedirect.com
 0.0.0.0	revenuehits.com
+0.0.0.0	revive.docmatic.org
+0.0.0.0	revive.dubcnm.com
 0.0.0.0	revive.netriota.hu
+0.0.0.0	revive.plays.bg
 0.0.0.0	revlift.io
 0.0.0.0	revsci.net
 0.0.0.0	revstats.com
@@ -2788,6 +2813,7 @@
 0.0.0.0	rle.ru
 0.0.0.0	rmads.msn.com
 0.0.0.0	rmedia.boston.com
+0.0.0.0	rmgserving.com
 0.0.0.0	roar.com
 0.0.0.0	robotreplay.com
 0.0.0.0	rockabox.co
@@ -2918,6 +2944,7 @@
 0.0.0.0	slipperysack.com
 0.0.0.0	slopeaota.com
 0.0.0.0	smaato.com
+0.0.0.0	smallbeginner.com
 0.0.0.0	smart-traffik.com
 0.0.0.0	smart-traffik.io
 0.0.0.0	smart4ads.com
@@ -3118,6 +3145,7 @@
 0.0.0.0	textad.sexsearch.com
 0.0.0.0	textads.biz
 0.0.0.0	textlinks.com
+0.0.0.0	tfag.de
 0.0.0.0	the-ozone-project.com
 0.0.0.0	theadex.com
 0.0.0.0	theadhost.com
@@ -3204,6 +3232,7 @@
 0.0.0.0	tracking.1-a1502-bi.co.uk
 0.0.0.0	tracking.1-kv015-ap.co.uk
 0.0.0.0	tracking.21-a4652-bi.co.uk
+0.0.0.0	tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0	tracking.5-47737-bi.co.uk
 0.0.0.0	tracking.crunchiemedia.com
 0.0.0.0	tracking.epicgames.com
@@ -3221,6 +3250,7 @@
 0.0.0.0	tracking42.com
 0.0.0.0	trackingfestival.com
 0.0.0.0	trackingsoft.com
+0.0.0.0	tracklink-tel.de
 0.0.0.0	trackmysales.com
 0.0.0.0	trackuhub.com
 0.0.0.0	tradeadexchange.com
@@ -3281,6 +3311,7 @@
 0.0.0.0	tyroo.com
 0.0.0.0	uarating.com
 0.0.0.0	ucfunnel.com
+0.0.0.0	udkcrj.com
 0.0.0.0	udncoeln.com
 0.0.0.0	uib.ff.avast.com
 0.0.0.0	ukbanners.com

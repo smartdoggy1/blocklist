@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2020-07-07
+# Backed up on: 2020-07-22
 
 0.0.0.0	1-cl0ud.com
 0.0.0.0	1-creative-1.com
@@ -249,6 +249,7 @@
 0.0.0.0	adsrvs.com
 0.0.0.0	adsterra.com
 0.0.0.0	adstheaa.com
+0.0.0.0	adstir.com
 0.0.0.0	adsupply.com
 0.0.0.0	adsupplyssl.com
 0.0.0.0	adswizz.com
@@ -415,6 +416,7 @@
 0.0.0.0	analytics.sleeknote.com
 0.0.0.0	analytics.snidigital.com
 0.0.0.0	analytics.spotify.com
+0.0.0.0	analytics.sykescottages.co.uk
 0.0.0.0	analytics.thetab.com
 0.0.0.0	analytics.trackerstatus.info
 0.0.0.0	analytics.tripwireinteractive.com
@@ -466,6 +468,7 @@
 0.0.0.0	apptimize.com
 0.0.0.0	appuniverseapplication.com
 0.0.0.0	apxlv.com
+0.0.0.0	aqcxa.com
 0.0.0.0	arc.msn.com
 0.0.0.0	arcpublishing.com
 0.0.0.0	areyouahuman.com
@@ -703,6 +706,7 @@
 0.0.0.0	clevernt.com
 0.0.0.0	click.emails-comparethemarket.com
 0.0.0.0	click.justwatch.com
+0.0.0.0	click.mail.medscape.com
 0.0.0.0	click.udimg.com
 0.0.0.0	click.union.ucweb.com
 0.0.0.0	clickadu.com
@@ -996,6 +1000,7 @@
 0.0.0.0	edigitalresearch.com
 0.0.0.0	edigitalsurvey.com
 0.0.0.0	eepurl.com
+0.0.0.0	efeedbacktrk.com
 0.0.0.0	effectivemeasure.com
 0.0.0.0	effectivemeasure.net
 0.0.0.0	egeng.info
@@ -1216,6 +1221,7 @@
 0.0.0.0	ghostery.com
 0.0.0.0	gigaonclick.com
 0.0.0.0	gigya.com
+0.0.0.0	gixioanalytics.com
 0.0.0.0	glam.com
 0.0.0.0	gldsta-02-or.com
 0.0.0.0	gleam.io
@@ -1318,6 +1324,7 @@
 0.0.0.0	hsms10.com
 0.0.0.0	hsstatic.net
 0.0.0.0	httptrack.com
+0.0.0.0	hubapi.com
 0.0.0.0	hubspot.com
 0.0.0.0	hubspot.net
 0.0.0.0	hubtraffic.com
@@ -1367,6 +1374,7 @@
 0.0.0.0	infernotions.com
 0.0.0.0	infinity-tracking.net
 0.0.0.0	info.kugou.com
+0.0.0.0	infobip.com
 0.0.0.0	infolinks.com
 0.0.0.0	inmobi.com
 0.0.0.0	inmobi.info
@@ -12915,6 +12923,7 @@
 0.0.0.0	smetrics.mcafee.com
 0.0.0.0	smetrics.sky.com
 0.0.0.0	smetrics.tesco.com
+0.0.0.0	smetrics.timeout.com
 0.0.0.0	smetrics.vodafone.co.uk
 0.0.0.0	smrk.io
 0.0.0.0	snapads.com
@@ -13004,6 +13013,7 @@
 0.0.0.0	stats.redditmedia.com
 0.0.0.0	stats.royalbank.com
 0.0.0.0	stats.searchanise.com
+0.0.0.0	stats.unity3d.com
 0.0.0.0	stats.videodelivery.net
 0.0.0.0	stats.vk-portal.net
 0.0.0.0	stats.wikimedia.org
@@ -13063,6 +13073,7 @@
 0.0.0.0	taboola.com
 0.0.0.0	taboolasyndication.com
 0.0.0.0	tacoda.net
+0.0.0.0	tactilews.com
 0.0.0.0	tagcade.com
 0.0.0.0	tagcommander.com
 0.0.0.0	taggstar.com
@@ -13086,6 +13097,7 @@
 0.0.0.0	technorati.com
 0.0.0.0	technoratimedia.com
 0.0.0.0	techtarget.com
+0.0.0.0	telemetry-dce.gfe.nvidia.com
 0.0.0.0	telemetry-experiment.cdn.mozilla.net
 0.0.0.0	telemetry-in.battle.net
 0.0.0.0	telemetry.allrecipes.com
@@ -13172,6 +13184,7 @@
 0.0.0.0	track.sublytics-5db9fa0b5700f.com
 0.0.0.0	track.sublytics-5df8eec4bca66.com
 0.0.0.0	track.sublytics-5e0e3b928b4bd.com
+0.0.0.0	track.thesaurus.com
 0.0.0.0	track.us.org
 0.0.0.0	track.wikibuy.com
 0.0.0.0	trackad.cz
@@ -13441,6 +13454,7 @@
 0.0.0.0	yellgroup.com
 0.0.0.0	yemonisoni.com
 0.0.0.0	yesware.com
+0.0.0.0	yext-pixel.com
 0.0.0.0	yieldify.com
 0.0.0.0	yieldlab.net
 0.0.0.0	yieldmanager.com
@@ -13483,3 +13497,4 @@
 0.0.0.0	zotabox.com
 0.0.0.0	zqtk.net
 0.0.0.0	zsj18.com
+0.0.0.0	zupml.com

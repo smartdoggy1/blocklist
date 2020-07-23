@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2020-07-07
+# Backed up on: 2020-07-22
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -58,6 +58,9 @@
 0.0.0.0	collect-us-fy2020.myhomescreen.tv
 0.0.0.0	configprd.samsungcloudsolution.net
 0.0.0.0	connecttv.pelmorex.com
+0.0.0.0	control-zoo-dtsprod.tvinteractive.tv
+0.0.0.0	control.tvinteractive.tv
+0.0.0.0	control2.tvinteractive.tv
 0.0.0.0	cpu.samsungelectronics.com
 0.0.0.0	customerevents.netflix.com
 0.0.0.0	d179kwmlpc4o47.cloudfront.net
@@ -70,6 +73,7 @@
 0.0.0.0	de.ioam.de
 0.0.0.0	dev-multiscreen.samsung.com
 0.0.0.0	device-metrics-us.amazon.com
+0.0.0.0	display.ravm.tv
 0.0.0.0	dpu.samsungelectronics.com
 0.0.0.0	e2.resources.foxtel.com.au
 0.0.0.0	facemap.foldlife.net
@@ -107,10 +111,12 @@
 0.0.0.0	log-ingestion.samsungacr.com
 0.0.0.0	log.internetat.tv
 0.0.0.0	managed.xmpp.foxtel.com.au
+0.0.0.0	mcp.tvinteractive.tv
 0.0.0.0	mhc-ajax-us.myhomescreen.tv
 0.0.0.0	mhc-sec-eu.myhomescreen.tv
 0.0.0.0	mhc-sec-us.myhomescreen.tv
 0.0.0.0	mhc-xpana-us.myhomescreen.tv
+0.0.0.0	midland.logs.roku.com
 0.0.0.0	msg-em.hismarttv.com
 0.0.0.0	multiscreen.samsung.com
 0.0.0.0	musicid.samsungcloudsolution.com
@@ -134,6 +140,7 @@
 0.0.0.0	pipeaota.com
 0.0.0.0	premium-videos.telly.com
 0.0.0.0	prov.samsungcloudsolution.com
+0.0.0.0	ravm.tv
 0.0.0.0	rd.samsungadhub.com
 0.0.0.0	redbutton-adproxy-lb-prod.redbutton.de
 0.0.0.0	redbutton-lb-prod.redbutton.de
@@ -150,6 +157,7 @@
 0.0.0.0	sas.samsungcloudsolution.com
 0.0.0.0	sca.samsung.com
 0.0.0.0	scheduler.hbbtv.smartclip.net
+0.0.0.0	scribe.logs.roku.com
 0.0.0.0	script.ioam.de
 0.0.0.0	service.biv.sony.tv
 0.0.0.0	smartclip.com
@@ -169,6 +177,7 @@
 0.0.0.0	trvdp.com
 0.0.0.0	tuner-api.hdhomerun.com
 0.0.0.0	tv-static.scdn.co
+0.0.0.0	tvmeta-dynamic.tvinteractive.tv
 0.0.0.0	unified-ter-na.hismarttv.com
 0.0.0.0	update.biv.sony.tv
 0.0.0.0	upu.samsungelectronics.com

@@ -65,8 +65,12 @@ def backup():
         if not line:
             continue
         print(f'{i:2d} - {line:{longest}} - ', end='', flush=True)
-        r = requests.get(line, stream=True, headers={
-            'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36'})
+        try:
+            r = requests.get(line, stream=True, headers={
+                'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36'})
+        except requests.exceptions.ConnectionError:
+            print('offline')
+            return
         r.raw.decode_content = True
         filepath = os.path.join(backup_hosts_destination_dir, f'{hashlib.sha256(line.encode()).hexdigest()[:8]}-{os.path.basename(urllib.parse.urlparse(line).path)}')
         # find differences
