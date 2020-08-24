@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2020-07-07
+# Backed up on: 2020-08-23
 
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10402.engine.mobileapptracking.com
@@ -460,6 +460,7 @@
 0.0.0.0	4768.content.swrve.com
 0.0.0.0	4771.api.swrve.com
 0.0.0.0	4771.content.swrve.com
+0.0.0.0	489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 0.0.0.0	4984.engine.mobileapptracking.com
 0.0.0.0	4d83.playfabapi.com
 0.0.0.0	4dle.info
@@ -2606,6 +2607,7 @@
 0.0.0.0	app.segment.com
 0.0.0.0	app.subiz.com
 0.0.0.0	app.unbounce.com
+0.0.0.0	app.upee.online
 0.0.0.0	app.woopra.com
 0.0.0.0	app.wootric.com
 0.0.0.0	app.xdrig.com
@@ -2902,6 +2904,7 @@
 0.0.0.0	aufeminin-e-d.openx.net
 0.0.0.0	aufeminin-g-d.openx.net
 0.0.0.0	augur.io
+0.0.0.0	auiopt.unityads.unity3d.com
 0.0.0.0	auth.follow-apps.com
 0.0.0.0	auth.nixozz.com
 0.0.0.0	authorne.info
@@ -3494,6 +3497,7 @@
 0.0.0.0	cdn-cf.justpremium.com
 0.0.0.0	cdn-cf.postitial.com
 0.0.0.0	cdn-config.taplytics.com
+0.0.0.0	cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0	cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0	cdn-edgecast.optimizely.com
 0.0.0.0	cdn-engagement.inmarket.com
@@ -4334,6 +4338,7 @@
 0.0.0.0	crashlogs.whatsapp.net
 0.0.0.0	crashlogs.woniu.com
 0.0.0.0	crashlytics.163.com
+0.0.0.0	crashlytics2.l.google.com
 0.0.0.0	craveandlamb.com
 0.0.0.0	crazypopups.com
 0.0.0.0	crb.kargo.com
@@ -11336,6 +11341,7 @@
 0.0.0.0	updater.crowdtangle.com
 0.0.0.0	updater.lionmobi.com
 0.0.0.0	updates.tune.com
+0.0.0.0	upee.online
 0.0.0.0	upfile16.mediaphim.com
 0.0.0.0	upgradedpoints.pushengage.com
 0.0.0.0	upi-d.openx.net
@@ -11508,6 +11514,7 @@
 0.0.0.0	vabid.prod.sift.co
 0.0.0.0	vads.net.vn
 0.0.0.0	vads.vn
+0.0.0.0	vaes.amazon-adsystem.com
 0.0.0.0	valegaj.com
 0.0.0.0	validate.appsflyer.com
 0.0.0.0	validator.lomadee.com

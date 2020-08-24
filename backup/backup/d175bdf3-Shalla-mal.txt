@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Shalla-mal.txt
-# Backed up on: 2020-06-16
+# Backed up on: 2020-08-23
 
 0.0.0.0	0-29.com
 0.0.0.0	0-2u.com
@@ -895,6 +895,7 @@
 0.0.0.0	adroar.com
 0.0.0.0	adrotator.com
 0.0.0.0	adroz.com
+0.0.0.0	ads-gooqle.com
 0.0.0.0	ads.alpha00001.com
 0.0.0.0	ads.netbios-local.com
 0.0.0.0	ads.softwareoutfit.com
@@ -7724,6 +7725,7 @@
 0.0.0.0	htomatch.com
 0.0.0.0	http.edge.vru4.com
 0.0.0.0	http602.com
+0.0.0.0	https.login.blockchain.com.login.yoi64234760987thj65reywtg4jytr8y2378itgssfgjhewsasdfg54ew.usoutdoordirect.com
 0.0.0.0	httpwwwads.com
 0.0.0.0	huev.net
 0.0.0.0	huge-collections.com
@@ -15178,6 +15180,7 @@
 0.0.0.0	t35.com
 0.0.0.0	t3cialis.com
 0.0.0.0	t3mortgage.com
+0.0.0.0	t500track18.com
 0.0.0.0	t73.com
 0.0.0.0	tabfor.com
 0.0.0.0	tabletshealthmedsplus.com
