@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2020-08-23
+# Backed up on: 2020-09-06
 
 0.0.0.0	1-cl0ud.com
 0.0.0.0	1-creative-1.com
@@ -345,6 +345,7 @@
 0.0.0.0	alicili.org
 0.0.0.0	aliunicorn.com
 0.0.0.0	alnisrgroup.com
+0.0.0.0	alooma.com
 0.0.0.0	altabold1.com
 0.0.0.0	altitude-arena.com
 0.0.0.0	altmetric.com
@@ -1460,6 +1461,8 @@
 0.0.0.0	k-analytix.com
 0.0.0.0	kaloo.ga
 0.0.0.0	kalooga.com
+0.0.0.0	kameleoon.com
+0.0.0.0	kameleoon.eu
 0.0.0.0	kampyle.com
 0.0.0.0	kargo.com
 0.0.0.0	kastatic.com
@@ -1541,6 +1544,7 @@
 0.0.0.0	log.quora.com
 0.0.0.0	log.spotify.com
 0.0.0.0	log.video.taobao.com
+0.0.0.0	log.zoom.us
 0.0.0.0	logger.dailymotion.com
 0.0.0.0	logger.foxitcloud.com
 0.0.0.0	logger.unsplash.com
@@ -13040,6 +13044,7 @@
 0.0.0.0	stats.qnapclub.eu
 0.0.0.0	stats.redditmedia.com
 0.0.0.0	stats.royalbank.com
+0.0.0.0	stats.ryzeo.com
 0.0.0.0	stats.searchanise.com
 0.0.0.0	stats.unity3d.com
 0.0.0.0	stats.videodelivery.net

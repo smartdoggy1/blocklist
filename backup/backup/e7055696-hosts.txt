@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2020-08-23
+# Backed up on: 2020-09-06
 
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10402.engine.mobileapptracking.com
@@ -1267,6 +1267,7 @@
 0.0.0.0	ads.jianchiapp.com
 0.0.0.0	ads.justpremium.com
 0.0.0.0	ads.kontextua.com
+0.0.0.0	ads.latinongroup.com
 0.0.0.0	ads.lfstmedia.com
 0.0.0.0	ads.linkedin.com
 0.0.0.0	ads.localytics.com
@@ -1471,6 +1472,7 @@
 0.0.0.0	adservex.media.net
 0.0.0.0	adservice.google.com
 0.0.0.0	adservice.google.com.tr
+0.0.0.0	adservice.google.com.ua
 0.0.0.0	adservice.google.com.vn
 0.0.0.0	adservice.google.de
 0.0.0.0	adservice.google.ie

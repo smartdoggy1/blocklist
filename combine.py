@@ -14,14 +14,23 @@ combined_hosts_sources_dir = 'sources'
 backup_hosts_sources = os.path.join('backup', 'sources.txt')
 backup_hosts_destination_dir = os.path.join('backup', 'backup')
 whitelist = 'whitelist'
+hash_length = 8
 
-parser = argparse.ArgumentParser()
-parser.add_argument('-b', '--backup', action='store_true', help=f'Backup all lists listed in {backup_hosts_sources} to {backup_hosts_destination_dir}.')
-parser.add_argument('-c', '--combine', action='store_true', help=f'Combine all files from {combined_hosts_sources_dir} to {combined_hosts}.')
-parser.add_argument('-e', '--everything', action='store_true', help=f'When used with -c, include {backup_hosts_destination_dir} and store to {combined_everything_hosts}.')
-parser.add_argument('-k', '--keep-old', action='store_true', help=f'When backing up, keep old domains that were removed in the newest version.')
-parser.add_argument('-i', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
+parser = argparse.ArgumentParser(description='Allows the retrieval (--backup) of hosts files, and then merging all of the hosts files (--combine) to one single host file.')
+backup_group = parser.add_argument_group('Backup-only Options')
+combine_group = parser.add_argument_group('Combine-only Options')
+backup_group.add_argument('-b', '--backup', action='store_true', help=f'Downloads all lists found in {backup_hosts_sources}, and store as a file in the directory {backup_hosts_destination_dir}.')
+backup_group.add_argument('-k', '--keep-old', action='store_true', help=f'When using -b, keep old domains that were removed in the newest version.')
+backup_group.add_argument('-s', '--select', nargs='+', help=f'When using -b, specify which 8-character hash(es) to back up (will check hashes against {backup_hosts_sources}).')
+combine_group.add_argument('-c', '--combine', action='store_true', help=f'Combine all files from {combined_hosts_sources_dir} to {combined_hosts}.')
+combine_group.add_argument('-e', '--everything', action='store_true', help=f'When used with -c, include {backup_hosts_destination_dir} and store to {combined_everything_hosts}.')
+combine_group.add_argument('-i', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
 args = parser.parse_args()
+if args.select:
+    for _hash in args.select:
+        if len(_hash) != hash_length:
+            print(f'Error - given hash ({_hash}) must be of length {hash_length}')
+            exit()
 
 # blacklist these from being blacklisted
 blacklist = {b'localhost', b'localhost.localdomain', b'broadcasthost', b'local'}
@@ -58,28 +67,38 @@ def load_file_to_set(opened_hostfile, data):
 
 def backup():
     with open(backup_hosts_sources) as f:
-        lines = {line for line in f}
-    longest = len(max(lines, key=len))
-    for i, line in enumerate(sorted(lines)):
-        line = line.strip()
-        if not line:
+        # sources is a dict of {hash: url}
+        sources = {hashlib.sha256(line.strip().encode()).hexdigest()[:hash_length]: line.strip() for line in f}
+    if args.select:
+        sources = {_hash: url for _hash, url in sources.items() if _hash in args.select}
+    if len(sources) == 0:
+        if args.select:
+            print(f'Warning - no hashes matched when using --select')
+        else:
+            print(f"Warning - check {backup_hosts_sources} to make sure it's not empty")
+        return
+    longest = len(max(sources.values(), key=len))
+    # sort by url
+    for i, _ in enumerate(sorted(sources.items(), key=lambda _tuple: _tuple[1])):
+        _hash, url = _
+        if not url:
             continue
-        print(f'{i:2d} - {line:{longest}} - ', end='', flush=True)
+        print(f'{i:2d} - {url:{longest}} - ', end='', flush=True)
         try:
-            r = requests.get(line, stream=True, headers={
+            r = requests.get(url, stream=True, headers={
                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36'})
         except requests.exceptions.ConnectionError:
             print('offline')
             return
         r.raw.decode_content = True
-        filepath = os.path.join(backup_hosts_destination_dir, f'{hashlib.sha256(line.encode()).hexdigest()[:8]}-{os.path.basename(urllib.parse.urlparse(line).path)}')
+        filepath = os.path.join(backup_hosts_destination_dir, f'{_hash}-{os.path.basename(urllib.parse.urlparse(url).path)}')
         # find differences
         old_data = set()
         new_data = set()
         if os.path.exists(filepath):
             with open(filepath, 'rb') as f:
                 load_file_to_set(f, old_data)
-        c = load_file_to_set(io.BytesIO(r.content), new_data)
+        load_file_to_set(io.BytesIO(r.content), new_data)
         if args.keep_old:
             if len(new_data - old_data) == 0:
                 print('nothing changed, skipping.')
@@ -89,9 +108,10 @@ def backup():
             print('nothing changed, skipping.')
             continue
         with open(filepath, 'wb') as f:
-            f.write(f'# {line}\n# Backed up on: {datetime.datetime.now().strftime("%Y-%m-%d")}\n\n'.encode())
+            f.write(f'# {url}\n# Backed up on: {datetime.datetime.now().strftime("%Y-%m-%d")}\n\n'.encode())
             f.write(b'\n'.join(sorted(new_data)))
-        print(f'wrote {len(new_data)}/{c} lines.')
+        removed = len(old_data - new_data)
+        print(f'wrote {len(new_data):,} lines ({len(new_data - old_data):+,d}{f", -{removed:,}" if removed else ""}).')
 
 
 def store_hosts(data, source_dir):
@@ -123,7 +143,7 @@ def combine():
         print(f'Whitelisted {apply_whitelist(data)} entries.')
     with open(fname, 'wb') as f:
         f.write(b'\n'.join(sorted(data)))
-    print(f'Written {len(data)}/{c} lines to {fname}.')
+    print(f'Written {len(data):,}/{c:,} lines to {fname}.')
 
 
 def main():

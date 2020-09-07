@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2020-08-23
+# Backed up on: 2020-09-06
 
 0.0.0.0	0sbm.consobaby.co.uk
 0.0.0.0	0x1f4b0.com
@@ -19,6 +19,7 @@
 0.0.0.0	a.o2u.jp
 0.0.0.0	a.tovarro.com
 0.0.0.0	a2-eng.spankbang.com
+0.0.0.0	a2x-eng.spankbang.com
 0.0.0.0	a8ht.hipp.fr
 0.0.0.0	aa.avvo.com
 0.0.0.0	aax-eu-dub.amazon.com
@@ -250,6 +251,7 @@
 0.0.0.0	analytics.valiuz.com
 0.0.0.0	analytics.vanillaforums.com
 0.0.0.0	analytics.vendemore.com
+0.0.0.0	analytics.video.meredithcorp.io
 0.0.0.0	analytics.webgains.io
 0.0.0.0	analytics.websolute.it
 0.0.0.0	analytics.wildtangent.com
@@ -319,6 +321,7 @@
 0.0.0.0	azg1.emalu-store.com
 0.0.0.0	b-aws.aol.com
 0.0.0.0	b.bedop.com
+0.0.0.0	b.gemini.yahoo.com
 0.0.0.0	b.imwx.com
 0.0.0.0	b.myspace.com
 0.0.0.0	bab.frb.io
@@ -412,6 +415,7 @@
 0.0.0.0	bright.bncnt.com
 0.0.0.0	bromsgroveadvertiser-gb.bromsgroveadvertiser.co.uk
 0.0.0.0	browser-updater.yandex.net
+0.0.0.0	browser.sentry-cdn.com
 0.0.0.0	bs.yandex.ru
 0.0.0.0	bt.mediaimpact.de
 0.0.0.0	btn.clickability.com
@@ -501,6 +505,7 @@
 0.0.0.0	clicks.hurriyet.com.tr
 0.0.0.0	clicks.traffictrader.net
 0.0.0.0	clicktale.pantherssl.com
+0.0.0.0	clicktime.symantec.com
 0.0.0.0	clicktracker.iscan.nl
 0.0.0.0	client-analytics.braintreegateway.com
 0.0.0.0	client-event-reporter.twitch.tv
@@ -779,6 +784,7 @@
 0.0.0.0	data.circulate.com
 0.0.0.0	data.econa.com
 0.0.0.0	data.glamour.ru
+0.0.0.0	data.mail.yahoo.com
 0.0.0.0	data.mic.com
 0.0.0.0	data.minute.ly
 0.0.0.0	data.queryly.com
@@ -800,6 +806,7 @@
 0.0.0.0	debug-vp.webmd.com
 0.0.0.0	deepknow.egoid.me
 0.0.0.0	dejavu.mercadolivre.com.br
+0.0.0.0	deliver.oztam.com.au
 0.0.0.0	deliver.ptgncdn.com
 0.0.0.0	desa.fkapi.net
 0.0.0.0	desb.fkapi.net
@@ -1011,6 +1018,7 @@
 0.0.0.0	evnt.iol.it
 0.0.0.0	evt.izooto.com
 0.0.0.0	exd4.destinia.com.au
+0.0.0.0	execution-ci360.rai.it
 0.0.0.0	expbl2ro.xbox.com
 0.0.0.0	expdb2.msn.com
 0.0.0.0	experience.contextly.com
@@ -1294,6 +1302,7 @@
 0.0.0.0	log.cizion.com
 0.0.0.0	log.codemarketing.cloud
 0.0.0.0	log.ecgh.dk
+0.0.0.0	log.etoday.co.kr
 0.0.0.0	log.f-tra.com
 0.0.0.0	log.flight.qunar.com
 0.0.0.0	log.go.com
@@ -1324,6 +1333,7 @@
 0.0.0.0	log.suumo.jp
 0.0.0.0	log.sv.pandora.tv
 0.0.0.0	log.tagtic.cn
+0.0.0.0	log.targetpush.co.kr
 0.0.0.0	log.ttbc-hcm.gov.vn
 0.0.0.0	log.wat.tv
 0.0.0.0	log.webnovel.com
@@ -1467,6 +1477,7 @@
 0.0.0.0	mms.splinternews.com
 0.0.0.0	mms.syracuse.com
 0.0.0.0	mms.theroot.com
+0.0.0.0	mms.wwe.com
 0.0.0.0	mo.moonpig.com
 0.0.0.0	montblanc.lenta.ru
 0.0.0.0	montblanc.rambler.ru
@@ -1500,6 +1511,7 @@
 0.0.0.0	nm.newegg.com
 0.0.0.0	nmtracking.netflix.com
 0.0.0.0	noa0.compteczam.fr
+0.0.0.0	noflake-aggregator-http.narvar.com
 0.0.0.0	nol.yahoo.com
 0.0.0.0	northwichguardian-gb.northwichguardian.co.uk
 0.0.0.0	nova.dice.net
@@ -1582,6 +1594,7 @@
 0.0.0.0	phar.gu-web.net
 0.0.0.0	phoenix.untd.com
 0.0.0.0	pi.feedsportal.com
+0.0.0.0	pi.ispot.tv
 0.0.0.0	pi.technik3d.com
 0.0.0.0	ping-dot-acp-magento.appspot.com
 0.0.0.0	ping.dozuki.com
@@ -1681,6 +1694,7 @@
 0.0.0.0	pub.sheknows.com
 0.0.0.0	pv.hd.sohu.com
 0.0.0.0	pv.ltn.com.tw
+0.0.0.0	pv.pjtsu.com
 0.0.0.0	pv.sohu.com
 0.0.0.0	pv.udn.com
 0.0.0.0	pv.xcar.com.cn
@@ -2125,6 +2139,7 @@
 0.0.0.0	stats.ozwebsites.biz
 0.0.0.0	stats.pandora.com
 0.0.0.0	stats.paste2.org
+0.0.0.0	stats.phoenix-widget.com
 0.0.0.0	stats.piaggio.com
 0.0.0.0	stats.polldaddy.com
 0.0.0.0	stats.proff.no
@@ -2143,6 +2158,7 @@
 0.0.0.0	stats.smartclip.net
 0.0.0.0	stats.someecards.com
 0.0.0.0	stats.splinder.com
+0.0.0.0	stats.stylight.it
 0.0.0.0	stats.tazeros.com
 0.0.0.0	stats.technopia.it
 0.0.0.0	stats.teledyski.info
@@ -2657,11 +2673,15 @@
 0.0.0.0	ts.rtl.de
 0.0.0.0	ts.tradetracker.net
 0.0.0.0	tsj0.madeindesign.com
+0.0.0.0	ttauri.bikeperfect.com
 0.0.0.0	ttauri.creativebloq.com
 0.0.0.0	ttauri.laptopmag.com
 0.0.0.0	ttauri.livescience.com
 0.0.0.0	ttauri.loudersound.com
+0.0.0.0	ttauri.musicradar.com
+0.0.0.0	ttauri.nexttv.com
 0.0.0.0	ttauri.space.com
+0.0.0.0	ttauri.t3.com
 0.0.0.0	ttauri.tomsguide.com
 0.0.0.0	ttauri.tomshardware.com
 0.0.0.0	ttauri.whathifi.com
@@ -2724,6 +2744,7 @@
 0.0.0.0	videostat-new.index.hu
 0.0.0.0	videostat.index.hu
 0.0.0.0	videotracker.washingtonpost.com
+0.0.0.0	views.cancan.ro
 0.0.0.0	visit.asb.co.nz
 0.0.0.0	visit.dealspwn.com
 0.0.0.0	visit.geocities.com

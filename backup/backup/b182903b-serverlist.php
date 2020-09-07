@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-08-23
+# Backed up on: 2020-09-06
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -168,6 +168,7 @@
 0.0.0.0	ad.simflight.com
 0.0.0.0	ad.simgames.net
 0.0.0.0	ad.smartclip.net
+0.0.0.0	ad.style
 0.0.0.0	ad.tapthislink.com
 0.0.0.0	ad.tbn.ru
 0.0.0.0	ad.technoratimedia.com
@@ -384,6 +385,7 @@
 0.0.0.0	ads.365.mk
 0.0.0.0	ads.4tube.com
 0.0.0.0	ads.5ci.lt
+0.0.0.0	ads.5min.at
 0.0.0.0	ads.73dpi.com
 0.0.0.0	ads.aavv.com
 0.0.0.0	ads.abovetopsecret.com
@@ -402,9 +404,11 @@
 0.0.0.0	ads.adverline.com
 0.0.0.0	ads.affiliates-spinit.com
 0.0.0.0	ads.affiliates.match.com
+0.0.0.0	ads.alive.com
 0.0.0.0	ads.alt.com
 0.0.0.0	ads.amdmb.com
 0.0.0.0	ads.amigos.com
+0.0.0.0	ads.annabac.com
 0.0.0.0	ads.aol.co.uk
 0.0.0.0	ads.apn.co.nz
 0.0.0.0	ads.appsgeyser.com
@@ -415,6 +419,7 @@
 0.0.0.0	ads.ask.com
 0.0.0.0	ads.aspalliance.com
 0.0.0.0	ads.avazu.net
+0.0.0.0	ads.bb59.ru
 0.0.0.0	ads.belointeractive.com
 0.0.0.0	ads.betfair.com
 0.0.0.0	ads.bigchurch.com
@@ -442,6 +447,7 @@
 0.0.0.0	ads.centraliprom.com
 0.0.0.0	ads.channel4.com
 0.0.0.0	ads.cheabit.com
+0.0.0.0	ads.citymagazine.si
 0.0.0.0	ads.clasificadox.com
 0.0.0.0	ads.clearchannel.com
 0.0.0.0	ads.co.com
@@ -745,6 +751,7 @@
 0.0.0.0	ads.yourfreedvds.com
 0.0.0.0	ads.youtube.com
 0.0.0.0	ads.zdnet.com
+0.0.0.0	ads.zmarsa.com
 0.0.0.0	ads.ztod.com
 0.0.0.0	ads1-adnow.com
 0.0.0.0	ads1.canoe.ca
@@ -873,6 +880,7 @@
 0.0.0.0	adsfac.eu
 0.0.0.0	adsfac.net
 0.0.0.0	adsfac.us
+0.0.0.0	adsfeed.brabys.com
 0.0.0.0	adside.com
 0.0.0.0	adsiduous.com
 0.0.0.0	adskeeper.co.uk
@@ -1140,6 +1148,7 @@
 0.0.0.0	avenuea.com
 0.0.0.0	avocet.io
 0.0.0.0	avpa.javalobby.org
+0.0.0.0	awakebird.com
 0.0.0.0	awempire.com
 0.0.0.0	awin1.com
 0.0.0.0	awzbijw.com
@@ -1915,6 +1924,7 @@
 0.0.0.0	guardedschool.com
 0.0.0.0	gunggo.com
 0.0.0.0	h-bid.com
+0.0.0.0	h0.t.hubspotemail.net
 0.0.0.0	h3btqpy2abc3.com
 0.0.0.0	h78xb.pw
 0.0.0.0	h92zbpn4zcv1.com
@@ -2449,6 +2459,7 @@
 0.0.0.0	newnudecash.com
 0.0.0.0	newopenx.detik.com
 0.0.0.0	newsadsppush.com
+0.0.0.0	newsletter-link.com
 0.0.0.0	newstarads.com
 0.0.0.0	newt1.adultadworld.com
 0.0.0.0	newt1.adultworld.com
@@ -2524,8 +2535,12 @@
 0.0.0.0	opentag-stats.qubit.com
 0.0.0.0	openx.actvtech.com
 0.0.0.0	openx.angelsgroup.org.uk
+0.0.0.0	openx.aosis.co.za
 0.0.0.0	openx.cairo360.com
+0.0.0.0	openx.kgmedia.eu
+0.0.0.0	openx.skinet.cz
 0.0.0.0	openx.smcaen.fr
+0.0.0.0	openx2.kytary.cz
 0.0.0.0	operationkettle.com
 0.0.0.0	opienetwork.com
 0.0.0.0	opmnstr.com
@@ -2632,6 +2647,7 @@
 0.0.0.0	playmobileads.com
 0.0.0.0	pleasantpump.com
 0.0.0.0	plista.com
+0.0.0.0	plotrabbit.com
 0.0.0.0	plugrush.com
 0.0.0.0	pocketmath.com
 0.0.0.0	pointroll.com
@@ -3095,6 +3111,7 @@
 0.0.0.0	steadfastsystem.com
 0.0.0.0	steelhouse.com
 0.0.0.0	steelhousemedia.com
+0.0.0.0	stepplane.com
 0.0.0.0	stickssheep.com
 0.0.0.0	stickyadstv.com
 0.0.0.0	storesurprise.com

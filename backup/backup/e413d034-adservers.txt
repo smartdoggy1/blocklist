@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Backed up on: 2020-06-07
+# Backed up on: 2020-09-06
 
 0.0.0.0	0.fls.doubleclick.net
 0.0.0.0	0001-cab8-4c8c-43de.reporo.net
@@ -24137,6 +24137,7 @@
 0.0.0.0	lc.news-subscribe.com
 0.0.0.0	lc9ss.voluumtrk.com
 0.0.0.0	lcads.offerstrack.net
+0.0.0.0	lcdn.runative-syndicate.com
 0.0.0.0	lcsc.co1.qualtrics.com
 0.0.0.0	lct-fast.addthis.com
 0.0.0.0	lct.addthis.com

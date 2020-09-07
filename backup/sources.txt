@@ -30,4 +30,3 @@ https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
-
