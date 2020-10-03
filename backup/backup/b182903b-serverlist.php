@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-09-06
+# Backed up on: 2020-10-03
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -36,6 +36,7 @@
 0.0.0.0	7search.com
 0.0.0.0	82o9v830.com
 0.0.0.0	Adsatt.go.starwave.com
+0.0.0.0	a-ads.com
 0.0.0.0	a.aproductmsg.com
 0.0.0.0	a.consumer.net
 0.0.0.0	a.mktw.net
@@ -947,6 +948,7 @@
 0.0.0.0	adv.freeonline.it
 0.0.0.0	adv.hwupgrade.it
 0.0.0.0	adv.livedoor.com
+0.0.0.0	adv.mezon.ru
 0.0.0.0	adv.nexthardware.com
 0.0.0.0	adv.webmd.com
 0.0.0.0	adv.wp.pl
@@ -1173,6 +1175,7 @@
 0.0.0.0	banner.easyspace.com
 0.0.0.0	banner.elisa.net
 0.0.0.0	banner.eurogrand.com
+0.0.0.0	banner.finzoom.ro
 0.0.0.0	banner.goldenpalace.com
 0.0.0.0	banner.grandefm.com.br
 0.0.0.0	banner.icmedia.eu
@@ -1205,6 +1208,7 @@
 0.0.0.0	bannerimage.com
 0.0.0.0	bannerlandia.com.ar
 0.0.0.0	bannermall.com
+0.0.0.0	bannermanager.bnr.bg
 0.0.0.0	bannermarkt.nl
 0.0.0.0	bannerpower.com
 0.0.0.0	banners.adultfriendfinder.com
@@ -1313,6 +1317,7 @@
 0.0.0.0	bm.annonce.cz
 0.0.0.0	bn.bfast.com
 0.0.0.0	bnnrrv.qontentum.de
+0.0.0.0	bnrs.ilm.ee
 0.0.0.0	boersego-ads.de
 0.0.0.0	boffoadsapi.com
 0.0.0.0	boilingbeetle.com
@@ -1379,6 +1384,8 @@
 0.0.0.0	cashengines.com
 0.0.0.0	cashfiesta.com
 0.0.0.0	cashpartner.com
+0.0.0.0	cashstaging.app
+0.0.0.0	cashstaging.me
 0.0.0.0	casinopays.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
@@ -1425,6 +1432,7 @@
 0.0.0.0	clearcomb.com
 0.0.0.0	clevernt.com
 0.0.0.0	click.a-ads.com
+0.0.0.0	click.email.sonos.com
 0.0.0.0	click.fool.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click.negociosdigitaisnapratica.com.br
@@ -1725,6 +1733,7 @@
 0.0.0.0	engagebdr.com
 0.0.0.0	engine.espace.netavenir.com
 0.0.0.0	enginenetwork.com
+0.0.0.0	enormousearth.com
 0.0.0.0	enquisite.com
 0.0.0.0	ensighten.com
 0.0.0.0	entercasino.com
@@ -1864,6 +1873,7 @@
 0.0.0.0	fusionquest.com
 0.0.0.0	futuristicapparatus.com
 0.0.0.0	futuristicfairies.com
+0.0.0.0	fuzzybasketball.com
 0.0.0.0	fuzzyflavor.com
 0.0.0.0	fuzzyweather.com
 0.0.0.0	fxstyle.net
@@ -2112,6 +2122,7 @@
 0.0.0.0	itsptp.com
 0.0.0.0	ivwbox.de
 0.0.0.0	ivykiosk.com
+0.0.0.0	iyfnzgb.com
 0.0.0.0	j93557g.com
 0.0.0.0	jadeitite.com
 0.0.0.0	jaizouji.com
@@ -2233,7 +2244,10 @@
 0.0.0.0	log.logrocket.io
 0.0.0.0	log.pinterest.com
 0.0.0.0	logger.snackly.co
+0.0.0.0	logs.datadoghq.com
+0.0.0.0	logs.datadoghq.eu
 0.0.0.0	logs.roku.com
+0.0.0.0	logs.spilgames.com
 0.0.0.0	logsss.com
 0.0.0.0	logua.com
 0.0.0.0	longinglettuce.com
@@ -2373,6 +2387,7 @@
 0.0.0.0	moatpixel.com
 0.0.0.0	mobclix.com
 0.0.0.0	mobfox.com
+0.0.0.0	mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0	mobilefuse.com
 0.0.0.0	mobileiconnect.com
 0.0.0.0	mobperads.net
@@ -2485,6 +2500,7 @@
 0.0.0.0	nuttyorganization.com
 0.0.0.0	nzaza.com
 0.0.0.0	o0bc.com
+0.0.0.0	o333o.com
 0.0.0.0	oafishobservation.com
 0.0.0.0	oas.benchmark.fr
 0.0.0.0	oas.repubblica.it
@@ -2499,6 +2515,7 @@
 0.0.0.0	obscenesidewalk.com
 0.0.0.0	observantice.com
 0.0.0.0	oclasrv.com
+0.0.0.0	odbierz-bony.ovp.pl
 0.0.0.0	oewa.at
 0.0.0.0	offaces-butional.com
 0.0.0.0	offer.fyber.com
@@ -3173,6 +3190,7 @@
 0.0.0.0	tapjoy.com
 0.0.0.0	tappx.com
 0.0.0.0	targad.de
+0.0.0.0	target.microsoft.com
 0.0.0.0	targeting.nzme.arcpublishing.com
 0.0.0.0	targetingnow.com
 0.0.0.0	targetnet.com
@@ -3221,6 +3239,7 @@
 0.0.0.0	ticklesign.com
 0.0.0.0	ticksel.com
 0.0.0.0	tidaltv.com
+0.0.0.0	tidint.pro
 0.0.0.0	tinybar.com
 0.0.0.0	tkbo.com
 0.0.0.0	tls.telemetry.swe.quicinc.com

@@ -21,7 +21,7 @@ backup_group = parser.add_argument_group('Backup-only Options')
 combine_group = parser.add_argument_group('Combine-only Options')
 backup_group.add_argument('-b', '--backup', action='store_true', help=f'Downloads all lists found in {backup_hosts_sources}, and store as a file in the directory {backup_hosts_destination_dir}.')
 backup_group.add_argument('-k', '--keep-old', action='store_true', help=f'When using -b, keep old domains that were removed in the newest version.')
-backup_group.add_argument('-s', '--select', nargs='+', help=f'When using -b, specify which 8-character hash(es) to back up (will check hashes against {backup_hosts_sources}).')
+backup_group.add_argument('-s', '--select', nargs='+', help=f'When using -b, specify which {hash_length}-character hash(es) to back up (will check hashes against {backup_hosts_sources}).')
 combine_group.add_argument('-c', '--combine', action='store_true', help=f'Combine all files from {combined_hosts_sources_dir} to {combined_hosts}.')
 combine_group.add_argument('-e', '--everything', action='store_true', help=f'When used with -c, include {backup_hosts_destination_dir} and store to {combined_everything_hosts}.')
 combine_group.add_argument('-i', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
@@ -89,7 +89,7 @@ def backup():
                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36'})
         except requests.exceptions.ConnectionError:
             print('offline')
-            return
+            continue
         r.raw.decode_content = True
         filepath = os.path.join(backup_hosts_destination_dir, f'{_hash}-{os.path.basename(urllib.parse.urlparse(url).path)}')
         # find differences

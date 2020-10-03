@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2020-07-22
+# Backed up on: 2020-10-03
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -14,6 +14,7 @@
 0.0.0.0	ad.samsungadhub.com
 0.0.0.0	ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 0.0.0.0	ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+0.0.0.0	ads.aimitv.com
 0.0.0.0	ads.samsungads.com
 0.0.0.0	adv.ettoday.net
 0.0.0.0	advertising.com
@@ -28,6 +29,7 @@
 0.0.0.0	api.nfl.com
 0.0.0.0	api.us.hismarttv.com
 0.0.0.0	apu.samsungelectronics.com
+0.0.0.0	austin.logs.roku.com
 0.0.0.0	auth-em.hismarttv.com
 0.0.0.0	auth-launcher-em.hismarttv.com
 0.0.0.0	avpro.global.yamaha.com
@@ -42,6 +44,7 @@
 0.0.0.0	cdn.smartclip.net
 0.0.0.0	cdns-content.dzcdn.net
 0.0.0.0	cert-test.sandbox.google.com
+0.0.0.0	cloud.arqiva.tv
 0.0.0.0	collect-eu-fy2014.myhomescreen.tv
 0.0.0.0	collect-eu-fy2015.myhomescreen.tv
 0.0.0.0	collect-eu-fy2016.myhomescreen.tv
@@ -61,6 +64,7 @@
 0.0.0.0	control-zoo-dtsprod.tvinteractive.tv
 0.0.0.0	control.tvinteractive.tv
 0.0.0.0	control2.tvinteractive.tv
+0.0.0.0	cooper.logs.roku.com
 0.0.0.0	cpu.samsungelectronics.com
 0.0.0.0	customerevents.netflix.com
 0.0.0.0	d179kwmlpc4o47.cloudfront.net
@@ -69,6 +73,7 @@
 0.0.0.0	d2tnx644ijgq6i.cloudfront.net
 0.0.0.0	d37ju0xanoz6gh.cloudfront.net
 0.0.0.0	d3mjsomixevyw7.cloudfront.net
+0.0.0.0	data.arqiva.tv
 0.0.0.0	database01p.anixe.net
 0.0.0.0	de.ioam.de
 0.0.0.0	dev-multiscreen.samsung.com
@@ -82,6 +87,7 @@
 0.0.0.0	flingo.tv
 0.0.0.0	foxtel-prod-events.digitalsmiths.net
 0.0.0.0	game.internetat.tv
+0.0.0.0	gamespromotion.samsungcloudsolution.com
 0.0.0.0	gld.samsungosp.com
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	gpm.samsungqbe.com
@@ -103,6 +109,7 @@
 0.0.0.0	kpu.samsungelectronics.com
 0.0.0.0	legacyportal.nettvservices.com
 0.0.0.0	lgad.cjpowercast.com.edgesuite.net
+0.0.0.0	liberty.logs.roku.com
 0.0.0.0	location-api.hdhomerun.com
 0.0.0.0	log-1.samsungacr.com
 0.0.0.0	log-2.samsungacr.com
@@ -149,6 +156,7 @@
 0.0.0.0	rwww.samsungotn.net
 0.0.0.0	samsungacr.com
 0.0.0.0	samsungadhub.com
+0.0.0.0	samsungads.com
 0.0.0.0	samsungcloudsolution.com
 0.0.0.0	samsungcloudsolution.net
 0.0.0.0	samsungelectronics.com
@@ -178,6 +186,7 @@
 0.0.0.0	tuner-api.hdhomerun.com
 0.0.0.0	tv-static.scdn.co
 0.0.0.0	tvmeta-dynamic.tvinteractive.tv
+0.0.0.0	tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 0.0.0.0	unified-ter-na.hismarttv.com
 0.0.0.0	update.biv.sony.tv
 0.0.0.0	upu.samsungelectronics.com
