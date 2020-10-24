@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracki
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 https://raw.githubusercontent.com/blocklistproject/Lists/master/drugs.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt

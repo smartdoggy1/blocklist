@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2020-09-06
+# Backed up on: 2020-10-24
 
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10402.engine.mobileapptracking.com
@@ -3095,6 +3095,7 @@
 0.0.0.0	beacon.riskified.com
 0.0.0.0	beacon.rubiconproject.com
 0.0.0.0	beacon.rum.dynapis.info
+0.0.0.0	beacon.s-onetag.com
 0.0.0.0	beacon.securestudies.com.edgekey.net
 0.0.0.0	beacon.shazam.com
 0.0.0.0	beacon.sina.com.cn
@@ -4227,6 +4228,7 @@
 0.0.0.0	configs.nixozz.com
 0.0.0.0	configuration.ttpsdk.info
 0.0.0.0	connatix-supply-partners.tremorhub.com
+0.0.0.0	connect-metrics-collector.s-onetag.com
 0.0.0.0	connect-testing.urbanairship.com
 0.0.0.0	connect.decknetwork.net
 0.0.0.0	connect.fullstory.com
@@ -5649,6 +5651,7 @@
 0.0.0.0	genieessp.com
 0.0.0.0	geo-content.otherlevels.com
 0.0.0.0	geo-locate.appspot.com
+0.0.0.0	geo-location.s-onetag.com
 0.0.0.0	geo-tracker.smadex.com
 0.0.0.0	geo.atlassbx.com
 0.0.0.0	geo.celtra.com
@@ -5677,6 +5680,7 @@
 0.0.0.0	geoworker.ayads.co
 0.0.0.0	german-linkindex.de
 0.0.0.0	geshopimg.logsss.com
+0.0.0.0	get.s-onetag.com
 0.0.0.0	getexceptional.com
 0.0.0.0	getwisdom.io
 0.0.0.0	gf.umenglog.com
@@ -8017,7 +8021,9 @@
 0.0.0.0	onepush.query.yahoo.com
 0.0.0.0	onesignal.com
 0.0.0.0	onespot-tracking.herokuapp.com
+0.0.0.0	onetag-geo-grouping.s-onetag.com
 0.0.0.0	onetag-geo.onscroll.com
+0.0.0.0	onetag-geo.s-onetag.com
 0.0.0.0	onetag-metrics-collector.onscroll.com
 0.0.0.0	onewaylinkexchange.net
 0.0.0.0	online-dn.com
@@ -9839,6 +9845,7 @@
 0.0.0.0	sift-campaign-creatives.s3.amazonaws.com
 0.0.0.0	sig.atdmt.com
 0.0.0.0	sightings.gimbal.com
+0.0.0.0	signal-metrics-collector-beta.s-onetag.com
 0.0.0.0	signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 0.0.0.0	signalad.go.affec.tv
 0.0.0.0	signalhq.com

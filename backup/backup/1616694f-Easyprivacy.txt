@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2020-10-03
+# Backed up on: 2020-10-24
 
 0.0.0.0	0sbm.consobaby.co.uk
 0.0.0.0	0x1f4b0.com
@@ -442,6 +442,7 @@
 0.0.0.0	c.mgid.com
 0.0.0.0	c.paypal.com
 0.0.0.0	c.perlentaucher.de
+0.0.0.0	c.sibnet.ru
 0.0.0.0	c.t-online.de
 0.0.0.0	c.wen.ru
 0.0.0.0	c.wort-suche.com
@@ -519,6 +520,7 @@
 0.0.0.0	clkstat.china.cn
 0.0.0.0	clkstat.qihoo.com
 0.0.0.0	clog.go.com
+0.0.0.0	clouderrorreporting.googleapis.com
 0.0.0.0	cloudfront-labs.amazonaws.com
 0.0.0.0	cls7.theushuaiaexperience.com
 0.0.0.0	clvk.viki.io
@@ -578,6 +580,7 @@
 0.0.0.0	collector.automote.co.nz
 0.0.0.0	collector.clareity.net
 0.0.0.0	collector.fiverr.com
+0.0.0.0	collector.getyourguide.com
 0.0.0.0	collector.githubapp.com
 0.0.0.0	collector.ksax.com
 0.0.0.0	collector.kstptv5.com
@@ -606,6 +609,7 @@
 0.0.0.0	contadores.bolsamania.com
 0.0.0.0	contadores.miarroba.com
 0.0.0.0	contadores.miarroba.es
+0.0.0.0	contents-tracking.beop.io
 0.0.0.0	conversions.genieventures.co.uk
 0.0.0.0	convsgmp.taboola.com
 0.0.0.0	cookies.livepartners.com
@@ -688,6 +692,7 @@
 0.0.0.0	csp-collector.appspot.com
 0.0.0.0	csp.archant.co.uk
 0.0.0.0	csr.onet.pl
+0.0.0.0	cstats.sankakucomplex.com
 0.0.0.0	ct.needlive.com
 0.0.0.0	ct.pinterest.com
 0.0.0.0	ct5m.citadium.com
@@ -798,6 +803,7 @@
 0.0.0.0	data.queryly.com
 0.0.0.0	data.reactandshare.com
 0.0.0.0	data.studybreakmedia.com
+0.0.0.0	data.woosmap.com
 0.0.0.0	data.younow.com
 0.0.0.0	datadog-service.mvfglobal.com
 0.0.0.0	dbex-tracker-v2.driveback.ru
@@ -875,6 +881,7 @@
 0.0.0.0	dxwgpw0lkcum5.cloudfront.net
 0.0.0.0	dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0	dymlo6ffhj97l.cloudfront.net
+0.0.0.0	dyv1bugovvq1g.cloudfront.net
 0.0.0.0	e77lmzbqou0n-a.akamaihd.net
 0.0.0.0	ea.auchantelecom.fr
 0.0.0.0	ea.aujourdhui.com
@@ -945,6 +952,7 @@
 0.0.0.0	encoding.ovh
 0.0.0.0	enfieldindependent-gb.enfieldindependent.co.uk
 0.0.0.0	engage-cdn.schibsted.media
+0.0.0.0	engagefront.meteomedia.com
 0.0.0.0	engagefront.theweathernetwork.com
 0.0.0.0	enlightenment.secureshoppingbasket.com
 0.0.0.0	ens.luzernerzeitung.ch
@@ -999,6 +1007,7 @@
 0.0.0.0	events.air.tv
 0.0.0.0	events.antenna.is
 0.0.0.0	events.apester.com
+0.0.0.0	events.attentivemobile.com
 0.0.0.0	events.avantisvideo.com
 0.0.0.0	events.brightline.tv
 0.0.0.0	events.chaordicsystems.com
@@ -1052,6 +1061,7 @@
 0.0.0.0	filament-stats.herokuapp.com
 0.0.0.0	filmoljupci.com
 0.0.0.0	fimg-resp.seznam.cz
+0.0.0.0	firebaselogging-pa.googleapis.com
 0.0.0.0	firebaselogging.googleapis.com
 0.0.0.0	fkrkkmxsqeb5bj9r.s3.amazonaws.com
 0.0.0.0	flashstats.libsyn.com
@@ -1095,6 +1105,8 @@
 0.0.0.0	g3763602365.co
 0.0.0.0	g3961686700.co
 0.0.0.0	g4159771035.co
+0.0.0.0	g4357855370.co
+0.0.0.0	g4555939705.co
 0.0.0.0	g4p.redtram.com
 0.0.0.0	ga-beacon.appspot.com
 0.0.0.0	ga.canoe.ca
@@ -1351,6 +1363,7 @@
 0.0.0.0	log.outbrain.com
 0.0.0.0	log.outbrainimg.com
 0.0.0.0	log.pinterest.com
+0.0.0.0	log.popin.cc
 0.0.0.0	log.prezi.com
 0.0.0.0	log.quora.com
 0.0.0.0	log.ren.tv
@@ -1411,6 +1424,7 @@
 0.0.0.0	lunametrics.wpengine.netdna-cdn.com
 0.0.0.0	m.lolvsdota.cn
 0.0.0.0	m.trb.com
+0.0.0.0	ma.redhat.com
 0.0.0.0	ma.register.it
 0.0.0.0	magnify360-cdn.s3.amazonaws.com
 0.0.0.0	make.cohesionapps.com
@@ -1683,6 +1697,7 @@
 0.0.0.0	pixel.reddit.com
 0.0.0.0	pixel.roymorgan.com
 0.0.0.0	pixel.s3xified.com
+0.0.0.0	pixel.safe-installation.com
 0.0.0.0	pixel.solvemedia.com
 0.0.0.0	pixel.spotify.com
 0.0.0.0	pixel.sprinklr.com
@@ -1808,6 +1823,7 @@
 0.0.0.0	risk.clearbit.com
 0.0.0.0	rl.heise.de
 0.0.0.0	rlinks.one.in
+0.0.0.0	rlog.popin.cc
 0.0.0.0	rndntpmgnj-a.akamaihd.net
 0.0.0.0	rok.com.com
 0.0.0.0	roll.bankofamerica.com
@@ -2037,6 +2053,7 @@
 0.0.0.0	ssc.api.bbc.com
 0.0.0.0	ssp.hinet.net
 0.0.0.0	ssp.rambler.ru
+0.0.0.0	ssr.streamrail.net
 0.0.0.0	ssrlot.lotoquebec.com
 0.0.0.0	sstats.mora.jp
 0.0.0.0	sstats.oui.sncf
@@ -2273,6 +2290,7 @@
 0.0.0.0	t.allmodern.com
 0.0.0.0	t.appsflyer.com
 0.0.0.0	t.av.st
+0.0.0.0	t.beop.io
 0.0.0.0	t.beopinion.com
 0.0.0.0	t.bimvid.com
 0.0.0.0	t.birchlane.com
@@ -2380,6 +2398,7 @@
 0.0.0.0	ted.dailymail.co.uk
 0.0.0.0	ted.metro.co.uk
 0.0.0.0	telegraph.api.hbo.com
+0.0.0.0	telemetry.art19.com
 0.0.0.0	telemetry.jivosite.com
 0.0.0.0	telemetry.reembed.com
 0.0.0.0	telemetry.soundcloud.com
@@ -2532,6 +2551,7 @@
 0.0.0.0	track2.mycliplister.com
 0.0.0.0	tracker-api.my.com
 0.0.0.0	tracker-id.cdiscount.com
+0.0.0.0	tracker.520call.me
 0.0.0.0	tracker.affiliate.iqoption.com
 0.0.0.0	tracker.affirm.com
 0.0.0.0	tracker.anandtech.com
@@ -2569,6 +2589,7 @@
 0.0.0.0	tracker.shopclues.com
 0.0.0.0	tracker.softcube.com
 0.0.0.0	tracker.stileo.it
+0.0.0.0	tracker.thinkermail.com
 0.0.0.0	tracker.thinkindot.com
 0.0.0.0	tracker.timesgroup.com
 0.0.0.0	tracker.tiu.ru
@@ -2617,6 +2638,7 @@
 0.0.0.0	tracking.hi-pi.com
 0.0.0.0	tracking.hrs.de
 0.0.0.0	tracking.hsn.com
+0.0.0.0	tracking.html5games.com
 0.0.0.0	tracking.jotform.com
 0.0.0.0	tracking.kdata.fr
 0.0.0.0	tracking.keywee.co
@@ -2733,6 +2755,7 @@
 0.0.0.0	ttauri.t3.com
 0.0.0.0	ttauri.tomsguide.com
 0.0.0.0	ttauri.tomshardware.com
+0.0.0.0	ttauri.toptenreviews.com
 0.0.0.0	ttauri.whathifi.com
 0.0.0.0	ttdetect.staticimgfarm.com
 0.0.0.0	tvl8.supdecreation.com
@@ -2749,6 +2772,7 @@
 0.0.0.0	uid.mavencoalition.io
 0.0.0.0	uie.data.cbc.ca
 0.0.0.0	uim.tifbs.net
+0.0.0.0	units.knotch.it
 0.0.0.0	uoldid.ru
 0.0.0.0	up.boston.com
 0.0.0.0	up.nytimes.com
@@ -2793,6 +2817,7 @@
 0.0.0.0	videoplayer2.xyz
 0.0.0.0	videostat-new.index.hu
 0.0.0.0	videostat.index.hu
+0.0.0.0	videostats.kakao.com
 0.0.0.0	videotracker.washingtonpost.com
 0.0.0.0	views.cancan.ro
 0.0.0.0	visit.asb.co.nz
@@ -2880,6 +2905,7 @@
 0.0.0.0	wsstats.coches.net
 0.0.0.0	wstat.wibiya.com
 0.0.0.0	wstats.e-wok.tv
+0.0.0.0	wstats.gameblog.fr
 0.0.0.0	wtk.db.com
 0.0.0.0	x.allabout.co.jp
 0.0.0.0	x.bloggurat.net

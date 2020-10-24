@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2020-10-03
+# Backed up on: 2020-10-24
 
 0.0.0.0	1-cl0ud.com
 0.0.0.0	1-creative-1.com
@@ -1422,6 +1422,7 @@
 0.0.0.0	intellectuk.info
 0.0.0.0	intelli-direct.com
 0.0.0.0	intelligencefocus.com
+0.0.0.0	intellimize.co
 0.0.0.0	intellitxt.com
 0.0.0.0	intenta.io
 0.0.0.0	intentiq.com
@@ -1513,6 +1514,7 @@
 0.0.0.0	lfstmedia.com
 0.0.0.0	lgsmartad.com
 0.0.0.0	liadm.com
+0.0.0.0	libertystmedia.com
 0.0.0.0	librato.com
 0.0.0.0	licasd.com
 0.0.0.0	liftdna.com
@@ -1555,6 +1557,7 @@
 0.0.0.0	logger.dailymotion.com
 0.0.0.0	logger.foxitcloud.com
 0.0.0.0	logger.unsplash.com
+0.0.0.0	logger.zcoup.com
 0.0.0.0	loggly.com
 0.0.0.0	loggly.net
 0.0.0.0	logmatic.io
@@ -12956,6 +12959,7 @@
 0.0.0.0	smartstream.tv
 0.0.0.0	smct.co
 0.0.0.0	smetrics.barclays.co.uk
+0.0.0.0	smetrics.bestbuy.com
 0.0.0.0	smetrics.cnn.com
 0.0.0.0	smetrics.corus.ca
 0.0.0.0	smetrics.elsevier.com
@@ -13032,6 +13036,7 @@
 0.0.0.0	startup.mobile.yandex.net
 0.0.0.0	stat.alibaba.com
 0.0.0.0	stat.dealtime.com
+0.0.0.0	stat.domainrecover.com
 0.0.0.0	stat.swedbank.se
 0.0.0.0	statcounter.com
 0.0.0.0	static.ads-twitter.com
@@ -13046,6 +13051,7 @@
 0.0.0.0	stats.iobit.com
 0.0.0.0	stats.jobs.bg
 0.0.0.0	stats.kaltura.com
+0.0.0.0	stats.kollective.app
 0.0.0.0	stats.l.doubleclick.net
 0.0.0.0	stats.merriam-webster.com
 0.0.0.0	stats.newsweek.com
@@ -13207,6 +13213,7 @@
 0.0.0.0	track.freecallinc.com
 0.0.0.0	track.ft.com
 0.0.0.0	track.juno.com
+0.0.0.0	track.ktplay.com
 0.0.0.0	track.lexico.com
 0.0.0.0	track.mypcbackup.com
 0.0.0.0	track.news.bg
@@ -13231,6 +13238,7 @@
 0.0.0.0	track.sublytics-5df8eec4bca66.com
 0.0.0.0	track.sublytics-5e0e3b928b4bd.com
 0.0.0.0	track.thesaurus.com
+0.0.0.0	track.toggl.com
 0.0.0.0	track.untd.com
 0.0.0.0	track.us.org
 0.0.0.0	track.wikibuy.com
@@ -13491,6 +13499,7 @@
 0.0.0.0	wwpxl.com
 0.0.0.0	wwwpromoter.com
 0.0.0.0	wywy.com
+0.0.0.0	x-mediate.com
 0.0.0.0	xclicks.net
 0.0.0.0	xct32.net
 0.0.0.0	xct33.net

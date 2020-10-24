@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-10-03
+# Backed up on: 2020-10-24
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -207,6 +207,7 @@
 0.0.0.0	ad4mat.com
 0.0.0.0	ad4mat.de
 0.0.0.0	ad4mat.net
+0.0.0.0	adabra.com
 0.0.0.0	adaction.de
 0.0.0.0	adadvisor.net
 0.0.0.0	adalliance.io
@@ -751,6 +752,7 @@
 0.0.0.0	ads.yldmgrimg.net
 0.0.0.0	ads.yourfreedvds.com
 0.0.0.0	ads.youtube.com
+0.0.0.0	ads.yumenetworks.com
 0.0.0.0	ads.zdnet.com
 0.0.0.0	ads.zmarsa.com
 0.0.0.0	ads.ztod.com
@@ -1338,6 +1340,7 @@
 0.0.0.0	braincash.com
 0.0.0.0	brand-display.com
 0.0.0.0	brandreachsys.com
+0.0.0.0	breaktime.com.tw
 0.0.0.0	brealtime.com
 0.0.0.0	bridgetrack.com
 0.0.0.0	brightcom.com
@@ -1467,6 +1470,7 @@
 0.0.0.0	clicktrade.com
 0.0.0.0	clickwith.bid
 0.0.0.0	clickxchange.com
+0.0.0.0	clickyab.com
 0.0.0.0	clickz.com
 0.0.0.0	clientmetrics-pa.googleapis.com
 0.0.0.0	clikerz.net
@@ -1665,6 +1669,7 @@
 0.0.0.0	doubleclick.de
 0.0.0.0	doubleclick.net
 0.0.0.0	doublepimp.com
+0.0.0.0	doubleverify.com
 0.0.0.0	doubtfulrainstorm.com
 0.0.0.0	downloadr.xyz
 0.0.0.0	dpbolvw.net
@@ -1915,6 +1920,7 @@
 0.0.0.0	googleadservices.com
 0.0.0.0	googleanalytics.com
 0.0.0.0	googlesyndication.com
+0.0.0.0	googletagmanager.com
 0.0.0.0	googletagservices.com
 0.0.0.0	gorgeousground.com
 0.0.0.0	gossipmiser.com
@@ -1923,6 +1929,7 @@
 0.0.0.0	gotraffic.net
 0.0.0.0	gp.dejanews.com
 0.0.0.0	gracefulsock.com
+0.0.0.0	graizoah.com
 0.0.0.0	grandioseguide.com
 0.0.0.0	grapeshot.co.uk
 0.0.0.0	greetzebra.com
@@ -2555,6 +2562,7 @@
 0.0.0.0	openx.aosis.co.za
 0.0.0.0	openx.cairo360.com
 0.0.0.0	openx.kgmedia.eu
+0.0.0.0	openx.net
 0.0.0.0	openx.skinet.cz
 0.0.0.0	openx.smcaen.fr
 0.0.0.0	openx2.kytary.cz
@@ -2944,6 +2952,7 @@
 0.0.0.0	sdcswingers.online
 0.0.0.0	sdkfjxjertertry.com
 0.0.0.0	seadform.net
+0.0.0.0	searching-place.com
 0.0.0.0	searchmarketing.com
 0.0.0.0	searchramp.com
 0.0.0.0	secretivecub.com
@@ -3399,6 +3408,7 @@
 0.0.0.0	ultraoranges.com
 0.0.0.0	unarmedindustry.com
 0.0.0.0	undertone.com
+0.0.0.0	universcine.com
 0.0.0.0	unknowntray.com
 0.0.0.0	unrulymedia.com
 0.0.0.0	untd.com

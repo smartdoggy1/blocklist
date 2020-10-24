@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2020-10-03
+# Backed up on: 2020-10-24
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -145,6 +145,7 @@
 0.0.0.0	p-hbbtv.superrtl.de
 0.0.0.0	pavv.co.kr
 0.0.0.0	pipeaota.com
+0.0.0.0	prderrordumphsm.samsungcloudsolution.com
 0.0.0.0	premium-videos.telly.com
 0.0.0.0	prov.samsungcloudsolution.com
 0.0.0.0	ravm.tv
