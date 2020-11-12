@@ -6,6 +6,7 @@ import os
 import re
 import requests
 import urllib.parse
+from string import whitespace
 
 
 combined_hosts = 'smartdoggy1_combined_hosts'
@@ -34,8 +35,9 @@ if args.select:
 
 # blacklist these from being blacklisted
 blacklist = {b'localhost', b'localhost.localdomain', b'broadcasthost', b'local'}
-keep_regex = re.compile(b'([^#*<>]*)(#.*)?$')
+keep_regex = re.compile(b'([^\#\*\<\>\:\/\\\{\}]*)(#.*)?$')
 ignore_regex = re.compile(b'([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})$')
+strip_chars = f'{whitespace}/'.encode()
 
 
 def load_file_to_set(opened_hostfile, data):
@@ -45,13 +47,13 @@ def load_file_to_set(opened_hostfile, data):
     c = 0
     for line in opened_hostfile:
         c += 1
-        line = line.strip()
+        line = line.strip(strip_chars)
         match = keep_regex.match(line)
         if match:
             line, comments = match.groups()
-            line = line.strip()
+            line = line.strip(strip_chars)
             # note: indexing a bytes object -> int
-            if line == b'':
+            if line == b'' or b'.' not in line:
                 continue
             elif line.startswith(b'127.0.0.1'):
                 line = b'0.0.0.0' + line[9:]
@@ -87,6 +89,10 @@ def backup():
         try:
             r = requests.get(url, stream=True, headers={
                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36'})
+            if r.status_code >= 400:
+                raise requests.exceptions.ConnectionError
+            elif r.status_code >= 300:
+                print(f'warning: got status code {r.status_code} - ', end='', flush=True)
         except requests.exceptions.ConnectionError:
             print('offline')
             continue

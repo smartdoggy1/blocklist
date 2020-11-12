@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2020-10-24
+# Backed up on: 2020-11-11
 
 0.0.0.0	1-cl0ud.com
 0.0.0.0	1-creative-1.com
@@ -11,6 +11,7 @@
 0.0.0.0	10cms.com
 0.0.0.0	123-tracker.com
 0.0.0.0	123count.com
+0.0.0.0	152media.com
 0.0.0.0	1orange-u.com
 0.0.0.0	1s3h4f7sl.com
 0.0.0.0	200summit.com
@@ -55,6 +56,8 @@
 0.0.0.0	950958.com
 0.0.0.0	9nl.com
 0.0.0.0	9nl.org
+0.0.0.0	9qovcur0guk3.com
+0.0.0.0	a-mo.net
 0.0.0.0	a.mobify.com
 0.0.0.0	a1webstats.com
 0.0.0.0	a2dfp.net
@@ -107,6 +110,7 @@
 0.0.0.0	adbutter.net
 0.0.0.0	adc-srv.net
 0.0.0.0	adcash.com
+0.0.0.0	adcashimg.xyz
 0.0.0.0	adcentriconline.com
 0.0.0.0	adclick.stuff.co.nz
 0.0.0.0	adclk.co
@@ -271,6 +275,7 @@
 0.0.0.0	adtoma.com
 0.0.0.0	adtomafusion.net
 0.0.0.0	adtopia.club
+0.0.0.0	adtracker.network
 0.0.0.0	adtrackir1.co.uk
 0.0.0.0	adtrue.com
 0.0.0.0	adtruth.com
@@ -416,6 +421,7 @@
 0.0.0.0	analytics.mercadolivre.com.br
 0.0.0.0	analytics.mercadopago.com
 0.0.0.0	analytics.mlstatic.com
+0.0.0.0	analytics.mobile.walmart.com
 0.0.0.0	analytics.motionarray.com
 0.0.0.0	analytics.nerdonthestreet.com
 0.0.0.0	analytics.nike.com
@@ -689,6 +695,7 @@
 0.0.0.0	ccmp.eu
 0.0.0.0	cdn-mxpnl.com
 0.0.0.0	cdn-net.com
+0.0.0.0	cdn4ads.com
 0.0.0.0	cdnh3.net
 0.0.0.0	cdxr53.com
 0.0.0.0	cedexis-radar.net
@@ -940,6 +947,7 @@
 0.0.0.0	deviceidshare.twitch.tv
 0.0.0.0	devnexus.net
 0.0.0.0	devnxs.net
+0.0.0.0	dexpredict.com
 0.0.0.0	diamondeal.click
 0.0.0.0	dianomi.com
 0.0.0.0	digidip.net
@@ -975,6 +983,7 @@
 0.0.0.0	domdex.com
 0.0.0.0	dotandad.com
 0.0.0.0	dotomi.com
+0.0.0.0	doubleclick.net
 0.0.0.0	doubleclickbygoogle.com
 0.0.0.0	doublepimp.com
 0.0.0.0	doublepimpssl.com
@@ -1377,6 +1386,11 @@
 0.0.0.0	img-taboola.com
 0.0.0.0	imgclick.net
 0.0.0.0	imiclk.com
+0.0.0.0	imitrk1.com
+0.0.0.0	imitrk2.com
+0.0.0.0	imitrk3.com
+0.0.0.0	imitrk4.com
+0.0.0.0	imitrk5.com
 0.0.0.0	impact-ad.com
 0.0.0.0	impact-ad.jp
 0.0.0.0	impact-ad.net
@@ -1390,6 +1404,7 @@
 0.0.0.0	improving.duckduckgo.com
 0.0.0.0	imrworldwide.com
 0.0.0.0	imshopping.com
+0.0.0.0	in-page-push.com
 0.0.0.0	in.mydirtyhobby.de
 0.0.0.0	incoming.telemetry.mozilla.org
 0.0.0.0	indexww.com
@@ -1434,6 +1449,7 @@
 0.0.0.0	invitemedia.com
 0.0.0.0	invoc.us
 0.0.0.0	ioam.de
+0.0.0.0	iotcplatform.com
 0.0.0.0	ipccdn.co.uk
 0.0.0.0	ipinfo.io
 0.0.0.0	ipredictive.com
@@ -1467,6 +1483,7 @@
 0.0.0.0	justuno.com
 0.0.0.0	jwpltx.com
 0.0.0.0	k-analytix.com
+0.0.0.0	kalay.net.cn
 0.0.0.0	kaloo.ga
 0.0.0.0	kalooga.com
 0.0.0.0	kameleoon.com
@@ -1485,7 +1502,10 @@
 0.0.0.0	kinaninglerophe.info
 0.0.0.0	kiosked.com
 0.0.0.0	kissmetrics.com
+0.0.0.0	klaviyo.com
+0.0.0.0	klclick1.com
 0.0.0.0	klick2contact.com
+0.0.0.0	kochava.com
 0.0.0.0	komoona.com
 0.0.0.0	kontera.com
 0.0.0.0	korrelate.net
@@ -1505,6 +1525,7 @@
 0.0.0.0	leadid.com
 0.0.0.0	leadid.net
 0.0.0.0	leadinfo.net
+0.0.0.0	leady.com
 0.0.0.0	leanplum.com
 0.0.0.0	legolas-media.com
 0.0.0.0	leiki.com
@@ -1586,6 +1607,7 @@
 0.0.0.0	madnxs.net
 0.0.0.0	magnetmail.net
 0.0.0.0	magreprints.com
+0.0.0.0	mahimeta.com
 0.0.0.0	mailadvertising.co.uk
 0.0.0.0	mailchimp.com
 0.0.0.0	mailerlite.com
@@ -12546,6 +12568,7 @@
 0.0.0.0	popcon.ubuntu.com
 0.0.0.0	popmonetize.com
 0.0.0.0	popmyads.com
+0.0.0.0	populationparts.com
 0.0.0.0	postrelease.com
 0.0.0.0	postroller.com
 0.0.0.0	postup.com
@@ -12626,6 +12649,7 @@
 0.0.0.0	qifann.com
 0.0.0.0	qingcdn.com
 0.0.0.0	qmerce.com
+0.0.0.0	qoe-1.yottaa.net
 0.0.0.0	qservz.com
 0.0.0.0	qualityoffers.info
 0.0.0.0	qualtrics.com
@@ -12661,6 +12685,7 @@
 0.0.0.0	realclever.com
 0.0.0.0	realmedia.com
 0.0.0.0	realsrv.com
+0.0.0.0	realtime-bid.com
 0.0.0.0	realtime.email
 0.0.0.0	realtimerelationship.com
 0.0.0.0	realytics.io
@@ -12700,6 +12725,7 @@
 0.0.0.0	revealytics.com
 0.0.0.0	revenue-tracker.com
 0.0.0.0	revenue.com
+0.0.0.0	revenuehit.xyz
 0.0.0.0	revenuehits.com
 0.0.0.0	revive.workmedia.pt
 0.0.0.0	revjet.com
@@ -12710,10 +12736,12 @@
 0.0.0.0	rhombusads.com
 0.0.0.0	rhtag.com
 0.0.0.0	rhythmxchange.com
+0.0.0.0	richaudience.com
 0.0.0.0	richmedia.cz
 0.0.0.0	richmetrics.com
 0.0.0.0	richrelevance.com
 0.0.0.0	rightmoveanalytics.co.uk
+0.0.0.0	rilelogicbuy.com
 0.0.0.0	ringringmedia.com
 0.0.0.0	rivne.space
 0.0.0.0	rkdms.com
@@ -12945,6 +12973,7 @@
 0.0.0.0	skiftmedia.pt
 0.0.0.0	skimresources.com
 0.0.0.0	skyhookwireless.com
+0.0.0.0	skyword.com
 0.0.0.0	sli-spark.com
 0.0.0.0	slimcutmedia.com
 0.0.0.0	smaato.com
@@ -13147,11 +13176,13 @@
 0.0.0.0	technorati.com
 0.0.0.0	technoratimedia.com
 0.0.0.0	techtarget.com
+0.0.0.0	tekblue.net
 0.0.0.0	telemetry-dce.gfe.nvidia.com
 0.0.0.0	telemetry-experiment.cdn.mozilla.net
 0.0.0.0	telemetry-in.battle.net
 0.0.0.0	telemetry.allrecipes.com
 0.0.0.0	telemetry.api.2kcoretech.online
+0.0.0.0	telemetry.api.playstation.com
 0.0.0.0	telemetry.api.swiftkey.com
 0.0.0.0	telemetry.art19.com
 0.0.0.0	telemetry.battle.net
@@ -13180,6 +13211,7 @@
 0.0.0.0	theresulter.com
 0.0.0.0	thescv.team
 0.0.0.0	thetacdn.net
+0.0.0.0	thisiswaldo.com
 0.0.0.0	thrillingos.herokuapp.com
 0.0.0.0	thrtle.com
 0.0.0.0	tidaltv.com
@@ -13290,6 +13322,8 @@
 0.0.0.0	trk.informationweek.com
 0.0.0.0	trk.justanswer.com
 0.0.0.0	trk.pinterest.com
+0.0.0.0	trk2.pinterest.com
+0.0.0.0	trkad.network
 0.0.0.0	trkme.net
 0.0.0.0	trkn.us
 0.0.0.0	tru.am

@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-10-24
+# Backed up on: 2020-11-11
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -51,6 +51,7 @@
 0.0.0.0	a.xanga.com
 0.0.0.0	a135.wftv.com
 0.0.0.0	a5.overclockers.ua
+0.0.0.0	a8a8altrk.com
 0.0.0.0	aa-metrics.beauty.hotpepper.jp
 0.0.0.0	aa-metrics.recruit-card.jp
 0.0.0.0	aa-metrics.trip-ai.jp
@@ -1231,6 +1232,7 @@
 0.0.0.0	banners.isoftmarketing.com
 0.0.0.0	banners.linkbuddies.com
 0.0.0.0	banners.passion.com
+0.0.0.0	banners.payserve.com
 0.0.0.0	banners.resultonline.com
 0.0.0.0	banners.sys-con.com
 0.0.0.0	banners.thomsonlocal.com
@@ -1607,6 +1609,7 @@
 0.0.0.0	dashingdirt.com
 0.0.0.0	dashingsweater.com
 0.0.0.0	data.namesakeoscilloscopemarquis.com
+0.0.0.0	data8a8altrk.com
 0.0.0.0	dbbsrv.com
 0.0.0.0	dc-storm.com
 0.0.0.0	de17a.com
@@ -1808,6 +1811,7 @@
 0.0.0.0	farethief.com
 0.0.0.0	farmergoldfish.com
 0.0.0.0	fascinatedfeather.com
+0.0.0.0	fast-redirecting.com
 0.0.0.0	fastclick.com
 0.0.0.0	fastclick.com.edgesuite.net
 0.0.0.0	fastclick.net
@@ -2001,6 +2005,7 @@
 0.0.0.0	hollps.win
 0.0.0.0	homepageking.de
 0.0.0.0	honeygoldfish.com
+0.0.0.0	honorablehall.com
 0.0.0.0	honorableland.com
 0.0.0.0	hostedads.realitykings.com
 0.0.0.0	hotjar.com
@@ -2150,6 +2155,7 @@
 0.0.0.0	justrelevant.com
 0.0.0.0	justuno.com
 0.0.0.0	k.iinfo.cz
+0.0.0.0	kameleoon.com
 0.0.0.0	kanoodle.com
 0.0.0.0	kargo.com
 0.0.0.0	karisimbi.net
@@ -2246,6 +2252,7 @@
 0.0.0.0	lizardslaugh.com
 0.0.0.0	lkqd.com
 0.0.0.0	loading321.com
+0.0.0.0	locked4.com
 0.0.0.0	lockerdome.com
 0.0.0.0	log.btopenworld.com
 0.0.0.0	log.logrocket.io
@@ -2587,6 +2594,7 @@
 0.0.0.0	owebmoney.ru
 0.0.0.0	owlsr.us
 0.0.0.0	owneriq.net
+0.0.0.0	ox1.shopcool.com.tw
 0.0.0.0	oxado.com
 0.0.0.0	oxcash.com
 0.0.0.0	oxen.hillcountrytexas.com
@@ -3200,6 +3208,7 @@
 0.0.0.0	tappx.com
 0.0.0.0	targad.de
 0.0.0.0	target.microsoft.com
+0.0.0.0	targeting.api.drift.com
 0.0.0.0	targeting.nzme.arcpublishing.com
 0.0.0.0	targetingnow.com
 0.0.0.0	targetnet.com
@@ -3309,6 +3318,7 @@
 0.0.0.0	trackedweb.net
 0.0.0.0	tracker-pm2.spilleren.com
 0.0.0.0	tracker.bannerflow.com
+0.0.0.0	tracker.cdnbye.com
 0.0.0.0	tracker.comunidadmarriott.com
 0.0.0.0	tracker.icerocket.com
 0.0.0.0	tracker.mmdlv.it
@@ -3345,6 +3355,7 @@
 0.0.0.0	tradedoubler.com
 0.0.0.0	trading-rtbg.com
 0.0.0.0	traffic-exchange.com
+0.0.0.0	traffic-redirecting.com
 0.0.0.0	traffic.focuusing.com
 0.0.0.0	trafficfactory.biz
 0.0.0.0	trafficforce.com
@@ -3376,6 +3387,7 @@
 0.0.0.0	triplelift.com
 0.0.0.0	triptease.io
 0.0.0.0	trix.net
+0.0.0.0	trk.bee-data.com
 0.0.0.0	trk.techtarget.com
 0.0.0.0	trk42.net
 0.0.0.0	trkn.us
@@ -3410,6 +3422,7 @@
 0.0.0.0	undertone.com
 0.0.0.0	universcine.com
 0.0.0.0	unknowntray.com
+0.0.0.0	unless.com
 0.0.0.0	unrulymedia.com
 0.0.0.0	untd.com
 0.0.0.0	untidyquestion.com
@@ -3438,6 +3451,7 @@
 0.0.0.0	valuesponsor.com
 0.0.0.0	vanfireworks.com
 0.0.0.0	variablefitness.com
+0.0.0.0	vcommission.com
 0.0.0.0	veille-referencement.com
 0.0.0.0	velismedia.com
 0.0.0.0	ventivmedia.com
@@ -3455,6 +3469,7 @@
 0.0.0.0	videoadex.com
 0.0.0.0	videoamp.com
 0.0.0.0	videoegg.com
+0.0.0.0	videostats.kakao.com
 0.0.0.0	vidora.com
 0.0.0.0	view4cash.de
 0.0.0.0	viglink.com
@@ -3479,6 +3494,7 @@
 0.0.0.0	vs.tucows.com
 0.0.0.0	vtracy.de
 0.0.0.0	vungle.com
+0.0.0.0	vwo.com
 0.0.0.0	w55c.net
 0.0.0.0	wa.and.co.uk
 0.0.0.0	waardex.com
@@ -3487,6 +3503,7 @@
 0.0.0.0	wateryvan.com
 0.0.0.0	wd-track.de
 0.0.0.0	wdads.sx.atl.publicus.com
+0.0.0.0	web-redirecting.com
 0.0.0.0	web-stat.com
 0.0.0.0	web.informer.com
 0.0.0.0	web2.deja.com

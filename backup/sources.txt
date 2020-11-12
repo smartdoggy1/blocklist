@@ -1,4 +1,5 @@
 https://adaway.org/hosts.txt
+https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -30,4 +31,3 @@ https://v.firebog.net/hosts/Prigent-Malware.txt
 https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://winhelp2002.mvps.org/hosts.txt
-https://www.malwaredomainlist.com/hostslist/hosts.txt
