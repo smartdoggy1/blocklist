@@ -4184,6 +4184,7 @@
 0.0.0.0	beacon.shazam.com
 0.0.0.0	beacon.statful.com
 0.0.0.0	beacon.tru.am
+0.0.0.0	beaconacceptable.com
 0.0.0.0	beacons-blackholed.gcp.gvt2.com
 0.0.0.0	beacons-handoff.gcp.gvt2.com
 0.0.0.0	beacons.gcp.gvt2.com
@@ -8246,6 +8247,7 @@
 0.0.0.0	fastly-insights.com
 0.0.0.0	fastly.cdneval.adnxs.com
 0.0.0.0	fatchilli.media
+0.0.0.0	fathomseo.com
 0.0.0.0	faultycanvas.com
 0.0.0.0	faultyfowl.com
 0.0.0.0	fav-cdn.a-mo.net
@@ -13455,6 +13457,7 @@
 0.0.0.0	platform.yieldlove.com
 0.0.0.0	platform1.bidgear.com
 0.0.0.0	platinummediamarketing.adspirit.de
+0.0.0.0	plausible.io
 0.0.0.0	play.adsparc.com
 0.0.0.0	play.adswick.com
 0.0.0.0	play.aniview.com
@@ -18447,6 +18450,7 @@
 0.0.0.0	useast.rtb.adkernel.com
 0.0.0.0	useast1n.yldbt.com
 0.0.0.0	usedirect.adsrvr.org
+0.0.0.0	usefathom.com
 0.0.0.0	usefb.adsrvr.org
 0.0.0.0	useinsider.com
 0.0.0.0	usemax.de

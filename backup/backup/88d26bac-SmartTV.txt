@@ -3,7 +3,6 @@
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
-0.0.0.0	Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0	_xmpp-client._tcp.managed.xmpp.foxtel.com.au
 0.0.0.0	a1.resources.foxtel.com.au
 0.0.0.0	abtauthprd.samsungcloudsolution.com
@@ -65,6 +64,7 @@
 0.0.0.0	control.tvinteractive.tv
 0.0.0.0	control2.tvinteractive.tv
 0.0.0.0	cooper.logs.roku.com
+0.0.0.0	coordinator-production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0	cpu.samsungelectronics.com
 0.0.0.0	customerevents.netflix.com
 0.0.0.0	d179kwmlpc4o47.cloudfront.net

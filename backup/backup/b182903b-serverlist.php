@@ -35,7 +35,6 @@
 0.0.0.0	7bpeople.com
 0.0.0.0	7search.com
 0.0.0.0	82o9v830.com
-0.0.0.0	Adsatt.go.starwave.com
 0.0.0.0	a-ads.com
 0.0.0.0	a.aproductmsg.com
 0.0.0.0	a.consumer.net

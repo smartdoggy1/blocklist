@@ -23,6 +23,7 @@ combine_group = parser.add_argument_group('Combine-only Options')
 backup_group.add_argument('-b', '--backup', action='store_true', help=f'Downloads all lists found in {backup_hosts_sources}, and store as a file in the directory {backup_hosts_destination_dir}.')
 backup_group.add_argument('-k', '--keep-old', action='store_true', help=f'When using -b, keep old domains that were removed in the newest version.')
 backup_group.add_argument('-s', '--select', nargs='+', help=f'When using -b, specify which {hash_length}-character hash(es) to back up (will check hashes against {backup_hosts_sources}).')
+backup_group.add_argument('--clean', action='store_true', help=f'Formats each file in {backup_hosts_destination_dir}.')
 combine_group.add_argument('-c', '--combine', action='store_true', help=f'Combine all files from {combined_hosts_sources_dir} to {combined_hosts}.')
 combine_group.add_argument('-e', '--everything', action='store_true', help=f'When used with -c, include {backup_hosts_destination_dir} and store to {combined_everything_hosts}.')
 combine_group.add_argument('-i', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
@@ -53,7 +54,7 @@ def load_file_to_set(opened_hostfile, data):
             line, comments = match.groups()
             line = line.strip(strip_chars)
             # note: indexing a bytes object -> int
-            if line == b'' or b'.' not in line:
+            if line == b'':
                 continue
             elif line.startswith(b'127.0.0.1'):
                 line = b'0.0.0.0' + line[9:]
@@ -61,10 +62,29 @@ def load_file_to_set(opened_hostfile, data):
                 line = b'0.0.0.0\t' + line
             split = line.split()
             if len(split) == 2:
-                if split[1] in blacklist or ignore_regex.match(split[1]):
+                if split[1] in blacklist or ignore_regex.match(split[1]) or b'.' not in split[1]:
                     continue
-                data.add(split[0] + b'\t' + split[1])
+                data.add(split[0] + b'\t' + split[1].lower())
     return c
+
+
+def clean():
+    '''Use this when the filtering rules in load_file_to_set() has changed.'''
+    target = backup_hosts_destination_dir
+    for filename in os.listdir(target):
+        filename = os.path.join(target, filename)
+        data = set()
+        with open(filename, 'rb') as f:
+            # our commented header for each backup hostfile is 3 lines
+            first_three_lines = f.readline() + f.readline() + f.readline()
+            if not first_three_lines.startswith(b'#'):
+                f.seek(0)
+                first_three_lines = b''
+            load_file_to_set(f, data)
+        with open(filename, 'wb') as f:
+            f.write(first_three_lines)
+            f.write(b'\n'.join(sorted(data)))
+    print(f'Cleaned all files in {target}.')
 
 
 def backup():
@@ -104,7 +124,11 @@ def backup():
         if os.path.exists(filepath):
             with open(filepath, 'rb') as f:
                 load_file_to_set(f, old_data)
-        load_file_to_set(io.BytesIO(r.content), new_data)
+        raw_bytes = io.BytesIO(r.content)
+        if raw_bytes.read(1) == b'<':
+            print('warning: this seems to be an html file - ', end='', flush=True)
+        raw_bytes.seek(0)
+        load_file_to_set(raw_bytes, new_data)
         if args.keep_old:
             if len(new_data - old_data) == 0:
                 print('nothing changed, skipping.')
@@ -149,12 +173,14 @@ def combine():
         print(f'Whitelisted {apply_whitelist(data)} entries.')
     with open(fname, 'wb') as f:
         f.write(b'\n'.join(sorted(data)))
-    print(f'Written {len(data):,}/{c:,} lines to {fname}.')
+    print(f'Written {len(data):,} lines to {fname} (removed {c - len(data):,} duplicates).')
 
 
 def main():
     if args.backup:
         backup()
+    if args.clean:
+        clean()
     if args.combine:
         combine()
 
