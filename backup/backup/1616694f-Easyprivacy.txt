@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2020-11-11
+# Backed up on: 2020-11-13
 
 0.0.0.0	0sbm.consobaby.co.uk
 0.0.0.0	0x1f4b0.com
@@ -462,6 +462,7 @@
 0.0.0.0	cashbeet.com
 0.0.0.0	caspionlog.appspot.com
 0.0.0.0	cast.ra.icast.cn
+0.0.0.0	cb-mms.carbuyer.co.uk
 0.0.0.0	cbs.wondershare.com
 0.0.0.0	cc.swiftype.com
 0.0.0.0	cc.zeit.de
@@ -1004,6 +1005,7 @@
 0.0.0.0	event.dkb.de
 0.0.0.0	event.getblue.io
 0.0.0.0	event.notifier.rakuten.co.jp
+0.0.0.0	event.syndigo.cloud
 0.0.0.0	eventapi.libring.com
 0.0.0.0	eventgateway.soundcloud.com
 0.0.0.0	eventlog.inspsearchapi.com
@@ -1154,6 +1156,7 @@
 0.0.0.0	geobeacon.ign.com
 0.0.0.0	geoip-lookup.vice.com
 0.0.0.0	geoip.al.com
+0.0.0.0	geoip.ativo.com
 0.0.0.0	geoip.boredpanda.com
 0.0.0.0	geoip.cleveland.com
 0.0.0.0	geoip.gulflive.com
@@ -2296,6 +2299,7 @@
 0.0.0.0	sync.adap.tv
 0.0.0.0	sync.rambler.ru
 0.0.0.0	sync.shinobi.jp
+0.0.0.0	sync.taboola.com
 0.0.0.0	systemmonitoring.badgeville.com
 0.0.0.0	t-ak.hulu.com
 0.0.0.0	t-staging.powerreviews.com
@@ -2639,6 +2643,7 @@
 0.0.0.0	tracking.ecookie.fr
 0.0.0.0	tracking.ehavior.net
 0.0.0.0	tracking.emsmobile.de
+0.0.0.0	tracking.epicgames.com
 0.0.0.0	tracking.eurosport.com
 0.0.0.0	tracking.fanbridge.com
 0.0.0.0	tracking.feedperfect.com
