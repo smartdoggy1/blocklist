@@ -1,11 +1,12 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2020-11-13
+# Backed up on: 2020-12-03
 
 0.0.0.0	0sbm.consobaby.co.uk
 0.0.0.0	0x1f4b0.com
 0.0.0.0	1l-hit.mail.ru
 0.0.0.0	1q2w3.website
 0.0.0.0	1to1.bbva.com
+0.0.0.0	2fuc4clr7gvcn.cloudfront.net
 0.0.0.0	2giga.download
 0.0.0.0	319dn.dieti-natura.com
 0.0.0.0	5ijo.01net.com
@@ -83,6 +84,7 @@
 0.0.0.0	an.yandex.ru
 0.0.0.0	analitica.webrpp.com
 0.0.0.0	analy.qq.com
+0.0.0.0	analyse.bcovery.com
 0.0.0.0	analyse.weather.com.cn
 0.0.0.0	analysis.shinobi.jp
 0.0.0.0	analytic.imlive.com
@@ -240,6 +242,7 @@
 0.0.0.0	analytics.theneweuropean.co.uk
 0.0.0.0	analytics.thenewslens.com
 0.0.0.0	analytics.thetab.com
+0.0.0.0	analytics.threedeepmarketing.com
 0.0.0.0	analytics.tiktok.com
 0.0.0.0	analytics.tio.ch
 0.0.0.0	analytics.tooso.ai
@@ -282,6 +285,7 @@
 0.0.0.0	anon-stats.eff.org
 0.0.0.0	anti-bot.baidu.com
 0.0.0.0	ape-tagit.timeinc.net
+0.0.0.0	api-location-prd.pelcro.com
 0.0.0.0	api.nobeta.com.br
 0.0.0.0	api.wipmania.com
 0.0.0.0	apple.www.letv.com
@@ -374,6 +378,7 @@
 0.0.0.0	beacon.tingyun.com
 0.0.0.0	beacon.toyota.co.jp
 0.0.0.0	beacon.viewlift.com
+0.0.0.0	beacon.walmart.com
 0.0.0.0	beacon.wikia-services.com
 0.0.0.0	beacon.www.theguardian.com
 0.0.0.0	beacon2.indieclick.com
@@ -680,12 +685,14 @@
 0.0.0.0	counter2.blog.livedoor.com
 0.0.0.0	counter2.condenast.it
 0.0.0.0	counters.freewebs.com
+0.0.0.0	countly.stackvaults.com
 0.0.0.0	country.yepshare.com
 0.0.0.0	cpgo.avatacar.com
 0.0.0.0	cpt.itv.com
 0.0.0.0	cpx.golem.de
 0.0.0.0	cpxl.golem.de
 0.0.0.0	cravenherald-gb.cravenherald.co.uk
+0.0.0.0	creatives.sunmedia.tv
 0.0.0.0	creator.zmags.com
 0.0.0.0	crm-analytics.imweb.ru
 0.0.0.0	crta.dailymail.co.uk
@@ -761,6 +768,7 @@
 0.0.0.0	d2o67tzzxkqap2.cloudfront.net
 0.0.0.0	d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0	d2r7bmv6l6bnd1.cloudfront.net
+0.0.0.0	d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0	d2ry9vue95px0b.cloudfront.net
 0.0.0.0	d2san7t27xb2pn.cloudfront.net
 0.0.0.0	d2tcg4i9q4js4a.cloudfront.net
@@ -1117,6 +1125,7 @@
 0.0.0.0	g4754024040.co
 0.0.0.0	g4952108375.co
 0.0.0.0	g4p.redtram.com
+0.0.0.0	g5150192710.co
 0.0.0.0	ga-beacon.appspot.com
 0.0.0.0	ga.canoe.ca
 0.0.0.0	ga.kvideo.io
@@ -1580,6 +1589,7 @@
 0.0.0.0	nrg.red-by-sfr.fr
 0.0.0.0	ns.rvmkitt.com
 0.0.0.0	nws.naltis.com
+0.0.0.0	nxakpj4ac8gkd53.info
 0.0.0.0	o.addthis.com
 0.0.0.0	oal2.destinia.co.uk
 0.0.0.0	observer.ip-label.net
@@ -1664,6 +1674,7 @@
 0.0.0.0	ping.hellobar.com
 0.0.0.0	ping.hungama.com
 0.0.0.0	ping.smyte.com
+0.0.0.0	ping.staticmoly.me
 0.0.0.0	pingback.giphy.com
 0.0.0.0	pingback.issuu.com
 0.0.0.0	pingback.sogou.com
@@ -1740,11 +1751,13 @@
 0.0.0.0	pr.blogflux.com
 0.0.0.0	prd-collector-anon.ex.co
 0.0.0.0	prd-collector-anon.playbuzz.com
+0.0.0.0	prd-collector-auth.playbuzz.com
 0.0.0.0	presentationtracking.netflix.com
 0.0.0.0	prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 0.0.0.0	prism.pandora.tv
 0.0.0.0	proac.nationwide.com
 0.0.0.0	proactive.base.de
+0.0.0.0	processor.asccommunications.com
 0.0.0.0	production-mcs.lvp.llnw.net
 0.0.0.0	production.airswap.io
 0.0.0.0	production.mcs.delve.cust.lldns.net
@@ -1891,6 +1904,7 @@
 0.0.0.0	sana.newsinc.com.s3.amazonaws.com
 0.0.0.0	sat.sanoma.fi
 0.0.0.0	sayac.hurriyettv.com
+0.0.0.0	sbgsodufuosmmvsdf.info
 0.0.0.0	sc.cc.com
 0.0.0.0	scaleway.ovh
 0.0.0.0	scis.tbs.co.jp
@@ -1928,6 +1942,7 @@
 0.0.0.0	sidebar.issuu.com
 0.0.0.0	sig.atdmt.com
 0.0.0.0	siteinfo.libero.it
+0.0.0.0	siteintercept.allegiancetech.com
 0.0.0.0	sitelife.ehow.com
 0.0.0.0	ski1.skiset.com
 0.0.0.0	slipstream.skyscanner.net
@@ -2191,6 +2206,7 @@
 0.0.0.0	stats.grafikart.fr
 0.0.0.0	stats.harpercollins.com
 0.0.0.0	stats.heyoya.com
+0.0.0.0	stats.hfet.org
 0.0.0.0	stats.highwire.com
 0.0.0.0	stats.ibtimes.co.in
 0.0.0.0	stats.ibtimes.co.uk
@@ -2302,6 +2318,7 @@
 0.0.0.0	sync.taboola.com
 0.0.0.0	systemmonitoring.badgeville.com
 0.0.0.0	t-ak.hulu.com
+0.0.0.0	t-pan.triodos.com
 0.0.0.0	t-staging.powerreviews.com
 0.0.0.0	t.9gag.com
 0.0.0.0	t.a3cloud.net
@@ -2380,6 +2397,7 @@
 0.0.0.0	taglocker.target.com
 0.0.0.0	tagm.tchibo.de
 0.0.0.0	tags.cdn.circlesix.co
+0.0.0.0	tags.creativille.co.uk
 0.0.0.0	tags.master-perf-tools.com
 0.0.0.0	tags.msnbc.com
 0.0.0.0	tags.newscgp.com
@@ -2421,6 +2439,7 @@
 0.0.0.0	telemetry.jivosite.com
 0.0.0.0	telemetry.reembed.com
 0.0.0.0	telemetry.soundcloud.com
+0.0.0.0	telemetry.tableausoftware.com
 0.0.0.0	telemetry.tradingview.com
 0.0.0.0	tempo.inc.com
 0.0.0.0	teralog.techhub.co.kr
@@ -2506,6 +2525,7 @@
 0.0.0.0	track.dictionary.com
 0.0.0.0	track.digitalriver.com
 0.0.0.0	track.e7r.com.br
+0.0.0.0	track.eadv.it
 0.0.0.0	track.engagesciences.com
 0.0.0.0	track.express.de
 0.0.0.0	track.fxstreet.com
@@ -2541,6 +2561,7 @@
 0.0.0.0	track.spots.im
 0.0.0.0	track.sprinklecontent.com
 0.0.0.0	track.strife.com
+0.0.0.0	track.sunmedia.tv
 0.0.0.0	track.tcppu.com
 0.0.0.0	track.td3x.com
 0.0.0.0	track.tesiteca.it
@@ -2701,6 +2722,7 @@
 0.0.0.0	tracking.searchmarketing.com
 0.0.0.0	tracking.shopstyle.com
 0.0.0.0	tracking.shoptogether.buy.com
+0.0.0.0	tracking.smartmeapp.com
 0.0.0.0	tracking.softwareprojects.com
 0.0.0.0	tracking.sokrati.com
 0.0.0.0	tracking.sport1.de
@@ -2742,6 +2764,7 @@
 0.0.0.0	trckr.nordiskemedier.dk
 0.0.0.0	tree-pixel-log.s3.amazonaws.com
 0.0.0.0	tremorhub.com
+0.0.0.0	trends.newsmaxwidget.com
 0.0.0.0	trezor.efscle.com
 0.0.0.0	trf.intuitwebsites.com
 0.0.0.0	triggers.wfxtriggers.com
@@ -2767,12 +2790,14 @@
 0.0.0.0	tsj0.madeindesign.com
 0.0.0.0	ttauri.bikeperfect.com
 0.0.0.0	ttauri.creativebloq.com
+0.0.0.0	ttauri.digitalcameraworld.com
 0.0.0.0	ttauri.guitarworld.com
 0.0.0.0	ttauri.laptopmag.com
 0.0.0.0	ttauri.livescience.com
 0.0.0.0	ttauri.loudersound.com
 0.0.0.0	ttauri.musicradar.com
 0.0.0.0	ttauri.nexttv.com
+0.0.0.0	ttauri.realhomes.com
 0.0.0.0	ttauri.space.com
 0.0.0.0	ttauri.t3.com
 0.0.0.0	ttauri.tomsguide.com
@@ -2809,6 +2834,7 @@
 0.0.0.0	urtracker.q-sis.de
 0.0.0.0	useg.nextdigital.com.hk
 0.0.0.0	user-metrics.onthemarket.com
+0.0.0.0	userexperience.thehut.net
 0.0.0.0	userfly.com
 0.0.0.0	usersegment.wpdigital.net
 0.0.0.0	utle.tech426.com
@@ -2894,6 +2920,7 @@
 0.0.0.0	weblog.strawberrynet.com
 0.0.0.0	weblog2.eseoul.go.kr
 0.0.0.0	weblogger-dynamic-lb.playdom.com
+0.0.0.0	webpixel.smartmeapp.com
 0.0.0.0	webservices.websitepros.com
 0.0.0.0	webstat.kuwo.cn
 0.0.0.0	webstatistieken.xs4all.nl
@@ -2921,6 +2948,7 @@
 0.0.0.0	worcesternews-gb.worcesternews.co.uk
 0.0.0.0	wordc.ga
 0.0.0.0	wph2.destinia.us
+0.0.0.0	wren.condenastdigital.com
 0.0.0.0	ws.audioeye.com
 0.0.0.0	ws.yellowpages.ca
 0.0.0.0	wss.maven.io
@@ -2947,6 +2975,7 @@
 0.0.0.0	ynuf.alibaba.com
 0.0.0.0	yoc.younited-credit.com
 0.0.0.0	yourlocalguardian-gb.yourlocalguardian.co.uk
+0.0.0.0	z0uolej1qnxzub1.info
 0.0.0.0	zam.nextinpact.com
 0.0.0.0	zdlogs.sphereup.com
 0.0.0.0	zeus.slader.com

@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-11-11
+# Backed up on: 2020-12-03
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -27,6 +27,7 @@
 0.0.0.0	50websads.com
 0.0.0.0	518ad.com
 0.0.0.0	51yes.com
+0.0.0.0	5ijo.01net.com
 0.0.0.0	5mcwl.pw
 0.0.0.0	6ldu6qa.com
 0.0.0.0	6sc.co
@@ -142,6 +143,7 @@
 0.0.0.0	ad.jamster.co.uk
 0.0.0.0	ad.jetsoftware.com
 0.0.0.0	ad.keenspace.com
+0.0.0.0	ad.kissanime.nz
 0.0.0.0	ad.leadbolt.net
 0.0.0.0	ad.liveinternet.ru
 0.0.0.0	ad.lupa.cz
@@ -984,6 +986,7 @@
 0.0.0.0	advisormedia.cz
 0.0.0.0	adviva.net
 0.0.0.0	advnt.com
+0.0.0.0	adwebone.com
 0.0.0.0	adwhirl.com
 0.0.0.0	adwordsecommerce.com.br
 0.0.0.0	adworldnetwork.com
@@ -1073,6 +1076,7 @@
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.dnsfilter.com
 0.0.0.0	analytics.ext.go-tellm.com
+0.0.0.0	analytics.fkz.re
 0.0.0.0	analytics.google.com
 0.0.0.0	analytics.htmedia.in
 0.0.0.0	analytics.icons8.com
@@ -1492,6 +1496,7 @@
 0.0.0.0	cnomy.com
 0.0.0.0	cnt.spbland.ru
 0.0.0.0	cnt1.pocitadlo.cz
+0.0.0.0	cny.yoyo.org
 0.0.0.0	code-server.biz
 0.0.0.0	codeadnetwork.com
 0.0.0.0	cognitiv.ai
@@ -1532,6 +1537,7 @@
 0.0.0.0	cookies.cmpnet.com
 0.0.0.0	coordinatedcub.com
 0.0.0.0	cooster.ru
+0.0.0.0	cootlogix.com
 0.0.0.0	copperchickens.com
 0.0.0.0	copycarpenter.com
 0.0.0.0	copyrightaccesscontrols.com
@@ -1600,6 +1606,7 @@
 0.0.0.0	cyberbounty.com
 0.0.0.0	d.adroll.com
 0.0.0.0	d2cmedia.ca
+0.0.0.0	dabiaozhi.com
 0.0.0.0	dakic-ia-300.com
 0.0.0.0	damdoor.com
 0.0.0.0	dancemistake.com
@@ -2287,6 +2294,7 @@
 0.0.0.0	mackeeperapp.mackeeper.com
 0.0.0.0	madclient.uimserv.net
 0.0.0.0	madcpms.com
+0.0.0.0	madinad.com
 0.0.0.0	madisonavenue.com
 0.0.0.0	mads.cnet.com
 0.0.0.0	madvertise.de
@@ -2387,6 +2395,7 @@
 0.0.0.0	mixedreading.com
 0.0.0.0	mixpanel.com
 0.0.0.0	mjxads.internet.com
+0.0.0.0	mkto-ab410147.com
 0.0.0.0	mktoresp.com
 0.0.0.0	ml314.com
 0.0.0.0	mlm.de
@@ -2699,6 +2708,7 @@
 0.0.0.0	porntrack.com
 0.0.0.0	possessivebucket.com
 0.0.0.0	possibleboats.com
+0.0.0.0	post.spmailtechno.com
 0.0.0.0	postback.iqm.com
 0.0.0.0	postrelease.com
 0.0.0.0	posumeads.com
@@ -2716,6 +2726,7 @@
 0.0.0.0	prmtracking.com
 0.0.0.0	pro-advertising.com
 0.0.0.0	pro-market.net
+0.0.0.0	producecopy.com
 0.0.0.0	producer.getwisdom.io
 0.0.0.0	proext.com
 0.0.0.0	profero.com
@@ -2849,6 +2860,7 @@
 0.0.0.0	reforge.in
 0.0.0.0	regnow.com
 0.0.0.0	regularimptracker.xyz
+0.0.0.0	regularplants.com
 0.0.0.0	reinvigorate.net
 0.0.0.0	reklam.rfsl.se
 0.0.0.0	reklama.mironet.cz
@@ -2976,6 +2988,7 @@
 0.0.0.0	sensismediasmart.com.au
 0.0.0.0	separatesilver.com
 0.0.0.0	serv0.com
+0.0.0.0	servads.net
 0.0.0.0	servadsdisrupt.com
 0.0.0.0	servedby-buysellads.com
 0.0.0.0	servedbyadbutler.com
@@ -3041,6 +3054,7 @@
 0.0.0.0	smartstream.tv
 0.0.0.0	smartyads.com
 0.0.0.0	smashsurprise.com
+0.0.0.0	smetrics.10daily.com.au
 0.0.0.0	smetrics.bestbuy.com
 0.0.0.0	smetrics.ctv.ca
 0.0.0.0	smetrics.foxnews.com
@@ -3310,6 +3324,7 @@
 0.0.0.0	track.tkbo.com
 0.0.0.0	track.ultravpn.com
 0.0.0.0	track.undressingpics.work
+0.0.0.0	track.vcdc.com
 0.0.0.0	track.viewdeos.com
 0.0.0.0	track1.viewdeos.com
 0.0.0.0	trackalyzer.com
