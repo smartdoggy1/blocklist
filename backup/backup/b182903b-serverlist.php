@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-12-03
+# Backed up on: 2020-12-24
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -178,6 +178,7 @@
 0.0.0.0	ad.thewheelof.com
 0.0.0.0	ad.turn.com
 0.0.0.0	ad.tv2.no
+0.0.0.0	ad.universcine.com
 0.0.0.0	ad.usatoday.com
 0.0.0.0	ad.virtual-nights.com
 0.0.0.0	ad.wavu.hu
@@ -1440,6 +1441,7 @@
 0.0.0.0	clearcomb.com
 0.0.0.0	clevernt.com
 0.0.0.0	click.a-ads.com
+0.0.0.0	click.cartsguru.io
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.fool.com
 0.0.0.0	click.kmindex.ru
@@ -1762,6 +1764,7 @@
 0.0.0.0	errortablet.com
 0.0.0.0	espn.com.ssl.sc.omtrdc.net
 0.0.0.0	estat.com
+0.0.0.0	esty.com
 0.0.0.0	et.nytimes.com
 0.0.0.0	etahub.com
 0.0.0.0	etargetnet.com
@@ -2154,6 +2157,7 @@
 0.0.0.0	jsecoin.com
 0.0.0.0	jsrdn.com
 0.0.0.0	juicyads.com
+0.0.0.0	juicyads.me
 0.0.0.0	jumptap.com
 0.0.0.0	jungroup.com
 0.0.0.0	justicejudo.com
@@ -2257,6 +2261,7 @@
 0.0.0.0	liverail.com
 0.0.0.0	lizardslaugh.com
 0.0.0.0	lkqd.com
+0.0.0.0	lnks.gd
 0.0.0.0	loading321.com
 0.0.0.0	locked4.com
 0.0.0.0	lockerdome.com
@@ -2319,6 +2324,7 @@
 0.0.0.0	mas.sector.sk
 0.0.0.0	massivemark.com
 0.0.0.0	matchcraft.com
+0.0.0.0	materialmoon.com
 0.0.0.0	matheranalytics.com
 0.0.0.0	mathtag.com
 0.0.0.0	matomo.activate.cz
@@ -2747,6 +2753,8 @@
 0.0.0.0	proper.io
 0.0.0.0	props.id
 0.0.0.0	prosper.on-line-casino.ca
+0.0.0.0	protectcrev.com
+0.0.0.0	protectsubrev.com
 0.0.0.0	proton-tm.com
 0.0.0.0	protraffic.com
 0.0.0.0	provexia.com
@@ -2768,6 +2776,7 @@
 0.0.0.0	pubmine.com
 0.0.0.0	pubnative.net
 0.0.0.0	puffyloss.com
+0.0.0.0	puffypaste.com
 0.0.0.0	puffypull.com
 0.0.0.0	puffypurpose.com
 0.0.0.0	pushame.com
@@ -2881,6 +2890,7 @@
 0.0.0.0	resonate.com
 0.0.0.0	responsiveads.com
 0.0.0.0	retargeter.com
+0.0.0.0	revcatch.com
 0.0.0.0	revcontent.com
 0.0.0.0	reveal.clearbit.com
 0.0.0.0	revenue.net
@@ -2892,6 +2902,7 @@
 0.0.0.0	revive.netriota.hu
 0.0.0.0	revive.plays.bg
 0.0.0.0	revlift.io
+0.0.0.0	revprotect.com
 0.0.0.0	revsci.net
 0.0.0.0	revstats.com
 0.0.0.0	reyden-x.com
@@ -3161,6 +3172,7 @@
 0.0.0.0	stepplane.com
 0.0.0.0	stickssheep.com
 0.0.0.0	stickyadstv.com
+0.0.0.0	stiffgame.com
 0.0.0.0	storesurprise.com
 0.0.0.0	stormyachiever.com
 0.0.0.0	storygize.net
@@ -3324,6 +3336,7 @@
 0.0.0.0	track.tkbo.com
 0.0.0.0	track.ultravpn.com
 0.0.0.0	track.undressingpics.work
+0.0.0.0	track.unear.net
 0.0.0.0	track.vcdc.com
 0.0.0.0	track.viewdeos.com
 0.0.0.0	track1.viewdeos.com
@@ -3351,6 +3364,7 @@
 0.0.0.0	tracking.inlocomedia.com
 0.0.0.0	tracking.internetstores.de
 0.0.0.0	tracking.intl.miui.com
+0.0.0.0	tracking.jiffyworld.com
 0.0.0.0	tracking.lenddom.com
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.olx-st.com
@@ -3378,6 +3392,7 @@
 0.0.0.0	trafficjunky.net
 0.0.0.0	trafficleader.com
 0.0.0.0	trafficrouter.io
+0.0.0.0	trafficshop.com
 0.0.0.0	trafficspaces.net
 0.0.0.0	trafficstrategies.com
 0.0.0.0	trafficswarm.com
@@ -3411,6 +3426,7 @@
 0.0.0.0	truehits.net
 0.0.0.0	truehits1.gits.net.th
 0.0.0.0	truehits2.gits.net.th
+0.0.0.0	trust.titanhq.com
 0.0.0.0	trustx.org
 0.0.0.0	tsyndicate.com
 0.0.0.0	tsyndicate.net

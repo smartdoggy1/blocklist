@@ -3,9 +3,9 @@
 #
 # The following are hosts in the hpHosts database with the EXP classification ONLY.
 #
-#
 # BAD SITES START HERE
 #
+# Hosts: 1156
 127.0.0.1	115qxw.hbg.hebdenbridgedental.co.uk
 127.0.0.1	12bmkg.est.northerndishedends.com
 127.0.0.1	133put.hbg.hebdenbridgedental.co.uk
@@ -1162,4 +1162,3 @@
 127.0.0.1	zuz6gt.gow.englishwoodlands.co.uk
 127.0.0.1	zxc.severalblueone.ws
 127.0.0.1	zxc.severalgrayone.ws
-# Hosts: 1156
