@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
-# Backed up on: 2020-12-24
+# Backed up on: 2021-01-02
 
 0.0.0.0	0.bigclicker.me
 0.0.0.0	1-1ads.com
@@ -1225,6 +1225,7 @@
 0.0.0.0	ads.aws.viber.com
 0.0.0.0	ads.axonix.com
 0.0.0.0	ads.ayads.co
+0.0.0.0	ads.baobinhduong.vn
 0.0.0.0	ads.baodatviet.vn
 0.0.0.0	ads.baotainguyenmoitruong.vn
 0.0.0.0	ads.batpmturner.com
@@ -1430,6 +1431,7 @@
 0.0.0.0	ads.juicyads.com
 0.0.0.0	ads.justhungry.com
 0.0.0.0	ads.justpremium.com
+0.0.0.0	ads.kabbmedia.com
 0.0.0.0	ads.kabooaffiliates.com
 0.0.0.0	ads.kaktuz.net
 0.0.0.0	ads.kelbymediagroup.com
@@ -2691,6 +2693,7 @@
 0.0.0.0	ambiguousquilt.com
 0.0.0.0	ambimob.com
 0.0.0.0	ambitiousagreement.com
+0.0.0.0	ambleads.com
 0.0.0.0	amcdn.vn
 0.0.0.0	amelia.outbrain.com
 0.0.0.0	americanbar.qualtrics.com
@@ -2788,6 +2791,7 @@
 0.0.0.0	analysis1.ligatus.com
 0.0.0.0	analysis2.ligatus.com
 0.0.0.0	analytiall.com
+0.0.0.0	analytic.baodantoc.vn
 0.0.0.0	analytics-development.ematicsolutions.com
 0.0.0.0	analytics-digit-in.cdn.ampproject.org
 0.0.0.0	analytics-production.hapyak.com
@@ -2809,6 +2813,7 @@
 0.0.0.0	analytics.atdmt.com
 0.0.0.0	analytics.bitrix.info
 0.0.0.0	analytics.bkav.com
+0.0.0.0	analytics.bkav.com.vn
 0.0.0.0	analytics.ccgateway.net
 0.0.0.0	analytics.chartboost.com
 0.0.0.0	analytics.cloud.unity3d.com
@@ -2943,6 +2948,7 @@
 0.0.0.0	anthill.instapage.com
 0.0.0.0	anthill.vn
 0.0.0.0	anti-adblock.adnow.com
+0.0.0.0	antiadblocksystems.com
 0.0.0.0	anticarredodolomiti.com
 0.0.0.0	antivirus.baidu.com
 0.0.0.0	antiviruspro-vietnam.info
@@ -3165,6 +3171,7 @@
 0.0.0.0	api.factual.com
 0.0.0.0	api.feedad.com
 0.0.0.0	api.flurry.com
+0.0.0.0	api.flygame.io
 0.0.0.0	api.forms.ladipage.com
 0.0.0.0	api.forshrd.com
 0.0.0.0	api.fuseplatform.net
@@ -4483,6 +4490,7 @@
 0.0.0.0	blogtoplist.se
 0.0.0.0	blogtopsites.com
 0.0.0.0	bloodhorse.advertserve.com
+0.0.0.0	bloodleian.club
 0.0.0.0	bls.adasiaholdings.com
 0.0.0.0	blu.mobileads.msn.com
 0.0.0.0	blucher.iad-03.braze.com
@@ -5811,6 +5819,7 @@
 0.0.0.0	client.weborama.com
 0.0.0.0	client_monitor.isnssdk.com
 0.0.0.0	clientcdn.pushengage.com
+0.0.0.0	clientinfo.phimmoizz.net
 0.0.0.0	clientmanagement.aws.lijit.com
 0.0.0.0	clientmanagement.lijit.com
 0.0.0.0	clientmetrics-pa.googleapis.com
@@ -6674,6 +6683,7 @@
 0.0.0.0	damdoor.com
 0.0.0.0	danban.com
 0.0.0.0	dancemistake.com
+0.0.0.0	dap.digitalgov.gov
 0.0.0.0	dapper.net
 0.0.0.0	darfilms.com
 0.0.0.0	darriens.adk2x.com
@@ -6941,6 +6951,7 @@
 0.0.0.0	delivery.applogy.com
 0.0.0.0	delivery.atdnetwork.com
 0.0.0.0	delivery.hyde.ligatus.com
+0.0.0.0	delivery.kabbmedia.com
 0.0.0.0	delivery.lavanetwork.net
 0.0.0.0	delivery.m.ambient-platform.com
 0.0.0.0	delivery.m.ambientplatform.vn
@@ -7407,6 +7418,7 @@
 0.0.0.0	domainsponsor.com
 0.0.0.0	domainsteam.de
 0.0.0.0	domdex.com
+0.0.0.0	domeleco.top
 0.0.0.0	dominoad.adk2x.com
 0.0.0.0	domnovrek.com
 0.0.0.0	donate-api.recorder.duapps.com
@@ -8466,6 +8478,7 @@
 0.0.0.0	fluct.fuseplatform.net
 0.0.0.0	flurry.com
 0.0.0.0	flux-adserver.com
+0.0.0.0	flygame.io
 0.0.0.0	flytest.gaug.es
 0.0.0.0	fm6dz864.top
 0.0.0.0	fmiphone-apple.com
@@ -8539,6 +8552,7 @@
 0.0.0.0	frame.deployads.com
 0.0.0.0	free-banners.com
 0.0.0.0	freebanner.com
+0.0.0.0	freegeoip.net
 0.0.0.0	freelogs.com
 0.0.0.0	freeonlineusers.com
 0.0.0.0	freepay.com
@@ -8690,6 +8704,7 @@
 0.0.0.0	gam-ad-unit-inspector.s-onetag.com
 0.0.0.0	gam.adnxs.com
 0.0.0.0	game-static.hotngay.vn
+0.0.0.0	game.flygame.io
 0.0.0.0	game.hotngay.vn
 0.0.0.0	game.ssl2.duapps.com
 0.0.0.0	gameads-admin.applifier.com
@@ -8715,6 +8730,7 @@
 0.0.0.0	gateway.supersonicads.com
 0.0.0.0	gateway.twik.io
 0.0.0.0	gaug.es
+0.0.0.0	gavnogeeygaika.com
 0.0.0.0	gayadnetwork.com
 0.0.0.0	gazettextra.advertserve.com
 0.0.0.0	gbalancer.connectad.io
@@ -8988,6 +9004,7 @@
 0.0.0.0	go.tapad.com
 0.0.0.0	go.tapjoy.com
 0.0.0.0	go.treasuredata.com
+0.0.0.0	go.trvdp.com
 0.0.0.0	go.urbanairship.com
 0.0.0.0	go.vnecdn.com
 0.0.0.0	go.weborama.com
@@ -9742,10 +9759,12 @@
 0.0.0.0	images.datatrics.com
 0.0.0.0	images.dmca.com
 0.0.0.0	images.eu.criteo.net
+0.0.0.0	images.flygame.io
 0.0.0.0	images.footballaddicts.se
 0.0.0.0	images.galaxiemedia.fr
 0.0.0.0	images.insightexpressai.com
 0.0.0.0	images.jp.as.criteo.net
+0.0.0.0	images.kabbmedia.com
 0.0.0.0	images.lavanetwork.net
 0.0.0.0	images.mantisadnetwork.com
 0.0.0.0	images.millennialmedia.com
@@ -9959,6 +9978,7 @@
 0.0.0.0	in1.gop1.co
 0.0.0.0	inabsolor.com
 0.0.0.0	inaccused.com
+0.0.0.0	inapi.flygame.io
 0.0.0.0	inapp.districtm.io
 0.0.0.0	inapp.nixozz.com
 0.0.0.0	inapp.themoneytizer.com
@@ -10036,6 +10056,7 @@
 0.0.0.0	ing-mobile.useinsider.com
 0.0.0.0	ing.clicktale.net
 0.0.0.0	ingame.cheqzone.com
+0.0.0.0	ingame.flygame.io
 0.0.0.0	ingameads.gameloft.com
 0.0.0.0	ingest-qa.kube-prod.vungle.com
 0.0.0.0	ingest.fwmrm.net
@@ -10544,6 +10565,7 @@
 0.0.0.0	k8s-dashboard.propellerads.com
 0.0.0.0	k8s.dable.io
 0.0.0.0	ka.display.ad.daum.net
+0.0.0.0	kabbmedia.com
 0.0.0.0	kace.corp.appnexus.com
 0.0.0.0	kaechu0ohtop6j.adx1.com
 0.0.0.0	kaffnet.com
@@ -10728,6 +10750,7 @@
 0.0.0.0	landingpagelagi.vn
 0.0.0.0	landingpages.millennialmedia.com
 0.0.0.0	landingtest.mixpanel.com
+0.0.0.0	largeer.com
 0.0.0.0	latest.app.optimizely.com
 0.0.0.0	laughablecopper.com
 0.0.0.0	laughcloth.com
@@ -11110,8 +11133,10 @@
 0.0.0.0	log.snapdeal.com
 0.0.0.0	log.snssdk.com
 0.0.0.0	log.spotify.com
+0.0.0.0	log.tapchimattran.vn
 0.0.0.0	log.tapchitaichinh.vn
 0.0.0.0	log.thanhnien.vn
+0.0.0.0	log.theleader.vn
 0.0.0.0	log.tienphong.vn
 0.0.0.0	log.tiktokv.com
 0.0.0.0	log.tinnhanhchungkhoan.vn
@@ -11232,6 +11257,7 @@
 0.0.0.0	lotame-users.go.sonobi.com
 0.0.0.0	lotame.com
 0.0.0.0	lotame.users.go.sonobi.com
+0.0.0.0	lottery.flygame.io
 0.0.0.0	lottery.headlines.pw
 0.0.0.0	lottery.vntoday.news
 0.0.0.0	loudloss.com
@@ -14050,6 +14076,7 @@
 0.0.0.0	ptairtug.net
 0.0.0.0	ptimeinc.chartbeat.net
 0.0.0.0	ptrack.betaout.com
+0.0.0.0	ptywajofa.pro
 0.0.0.0	pub-api.supersonicads.com
 0.0.0.0	pub-sdk-cfg.criteo.com
 0.0.0.0	pub.a8.net
@@ -14771,6 +14798,7 @@
 0.0.0.0	rev2pub.adk2x.com
 0.0.0.0	rev2pub.com
 0.0.0.0	revcontent.com
+0.0.0.0	reveal.clearbit.com
 0.0.0.0	reveal.districtm.ca
 0.0.0.0	revee.outbrain.com
 0.0.0.0	revenue-dashboard.playbuzz.com
@@ -14818,6 +14846,7 @@
 0.0.0.0	ringsrecord.com
 0.0.0.0	riotgames.qualtrics.com
 0.0.0.0	ris-gateway.supersonicads.com
+0.0.0.0	risk.clearbit.com
 0.0.0.0	rituationscardb.info
 0.0.0.0	ritzykey.com
 0.0.0.0	ritzysponge.com
@@ -15963,6 +15992,7 @@
 0.0.0.0	sinfb.adsrvr.org
 0.0.0.0	singaporeair.au1.qualtrics.com
 0.0.0.0	single.runative.com
+0.0.0.0	singular.net
 0.0.0.0	sink.l.inmobicdn.net
 0.0.0.0	sinoa.com
 0.0.0.0	sinvideo.adsrvr.org
@@ -16679,6 +16709,7 @@
 0.0.0.0	stat.dsp.batmobi.net
 0.0.0.0	stat.dyna.ultraweb.hu
 0.0.0.0	stat.flashtalking.com
+0.0.0.0	stat.flygame.io
 0.0.0.0	stat.headlines.pw
 0.0.0.0	stat.jscount.com
 0.0.0.0	stat.komoona.com
@@ -16862,6 +16893,7 @@
 0.0.0.0	static.stickers.duapps.com
 0.0.0.0	static.streamate.doublepimp.com
 0.0.0.0	static.styria-digital.com
+0.0.0.0	static.subiz.com
 0.0.0.0	static.supersonicads.com
 0.0.0.0	static.sv.us.criteo.net
 0.0.0.0	static.thedevband.com
@@ -17339,6 +17371,7 @@
 0.0.0.0	sync2ad.com
 0.0.0.0	synchrobox.adswizz.com
 0.0.0.0	synchroscript.adswizz.com
+0.0.0.0	syncwowsails.com
 0.0.0.0	syndicate.purch.com
 0.0.0.0	syndication-evo.exoclick.com
 0.0.0.0	syndication.adxoo.com
@@ -17719,6 +17752,7 @@
 0.0.0.0	th.adnow.com
 0.0.0.0	th.adserver.yahoo.com
 0.0.0.0	thales.adsrvr.org
+0.0.0.0	thapi.flygame.io
 0.0.0.0	tharbadir.com
 0.0.0.0	theadex.com
 0.0.0.0	theadhost.com
@@ -17739,6 +17773,7 @@
 0.0.0.0	thetarhaw.com
 0.0.0.0	theweblocker.net
 0.0.0.0	theyeshivaworld.advertserve.com
+0.0.0.0	thgame.flygame.io
 0.0.0.0	thietkeweb.mediaz.vn
 0.0.0.0	thighlykamsh.site
 0.0.0.0	thinkablerice.com
@@ -18276,6 +18311,7 @@
 0.0.0.0	tuiiu.com
 0.0.0.0	tuisong.baidu.com
 0.0.0.0	tulecheja.pro
+0.0.0.0	tulipluv.xyz
 0.0.0.0	tune.com
 0.0.0.0	tuneci.us-west-2.k8s.ci.ops.tune.com
 0.0.0.0	tuneci.us-west-2.k8s.ops.tune.com
@@ -19712,6 +19748,7 @@
 0.0.0.0	www.alphonso.tv
 0.0.0.0	www.ambient-platform.com
 0.0.0.0	www.ambientdsp.com
+0.0.0.0	www.ambleads.com
 0.0.0.0	www.amplitude.com
 0.0.0.0	www.analysis.fi
 0.0.0.0	www.analytiall.com
@@ -19721,6 +19758,7 @@
 0.0.0.0	www.aniview.com
 0.0.0.0	www.anrdoezrs.net
 0.0.0.0	www.anthill.vn
+0.0.0.0	www.antiadblocksystems.com
 0.0.0.0	www.anticarredodolomiti.com
 0.0.0.0	www.antiviruspro-vietnam.info
 0.0.0.0	www.ants.vn
@@ -19887,6 +19925,7 @@
 0.0.0.0	www.firstimpression.io
 0.0.0.0	www.flashtalking.com
 0.0.0.0	www.flurry.com
+0.0.0.0	www.flygame.io
 0.0.0.0	www.fm6dz864.top
 0.0.0.0	www.fmiphone-apple.com
 0.0.0.0	www.fqtag.com
@@ -20239,6 +20278,7 @@
 0.0.0.0	www.tru.am
 0.0.0.0	www.trustaffs.com
 0.0.0.0	www.tuiiu.com
+0.0.0.0	www.tulipluv.xyz
 0.0.0.0	www.tune.com
 0.0.0.0	www.twik.io
 0.0.0.0	www.tynt.com

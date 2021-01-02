@@ -99,13 +99,13 @@ def backup():
         else:
             print(f"Warning - check {backup_hosts_sources} to make sure it's not empty")
         return
-    longest = len(max(sources.values(), key=len))
+    longest = max(len(source) for source in sources.values())
     # sort by url
     for i, _ in enumerate(sorted(sources.items(), key=lambda _tuple: _tuple[1])):
         _hash, url = _
         if not url:
             continue
-        print(f'{i:2d} - {url:{longest}} - ', end='', flush=True)
+        print(f'{i:2} - {_hash} - {url:{longest}} - ', end='', flush=True)
         try:
             r = requests.get(url, stream=True, headers={
                 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36'})

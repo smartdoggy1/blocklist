@@ -1,8 +1,10 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2020-10-24
+# Backed up on: 2021-01-02
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
+0.0.0.0	7345023508.fxm9485766783.com
+0.0.0.0	7345023508.fxmconnect.com
 0.0.0.0	_xmpp-client._tcp.managed.xmpp.foxtel.com.au
 0.0.0.0	a1.resources.foxtel.com.au
 0.0.0.0	abtauthprd.samsungcloudsolution.com
@@ -20,8 +22,10 @@
 0.0.0.0	aic-ngfts.lge.com
 0.0.0.0	amauthprd.samsungcloudsolution.com
 0.0.0.0	api-gps-em.hismarttv.com
+0.0.0.0	api-gps-na.hismarttv.com
 0.0.0.0	api-hub.samsungyosemite.com
 0.0.0.0	api-launcher-em.hismarttv.com
+0.0.0.0	api-launcher-na.hismarttv.com
 0.0.0.0	api-mf1.meta.ndmdhs.com
 0.0.0.0	api.distribution.hulu.com
 0.0.0.0	api.euro.hismarttv.com
@@ -31,6 +35,8 @@
 0.0.0.0	austin.logs.roku.com
 0.0.0.0	auth-em.hismarttv.com
 0.0.0.0	auth-launcher-em.hismarttv.com
+0.0.0.0	auth-launcher-na.hismarttv.com
+0.0.0.0	auth-na.hismarttv.com
 0.0.0.0	avpro.global.yamaha.com
 0.0.0.0	az43064.vo.msecnd.net
 0.0.0.0	b02.black.ndmdhs.com
@@ -81,7 +87,9 @@
 0.0.0.0	display.ravm.tv
 0.0.0.0	dpu.samsungelectronics.com
 0.0.0.0	e2.resources.foxtel.com.au
+0.0.0.0	events.cid.samba.tv
 0.0.0.0	facemap.foldlife.net
+0.0.0.0	file2fxm.azureedge.net
 0.0.0.0	fkp.samsungcloudsolution.com
 0.0.0.0	fkp.samsungcloudsolution.net
 0.0.0.0	flingo.tv
@@ -125,6 +133,7 @@
 0.0.0.0	mhc-xpana-us.myhomescreen.tv
 0.0.0.0	midland.logs.roku.com
 0.0.0.0	msg-em.hismarttv.com
+0.0.0.0	msg-na.hismarttv.com
 0.0.0.0	multiscreen.samsung.com
 0.0.0.0	musicid.samsungcloudsolution.com
 0.0.0.0	nbc-jite.nbcuni.com
@@ -145,6 +154,7 @@
 0.0.0.0	p-hbbtv.superrtl.de
 0.0.0.0	pavv.co.kr
 0.0.0.0	pipeaota.com
+0.0.0.0	platform.cid.samba.tv
 0.0.0.0	prderrordumphsm.samsungcloudsolution.com
 0.0.0.0	premium-videos.telly.com
 0.0.0.0	prov.samsungcloudsolution.com

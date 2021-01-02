@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2020-12-24
+# Backed up on: 2021-01-02
 
 0.0.0.0	0sbm.consobaby.co.uk
 0.0.0.0	0x1f4b0.com
@@ -21,6 +21,7 @@
 0.0.0.0	a.tovarro.com
 0.0.0.0	a2-eng.spankbang.com
 0.0.0.0	a2x-eng.spankbang.com
+0.0.0.0	a3xo-eng.spankbang.com
 0.0.0.0	a8ht.hipp.fr
 0.0.0.0	aa.avvo.com
 0.0.0.0	aax-eu-dub.amazon.com
@@ -178,6 +179,7 @@
 0.0.0.0	analytics.logsss.com
 0.0.0.0	analytics.mailmunch.co
 0.0.0.0	analytics.matchbin.com
+0.0.0.0	analytics.mbga.jp
 0.0.0.0	analytics.meaww.com
 0.0.0.0	analytics.meituan.net
 0.0.0.0	analytics.midwesternmac.com
@@ -662,6 +664,7 @@
 0.0.0.0	counter.bloke.com
 0.0.0.0	counter.cam-content.com
 0.0.0.0	counter.cnw.cz
+0.0.0.0	counter.digits.com
 0.0.0.0	counter.drom.ru
 0.0.0.0	counter.entertainmentwise.com
 0.0.0.0	counter.hackers.lv
@@ -788,6 +791,7 @@
 0.0.0.0	d2san7t27xb2pn.cloudfront.net
 0.0.0.0	d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0	d2tgfbvjf3q6hn.cloudfront.net
+0.0.0.0	d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0	d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0	d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0	d32hwlnfiv2gyn.cloudfront.net
@@ -1149,6 +1153,7 @@
 0.0.0.0	g5150192710.co
 0.0.0.0	g5348277045.co
 0.0.0.0	g5546361380.co
+0.0.0.0	g5744445715.co
 0.0.0.0	ga-beacon.appspot.com
 0.0.0.0	ga.canoe.ca
 0.0.0.0	ga.kvideo.io
@@ -1332,6 +1337,7 @@
 0.0.0.0	jelly.mdhv.io
 0.0.0.0	jppolid-track.trackprod.integration.jppol.dk
 0.0.0.0	js-agent.newrelic.com
+0.0.0.0	k.kolplay.com
 0.0.0.0	k.rueducommerce.fr
 0.0.0.0	k.streamrail.com
 0.0.0.0	k9v7.dotabuff.com
@@ -1872,6 +1878,7 @@
 0.0.0.0	redeye.williamhill.com
 0.0.0.0	redhillandreigatelife-gb.redhillandreigatelife.co.uk
 0.0.0.0	ref.dealerinspire.com
+0.0.0.0	refer.ccbill.com
 0.0.0.0	referer.pixplug.in
 0.0.0.0	referrer.disqus.com
 0.0.0.0	rek.www.wp.pl
@@ -2729,6 +2736,7 @@
 0.0.0.0	tracking.gameforge.de
 0.0.0.0	tracking.godatafeed.com
 0.0.0.0	tracking.goodgamestudios.com
+0.0.0.0	tracking.gpm-rtv.ru
 0.0.0.0	tracking.gruppo.mps.it
 0.0.0.0	tracking.ha.rueducommerce.fr
 0.0.0.0	tracking.hannoversche.de
@@ -2776,6 +2784,7 @@
 0.0.0.0	tracking.rightmessage.com
 0.0.0.0	tracking.rtl.de
 0.0.0.0	tracking.s24.com
+0.0.0.0	tracking.scenepass.com
 0.0.0.0	tracking.searchmarketing.com
 0.0.0.0	tracking.shopstyle.com
 0.0.0.0	tracking.shoptogether.buy.com
@@ -2842,6 +2851,7 @@
 0.0.0.0	tru.webelapp.com
 0.0.0.0	trueffect.underarmour.com
 0.0.0.0	trx.smdatalabs.com
+0.0.0.0	trx3.famousfix.com
 0.0.0.0	ts.faz.net
 0.0.0.0	ts.rtl.de
 0.0.0.0	ts.tradetracker.net
