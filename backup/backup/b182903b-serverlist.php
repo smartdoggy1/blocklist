@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2020-12-24
+# Backed up on: 2021-01-19
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -86,6 +86,7 @@
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-balancer.at
 0.0.0.0	ad-balancer.net
+0.0.0.0	ad-cupid.com
 0.0.0.0	ad-delivery.net
 0.0.0.0	ad-pay.de
 0.0.0.0	ad-rotator.com
@@ -218,6 +219,7 @@
 0.0.0.0	adapt.tv
 0.0.0.0	adaranth.com
 0.0.0.0	adback.co
+0.0.0.0	adbilty.me
 0.0.0.0	adblade.com
 0.0.0.0	adblade.org
 0.0.0.0	adblockanalytics.com
@@ -814,6 +816,7 @@
 0.0.0.0	adsend.de
 0.0.0.0	adsensecustomsearchads.com
 0.0.0.0	adserve.ams.rhythmxchange.com
+0.0.0.0	adserve.gkeurope.de
 0.0.0.0	adserve.io
 0.0.0.0	adserve.jbs.org
 0.0.0.0	adserver.71i.de
@@ -826,6 +829,7 @@
 0.0.0.0	adserver.bdoce.cl
 0.0.0.0	adserver.betandwin.de
 0.0.0.0	adserver.bing.com
+0.0.0.0	adserver.bizedge.com
 0.0.0.0	adserver.bizhat.com
 0.0.0.0	adserver.break-even.it
 0.0.0.0	adserver.cams.com
@@ -855,6 +859,7 @@
 0.0.0.0	adserver.o2.pl
 0.0.0.0	adserver.oddschecker.com
 0.0.0.0	adserver.omroepzeeland.nl
+0.0.0.0	adserver.otthonom.hu
 0.0.0.0	adserver.pampa.com.br
 0.0.0.0	adserver.pl
 0.0.0.0	adserver.portugalmail.net
@@ -865,6 +870,7 @@
 0.0.0.0	adserver.spankaway.com
 0.0.0.0	adserver.thema.cc
 0.0.0.0	adserver.theonering.net
+0.0.0.0	adserver.trojaner-info.de
 0.0.0.0	adserver.twitpic.com
 0.0.0.0	adserver.viagogo.com
 0.0.0.0	adserver.virginmedia.com
@@ -886,6 +892,7 @@
 0.0.0.0	adsfac.eu
 0.0.0.0	adsfac.net
 0.0.0.0	adsfac.us
+0.0.0.0	adsfactor.net
 0.0.0.0	adsfeed.brabys.com
 0.0.0.0	adside.com
 0.0.0.0	adsiduous.com
@@ -1051,6 +1058,7 @@
 0.0.0.0	aistat.net
 0.0.0.0	ak0gsh40.com
 0.0.0.0	aktrack.pubmatic.com
+0.0.0.0	alchemist.go2cloud.org
 0.0.0.0	alclick.com
 0.0.0.0	alenty.com
 0.0.0.0	alert.com.mt
@@ -2039,6 +2047,7 @@
 0.0.0.0	hyperbanner.net
 0.0.0.0	hypertracker.com
 0.0.0.0	hyprmx.com
+0.0.0.0	hyros.com
 0.0.0.0	hystericalhelp.com
 0.0.0.0	i-clicks.net
 0.0.0.0	i-i.lt
@@ -2268,6 +2277,7 @@
 0.0.0.0	log.btopenworld.com
 0.0.0.0	log.logrocket.io
 0.0.0.0	log.pinterest.com
+0.0.0.0	log.videocampaign.co
 0.0.0.0	logger.snackly.co
 0.0.0.0	logs.datadoghq.com
 0.0.0.0	logs.datadoghq.eu
@@ -2328,6 +2338,7 @@
 0.0.0.0	matheranalytics.com
 0.0.0.0	mathtag.com
 0.0.0.0	matomo.activate.cz
+0.0.0.0	matomo.kmkb.ru
 0.0.0.0	mautic.com
 0.0.0.0	max.i12.de
 0.0.0.0	maximiser.net
@@ -2992,6 +3003,7 @@
 0.0.0.0	securemetrics.apple.com
 0.0.0.0	sedoparking.com
 0.0.0.0	sedotracker.com
+0.0.0.0	segmetrics.io
 0.0.0.0	selectionsugar.com
 0.0.0.0	selectivesummer.com
 0.0.0.0	semasio.net
@@ -3152,8 +3164,10 @@
 0.0.0.0	stats.hyperinzerce.cz
 0.0.0.0	stats.merriam-webster.com
 0.0.0.0	stats.mirrorfootball.co.uk
+0.0.0.0	stats.nextgen-email.com
 0.0.0.0	stats.olark.com
 0.0.0.0	stats.pusher.com
+0.0.0.0	stats.rdphv.net
 0.0.0.0	stats.self.com
 0.0.0.0	stats.townnews.com
 0.0.0.0	stats.unwired-i.net
@@ -3273,6 +3287,7 @@
 0.0.0.0	thinkablerice.com
 0.0.0.0	thirdrespect.com
 0.0.0.0	thirstytwig.com
+0.0.0.0	thomastorch.com
 0.0.0.0	threechurch.com
 0.0.0.0	throattrees.com
 0.0.0.0	throtle.io
@@ -3333,6 +3348,7 @@
 0.0.0.0	track.hexcan.com
 0.0.0.0	track.mailerlite.com
 0.0.0.0	track.nuxues.com
+0.0.0.0	track.themaccleanup.info
 0.0.0.0	track.tkbo.com
 0.0.0.0	track.ultravpn.com
 0.0.0.0	track.undressingpics.work
@@ -3510,6 +3526,7 @@
 0.0.0.0	visitpath.com
 0.0.0.0	visual-pagerank.fr
 0.0.0.0	visualrevenue.com
+0.0.0.0	vivads.net
 0.0.0.0	vivtracking.com
 0.0.0.0	vmmpxl.com
 0.0.0.0	voicefive.com
@@ -3612,6 +3629,7 @@
 0.0.0.0	xad.com
 0.0.0.0	xapads.com
 0.0.0.0	xchange.ro
+0.0.0.0	xcsypkknp.com
 0.0.0.0	xertive.com
 0.0.0.0	xfreeservice.com
 0.0.0.0	xg4ken.com
