@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2020-12-24
+# Backed up on: 2021-02-03
 
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10402.engine.mobileapptracking.com
@@ -2794,6 +2794,7 @@
 0.0.0.0	api.wootric.com
 0.0.0.0	api.wootric.com.herokudns.com
 0.0.0.0	api.wsq.umeng.com
+0.0.0.0	api.wzrkt.com
 0.0.0.0	api.xdirectx.com
 0.0.0.0	api.yieldlove-ad-serving.net
 0.0.0.0	api.yieldmagic.com
@@ -4010,6 +4011,7 @@
 0.0.0.0	cb.ksmobile.com
 0.0.0.0	cb.mopub.com
 0.0.0.0	cb.sailthru.com
+0.0.0.0	cb.wzrkt.com
 0.0.0.0	cbcnewmedia.pushwoosh.com
 0.0.0.0	cben1.net
 0.0.0.0	cbjs.baidu.com
@@ -6181,6 +6183,9 @@
 0.0.0.0	eu.qualtrics.com
 0.0.0.0	eu.y.atwola.com
 0.0.0.0	eu01.nr-data.net
+0.0.0.0	eu1-spiky.wzrkt.com
+0.0.0.0	eu1.wzrkt.com
+0.0.0.0	eu2.wzrkt.com
 0.0.0.0	eua.insight.adsrvr.org
 0.0.0.0	euadsapi.manhuaren.com
 0.0.0.0	euapi.ibm.xtify.com
@@ -7582,6 +7587,7 @@
 0.0.0.0	imsapi.vnet.cn
 0.0.0.0	imwx.com
 0.0.0.0	in-gmtdmp.mookie1.com
+0.0.0.0	in-spiky.wzrkt.com
 0.0.0.0	in.admicro.vn
 0.0.0.0	in.advertising.yahoo.com
 0.0.0.0	in.analytics.glance.inmobi.com
@@ -7593,6 +7599,9 @@
 0.0.0.0	in.cuebiq.com
 0.0.0.0	in.getclicky.com
 0.0.0.0	in.treasuredata.com
+0.0.0.0	in.wzrkt.com
+0.0.0.0	in1-spiky.wzrkt.com
+0.0.0.0	in1.wzrkt.com
 0.0.0.0	inapp.nixozz.com
 0.0.0.0	inapps.appsflyer.com
 0.0.0.0	inapps.moengage.com
@@ -11710,6 +11719,8 @@
 0.0.0.0	sg01.midosoo.com
 0.0.0.0	sg01.rayjump.com
 0.0.0.0	sg01.smardroid.com
+0.0.0.0	sg1-spiky.wzrkt.com
+0.0.0.0	sg1.wzrkt.com
 0.0.0.0	sg2-bid.adsrvr.org
 0.0.0.0	sgbid.prod.sift.co
 0.0.0.0	sgcp-hlb.doubleverify.com
@@ -11888,6 +11899,20 @@
 0.0.0.0	sjrtp8-cdn.marketo.com
 0.0.0.0	sjrtp8.marketo.com
 0.0.0.0	sk-gmtdmp.mookie1.com
+0.0.0.0	sk1-spiky.wzrkt.com
+0.0.0.0	sk1-staging-1.wzrkt.com
+0.0.0.0	sk1-staging-10.wzrkt.com
+0.0.0.0	sk1-staging-11.wzrkt.com
+0.0.0.0	sk1-staging-12.wzrkt.com
+0.0.0.0	sk1-staging-2.wzrkt.com
+0.0.0.0	sk1-staging-3.wzrkt.com
+0.0.0.0	sk1-staging-4.wzrkt.com
+0.0.0.0	sk1-staging-5.wzrkt.com
+0.0.0.0	sk1-staging-6.wzrkt.com
+0.0.0.0	sk1-staging-7.wzrkt.com
+0.0.0.0	sk1-staging-8.wzrkt.com
+0.0.0.0	sk1-staging-9.wzrkt.com
+0.0.0.0	sk1.wzrkt.com
 0.0.0.0	skai.iad-03.braze.com
 0.0.0.0	skw.adledge.com
 0.0.0.0	skypicker-api.infinario.com
@@ -13661,7 +13686,9 @@
 0.0.0.0	us01.rayjump.com
 0.0.0.0	us01.salmonads.com
 0.0.0.0	us01.smardroid.com
+0.0.0.0	us1-spiky.wzrkt.com
 0.0.0.0	us1.splicky.com
+0.0.0.0	us1.wzrkt.com
 0.0.0.0	us2.splicky.com
 0.0.0.0	us2.sumologic.com
 0.0.0.0	us3.splicky.com

@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-01-19
+# Backed up on: 2021-02-03
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -866,6 +866,7 @@
 0.0.0.0	adserver.pressboard.ca
 0.0.0.0	adserver.sanomawsoy.fi
 0.0.0.0	adserver.sciflicks.com
+0.0.0.0	adserver.scr.sk
 0.0.0.0	adserver.sharewareonline.com
 0.0.0.0	adserver.spankaway.com
 0.0.0.0	adserver.thema.cc
@@ -894,6 +895,7 @@
 0.0.0.0	adsfac.us
 0.0.0.0	adsfactor.net
 0.0.0.0	adsfeed.brabys.com
+0.0.0.0	adshrink.it
 0.0.0.0	adside.com
 0.0.0.0	adsiduous.com
 0.0.0.0	adskeeper.co.uk
@@ -961,6 +963,7 @@
 0.0.0.0	adv.hwupgrade.it
 0.0.0.0	adv.livedoor.com
 0.0.0.0	adv.mezon.ru
+0.0.0.0	adv.mpvc.it
 0.0.0.0	adv.nexthardware.com
 0.0.0.0	adv.webmd.com
 0.0.0.0	adv.wp.pl
@@ -1364,6 +1367,8 @@
 0.0.0.0	broadboundary.com
 0.0.0.0	broadcastbed.com
 0.0.0.0	broaddoor.com
+0.0.0.0	browser-http-intake.logs.datadoghq.com
+0.0.0.0	browser-http-intake.logs.datadoghq.eu
 0.0.0.0	bs.yandex.ru
 0.0.0.0	btez8.xyz
 0.0.0.0	btrll.com
@@ -1502,6 +1507,7 @@
 0.0.0.0	cluster.adultworld.com
 0.0.0.0	clustrmaps.com
 0.0.0.0	cmp.dmgmediaprivacy.co.uk
+0.0.0.0	cmp.osano.com
 0.0.0.0	cmvrclicks000.com
 0.0.0.0	cnomy.com
 0.0.0.0	cnt.spbland.ru
@@ -1684,6 +1690,7 @@
 0.0.0.0	domainsponsor.com
 0.0.0.0	domainsteam.de
 0.0.0.0	domdex.com
+0.0.0.0	dotmetrics.net
 0.0.0.0	doubleclick.com
 0.0.0.0	doubleclick.de
 0.0.0.0	doubleclick.net
@@ -2961,6 +2968,8 @@
 0.0.0.0	rtxplatform.com
 0.0.0.0	ru4.com
 0.0.0.0	rubiconproject.com
+0.0.0.0	rum-http-intake.logs.datadoghq.com
+0.0.0.0	rum-http-intake.logs.datadoghq.eu
 0.0.0.0	runads.com
 0.0.0.0	rundsp.com
 0.0.0.0	ruthlessrobin.com
@@ -3258,6 +3267,7 @@
 0.0.0.0	tcads.net
 0.0.0.0	teads.tv
 0.0.0.0	tealeaf.com
+0.0.0.0	tealium.cbsnews.com
 0.0.0.0	tealium.com
 0.0.0.0	tealiumiq.com
 0.0.0.0	techclicks.net
