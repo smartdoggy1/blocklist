@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Shalla-mal.txt
-# Backed up on: 2020-08-23
+# Backed up on: 2021-03-20
 
 0.0.0.0	0-29.com
 0.0.0.0	0-2u.com
@@ -6873,6 +6873,7 @@
 0.0.0.0	getweathercast.com
 0.0.0.0	getxxxmovies.net
 0.0.0.0	getyouneed.com
+0.0.0.0	gewinncode.tiptopko65.com
 0.0.0.0	gfoogle.com
 0.0.0.0	gfsignals.com
 0.0.0.0	gftraders.com
@@ -10220,6 +10221,9 @@
 0.0.0.0	mydailyhoroscope.net
 0.0.0.0	mydesigngroup.com
 0.0.0.0	myemoticons.com
+0.0.0.0	myetherwallet.comou.cc
+0.0.0.0	myetherwallet.logincomr.cc
+0.0.0.0	myetherwalletk.cc
 0.0.0.0	myeyeavsscan.com
 0.0.0.0	myeyescanneravs.com
 0.0.0.0	myfastinternet.com
@@ -14226,6 +14230,7 @@
 0.0.0.0	skene.net
 0.0.0.0	skilljam.com
 0.0.0.0	skimantivirus.com
+0.0.0.0	skinbeautyyr.com
 0.0.0.0	skinhead.com
 0.0.0.0	skins.hotbar.com
 0.0.0.0	skitodayplease.com
@@ -14994,6 +14999,7 @@
 0.0.0.0	sunmoviespage.com
 0.0.0.0	sunnies101.com
 0.0.0.0	sunnyasians.com
+0.0.0.0	sunnybunk.com
 0.0.0.0	sunnysex.net
 0.0.0.0	sunnyvirgins.com
 0.0.0.0	sunpic.com
@@ -15942,6 +15948,7 @@
 0.0.0.0	tracktraff.cc
 0.0.0.0	trackvisits.cc
 0.0.0.0	trackwasher.com
+0.0.0.0	trackyourpackage.page.link
 0.0.0.0	trackyourstats.com
 0.0.0.0	trackzapper.com
 0.0.0.0	trade-design.com
@@ -16007,6 +16014,7 @@
 0.0.0.0	tramadol-google.org
 0.0.0.0	trannybody.com
 0.0.0.0	trans4u.net
+0.0.0.0	transaction2you.com
 0.0.0.0	transex.com
 0.0.0.0	transex.digieros.com
 0.0.0.0	transparty.net
@@ -16729,6 +16737,7 @@
 0.0.0.0	weblocated.net
 0.0.0.0	weblog.blogads.com
 0.0.0.0	webmail.121media.com
+0.0.0.0	webmail.gotdns.ch
 0.0.0.0	webmail.kanoodle.com
 0.0.0.0	webmaste.drunkenmature.net
 0.0.0.0	webmasterz.biz
@@ -19412,6 +19421,7 @@
 0.0.0.0	yoursystemguard.com
 0.0.0.0	yoursystemupdate.com
 0.0.0.0	yourthumbnails.com
+0.0.0.0	yourtrackservice.com
 0.0.0.0	yourturbe.org
 0.0.0.0	yourxmas.com
 0.0.0.0	youshow.co.kr
@@ -19536,6 +19546,7 @@
 0.0.0.0	ziprox.com
 0.0.0.0	zirkon.cn
 0.0.0.0	zitano.capitalizmu.net
+0.0.0.0	zituazionecredito.casa
 0.0.0.0	ziyoulonglive.com
 0.0.0.0	ziziziziboyter.blogspot.com
 0.0.0.0	zj5173.com
@@ -19550,6 +19561,7 @@
 0.0.0.0	zofox.com
 0.0.0.0	zoha.net
 0.0.0.0	zolero.com
+0.0.0.0	zollweb.com
 0.0.0.0	zomb.hopto.org
 0.0.0.0	zombiekillersclan.t35.com
 0.0.0.0	zonafetish.com

@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-02-03
+# Backed up on: 2021-03-20
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -17,6 +17,7 @@
 0.0.0.0	2o7.net
 0.0.0.0	2znp09oa.com
 0.0.0.0	30ads.com
+0.0.0.0	3337723.com
 0.0.0.0	33across.com
 0.0.0.0	360yield.com
 0.0.0.0	3lift.com
@@ -79,6 +80,7 @@
 0.0.0.0	acid-adserver.click
 0.0.0.0	acridtwist.com
 0.0.0.0	actionsplash.com
+0.0.0.0	actonsoftware.com
 0.0.0.0	actualdeals.com
 0.0.0.0	actuallysheep.com
 0.0.0.0	actuallysnake.com
@@ -945,6 +947,7 @@
 0.0.0.0	adtegrity.net
 0.0.0.0	adthis.com
 0.0.0.0	adthrive.com
+0.0.0.0	adthurst.com
 0.0.0.0	adtiger.de
 0.0.0.0	adtilt.com
 0.0.0.0	adtng.com
@@ -1071,6 +1074,7 @@
 0.0.0.0	alipromo.com
 0.0.0.0	all4spy.com
 0.0.0.0	allosponsor.com
+0.0.0.0	aloofvest.com
 0.0.0.0	alphonso.tv
 0.0.0.0	als-svc.nytimes.com
 0.0.0.0	amazingcounters.com
@@ -1099,6 +1103,7 @@
 0.0.0.0	analytics.mailmunch.co
 0.0.0.0	analytics.myfinance.com
 0.0.0.0	analytics.mytvzion.pro
+0.0.0.0	analytics.ostr.io
 0.0.0.0	analytics.phando.com
 0.0.0.0	analytics.picsart.com
 0.0.0.0	analytics.poolshool.com
@@ -1111,6 +1116,7 @@
 0.0.0.0	analyticsapi.happypancake.net
 0.0.0.0	aniview.com
 0.0.0.0	annonser.dagbladet.no
+0.0.0.0	annoyedairport.com
 0.0.0.0	anrdoezrs.net
 0.0.0.0	anstrex.com
 0.0.0.0	anuncios.edicaoms.com.br
@@ -1146,6 +1152,7 @@
 0.0.0.0	aswpapius.com
 0.0.0.0	aswpsdkus.com
 0.0.0.0	at-adserver.alltop.com
+0.0.0.0	at-o.net
 0.0.0.0	atdmt.com
 0.0.0.0	athena-ads.wikia.com
 0.0.0.0	ato.mx
@@ -1455,6 +1462,7 @@
 0.0.0.0	clevernt.com
 0.0.0.0	click.a-ads.com
 0.0.0.0	click.cartsguru.io
+0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.fool.com
 0.0.0.0	click.kmindex.ru
@@ -1538,6 +1546,7 @@
 0.0.0.0	connextra.com
 0.0.0.0	consciouschairs.com
 0.0.0.0	consensad.com
+0.0.0.0	consensu.org
 0.0.0.0	contadores.miarroba.com
 0.0.0.0	contaxe.de
 0.0.0.0	content.acc-hd.de
@@ -1615,6 +1624,7 @@
 0.0.0.0	culturedcrayon.com
 0.0.0.0	cumbersomecloud.com
 0.0.0.0	curtaincows.com
+0.0.0.0	custom.plausible.io
 0.0.0.0	customad.cnn.com
 0.0.0.0	cutecushion.com
 0.0.0.0	cuteturkey.com
@@ -1684,8 +1694,10 @@
 0.0.0.0	dmtracker.com
 0.0.0.0	dmtracking.alibaba.com
 0.0.0.0	dmtracking2.alibaba.com
+0.0.0.0	dnsdelegation.io
 0.0.0.0	do-global.com
 0.0.0.0	docksalmon.com
+0.0.0.0	dogcollarfavourbluff.com
 0.0.0.0	domaining.in
 0.0.0.0	domainsponsor.com
 0.0.0.0	domainsteam.de
@@ -1848,6 +1860,7 @@
 0.0.0.0	feebleshock.com
 0.0.0.0	feedbackresearch.com
 0.0.0.0	feedjit.com
+0.0.0.0	feedmob.com
 0.0.0.0	ffxcam.fairfax.com.au
 0.0.0.0	fimserve.com
 0.0.0.0	findcommerce.com
@@ -2162,6 +2175,7 @@
 0.0.0.0	iyfnzgb.com
 0.0.0.0	j93557g.com
 0.0.0.0	jadeitite.com
+0.0.0.0	jads.co
 0.0.0.0	jaizouji.com
 0.0.0.0	jauchuwa.net
 0.0.0.0	jcount.com
@@ -2257,6 +2271,7 @@
 0.0.0.0	lightcushion.com
 0.0.0.0	lightspeedcash.com
 0.0.0.0	lijit.com
+0.0.0.0	line.jzs001.cn
 0.0.0.0	link-booster.de
 0.0.0.0	link4ads.com
 0.0.0.0	linkadd.de
@@ -2623,6 +2638,7 @@
 0.0.0.0	outbrain.com
 0.0.0.0	overconfidentfood.com
 0.0.0.0	overture.com
+0.0.0.0	owebanalytics.com
 0.0.0.0	owebmoney.ru
 0.0.0.0	owlsr.us
 0.0.0.0	owneriq.net
@@ -2642,6 +2658,7 @@
 0.0.0.0	pagerank4you.com
 0.0.0.0	pageranktop.com
 0.0.0.0	paleleaf.com
+0.0.0.0	panickycurtain.com
 0.0.0.0	paradoxfactor.com
 0.0.0.0	parchedangle.com
 0.0.0.0	parketsy.pro
@@ -2818,6 +2835,7 @@
 0.0.0.0	quacksquirrel.com
 0.0.0.0	quaintcan.com
 0.0.0.0	quantcast.com
+0.0.0.0	quantcount.com
 0.0.0.0	quantserve.com
 0.0.0.0	quantummetric.com
 0.0.0.0	quarterbean.com
@@ -2978,6 +2996,7 @@
 0.0.0.0	s20dh7e9dh.com
 0.0.0.0	s24hc8xzag.com
 0.0.0.0	s2d6.com
+0.0.0.0	sa.api.intl.miui.com
 0.0.0.0	sabio.us
 0.0.0.0	sageanalyst.net
 0.0.0.0	sail-horizon.com
@@ -3197,6 +3216,7 @@
 0.0.0.0	stickyadstv.com
 0.0.0.0	stiffgame.com
 0.0.0.0	storesurprise.com
+0.0.0.0	storetail.io
 0.0.0.0	stormyachiever.com
 0.0.0.0	storygize.net
 0.0.0.0	stoveseashore.com
@@ -3238,6 +3258,7 @@
 0.0.0.0	taboola.com
 0.0.0.0	tag.links-analytics.com
 0.0.0.0	tagan.adlightning.com
+0.0.0.0	tagcommander.com
 0.0.0.0	tagger.opecloud.com
 0.0.0.0	tags.tiqcdn.com
 0.0.0.0	tagular.com
@@ -3394,6 +3415,7 @@
 0.0.0.0	tracking.lenddom.com
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.olx-st.com
+0.0.0.0	tracking.orixa-media.com
 0.0.0.0	tracking.publicidees.com
 0.0.0.0	tracking.thinkabt.com
 0.0.0.0	tracking01.walmart.com
@@ -3429,6 +3451,7 @@
 0.0.0.0	traktrafficflow.com
 0.0.0.0	tranquilside.com
 0.0.0.0	travis.bosscasinos.com
+0.0.0.0	trck.a8.net
 0.0.0.0	trcking4wdm.de
 0.0.0.0	trcklion.com
 0.0.0.0	treasuredata.com
@@ -3483,6 +3506,7 @@
 0.0.0.0	untd.com
 0.0.0.0	untidyquestion.com
 0.0.0.0	unusualtitle.com
+0.0.0.0	unwieldyhealth.com
 0.0.0.0	unwrittenspot.com
 0.0.0.0	upu.samsungelectronics.com
 0.0.0.0	urlcash.net
@@ -3560,6 +3584,7 @@
 0.0.0.0	wateryvan.com
 0.0.0.0	wd-track.de
 0.0.0.0	wdads.sx.atl.publicus.com
+0.0.0.0	wearbasin.com
 0.0.0.0	web-redirecting.com
 0.0.0.0	web-stat.com
 0.0.0.0	web.informer.com
@@ -3613,6 +3638,7 @@
 0.0.0.0	wirecomic.com
 0.0.0.0	wisepops.com
 0.0.0.0	witch-counter.de
+0.0.0.0	wizaly.com
 0.0.0.0	wlmarketing.com
 0.0.0.0	womanear.com
 0.0.0.0	wonderlandads.com

@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/static/w3kbl.txt
-# Backed up on: 2020-12-24
+# Backed up on: 2021-03-20
 
 0.0.0.0	2znp09oa.com
 0.0.0.0	4jnzhl0d0.com
@@ -21,6 +21,7 @@
 0.0.0.0	actuallysheep.com
 0.0.0.0	ad-cdn.technoratimedia.com
 0.0.0.0	ad.fyber.angsrvr.com
+0.0.0.0	ad.mopub.com
 0.0.0.0	adc-ad-assets.adtilt.com
 0.0.0.0	ade.googlesyndication.com
 0.0.0.0	adiode.com
@@ -478,6 +479,7 @@
 0.0.0.0	placements.tapjoy.com
 0.0.0.0	platform.cloud-iq.com.au
 0.0.0.0	player.adtelligent.com
+0.0.0.0	pool.tumblr.iponweb.net
 0.0.0.0	possessivebucket.com
 0.0.0.0	possibleboats.com
 0.0.0.0	practicetoothpaste.com
