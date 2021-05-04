@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Shalla-mal.txt
-# Backed up on: 2021-03-20
+# Backed up on: 2021-05-04
 
 0.0.0.0	0-29.com
 0.0.0.0	0-2u.com
@@ -3413,6 +3413,7 @@
 0.0.0.0	checkflow.com
 0.0.0.0	checkforspyware.com
 0.0.0.0	checkonline.cc
+0.0.0.0	checkout-security.com
 0.0.0.0	checkspy.com
 0.0.0.0	checkssecurity.com
 0.0.0.0	checkstate.com
@@ -12364,6 +12365,7 @@
 0.0.0.0	purescans.com
 0.0.0.0	purityscan.com
 0.0.0.0	puritysweep.com
+0.0.0.0	push-tan-de.app
 0.0.0.0	pushgate.com
 0.0.0.0	pussyleaks.com
 0.0.0.0	pussytoip.ws
@@ -15230,6 +15232,7 @@
 0.0.0.0	targetsaver.com
 0.0.0.0	targettraf.com
 0.0.0.0	targetwords.com
+0.0.0.0	targospport.yesgeneraltrading.com
 0.0.0.0	tarog.us
 0.0.0.0	tasobga.org
 0.0.0.0	tassweq.com

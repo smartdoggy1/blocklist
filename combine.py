@@ -15,6 +15,7 @@ combined_hosts_sources_dir = 'sources'
 backup_hosts_sources = os.path.join('backup', 'sources.txt')
 backup_hosts_destination_dir = os.path.join('backup', 'backup')
 whitelist = 'whitelist'
+trim = 'trim'
 hash_length = 8
 
 parser = argparse.ArgumentParser(description='Allows the retrieval (--backup) of hosts files, and then merging all of the hosts files (--combine) to one single host file.')
@@ -27,6 +28,7 @@ backup_group.add_argument('--clean', action='store_true', help=f'Formats each fi
 combine_group.add_argument('-c', '--combine', action='store_true', help=f'Combine all files from {combined_hosts_sources_dir} to {combined_hosts}.')
 combine_group.add_argument('-e', '--everything', action='store_true', help=f'When used with -c, include {backup_hosts_destination_dir} and store to {combined_everything_hosts}.')
 combine_group.add_argument('-i', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
+combine_group.add_argument('-t', '--trim', action='store_true', help=f'When using -c, exclude all hosts that match regexes in the file {trim}. Useful to lower the final file size.')
 args = parser.parse_args()
 if args.select:
     for _hash in args.select:
@@ -71,6 +73,7 @@ def load_file_to_set(opened_hostfile, data):
 def clean():
     '''Use this when the filtering rules in load_file_to_set() has changed.'''
     target = backup_hosts_destination_dir
+    print(f'Cleaning {target}...')
     for filename in os.listdir(target):
         filename = os.path.join(target, filename)
         data = set()
@@ -89,8 +92,8 @@ def clean():
 
 def backup():
     with open(backup_hosts_sources) as f:
-        # sources is a dict of {hash: url}
-        sources = {hashlib.sha256(line.strip().encode()).hexdigest()[:hash_length]: line.strip() for line in f}
+        # sources is a dict of {hash: url}, skips commented lines
+        sources = {hashlib.sha256(line.strip().encode()).hexdigest()[:hash_length]: line.strip() for line in f if not line.startswith('#')}
     if args.select:
         sources = {_hash: url for _hash, url in sources.items() if _hash in args.select}
     if len(sources) == 0:
@@ -161,18 +164,39 @@ def apply_whitelist(data):
     return before - len(data)
 
 
+def apply_trim(data):
+    with open(trim, 'rb') as f:
+        regexes = [re.compile(line.strip()) for line in f if line.strip()]
+    to_remove = set()
+    for line in data:
+        test_line = line[8:]
+        for regex in regexes:
+            if regex.search(test_line):
+                to_remove.add(line)
+                break
+    data.difference_update(to_remove)
+    return len(to_remove)
+
+
 def combine():
     data = set()
-    print(f'Merging {combined_hosts_sources_dir}...')
+    print(f'Merging {combined_hosts_sources_dir}...', end='', flush=True)
     c = store_hosts(data, combined_hosts_sources_dir)
+    print(f'merged {c:,} entries')
     if args.everything:
-        print(f'Merging {backup_hosts_destination_dir} too...')
-        c += store_hosts(data, backup_hosts_destination_dir)
+        print(f'Merging {backup_hosts_destination_dir} too...', end='', flush=True)
+        new_c = store_hosts(data, backup_hosts_destination_dir)
+        c += new_c
+        print(f'merged {new_c:,} extra entries')
     fname = combined_everything_hosts if args.everything else combined_hosts
     if not args.ignore_whitelist:
         print(f'Whitelisted {apply_whitelist(data)} entries.')
+    if args.trim:
+        print('Trimming...', end='', flush=True)
+        print(f'trimmed {apply_trim(data):,} entries.')
     with open(fname, 'wb') as f:
         f.write(b'\n'.join(sorted(data)))
+    print('Writing to disk...', flush=True)
     print(f'Written {len(data):,} lines to {fname} (removed {c - len(data):,} duplicates).')
 
 

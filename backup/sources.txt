@@ -1,9 +1,10 @@
+# https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts
 https://adaway.org/hosts.txt
 https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 https://dbl.oisd.nl/basic/
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://gitlab.com/quidsup/ntrk-tracker-radar/-/raw/master/ddg_tracker_radar_confirmed.hosts
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0

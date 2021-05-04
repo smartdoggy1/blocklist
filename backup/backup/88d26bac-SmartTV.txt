@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2021-03-20
+# Backed up on: 2021-05-04
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -45,6 +45,7 @@
 0.0.0.0	bravia.dl.playstation.net
 0.0.0.0	call.me.sel.sony.com
 0.0.0.0	cdn.hbbtv.smartclip.net
+0.0.0.0	cdn.samsungcloudsolution.com
 0.0.0.0	cdn.samsungcloudsolution.net
 0.0.0.0	cdn.smartclip.net
 0.0.0.0	cdns-content.dzcdn.net

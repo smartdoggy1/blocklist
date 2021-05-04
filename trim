@@ -1,0 +1,5 @@
+(^|\.)(doubleclick|trafficjunky|algolia)\.net$
+(^|\.)(qualtrics|tremorhub|algolianet)\.com$
+(^|\.)intercom\.io$
+(^|\.)online-metrix\.(net|com)$
+(ads|austin|data|logs|track)\.roku\.com$

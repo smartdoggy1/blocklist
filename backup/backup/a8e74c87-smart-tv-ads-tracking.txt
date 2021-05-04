@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smart-tv-ads-tracking.txt
-# Backed up on: 2021-01-02
+# Backed up on: 2021-05-04
 
 0.0.0.0	2mdn.net
 0.0.0.0	7345023508.fxm9485766783.com
@@ -26,6 +26,7 @@
 0.0.0.0	austin.logs.roku.com
 0.0.0.0	auth-em.hismarttv.com
 0.0.0.0	auth-launcher-em.hismarttv.com
+0.0.0.0	b02.black.ndmdhs.com
 0.0.0.0	bdcore-apr-lb.bda.ndmdhs.com
 0.0.0.0	bpu.samsungelectronics.com
 0.0.0.0	bravia.dl.playstation.net
@@ -150,6 +151,7 @@
 0.0.0.0	smartclip.net
 0.0.0.0	smartshare.lgtvsdp.com
 0.0.0.0	social.biv.sony.tv
+0.0.0.0	sonybivstatic-a.akamaihd.net
 0.0.0.0	ssm1.internet.sony.tv
 0.0.0.0	ssm2.internet.sony.tv
 0.0.0.0	ssm3.internet.sony.tv
@@ -178,6 +180,8 @@
 0.0.0.0	usage-eu-fy2018.myhomescreen.tv
 0.0.0.0	usage-eu-fy2019.myhomescreen.tv
 0.0.0.0	usage-eu-fy2020.myhomescreen.tv
+0.0.0.0	usage-eu-fy2021.myhomescreen.tv
+0.0.0.0	usage-eu-fy2022.myhomescreen.tv
 0.0.0.0	usage-us-fy2014.myhomescreen.tv
 0.0.0.0	usage-us-fy2015.myhomescreen.tv
 0.0.0.0	usage-us-fy2016.myhomescreen.tv
@@ -185,6 +189,7 @@
 0.0.0.0	usage-us-fy2018.myhomescreen.tv
 0.0.0.0	usage-us-fy2019.myhomescreen.tv
 0.0.0.0	usage-us-fy2020.myhomescreen.tv
+0.0.0.0	vas.samsungapps.com
 0.0.0.0	vd.contents.prod.eu.s3.amazonaws.com
 0.0.0.0	vd.emp.prd.s3.amazonaws.com
 0.0.0.0	vdterms.samsungcloudsolution.com

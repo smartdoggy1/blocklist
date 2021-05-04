@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
-# Backed up on: 2021-03-20
+# Backed up on: 2021-05-04
 
 0.0.0.0	0.fls.doubleclick.net
 0.0.0.0	00.fls.doubleclick.net
@@ -1220,6 +1220,7 @@
 0.0.0.0	clientmetrics.kik.com
 0.0.0.0	clientmonitor.isnssdk.com
 0.0.0.0	clientsdk.luminati.io
+0.0.0.0	clientstream.launchdarkly.com
 0.0.0.0	clk.control.kochava.com
 0.0.0.0	clk1.vip.sc9.admob.com
 0.0.0.0	clk2.vip.sc9.admob.com
@@ -1299,8 +1300,10 @@
 0.0.0.0	crashdump.spotify.com
 0.0.0.0	crashlogs.whatsapp.net
 0.0.0.0	crashlytics.163.com
+0.0.0.0	crashlytics.com
 0.0.0.0	crashlytics.twimg.com
 0.0.0.0	crashlytics2.l.google.com
+0.0.0.0	crashlyticsreports-pa.googleapis.com
 0.0.0.0	crcdn.adnxs.com
 0.0.0.0	creative.demandbase.com
 0.0.0.0	criteo.com
@@ -1374,6 +1377,7 @@
 0.0.0.0	deals.avast.com
 0.0.0.0	deals.avg.com
 0.0.0.0	deb.avast.com
+0.0.0.0	debug.opendns.com
 0.0.0.0	decide.mixpanel.com
 0.0.0.0	default-emea-collection.ssp.adnxs.net
 0.0.0.0	default-useast.ssp.adnxs.net
@@ -1680,6 +1684,8 @@
 0.0.0.0	getapp.download.avg.com
 0.0.0.0	getback.ch
 0.0.0.0	getclicky.com
+0.0.0.0	gleam.io
+0.0.0.0	gleamjs.io
 0.0.0.0	global.cmcs.service.amazonsilk.com
 0.0.0.0	global.configuration-vending.service.amazonsilk.com
 0.0.0.0	global.mgr.consensu.org
@@ -2301,6 +2307,7 @@
 0.0.0.0	maxiad.de
 0.0.0.0	mcafee.siteintercept.qualtrics.com
 0.0.0.0	md-a-s.apptimize.com
+0.0.0.0	measure.office.com
 0.0.0.0	measurement.snapads.com
 0.0.0.0	meatspin.biz
 0.0.0.0	meatspin.com
@@ -2545,6 +2552,7 @@
 0.0.0.0	onavo.com
 0.0.0.0	onelink.me
 0.0.0.0	online-metrix.net
+0.0.0.0	onthe.io
 0.0.0.0	open-api.spot.im
 0.0.0.0	openadid.adnxs.com
 0.0.0.0	openapi.qxwz.com
@@ -2786,10 +2794,12 @@
 0.0.0.0	returnpath.net
 0.0.0.0	reuters.demdex.net
 0.0.0.0	river.data.ea.com
+0.0.0.0	rm-uk-parcel6851.com
 0.0.0.0	rmd.admob.com
 0.0.0.0	rollout.ada.support
 0.0.0.0	rotation.linuxnewmedia.de
 0.0.0.0	rotator.beginads.com
+0.0.0.0	royal-maildelivery.com
 0.0.0.0	rr.locationforexpert.com
 0.0.0.0	rs.update.avg.com
 0.0.0.0	rsa.adjust.io
@@ -3255,6 +3265,7 @@
 0.0.0.0	telecommand.telemetry.microsoft.com
 0.0.0.0	telemetry.api.swiftkey.com
 0.0.0.0	telemetry.appex.bing.net
+0.0.0.0	telemetry.docusign.net
 0.0.0.0	telemetry.dropbox.com
 0.0.0.0	telemetry.microsoft.com
 0.0.0.0	telemetry.mozilla.org
@@ -3294,6 +3305,7 @@
 0.0.0.0	track.ad.xiaomi.com
 0.0.0.0	track.addict-mobile.net
 0.0.0.0	track.adform.net
+0.0.0.0	track.analytics-data.io
 0.0.0.0	track.appsflyer.com
 0.0.0.0	track.avastbrowser.com
 0.0.0.0	track.clickbooth.com
@@ -3431,6 +3443,8 @@
 0.0.0.0	update.ib.adnxs.com
 0.0.0.0	update.pan.baidu.com
 0.0.0.0	updates.bugsnag.com
+0.0.0.0	upload.fp.measure.office.com
+0.0.0.0	upload2.fp.measure.office.com
 0.0.0.0	upu.samsungelectronics.com
 0.0.0.0	us-east-tlx.3lift.com
 0.0.0.0	us-west-tlx.3lift.com
@@ -3559,6 +3573,7 @@
 0.0.0.0	whatif.api.kochava.com
 0.0.0.0	whatsmyip.ccrmm.avg.com
 0.0.0.0	whisky.ana.biddingx.com
+0.0.0.0	widget.gleamjs.io
 0.0.0.0	widget.intercom.io
 0.0.0.0	widgets.amazon.com
 0.0.0.0	wififinder.ff.avast.com
