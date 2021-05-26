@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Shalla-mal.txt
-# Backed up on: 2021-05-04
+# Backed up on: 2021-05-25
 
 0.0.0.0	0-29.com
 0.0.0.0	0-2u.com
@@ -1056,6 +1056,7 @@
 0.0.0.0	advancedsoftwaresupport.com
 0.0.0.0	advancedvirus-remover2009.com
 0.0.0.0	advanedspywarescan.com
+0.0.0.0	advanziaaa.me
 0.0.0.0	advavsentry.com
 0.0.0.0	adverdaemon.com
 0.0.0.0	advert.ananzi.co.za
@@ -16095,6 +16096,7 @@
 0.0.0.0	trustinsearch.com
 0.0.0.0	trustyhound.com
 0.0.0.0	truth-is-out-there.org
+0.0.0.0	trxm.cf
 0.0.0.0	try-count.net
 0.0.0.0	try.starware.com
 0.0.0.0	try.weatherstudio.com

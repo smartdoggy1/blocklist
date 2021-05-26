@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-05-04
+# Backed up on: 2021-05-25
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -195,6 +195,7 @@
 0.0.0.0	ad.yadro.ru
 0.0.0.0	ad.yourmedia.com
 0.0.0.0	ad.zanox.com
+0.0.0.0	ad.ztylez.com
 0.0.0.0	ad0.bigmir.net
 0.0.0.0	ad01.mediacorpsingapore.com
 0.0.0.0	ad1.emule-project.org
@@ -304,6 +305,7 @@
 0.0.0.0	adjug.com
 0.0.0.0	adjuggler.com
 0.0.0.0	adjuggler.yourdictionary.com
+0.0.0.0	adjust.com
 0.0.0.0	adjustnetwork.com
 0.0.0.0	adk2.co
 0.0.0.0	adk2.com
@@ -485,6 +487,7 @@
 0.0.0.0	ads.digitalmedianet.com
 0.0.0.0	ads.digitalpoint.com
 0.0.0.0	ads.directionsmag.com
+0.0.0.0	ads.doit.com.cn
 0.0.0.0	ads.domain.com
 0.0.0.0	ads.domeus.com
 0.0.0.0	ads.dtpnetwork.biz
@@ -1075,6 +1078,7 @@
 0.0.0.0	alclick.com
 0.0.0.0	alenty.com
 0.0.0.0	alert.com.mt
+0.0.0.0	alertafterthought.com
 0.0.0.0	alexa-sitestats.s3.amazonaws.com
 0.0.0.0	alexametrics.com
 0.0.0.0	algorix.co
@@ -1091,6 +1095,7 @@
 0.0.0.0	americash.com
 0.0.0.0	amplitude.com
 0.0.0.0	amung.us
+0.0.0.0	analyticacdn.com
 0.0.0.0	analyticin.online
 0.0.0.0	analytics-production.hapyak.com
 0.0.0.0	analytics.adpost.org
@@ -1140,6 +1145,7 @@
 0.0.0.0	api.jetlore.com
 0.0.0.0	api.kameleoon.com
 0.0.0.0	apolloprogram.io
+0.0.0.0	app-ab33.marketo.com
 0.0.0.0	app-analytics.snapchat.com
 0.0.0.0	app.pendo.io
 0.0.0.0	appboycdn.com
@@ -1288,6 +1294,7 @@
 0.0.0.0	bannieres.wdmedia.net
 0.0.0.0	bans.bride.ru
 0.0.0.0	barbarousnerve.com
+0.0.0.0	baremetrics.com
 0.0.0.0	barnesandnoble.bfast.com
 0.0.0.0	basebanner.com
 0.0.0.0	baskettexture.com
@@ -1420,6 +1427,7 @@
 0.0.0.0	carambo.la
 0.0.0.0	carbonads.com
 0.0.0.0	carbonads.net
+0.0.0.0	caringcast.com
 0.0.0.0	casalemedia.com
 0.0.0.0	casalmedia.com
 0.0.0.0	cash4members.com
@@ -1621,6 +1629,8 @@
 0.0.0.0	crabbychin.com
 0.0.0.0	crakmedia.com
 0.0.0.0	craktraffic.com
+0.0.0.0	crashlytics.com
+0.0.0.0	crashlyticsreports-pa.googleapis.com
 0.0.0.0	crawlability.com
 0.0.0.0	crawlclocks.com
 0.0.0.0	crazyegg.com
@@ -1863,6 +1873,7 @@
 0.0.0.0	ezula.com
 0.0.0.0	f5biz.com
 0.0.0.0	f7ds.liberation.fr
+0.0.0.0	fabric.io
 0.0.0.0	facilitategrandfather.com
 0.0.0.0	fadedprofit.com
 0.0.0.0	fadedsnow.com
@@ -1916,6 +1927,7 @@
 0.0.0.0	fpjs.io
 0.0.0.0	fqtag.com
 0.0.0.0	frailoffer.com
+0.0.0.0	franklybundlecarver.com
 0.0.0.0	free-banners.com
 0.0.0.0	free-counter.co.uk
 0.0.0.0	free-counters.co.uk
@@ -1932,6 +1944,7 @@
 0.0.0.0	freewheel.com
 0.0.0.0	freewheel.tv
 0.0.0.0	freshmarketer.com
+0.0.0.0	freshworks.com
 0.0.0.0	frightenedpotato.com
 0.0.0.0	frtyj.com
 0.0.0.0	frtyk.com
@@ -2032,6 +2045,7 @@
 0.0.0.0	hexcan.com
 0.0.0.0	hexusads.fluent.ltd.uk
 0.0.0.0	heyos.com
+0.0.0.0	hf5rbejvpwds.com
 0.0.0.0	hfc195b.com
 0.0.0.0	hgads.com
 0.0.0.0	hidden.gogoceleb.com
@@ -2066,6 +2080,7 @@
 0.0.0.0	hollandbusinessadvertising.nl
 0.0.0.0	hollowshake.com
 0.0.0.0	hollps.win
+0.0.0.0	homelycrown.com
 0.0.0.0	homepageking.de
 0.0.0.0	honeygoldfish.com
 0.0.0.0	honorablehall.com
@@ -2087,6 +2102,7 @@
 0.0.0.0	hueads.com
 0.0.0.0	hueadsortb.com
 0.0.0.0	hueadsxml.com
+0.0.0.0	huezzcjskf.site
 0.0.0.0	hurricanedigitalmedia.com
 0.0.0.0	hurtteeth.com
 0.0.0.0	hydramedia.com
@@ -2171,9 +2187,11 @@
 0.0.0.0	instinctiveads.com
 0.0.0.0	instrumentsponge.com
 0.0.0.0	intelliads.com
+0.0.0.0	intelligenceadx.com
 0.0.0.0	intellitxt.com
 0.0.0.0	intentmedia.com
 0.0.0.0	intentmedia.net
+0.0.0.0	intentsify.io
 0.0.0.0	interactive.forthnet.gr
 0.0.0.0	intergi.com
 0.0.0.0	internetfuel.com
@@ -2272,6 +2290,7 @@
 0.0.0.0	lemmatechnologies.com
 0.0.0.0	lettucelimit.com
 0.0.0.0	levelrate.de
+0.0.0.0	lever-analytics.com
 0.0.0.0	lfeeder.com
 0.0.0.0	lfstmedia.com
 0.0.0.0	li.alibris.com
@@ -2323,6 +2342,7 @@
 0.0.0.0	loading321.com
 0.0.0.0	locked4.com
 0.0.0.0	lockerdome.com
+0.0.0.0	locpub.com
 0.0.0.0	log.btopenworld.com
 0.0.0.0	log.logrocket.io
 0.0.0.0	log.pinterest.com
@@ -2347,6 +2367,7 @@
 0.0.0.0	ltmastos.com
 0.0.0.0	lucidmedia.com
 0.0.0.0	lucklayed.info
+0.0.0.0	luckyorange.com
 0.0.0.0	lytics.io
 0.0.0.0	lzjl.com
 0.0.0.0	m.trb.com
@@ -2391,6 +2412,7 @@
 0.0.0.0	matomo.hdweb.ru
 0.0.0.0	matomo.kmkb.ru
 0.0.0.0	matomo.oka-zakaz.ru
+0.0.0.0	matomo.zwetok.ru
 0.0.0.0	mautic.com
 0.0.0.0	max.i12.de
 0.0.0.0	maximiser.net
@@ -2509,6 +2531,7 @@
 0.0.0.0	mtrcs.samba.tv
 0.0.0.0	mtree.com
 0.0.0.0	munchkin.marketo.net
+0.0.0.0	mundanepollution.com
 0.0.0.0	musiccounter.ru
 0.0.0.0	muwmedia.com
 0.0.0.0	mxptint.net
@@ -2616,6 +2639,7 @@
 0.0.0.0	offer.sponsorpay.com
 0.0.0.0	offerforge.com
 0.0.0.0	offermatica.com
+0.0.0.0	offshoreanglehost.com
 0.0.0.0	oglasi.posjetnica.com
 0.0.0.0	ogury.com
 0.0.0.0	omnijay.com
@@ -2828,6 +2852,7 @@
 0.0.0.0	provexia.com
 0.0.0.0	prsaln.com
 0.0.0.0	prsitecheck.com
+0.0.0.0	prudencewiserelapse.com
 0.0.0.0	ps7894.com
 0.0.0.0	pstmrk.it
 0.0.0.0	ptoushoa.com
@@ -2957,6 +2982,7 @@
 0.0.0.0	remotead.cnet.com
 0.0.0.0	remox.com
 0.0.0.0	republika.onet.pl
+0.0.0.0	resalag.com
 0.0.0.0	research.de.com
 0.0.0.0	resolutekey.com
 0.0.0.0	resonantbrush.com
@@ -3146,6 +3172,7 @@
 0.0.0.0	smetrics.10daily.com.au
 0.0.0.0	smetrics.bestbuy.com
 0.0.0.0	smetrics.ctv.ca
+0.0.0.0	smetrics.fedex.com
 0.0.0.0	smetrics.foxnews.com
 0.0.0.0	smetrics.walgreens.com
 0.0.0.0	smetrics.washingtonpost.com
@@ -3168,6 +3195,7 @@
 0.0.0.0	sovrn.com
 0.0.0.0	spacash.com
 0.0.0.0	spaceleadster.com
+0.0.0.0	spannersalesman.com
 0.0.0.0	sparkstudios.com
 0.0.0.0	specially4u.net
 0.0.0.0	specificmedia.co.uk
@@ -3294,6 +3322,7 @@
 0.0.0.0	swordgoose.com
 0.0.0.0	t.bawafx.com
 0.0.0.0	t.eloqua.com
+0.0.0.0	t.en25.com
 0.0.0.0	t.firstpromoter.com
 0.0.0.0	t.insigit.com
 0.0.0.0	t.irtyd.com
@@ -3566,6 +3595,8 @@
 0.0.0.0	usapromotravel.com
 0.0.0.0	userreplay.com
 0.0.0.0	userreplay.net
+0.0.0.0	usherprayer.com
+0.0.0.0	usingirritatecordial.com
 0.0.0.0	utils.mediageneral.net
 0.0.0.0	utl-1.com
 0.0.0.0	uttermosthobbies.com
@@ -3574,6 +3605,7 @@
 0.0.0.0	v1.cnzz.com
 0.0.0.0	v1adserver.com
 0.0.0.0	v1hcmqbaqw.ru
+0.0.0.0	valerie.forbes.com
 0.0.0.0	validclick.com
 0.0.0.0	valuead.com
 0.0.0.0	valueclick.com
@@ -3585,6 +3617,7 @@
 0.0.0.0	vcommission.com
 0.0.0.0	veille-referencement.com
 0.0.0.0	velismedia.com
+0.0.0.0	venetrigni.com
 0.0.0.0	ventivmedia.com
 0.0.0.0	venturead.com
 0.0.0.0	verblife-3.co
@@ -3637,6 +3670,7 @@
 0.0.0.0	wateryvan.com
 0.0.0.0	wd-track.de
 0.0.0.0	wdads.sx.atl.publicus.com
+0.0.0.0	wdfl.co
 0.0.0.0	wearbasin.com
 0.0.0.0	web-redirecting.com
 0.0.0.0	web-stat.com
@@ -3661,6 +3695,7 @@
 0.0.0.0	webstat.channel4.com
 0.0.0.0	webstat.com
 0.0.0.0	webstat.net
+0.0.0.0	webstats.one
 0.0.0.0	webstats4u.com
 0.0.0.0	webtracker.jp
 0.0.0.0	webtrackerplus.com
@@ -3689,6 +3724,7 @@
 0.0.0.0	window.nixnet.cz
 0.0.0.0	wintricksbanner.googlepages.com
 0.0.0.0	wirecomic.com
+0.0.0.0	wirelesseuropebalmy.com
 0.0.0.0	wisepops.com
 0.0.0.0	witch-counter.de
 0.0.0.0	wizaly.com

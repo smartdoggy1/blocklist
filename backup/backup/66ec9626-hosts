@@ -1,5 +1,5 @@
 # https://someonewhocares.org/hosts/hosts
-# Backed up on: 2021-05-04
+# Backed up on: 2021-05-25
 
 0.0.0.0	0.nextyourcontent.com
 0.0.0.0	006.free-counter.co.uk
@@ -2722,10 +2722,12 @@
 0.0.0.0	aka-cdn-ns.adtech.de
 0.0.0.0	aka-cdn-ns.adtechus.com
 0.0.0.0	aka-cdn.adtechus.com
+0.0.0.0	aka.ms-ads.co
 0.0.0.0	akaads-espn.starwave.com
 0.0.0.0	akamai.invitemedia.com
 0.0.0.0	ako.cc
 0.0.0.0	aksdk-images.adikteev.com
+0.0.0.0	aksecure.imrworldwide.com
 0.0.0.0	aktif.haberx.com
 0.0.0.0	aktiv-blog.com
 0.0.0.0	aktiv-hirek.net
@@ -3964,6 +3966,7 @@
 0.0.0.0	cdm.unnoticeablegangrene.com
 0.0.0.0	cdn-box.com
 0.0.0.0	cdn-downloads.com
+0.0.0.0	cdn-gl.imrworldwide.com
 0.0.0.0	cdn-onedrive-live.com
 0.0.0.0	cdn-social.janrain.com
 0.0.0.0	cdn.8digits.com
@@ -4030,6 +4033,7 @@
 0.0.0.0	cdn.hauleddes.com
 0.0.0.0	cdn.holdlads.com
 0.0.0.0	cdn.imgtty.com
+0.0.0.0	cdn.imrworldwide.com
 0.0.0.0	cdn.innovid.com
 0.0.0.0	cdn.inskinad.com
 0.0.0.0	cdn.jquery-uim.download
@@ -4106,6 +4110,7 @@
 0.0.0.0	cdnt.yottos.com
 0.0.0.0	cdnw.ringtonepartner.com
 0.0.0.0	cds.adecn.com
+0.0.0.0	cds.taboola.com
 0.0.0.0	cds26.ams9.msecn.net
 0.0.0.0	cdxbin.vulnerap.com
 0.0.0.0	ce.lijit.com
@@ -8042,6 +8047,7 @@
 0.0.0.0	mastertracks.be
 0.0.0.0	match.ads.betweendigital.com
 0.0.0.0	match.adsrvr.org
+0.0.0.0	match.taboola.com
 0.0.0.0	matomy.adk2.co
 0.0.0.0	matrix.mediavantage.de
 0.0.0.0	mature.xxxcounter.com
@@ -9850,6 +9856,7 @@
 0.0.0.0	pletyka.eu
 0.0.0.0	ploaz54.com
 0.0.0.0	pluszcafe.hu
+0.0.0.0	pm.adsafeprotected.com
 0.0.0.0	pm.w55c.net
 0.0.0.0	pmelon.com
 0.0.0.0	pmg.ad-logics.com
@@ -10744,11 +10751,15 @@
 0.0.0.0	secserv.adtech.de
 0.0.0.0	secserv.adtech.fr
 0.0.0.0	secserv.adtech.us
+0.0.0.0	secure-dcr.imrworldwide.com
+0.0.0.0	secure-drm.imrworldwide.com
 0.0.0.0	secure-gg.imrworldwide.com
+0.0.0.0	secure-it.imrworldwide.com
 0.0.0.0	secure-jp.imrworldwide.com
 0.0.0.0	secure-js.kontera.com
 0.0.0.0	secure-nz.imrworldwide.com
 0.0.0.0	secure-uk.imrworldwide.com
+0.0.0.0	secure-us.imrworldwide.com
 0.0.0.0	secure-za.imrworldwide.com
 0.0.0.0	secure.160117rd.xyz
 0.0.0.0	secure.ace-tag.advertising.com
@@ -12020,6 +12031,7 @@
 0.0.0.0	tpienquete.com
 0.0.0.0	tps.doubleverify.com
 0.0.0.0	tps10216.doubleverify.com
+0.0.0.0	tps20519.doubleverify.com
 0.0.0.0	tps30.doubleverify.com
 0.0.0.0	tps31.doubleverify.com
 0.0.0.0	tr.adinterax.com
@@ -12843,6 +12855,7 @@
 0.0.0.0	vistawebs-web-techie-app.win
 0.0.0.0	vitalitymax.1.p2l.info
 0.0.0.0	vitals.vercel-analytics.com
+0.0.0.0	vitemadose.fr
 0.0.0.0	vj.quanjingpay.com
 0.0.0.0	vk.18sexporn.ru
 0.0.0.0	vlc.de

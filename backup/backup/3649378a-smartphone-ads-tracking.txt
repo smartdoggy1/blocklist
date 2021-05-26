@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
-# Backed up on: 2021-05-04
+# Backed up on: 2021-05-25
 
 0.0.0.0	0.fls.doubleclick.net
 0.0.0.0	00.fls.doubleclick.net
@@ -364,6 +364,7 @@
 0.0.0.0	adelogs.adobe.com
 0.0.0.0	ademails.com
 0.0.0.0	adeventtracker.spotify.com
+0.0.0.0	adexprtz.com
 0.0.0.0	adform.com
 0.0.0.0	adform.net
 0.0.0.0	adfox.me
@@ -413,6 +414,7 @@
 0.0.0.0	ads-fa.spotify.com
 0.0.0.0	ads-jp.spotify.com
 0.0.0.0	ads-pt.spotify.com
+0.0.0.0	ads-sg.tiktok.com
 0.0.0.0	ads-sp-ash.cdn.spotify.com
 0.0.0.0	ads-sp-lon.cdn.spotify.com
 0.0.0.0	ads-sp-sto.cdn.spotify.com
@@ -2093,6 +2095,7 @@
 0.0.0.0	infolink.pavv.co.kr
 0.0.0.0	ingameads.gameloft.com
 0.0.0.0	inmobi.com
+0.0.0.0	inpagepush.com
 0.0.0.0	insight.adsrvr.org
 0.0.0.0	insights.gumgum.com
 0.0.0.0	intercom.io
@@ -2292,6 +2295,7 @@
 0.0.0.0	mangarock-alternate.app.link
 0.0.0.0	mangarock.app.link
 0.0.0.0	manifest.localytics.com
+0.0.0.0	marketing.888.com
 0.0.0.0	marketing.amazon.com
 0.0.0.0	marketing.apple.com
 0.0.0.0	marketing.criteo.com
@@ -2340,6 +2344,7 @@
 0.0.0.0	metrics.govexec.com
 0.0.0.0	metrics.hibernian.ie
 0.0.0.0	metrics.icloud.com
+0.0.0.0	metrics.io
 0.0.0.0	metrics.kochava.com
 0.0.0.0	metrics.maxim.com
 0.0.0.0	metrics.nba.com
@@ -2359,6 +2364,9 @@
 0.0.0.0	mg2connext.com
 0.0.0.0	mgepodownload.mediatek.com
 0.0.0.0	mgid.com
+0.0.0.0	microad.jp
+0.0.0.0	microad.net
+0.0.0.0	microadinc.com
 0.0.0.0	microsoft.qualtrics.com
 0.0.0.0	microsoft.siteintercept.qualtrics.com
 0.0.0.0	microstatic.pl
@@ -2688,6 +2696,7 @@
 0.0.0.0	player.avplayer.com
 0.0.0.0	player.playbuzz.co
 0.0.0.0	player.playbuzz.com
+0.0.0.0	poastalfees-rm.co.uk
 0.0.0.0	pokey.thisisglobal.com
 0.0.0.0	pool.skyhookwireless.com
 0.0.0.0	popup.taboola.com
@@ -2794,6 +2803,7 @@
 0.0.0.0	returnpath.net
 0.0.0.0	reuters.demdex.net
 0.0.0.0	river.data.ea.com
+0.0.0.0	rm-trackinginfo.com
 0.0.0.0	rm-uk-parcel6851.com
 0.0.0.0	rmd.admob.com
 0.0.0.0	rollout.ada.support
@@ -3504,6 +3514,10 @@
 0.0.0.0	vip.sc9.admob.com
 0.0.0.0	viridis.lon2.spotify.com
 0.0.0.0	vis.optimizely.com
+0.0.0.0	visitly.com
+0.0.0.0	visitor-track.com
+0.0.0.0	visitstrack.com
+0.0.0.0	visualwebsiteoptimiser.com
 0.0.0.0	vmhb.cloud.avg.com
 0.0.0.0	vodads.g.doubleclick.net
 0.0.0.0	voicefive.com
@@ -3577,6 +3591,7 @@
 0.0.0.0	widget.intercom.io
 0.0.0.0	widgets.amazon.com
 0.0.0.0	wififinder.ff.avast.com
+0.0.0.0	wingads.com
 0.0.0.0	withspotify.spotify.map.fastly.net
 0.0.0.0	wkclick.baidu.com
 0.0.0.0	wl.cloud.avg.com
@@ -3679,6 +3694,8 @@
 0.0.0.0	x.bidswitch.net
 0.0.0.0	x.flurry.com
 0.0.0.0	xad.com
+0.0.0.0	xadcentral.com
+0.0.0.0	xadsmart.com
 0.0.0.0	xcache.ad360.vn
 0.0.0.0	xenon.iad-03.braze.com
 0.0.0.0	xk43.app.link
@@ -3688,6 +3705,7 @@
 0.0.0.0	xlog.byteoversea.com
 0.0.0.0	xlog.musical.ly
 0.0.0.0	xlog.tiktokv.com
+0.0.0.0	xmlads.bid
 0.0.0.0	xpu.samsungelectronics.com
 0.0.0.0	xt1.gtp.izatcloud.net
 0.0.0.0	xt1503.izatcloud.net
@@ -3727,7 +3745,14 @@
 0.0.0.0	y2.flurry.com
 0.0.0.0	y3.flurry.com
 0.0.0.0	yadro.ru
+0.0.0.0	yesadsrv.com
+0.0.0.0	yext.com
 0.0.0.0	yield-manager.browsiprod.com
+0.0.0.0	yieldads.com
+0.0.0.0	yieldlab.net
+0.0.0.0	yieldmanager.com
+0.0.0.0	yieldmo.com
+0.0.0.0	yieldoptimizer.com
 0.0.0.0	yieldtraffic.com
 0.0.0.0	yj-a.p.adnxs.com
 0.0.0.0	yj.moatads.com
@@ -3735,9 +3760,12 @@
 0.0.0.0	ym-default.adnxs.com
 0.0.0.0	ym.adnxs.com
 0.0.0.0	yourbetterofferfinal.best
+0.0.0.0	youvisit.com
 0.0.0.0	ypu.samsungelectronics.com
 0.0.0.0	yt.moatads.com
 0.0.0.0	yts.moatads.com
+0.0.0.0	yuhuads.com
+0.0.0.0	yuppyads.com
 0.0.0.0	z-eu.amazon-adsystem.com
 0.0.0.0	z-fe.amazon-adsystem.com
 0.0.0.0	z-in.amazon-adsystem.com

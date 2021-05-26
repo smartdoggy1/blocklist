@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2021-05-04
+# Backed up on: 2021-05-25
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -27,6 +27,7 @@
 0.0.0.0	api-launcher-em.hismarttv.com
 0.0.0.0	api-launcher-na.hismarttv.com
 0.0.0.0	api-mf1.meta.ndmdhs.com
+0.0.0.0	api.cid.samba.tv
 0.0.0.0	api.distribution.hulu.com
 0.0.0.0	api.euro.hismarttv.com
 0.0.0.0	api.nfl.com
@@ -159,6 +160,7 @@
 0.0.0.0	pipeaota.com
 0.0.0.0	platform.cid.samba.tv
 0.0.0.0	prderrordumphsm.samsungcloudsolution.com
+0.0.0.0	preferences.cid.samba.tv
 0.0.0.0	premium-videos.telly.com
 0.0.0.0	prov.samsungcloudsolution.com
 0.0.0.0	ravm.tv
