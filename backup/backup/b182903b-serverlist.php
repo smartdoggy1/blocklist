@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-05-25
+# Backed up on: 2021-07-04
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -40,6 +40,7 @@
 0.0.0.0	a-ads.com
 0.0.0.0	a.aproductmsg.com
 0.0.0.0	a.consumer.net
+0.0.0.0	a.klaviyo.com
 0.0.0.0	a.mktw.net
 0.0.0.0	a.muloqot.uz
 0.0.0.0	a.pub.network
@@ -65,6 +66,7 @@
 0.0.0.0	abandonedaction.com
 0.0.0.0	abashedangle.com
 0.0.0.0	abc-ads.com
+0.0.0.0	ablink.comms.trainline.com
 0.0.0.0	aboardlevel.com
 0.0.0.0	aboutads.gr
 0.0.0.0	abruptroad.com
@@ -648,6 +650,7 @@
 0.0.0.0	ads.outpersonals.com
 0.0.0.0	ads.oxyshop.cz
 0.0.0.0	ads.passion.com
+0.0.0.0	ads.paymonex.net
 0.0.0.0	ads.pennet.com
 0.0.0.0	ads.pexi.nl
 0.0.0.0	ads.pfl.ua
@@ -850,6 +853,7 @@
 0.0.0.0	adserver.ekokatu.com
 0.0.0.0	adserver.freecity.de
 0.0.0.0	adserver.friendfinder.com
+0.0.0.0	adserver.generationiron.com
 0.0.0.0	adserver.hardsextube.com
 0.0.0.0	adserver.hardwareanalysis.com
 0.0.0.0	adserver.html.it
@@ -1202,6 +1206,7 @@
 0.0.0.0	awzbijw.com
 0.0.0.0	axiomaticalley.com
 0.0.0.0	axonix.com
+0.0.0.0	ay.delivery
 0.0.0.0	aztracking.net
 0.0.0.0	b-1st.com
 0.0.0.0	ba.afl.rakuten.co.jp
@@ -1226,6 +1231,7 @@
 0.0.0.0	banner.grandefm.com.br
 0.0.0.0	banner.icmedia.eu
 0.0.0.0	banner.img.co.za
+0.0.0.0	banner.interich.com
 0.0.0.0	banner.inyourpocket.com
 0.0.0.0	banner.kiev.ua
 0.0.0.0	banner.linux.se
@@ -1486,6 +1492,7 @@
 0.0.0.0	clearcomb.com
 0.0.0.0	clevernt.com
 0.0.0.0	click.a-ads.com
+0.0.0.0	click.airmalta-mail.com
 0.0.0.0	click.cartsguru.io
 0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.sonos.com
@@ -1526,6 +1533,7 @@
 0.0.0.0	clickxchange.com
 0.0.0.0	clickyab.com
 0.0.0.0	clickz.com
+0.0.0.0	clientgear.com
 0.0.0.0	clientmetrics-pa.googleapis.com
 0.0.0.0	clikerz.net
 0.0.0.0	cliksolution.com
@@ -1562,6 +1570,7 @@
 0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	commonswing.com
+0.0.0.0	communications.melitaltd.com
 0.0.0.0	compactbanner.com
 0.0.0.0	completecabbage.com
 0.0.0.0	complextoad.com
@@ -1656,6 +1665,7 @@
 0.0.0.0	custom.plausible.io
 0.0.0.0	customad.cnn.com
 0.0.0.0	customers.kameleoon.com
+0.0.0.0	cutechin.com
 0.0.0.0	cutecushion.com
 0.0.0.0	cuteturkey.com
 0.0.0.0	cxense.com
@@ -1792,6 +1802,7 @@
 0.0.0.0	elitedollars.com
 0.0.0.0	elitetoplist.com
 0.0.0.0	elthamely.com
+0.0.0.0	em1.yoursantander.co.uk
 0.0.0.0	emarketer.com
 0.0.0.0	emebo.com
 0.0.0.0	emebo.io
@@ -1807,6 +1818,8 @@
 0.0.0.0	endurableshop.com
 0.0.0.0	energeticladybug.com
 0.0.0.0	engage.dnsfilter.com
+0.0.0.0	engage.webshrinker.com
+0.0.0.0	engage.windows.com
 0.0.0.0	engagebdr.com
 0.0.0.0	engine.espace.netavenir.com
 0.0.0.0	enginenetwork.com
@@ -1840,6 +1853,8 @@
 0.0.0.0	eusta.de
 0.0.0.0	evadav.com
 0.0.0.0	evadavdsp.pro
+0.0.0.0	events-eu.freshsuccess.com
+0.0.0.0	events-us.freshsuccess.com
 0.0.0.0	everestads.net
 0.0.0.0	everesttech.net
 0.0.0.0	evergage.com
@@ -1970,6 +1985,7 @@
 0.0.0.0	gamesites100.net
 0.0.0.0	gamesites200.com
 0.0.0.0	gammamaximum.com
+0.0.0.0	gaug.es
 0.0.0.0	gearwom.de
 0.0.0.0	gekko.spiceworks.com
 0.0.0.0	geo.digitalpoint.com
@@ -2335,6 +2351,7 @@
 0.0.0.0	litix.io
 0.0.0.0	liveadexchanger.com
 0.0.0.0	liveintent.com
+0.0.0.0	livelylaugh.com
 0.0.0.0	liverail.com
 0.0.0.0	lizardslaugh.com
 0.0.0.0	lkqd.com
@@ -2781,6 +2798,7 @@
 0.0.0.0	pixel.watch
 0.0.0.0	pixel.yabidos.com
 0.0.0.0	placed.com
+0.0.0.0	plausibleio.workers.dev
 0.0.0.0	play4traffic.com
 0.0.0.0	playhaven.com
 0.0.0.0	playmobileads.com
@@ -2899,6 +2917,7 @@
 0.0.0.0	quarterbean.com
 0.0.0.0	quarterserver.de
 0.0.0.0	questaffiliates.net
+0.0.0.0	quickkoala.io
 0.0.0.0	quicksandear.com
 0.0.0.0	quietknowledge.com
 0.0.0.0	quinst.com
@@ -2954,6 +2973,7 @@
 0.0.0.0	receptiveink.com
 0.0.0.0	receptivereaction.com
 0.0.0.0	recoco.it
+0.0.0.0	reconditerake.com
 0.0.0.0	record.affiliates.karjalakasino.com
 0.0.0.0	record.bonniergaming.com
 0.0.0.0	record.mrwin.com
@@ -3116,6 +3136,7 @@
 0.0.0.0	sexinyourcity.com
 0.0.0.0	sexlist.com
 0.0.0.0	sextracker.com
+0.0.0.0	shakegoldfish.com
 0.0.0.0	shakesea.com
 0.0.0.0	shakesuggestion.com
 0.0.0.0	shakytaste.com
@@ -3369,6 +3390,7 @@
 0.0.0.0	teenyvolcano.com
 0.0.0.0	teethfan.com
 0.0.0.0	telaria.com
+0.0.0.0	telemetrics.klaviyo.com
 0.0.0.0	telemetry.dropbox.com
 0.0.0.0	telemetry.v.dropbox.com
 0.0.0.0	temelio.com
@@ -3543,6 +3565,7 @@
 0.0.0.0	triplelift.com
 0.0.0.0	triptease.io
 0.0.0.0	trix.net
+0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.bee-data.com
 0.0.0.0	trk.enemy-adult-scared-there.xyz
 0.0.0.0	trk.pinterest.com

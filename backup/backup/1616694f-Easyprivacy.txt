@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2021-05-25
+# Backed up on: 2021-07-04
 
 0.0.0.0	0sbm.consobaby.co.uk
 0.0.0.0	0x1f4b0.com
@@ -58,6 +58,7 @@
 0.0.0.0	a.disabledns.emailvision.net.daraz.com
 0.0.0.0	a.dogfood-ns.emailvision.net.daraz.com
 0.0.0.0	a.dogfood.ns.emailvision.net.daraz.com
+0.0.0.0	a.electerious.com
 0.0.0.0	a.evergage.com
 0.0.0.0	a.fdmedia.io
 0.0.0.0	a.fox.com
@@ -326,6 +327,7 @@
 0.0.0.0	a43939.actonservice.com
 0.0.0.0	a44112.actonservice.com
 0.0.0.0	a51404801860511eabe260a5fac8573f-308402611.eu-central-1.elb.amazonaws.com
+0.0.0.0	a5xo-eng.spankbang.com
 0.0.0.0	a8.01cloud.jp
 0.0.0.0	a8.cyclemarket.jp
 0.0.0.0	a8.denki-koji.work
@@ -1135,6 +1137,7 @@
 0.0.0.0	apiserver-freya.net.daraz.com
 0.0.0.0	apiserver-wlan-switch.net.daraz.com
 0.0.0.0	apiserver.r-is-1-2.net.daraz.com
+0.0.0.0	apm.tnet.nl
 0.0.0.0	apollo.plein.be
 0.0.0.0	app-clicks.firstrepublic.com
 0.0.0.0	app-stats.supernotes.app
@@ -1199,6 +1202,7 @@
 0.0.0.0	as.mytoys.de
 0.0.0.0	as.payback.it
 0.0.0.0	as.rollingstone.de
+0.0.0.0	as.saechsische.de
 0.0.0.0	as.stylebook.de
 0.0.0.0	as.techbook.de
 0.0.0.0	as.travelbook.de
@@ -1258,6 +1262,7 @@
 0.0.0.0	audit.macworld.co.uk
 0.0.0.0	audit.median.hu
 0.0.0.0	audit.pcadvisor.co.uk
+0.0.0.0	audit.shaa.it
 0.0.0.0	auth.lib-ln-1.net.daraz.com
 0.0.0.0	auth.r-ln-2.net.daraz.com
 0.0.0.0	authcaptcha.com
@@ -1413,6 +1418,8 @@
 0.0.0.0	beacons.brandads.net
 0.0.0.0	beacons.mediamelon.com
 0.0.0.0	beagle.prod.tda.link
+0.0.0.0	beam-ws.giraffe360.com
+0.0.0.0	beam.giraffe360.com
 0.0.0.0	beam.mjhlifesciences.com
 0.0.0.0	beap-bc.yahoo.com
 0.0.0.0	beaumont.actonservice.com
@@ -1656,6 +1663,7 @@
 0.0.0.0	cage6west.com
 0.0.0.0	cahf4eed.mooo.com
 0.0.0.0	calmradio.actonservice.com
+0.0.0.0	camel.headfarming.com
 0.0.0.0	camisado.actonservice.com
 0.0.0.0	campaign.amadeus.com
 0.0.0.0	campaign.bbmbonnier.se
@@ -1922,11 +1930,13 @@
 0.0.0.0	cloudfront-labs.amazonaws.com
 0.0.0.0	cloudhosting.actonservice.com
 0.0.0.0	cloudr-oa-2.net.daraz.com
+0.0.0.0	cloudwp.io
 0.0.0.0	cls7.theushuaiaexperience.com
 0.0.0.0	clshkv.labirint.ru
 0.0.0.0	cltgtstor001.blob.core.windows.net
 0.0.0.0	clue6load.com
 0.0.0.0	clvk.viki.io
+0.0.0.0	cm-exchange.toast.com
 0.0.0.0	cm.g.doubleclick.net
 0.0.0.0	cm.redbull.com
 0.0.0.0	cmap.alibaba.com
@@ -2257,6 +2267,7 @@
 0.0.0.0	cqubdd.thisismoney.co.uk
 0.0.0.0	craftmod.net.daraz.com
 0.0.0.0	cravenherald-gb.cravenherald.co.uk
+0.0.0.0	crayfish.thingelstad.com
 0.0.0.0	create.unity.com
 0.0.0.0	create.unity3d.com
 0.0.0.0	creatives.sunmedia.tv
@@ -2385,6 +2396,7 @@
 0.0.0.0	d.signedns.emailvision.net.daraz.com
 0.0.0.0	d.skk.moe
 0.0.0.0	d.sourcepoint.capitalfm.com
+0.0.0.0	d.wi-fi.ru
 0.0.0.0	d1.abtshield.com
 0.0.0.0	d10gj7yjsfriaj.cloudfront.net
 0.0.0.0	d10lpsik1i8c69.cloudfront.net
@@ -2448,6 +2460,7 @@
 0.0.0.0	d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0	d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0	d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+0.0.0.0	d31qbv1cthcecs.cloudfront.net
 0.0.0.0	d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0	d34ko97cxuv4p7.cloudfront.net
 0.0.0.0	d34qb8suadcc4g.cloudfront.net
@@ -2493,6 +2506,7 @@
 0.0.0.0	dana8herb.com
 0.0.0.0	daq0d0aotgq0f.cloudfront.net
 0.0.0.0	darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
+0.0.0.0	dash.getsitecontrol.com
 0.0.0.0	dashboard-lib-ln-2.net.daraz.com
 0.0.0.0	data-print-mo.net.daraz.com
 0.0.0.0	data-ssl.pnet.co.za
@@ -2822,6 +2836,7 @@
 0.0.0.0	doitruy.net.daraz.com
 0.0.0.0	doja.worten.es
 0.0.0.0	doll9jiva.com
+0.0.0.0	doppler-reporting.cbsivideo.com
 0.0.0.0	dorsetecho-gb.dorsetecho.co.uk
 0.0.0.0	dot-stat.radikal.ru
 0.0.0.0	dot.wp.pl
@@ -3432,11 +3447,13 @@
 0.0.0.0	events.il.fi
 0.0.0.0	events.ingatlan.com
 0.0.0.0	events.izooto.com
+0.0.0.0	events.jokerly.com
 0.0.0.0	events.jora.com
 0.0.0.0	events.jotform.com
 0.0.0.0	events.matterport.com
 0.0.0.0	events.medio.com
 0.0.0.0	events.mywd.com
+0.0.0.0	events.newsroom.bi
 0.0.0.0	events.ocdn.eu
 0.0.0.0	events.onet.pl
 0.0.0.0	events.practo.com
@@ -3445,6 +3462,7 @@
 0.0.0.0	events.realgravity.com
 0.0.0.0	events.reddit.com
 0.0.0.0	events.redditmedia.com
+0.0.0.0	events.santander.co.uk
 0.0.0.0	events.secureserver.net
 0.0.0.0	events.shareably.net
 0.0.0.0	events.sk.ht
@@ -3500,6 +3518,8 @@
 0.0.0.0	eymiwj.cancan.ro
 0.0.0.0	eymiwj.prosport.ro
 0.0.0.0	f-emc.ngsp.gov.vn
+0.0.0.0	f-log-at.grammarly.io
+0.0.0.0	f-log-test.grammarly.io
 0.0.0.0	f.schemeflood.com
 0.0.0.0	f.staticlp.com
 0.0.0.0	f0nn.oney.fr
@@ -3512,8 +3532,10 @@
 0.0.0.0	fandango.hb-api.omtrdc.net
 0.0.0.0	fast.appcues.com
 0.0.0.0	fast.forbes.com
+0.0.0.0	fathom.app.silverbeak.com
 0.0.0.0	fathom.pixeldrain.com
 0.0.0.0	fathom.status.im
+0.0.0.0	fathom.tdvm.net
 0.0.0.0	fazphz.theiconic.com.au
 0.0.0.0	fb_servpub-a.akamaihd.net
 0.0.0.0	fbodjb.goods.ru
@@ -3621,6 +3643,7 @@
 0.0.0.0	frbdzc.goguynet.jp
 0.0.0.0	freepressseries-gb.freepressseries.co.uk
 0.0.0.0	fresh.techdirt.com
+0.0.0.0	fresnel-events.vimeocdn.com
 0.0.0.0	freya.jenkins.net.daraz.com
 0.0.0.0	freya.mail.net.daraz.com
 0.0.0.0	freya.origin.net.daraz.com
@@ -3717,6 +3740,10 @@
 0.0.0.0	g7923373400.co
 0.0.0.0	g8121457735.co
 0.0.0.0	g8319542070.co
+0.0.0.0	g8517626405.co
+0.0.0.0	g8715710740.co
+0.0.0.0	g8913795075.co
+0.0.0.0	g9111879410.co
 0.0.0.0	ga-beacon.appspot.com
 0.0.0.0	ga.canoe.ca
 0.0.0.0	ga.kvideo.io
@@ -4867,6 +4894,7 @@
 0.0.0.0	lifesciencesb2c.eloqua.com
 0.0.0.0	lift.acquia.com
 0.0.0.0	lilb2.shutterstock.com
+0.0.0.0	limone.iltrovatore.it
 0.0.0.0	line6agar.com
 0.0.0.0	link.admin.kodakmoments.com
 0.0.0.0	link.alerts.busuu.app
@@ -5010,6 +5038,7 @@
 0.0.0.0	log.etoday.co.kr
 0.0.0.0	log.f-tra.com
 0.0.0.0	log.flight.qunar.com
+0.0.0.0	log.genyt.net
 0.0.0.0	log.go.com
 0.0.0.0	log.gs3.goo.ne.jp
 0.0.0.0	log.hiiir.com
@@ -5087,6 +5116,7 @@
 0.0.0.0	logs.ptable.com
 0.0.0.0	logs.spilgames.com
 0.0.0.0	logs.thebloggernetwork.com
+0.0.0.0	logs.viadata.store
 0.0.0.0	logs.vmixcore.com
 0.0.0.0	logsbin.dantri.com.vn
 0.0.0.0	logservice.hicloud.com
@@ -6521,6 +6551,7 @@
 0.0.0.0	mit.researchlog.dbresearch.com
 0.0.0.0	mivyyq.safeandfair.com
 0.0.0.0	mj23.eulerian.com
+0.0.0.0	mjca-yijws.global.ssl.fastly.net
 0.0.0.0	mjeejc.tiki.vn
 0.0.0.0	mjnpya.marktplaats.nl
 0.0.0.0	mjnzmb.jasmine.ua
@@ -6742,6 +6773,7 @@
 0.0.0.0	nexioniect.com
 0.0.0.0	nexttime.ovh
 0.0.0.0	nfused.eobuv.com.ua
+0.0.0.0	ngc1.nsm-corp.com
 0.0.0.0	nginfo.industrialinfo.com
 0.0.0.0	nhkoze.saneibd.com
 0.0.0.0	nice3aiea.com
@@ -6775,6 +6807,7 @@
 0.0.0.0	nol.yahoo.com
 0.0.0.0	nom.churchofjesuschrist.org
 0.0.0.0	nong3bram.com
+0.0.0.0	noodle.backmarket.io
 0.0.0.0	nora7nice.com
 0.0.0.0	norm0care.com
 0.0.0.0	northwichguardian-gb.northwichguardian.co.uk
@@ -7174,6 +7207,7 @@
 0.0.0.0	pegasus.unifygroup.com
 0.0.0.0	pemskb.unitedcinemas.jp
 0.0.0.0	penarthtimes-gb.penarthtimes.co.uk
+0.0.0.0	perf-events.cloud.unity3d.com
 0.0.0.0	perf.af.funneldrivers.com
 0.0.0.0	perf.dugout.com
 0.0.0.0	perf.mouser.com
@@ -7273,6 +7307,7 @@
 0.0.0.0	pixel.staging.tree.com
 0.0.0.0	pixel.tree.com
 0.0.0.0	pixel.tuko.co.ke
+0.0.0.0	pixel.videohub.tv
 0.0.0.0	pixel.welt.de
 0.0.0.0	pixel.widgetly.com
 0.0.0.0	pixel.wp.com
@@ -7341,6 +7376,7 @@
 0.0.0.0	plausible.notiontweet.app
 0.0.0.0	plausible.nova.app
 0.0.0.0	plausible.nubemia.com
+0.0.0.0	plausible.nuqu.org
 0.0.0.0	plausible.panic.com
 0.0.0.0	plausible.phuctm97.com
 0.0.0.0	plausible.play.date
@@ -7376,6 +7412,7 @@
 0.0.0.0	polobook.club
 0.0.0.0	ponyo.cheriefm.fr
 0.0.0.0	poor5zero.com
+0.0.0.0	porpoise.azettl.net
 0.0.0.0	pos.baidu.com
 0.0.0.0	postgraduate.smu.edu.sg
 0.0.0.0	postgraduate2.smu.edu.sg
@@ -7406,6 +7443,7 @@
 0.0.0.0	prism.pandora.tv
 0.0.0.0	privacy-api.9gag.com
 0.0.0.0	privacy.outdoorsg.com
+0.0.0.0	privacyfriendly.brainbits.in
 0.0.0.0	proac.nationwide.com
 0.0.0.0	proactive.base.de
 0.0.0.0	processor.asccommunications.com
@@ -7426,6 +7464,7 @@
 0.0.0.0	promotions.stationcasinos.com
 0.0.0.0	propeller-tracking.com
 0.0.0.0	prophet.heise.de
+0.0.0.0	proxy.dzeio.com
 0.0.0.0	proxypage.msn.com
 0.0.0.0	prstats.postrelease.com
 0.0.0.0	prudential.distribution.team.prudential.co.uk
@@ -7676,6 +7715,7 @@
 0.0.0.0	reydrj.kozaczek.pl
 0.0.0.0	rffsds.fsastore.com
 0.0.0.0	rfgana.owletcare.com
+0.0.0.0	rfk.biglots.com
 0.0.0.0	rghpjl.tsuchiya-kaban.jp
 0.0.0.0	rgmseo.thejewellershop.com
 0.0.0.0	rgnutc.topcor.ru
@@ -7994,6 +8034,7 @@
 0.0.0.0	sappmetrics.boostmobile.com
 0.0.0.0	sappmetrics.sprint.com
 0.0.0.0	sarngq.dsklad.ru
+0.0.0.0	sas.nsm-corp.com
 0.0.0.0	sasc.solidworks.com
 0.0.0.0	sat.sanoma.fi
 0.0.0.0	satracking.finning.com
@@ -8239,6 +8280,7 @@
 0.0.0.0	seniorliving.sinairesidences.com
 0.0.0.0	seniorliving.theridgeseniorliving.com
 0.0.0.0	seniorliving.villageshalom.org
+0.0.0.0	sentry.arc.io
 0.0.0.0	serv1swork.com
 0.0.0.0	servcliente.marathon-sports-ec.com
 0.0.0.0	servedby.o2.co.uk
@@ -8306,6 +8348,7 @@
 0.0.0.0	site.att.com
 0.0.0.0	site.firstnet.com
 0.0.0.0	site.johnlewis.com
+0.0.0.0	site24x7rum.eu
 0.0.0.0	sitecatalyst.newsamerica.com
 0.0.0.0	sitecatalyst.work.shiseido.co.jp
 0.0.0.0	siteinfo.libero.it
@@ -9709,6 +9752,7 @@
 0.0.0.0	stat.umsu.de
 0.0.0.0	stat.uuu9.com
 0.0.0.0	stat.valica.it
+0.0.0.0	stat.vulkanvegas.com
 0.0.0.0	stat.web-regie.com
 0.0.0.0	stat.webevolutis.com
 0.0.0.0	stat.wk-formation.fr
@@ -9772,6 +9816,7 @@
 0.0.0.0	stats.benui.ca
 0.0.0.0	stats.bertwagner.com
 0.0.0.0	stats.bestservers.co
+0.0.0.0	stats.biblionumericus.fr
 0.0.0.0	stats.big-boards.com
 0.0.0.0	stats.bildconnect.de
 0.0.0.0	stats.bimbase.nl
@@ -9815,6 +9860,7 @@
 0.0.0.0	stats.cmcigroup.com
 0.0.0.0	stats.code-it-studio.de
 0.0.0.0	stats.cohere.so
+0.0.0.0	stats.comovee.com
 0.0.0.0	stats.concierge.com
 0.0.0.0	stats.console.dev
 0.0.0.0	stats.contentwritingjobs.com
@@ -9922,6 +9968,7 @@
 0.0.0.0	stats.itsol.it
 0.0.0.0	stats.itweb.co.za
 0.0.0.0	stats.ivankahl.com
+0.0.0.0	stats.jacksellwood.com
 0.0.0.0	stats.jackwhiting.co.uk
 0.0.0.0	stats.jansix.at
 0.0.0.0	stats.jatan.space
@@ -9981,6 +10028,7 @@
 0.0.0.0	stats.nimiq-network.com
 0.0.0.0	stats.nodehub.io
 0.0.0.0	stats.nota.md
+0.0.0.0	stats.nrcaknights.com
 0.0.0.0	stats.nymag.com
 0.0.0.0	stats.nytecomics.com
 0.0.0.0	stats.olark.com
@@ -10081,6 +10129,7 @@
 0.0.0.0	stats.studypages.com
 0.0.0.0	stats.stylight.it
 0.0.0.0	stats.sublimesecurity.com
+0.0.0.0	stats.suenicholls.com
 0.0.0.0	stats.tazeros.com
 0.0.0.0	stats.tdameritrade.com
 0.0.0.0	stats.technopia.it
@@ -10103,6 +10152,7 @@
 0.0.0.0	stats.townnews.com
 0.0.0.0	stats.travel.geek.nz
 0.0.0.0	stats.tresor.one
+0.0.0.0	stats.trimbles.ie
 0.0.0.0	stats.tunt.lv
 0.0.0.0	stats.twhl.xyz
 0.0.0.0	stats.twistage.com
@@ -10150,6 +10200,7 @@
 0.0.0.0	stats.ynet.co.il
 0.0.0.0	stats.yourdallashandyman.com
 0.0.0.0	stats.yourfone.de
+0.0.0.0	stats.zeitimpuls.at
 0.0.0.0	stats.zmags.com
 0.0.0.0	stats.zotabox.com
 0.0.0.0	stats01.20min.ch
@@ -10166,6 +10217,7 @@
 0.0.0.0	stats2.teenvogue.com
 0.0.0.0	stats2.tune.pk
 0.0.0.0	stats2.vanityfair.com
+0.0.0.0	stats2.videonow.ru
 0.0.0.0	stats2.wmagazine.com
 0.0.0.0	stats3.ferheng.co
 0.0.0.0	stats3.unrulymedia.com
@@ -10511,6 +10563,7 @@
 0.0.0.0	tagger.opecloud.com
 0.0.0.0	taglocker.target.com
 0.0.0.0	tagm.tchibo.de
+0.0.0.0	tags.catapultx.com
 0.0.0.0	tags.cdn.circlesix.co
 0.0.0.0	tags.clickagy.com
 0.0.0.0	tags.creativille.co.uk
@@ -10713,6 +10766,7 @@
 0.0.0.0	tmgr.ccmbg.com
 0.0.0.0	tmobilehome-stage.hb-api.omtrdc.net
 0.0.0.0	tms-st.cdn.ngenix.net
+0.0.0.0	tms.dmp.wi-fi.ru
 0.0.0.0	tms.eharmony.ca
 0.0.0.0	tms.eharmony.co.uk
 0.0.0.0	tmy8.madeindesign.ch
@@ -11088,6 +11142,7 @@
 0.0.0.0	track.untd.com
 0.0.0.0	track.vdo.ai
 0.0.0.0	track.veedio.it
+0.0.0.0	track.venatusmedia.com
 0.0.0.0	track.vscash.com
 0.0.0.0	track.wattpad.com
 0.0.0.0	track.wayin.com
@@ -11220,6 +11275,7 @@
 0.0.0.0	tracking.dfinsolutions.com
 0.0.0.0	tracking.diet.mayoclinic.org
 0.0.0.0	tracking.drivercenter.eu
+0.0.0.0	tracking.drum.io
 0.0.0.0	tracking.dsmmadvantage.com
 0.0.0.0	tracking.ecookie.fr
 0.0.0.0	tracking.edb.gov.sg
@@ -11485,6 +11541,7 @@
 0.0.0.0	trcka8net.irobot-jp.com
 0.0.0.0	trckr.nordiskemedier.dk
 0.0.0.0	trecker.aklamio.com
+0.0.0.0	tredir.go.com
 0.0.0.0	tree-pixel-log.s3.amazonaws.com
 0.0.0.0	tremorhub.com
 0.0.0.0	trends.newsmaxwidget.com
@@ -11885,6 +11942,7 @@
 0.0.0.0	was.vodafone.de
 0.0.0.0	was.vodafone.ie
 0.0.0.0	was.vodafone.nl
+0.0.0.0	wasp.frenchtogether.com
 0.0.0.0	wass.ihsmarkit.com
 0.0.0.0	wat.gogoinflight.com
 0.0.0.0	watfordobserver-gb.watfordobserver.co.uk
@@ -12322,6 +12380,7 @@
 0.0.0.0	yzcpqa.gumtree.com
 0.0.0.0	yzxvyl.bestandless.com.au
 0.0.0.0	yzzqza.vanillashu.co.kr
+0.0.0.0	z.cdp-dev.cnn.com
 0.0.0.0	z0uolej1qnxzub1.info
 0.0.0.0	zam.nextinpact.com
 0.0.0.0	zbrfde.ozmall.co.jp

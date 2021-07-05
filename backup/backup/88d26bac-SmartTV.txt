@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2021-05-25
+# Backed up on: 2021-07-04
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -83,6 +83,7 @@
 0.0.0.0	d37ju0xanoz6gh.cloudfront.net
 0.0.0.0	d3mjsomixevyw7.cloudfront.net
 0.0.0.0	data.arqiva.tv
+0.0.0.0	data.mistat.intl.xiaomi.com
 0.0.0.0	database01p.anixe.net
 0.0.0.0	de.ioam.de
 0.0.0.0	dev-multiscreen.samsung.com
@@ -117,6 +118,9 @@
 0.0.0.0	i-stream.pl
 0.0.0.0	ibis.lgappstv.com
 0.0.0.0	ichnaea.netflix.com
+0.0.0.0	jp.info.lgsmartad.com
+0.0.0.0	jp.lgtvsdp.com
+0.0.0.0	jp.rdx2.lgtvsdp.com
 0.0.0.0	kpu.samsungelectronics.com
 0.0.0.0	legacyportal.nettvservices.com
 0.0.0.0	lgad.cjpowercast.com.edgesuite.net
@@ -135,6 +139,7 @@
 0.0.0.0	mhc-sec-us.myhomescreen.tv
 0.0.0.0	mhc-xpana-us.myhomescreen.tv
 0.0.0.0	midland.logs.roku.com
+0.0.0.0	mitv.tracking.intl.miui.com
 0.0.0.0	msg-em.hismarttv.com
 0.0.0.0	msg-na.hismarttv.com
 0.0.0.0	multiscreen.samsung.com
@@ -183,6 +188,7 @@
 0.0.0.0	scheduler.hbbtv.smartclip.net
 0.0.0.0	scribe.logs.roku.com
 0.0.0.0	script.ioam.de
+0.0.0.0	sdkconfig.ad.intl.xiaomi.com
 0.0.0.0	service.biv.sony.tv
 0.0.0.0	smartclip.com
 0.0.0.0	smartclip.net
@@ -198,6 +204,7 @@
 0.0.0.0	syncplusconfig.s3.amazonaws.com
 0.0.0.0	targeted-config-test.samsungacr.com
 0.0.0.0	test.samsungrm.net
+0.0.0.0	tracking.intl.miui.com
 0.0.0.0	trvdp.com
 0.0.0.0	tuner-api.hdhomerun.com
 0.0.0.0	tv-static.scdn.co

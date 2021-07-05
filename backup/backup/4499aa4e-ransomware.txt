@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
-# Backed up on: 2020-07-07
+# Backed up on: 2021-07-04
 
 0.0.0.0	25z5g623wpqpdwis.onion.to
 0.0.0.0	27c73bq66y4xqoh7.dorfact.at
@@ -1409,6 +1409,7 @@
 0.0.0.0	real346real.top
 0.0.0.0	remoteunityrety.top
 0.0.0.0	renaulrtcenturytrick.top
+0.0.0.0	res-smartd.info
 0.0.0.0	rkiywansamtu.top
 0.0.0.0	rolerxunitywsto.top
 0.0.0.0	rootaleyz.top
