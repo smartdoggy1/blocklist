@@ -24,14 +24,20 @@ combine_group = parser.add_argument_group('Combine-only Options')
 backup_group.add_argument('-b', '--backup', action='store_true', help=f'Downloads all lists found in {backup_hosts_sources}, and store as a file in the directory {backup_hosts_destination_dir}.')
 backup_group.add_argument('-k', '--keep-old', action='store_true', help=f'When using -b, keep old domains that were removed in the newest version.')
 backup_group.add_argument('-s', '--select', nargs='+', help=f'When using -b, specify which {hash_length}-character hash(es) to back up (will check hashes against {backup_hosts_sources}).')
+backup_group.add_argument('-i', '--ignore', nargs='+', help='The opposite of --select, that is, specify the hashes to exclude backing up.')
 backup_group.add_argument('--clean', action='store_true', help=f'Formats each file in {backup_hosts_destination_dir}.')
 combine_group.add_argument('-c', '--combine', action='store_true', help=f'Combine all files from {combined_hosts_sources_dir} to {combined_hosts}.')
 combine_group.add_argument('-e', '--everything', action='store_true', help=f'When used with -c, include {backup_hosts_destination_dir} and store to {combined_everything_hosts}.')
-combine_group.add_argument('-i', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
+combine_group.add_argument('-iw', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
 combine_group.add_argument('-t', '--trim', action='store_true', help=f'When using -c, exclude all hosts that match regexes in the file {trim}. Useful to lower the final file size.')
 args = parser.parse_args()
-if args.select:
-    for _hash in args.select:
+
+if args.select and args.ignore:
+    print('--select and --ignore are mutually exclusive.')
+    exit()
+
+if args.select or args.ignore:
+    for _hash in args.select or args.ignore:
         if len(_hash) != hash_length:
             print(f'Error - given hash ({_hash}) must be of length {hash_length}')
             exit()
@@ -96,6 +102,8 @@ def backup():
         sources = {hashlib.sha256(line.strip().encode()).hexdigest()[:hash_length]: line.strip() for line in f if not line.startswith('#')}
     if args.select:
         sources = {_hash: url for _hash, url in sources.items() if _hash in args.select}
+    elif args.ignore:
+        sources = {_hash: url for _hash, url in sources.items() if _hash not in args.ignore}
     if len(sources) == 0:
         if args.select:
             print(f'Warning - no hashes matched when using --select')

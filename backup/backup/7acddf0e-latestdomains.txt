@@ -1,5 +1,5 @@
 # https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# Backed up on: 2021-07-04
+# Backed up on: 2021-08-23
 
 0.0.0.0	00zyku.com
 0.0.0.0	0124logistics.com
@@ -425,6 +425,7 @@
 0.0.0.0	bazaarkonections.com
 0.0.0.0	bazarkotulpur.com
 0.0.0.0	baztabeafkar.com
+0.0.0.0	bb.goatggame.com
 0.0.0.0	bb.realestateprivateportfolio.com
 0.0.0.0	bbcalegal.com
 0.0.0.0	bbkaproduction.com
@@ -784,6 +785,7 @@
 0.0.0.0	coach4u.com.au
 0.0.0.0	coastlinepoolspa.com
 0.0.0.0	cobhamplasteringservices.co.uk
+0.0.0.0	cocinashogarmobiliario.com
 0.0.0.0	cockadoodledont.com
 0.0.0.0	cocomexdelbajio.com
 0.0.0.0	coconailboutique.gr
@@ -854,6 +856,7 @@
 0.0.0.0	cprvstd4upcomingtalentanimationauditnyc.duckdns.org
 0.0.0.0	cprvtsdy2upcomingtalentanimationauditics.duckdns.org
 0.0.0.0	cqi.yolasite.com
+0.0.0.0	cracksmsa.ug
 0.0.0.0	crathior.com
 0.0.0.0	crbremen.com
 0.0.0.0	crc2k18.mooo.com
@@ -1082,6 +1085,7 @@
 0.0.0.0	down.xihon.cn
 0.0.0.0	down.xrpdf.com
 0.0.0.0	down.z-sepost.top
+0.0.0.0	download.5866.com
 0.0.0.0	download.exrnybuf.cn
 0.0.0.0	download.i-tax.cn
 0.0.0.0	download.loginserv.net
@@ -1125,6 +1129,7 @@
 0.0.0.0	dvct.zephyrgroup.biz
 0.0.0.0	dveretti.com
 0.0.0.0	dvers.me
+0.0.0.0	dvfwfsvsdfbdwr.gb.net
 0.0.0.0	dwightjimenez.com
 0.0.0.0	dwoweeiiid.com
 0.0.0.0	dwz.lefu.run
@@ -1540,6 +1545,7 @@
 0.0.0.0	globalstrategicsolutions.com
 0.0.0.0	globalteamacademy.com
 0.0.0.0	globeegypt.org
+0.0.0.0	gmailservice7911.com
 0.0.0.0	gms2006.de
 0.0.0.0	gnadl.net
 0.0.0.0	gnptekstil.com
@@ -1665,6 +1671,8 @@
 0.0.0.0	hdlive-espntv.live-sportshd.website
 0.0.0.0	hdpublicidadsac.com
 0.0.0.0	hds.sz4h.com
+0.0.0.0	hdvideofullizleservisi076.xyz
+0.0.0.0	hdvideofullizleservisi467.xyz
 0.0.0.0	headdesign.com
 0.0.0.0	healthagents.net
 0.0.0.0	healthcaring.xyz
@@ -2114,6 +2122,7 @@
 0.0.0.0	laramieonline.site
 0.0.0.0	laravel.gallamoda.com
 0.0.0.0	larbi.dgsn.fr
+0.0.0.0	lastimaners.ug
 0.0.0.0	latiendadelaplata.com
 0.0.0.0	latinovoicesmn.org
 0.0.0.0	lauratomismith.com
@@ -2147,6 +2156,7 @@
 0.0.0.0	lengoctu.com
 0.0.0.0	lenovomaybenotqq.com
 0.0.0.0	lenovowantsyouqq.com
+0.0.0.0	leo.taskformask.com
 0.0.0.0	leoleostartup.pw
 0.0.0.0	leonlogistik.website
 0.0.0.0	leotel.solution.pp.ua
@@ -2318,6 +2328,7 @@
 0.0.0.0	maplecreek.net
 0.0.0.0	maponlinedata.com
 0.0.0.0	marcapinyo.ru
+0.0.0.0	marccnovaafitness.com
 0.0.0.0	marcellopera.it
 0.0.0.0	marchodak.com
 0.0.0.0	marcosdjdhsgvoustgd62020network.com
@@ -2767,6 +2778,7 @@
 0.0.0.0	onlinebusinessleichtgemacht.de
 0.0.0.0	onlineucenjeikursevi.com
 0.0.0.0	onlynews24x7.com
+0.0.0.0	onplayandroidguncelleme.co.vu
 0.0.0.0	onyourleftracing.com
 0.0.0.0	onyourmarkmindsetgo.com
 0.0.0.0	oooprog.ru
@@ -3254,7 +3266,10 @@
 0.0.0.0	saomaihotel.vn
 0.0.0.0	sapac.ro
 0.0.0.0	sara2wsdyentertawsin.dns.army
+0.0.0.0	sarcef08.top
+0.0.0.0	sarefy07.top
 0.0.0.0	sariweb.com.br
+0.0.0.0	sarpuk04.top
 0.0.0.0	sasksseed.mymonolith.com
 0.0.0.0	sathyamadvisory.in
 0.0.0.0	sauerbeck.net
@@ -4198,6 +4213,7 @@
 0.0.0.0	www.5yeh.com
 0.0.0.0	www.999102com.cn
 0.0.0.0	www.aaskuu.com
+0.0.0.0	www.absyin.com
 0.0.0.0	www.acep-xploit.tk
 0.0.0.0	www.achutamanasa.com
 0.0.0.0	www.aciparis.com
@@ -4246,6 +4262,7 @@
 0.0.0.0	www.bluekarmadigital.com
 0.0.0.0	www.bmsystem.ro
 0.0.0.0	www.boekjereis.net
+0.0.0.0	www.bonusesfound.ml
 0.0.0.0	www.boudheib.ae
 0.0.0.0	www.btvnoticias.com
 0.0.0.0	www.bulletcreative.co.uk

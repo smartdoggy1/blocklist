@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-07-04
+# Backed up on: 2021-08-23
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -296,6 +296,7 @@
 0.0.0.0	adimgs.sapo.pt
 0.0.0.0	adimpact.com
 0.0.0.0	adincube.com
+0.0.0.0	adingo.jp
 0.0.0.0	adinjector.net
 0.0.0.0	adinterax.com
 0.0.0.0	adisfy.com
@@ -375,6 +376,7 @@
 0.0.0.0	adplxmd.com
 0.0.0.0	adprofile.net
 0.0.0.0	adprofits.ru
+0.0.0.0	adpushup.com
 0.0.0.0	adrazzi.com
 0.0.0.0	adreactor.com
 0.0.0.0	adreclaim.com
@@ -559,6 +561,7 @@
 0.0.0.0	ads.hollywood.com
 0.0.0.0	ads.horsehero.com
 0.0.0.0	ads.horyzon-media.com
+0.0.0.0	ads.hsoub.com
 0.0.0.0	ads.ibest.com.br
 0.0.0.0	ads.ibryte.com
 0.0.0.0	ads.icq.com
@@ -785,6 +788,7 @@
 0.0.0.0	ads2.contentabc.com
 0.0.0.0	ads2.femmefab.nl
 0.0.0.0	ads2.gamecity.net
+0.0.0.0	ads2.hsoub.com
 0.0.0.0	ads2.jubii.dk
 0.0.0.0	ads2.net-communities.co.uk
 0.0.0.0	ads2.oneplace.com
@@ -854,6 +858,7 @@
 0.0.0.0	adserver.freecity.de
 0.0.0.0	adserver.friendfinder.com
 0.0.0.0	adserver.generationiron.com
+0.0.0.0	adserver.gilligan.tech
 0.0.0.0	adserver.hardsextube.com
 0.0.0.0	adserver.hardwareanalysis.com
 0.0.0.0	adserver.html.it
@@ -881,10 +886,12 @@
 0.0.0.0	adserver.sciflicks.com
 0.0.0.0	adserver.scr.sk
 0.0.0.0	adserver.sharewareonline.com
+0.0.0.0	adserver.smgfiles.com
 0.0.0.0	adserver.spankaway.com
 0.0.0.0	adserver.thema.cc
 0.0.0.0	adserver.theonering.net
 0.0.0.0	adserver.trojaner-info.de
+0.0.0.0	adserver.tupolska.com
 0.0.0.0	adserver.twitpic.com
 0.0.0.0	adserver.viagogo.com
 0.0.0.0	adserver.virginmedia.com
@@ -1108,6 +1115,7 @@
 0.0.0.0	analytics.cloudron.io
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.dnsfilter.com
+0.0.0.0	analytics.emarketer.com
 0.0.0.0	analytics.ext.go-tellm.com
 0.0.0.0	analytics.fkz.re
 0.0.0.0	analytics.google.com
@@ -1140,14 +1148,17 @@
 0.0.0.0	aniview.com
 0.0.0.0	annonser.dagbladet.no
 0.0.0.0	annoyedairport.com
+0.0.0.0	annoyingacoustics.com
 0.0.0.0	anrdoezrs.net
 0.0.0.0	anstrex.com
 0.0.0.0	anuncios.edicaoms.com.br
 0.0.0.0	anxiousapples.com
 0.0.0.0	apathetictheory.com
+0.0.0.0	api.amplitude.com
 0.0.0.0	api.intensifier.de
 0.0.0.0	api.jetlore.com
 0.0.0.0	api.kameleoon.com
+0.0.0.0	api.rudderlabs.com
 0.0.0.0	apolloprogram.io
 0.0.0.0	app-ab33.marketo.com
 0.0.0.0	app-analytics.snapchat.com
@@ -1320,6 +1331,7 @@
 0.0.0.0	behavioralengine.com
 0.0.0.0	belstat.com
 0.0.0.0	belstat.nl
+0.0.0.0	benfly.net
 0.0.0.0	berp.com
 0.0.0.0	best-realgirl2.com
 0.0.0.0	best-top.ro
@@ -1546,6 +1558,7 @@
 0.0.0.0	clktrx.com
 0.0.0.0	cloisteredhydrant.com
 0.0.0.0	cloudcoins.biz
+0.0.0.0	cloudflareinsights.com
 0.0.0.0	clrstm.com
 0.0.0.0	cluster.adultworld.com
 0.0.0.0	clustrmaps.com
@@ -1563,7 +1576,9 @@
 0.0.0.0	coin-hive.com
 0.0.0.0	coinhive.com
 0.0.0.0	cointraffic.io
+0.0.0.0	collector-dev.cdp-dev.cnn.com
 0.0.0.0	collector-medium.lightstep.com
+0.0.0.0	collector.cdp.cnn.com
 0.0.0.0	colonize.com
 0.0.0.0	comclick.com
 0.0.0.0	comfortablecheese.com
@@ -1581,6 +1596,7 @@
 0.0.0.0	connectad.io
 0.0.0.0	connextra.com
 0.0.0.0	consciouschairs.com
+0.0.0.0	consciouscheese.com
 0.0.0.0	consensad.com
 0.0.0.0	consensu.org
 0.0.0.0	contadores.miarroba.com
@@ -1640,6 +1656,7 @@
 0.0.0.0	craktraffic.com
 0.0.0.0	crashlytics.com
 0.0.0.0	crashlyticsreports-pa.googleapis.com
+0.0.0.0	cratecamera.com
 0.0.0.0	crawlability.com
 0.0.0.0	crawlclocks.com
 0.0.0.0	crazyegg.com
@@ -1676,9 +1693,11 @@
 0.0.0.0	dacdn.visualwebsiteoptimizer.com
 0.0.0.0	dacdn.vwo.com
 0.0.0.0	dakic-ia-300.com
+0.0.0.0	damageddistance.com
 0.0.0.0	damdoor.com
 0.0.0.0	dancemistake.com
 0.0.0.0	dapper.net
+0.0.0.0	dapperfloor.com
 0.0.0.0	dashbida.com
 0.0.0.0	dashingdirt.com
 0.0.0.0	dashingsweater.com
@@ -3085,6 +3104,7 @@
 0.0.0.0	sail-horizon.com
 0.0.0.0	samsungacr.com
 0.0.0.0	samsungads.com
+0.0.0.0	sanity-dataplane.rudderstack.com
 0.0.0.0	saysidewalk.com
 0.0.0.0	sbx.pagesjaunes.fr
 0.0.0.0	sc-analytics.appspot.com
@@ -3093,6 +3113,7 @@
 0.0.0.0	scarcesign.com
 0.0.0.0	scatteredheat.com
 0.0.0.0	scintillatingscissors.com
+0.0.0.0	scintillatingsilver.com
 0.0.0.0	scintillatingspace.com
 0.0.0.0	scoobyads.com
 0.0.0.0	scopelight.com
@@ -3217,6 +3238,7 @@
 0.0.0.0	spacash.com
 0.0.0.0	spaceleadster.com
 0.0.0.0	spannersalesman.com
+0.0.0.0	sparklingshelf.com
 0.0.0.0	sparkstudios.com
 0.0.0.0	specially4u.net
 0.0.0.0	specificmedia.co.uk
@@ -3234,6 +3256,7 @@
 0.0.0.0	sponsors.thoughtsmedia.com
 0.0.0.0	sportsad.net
 0.0.0.0	spot.fitness.com
+0.0.0.0	spotlessstamp.com
 0.0.0.0	spotscenered.info
 0.0.0.0	spotx.tv
 0.0.0.0	spotxchange.com
@@ -3322,6 +3345,7 @@
 0.0.0.0	sugarcurtain.com
 0.0.0.0	sugoicounter.com
 0.0.0.0	sulkybutter.com
+0.0.0.0	sulkycook.com
 0.0.0.0	summerhamster.com
 0.0.0.0	summerobject.com
 0.0.0.0	sumo.com
@@ -3341,6 +3365,7 @@
 0.0.0.0	swimslope.com
 0.0.0.0	swordfishdc.com
 0.0.0.0	swordgoose.com
+0.0.0.0	t.appsflyer.com
 0.0.0.0	t.bawafx.com
 0.0.0.0	t.eloqua.com
 0.0.0.0	t.en25.com
@@ -3423,6 +3448,7 @@
 0.0.0.0	ticketaunt.com
 0.0.0.0	ticklesign.com
 0.0.0.0	ticksel.com
+0.0.0.0	tics.techdirt.com
 0.0.0.0	tidaltv.com
 0.0.0.0	tidint.pro
 0.0.0.0	tinybar.com
@@ -3476,6 +3502,7 @@
 0.0.0.0	track.hexcan.com
 0.0.0.0	track.mailerlite.com
 0.0.0.0	track.nuxues.com
+0.0.0.0	track.software-codes.com
 0.0.0.0	track.themaccleanup.info
 0.0.0.0	track.tkbo.com
 0.0.0.0	track.ultravpn.com
@@ -3803,6 +3830,7 @@
 0.0.0.0	yieldmanager.com
 0.0.0.0	yieldmanager.net
 0.0.0.0	yieldmo.com
+0.0.0.0	yieldoptimizer.com
 0.0.0.0	yieldtraffic.com
 0.0.0.0	yldbt.com
 0.0.0.0	ymetrica1.com
@@ -3825,6 +3853,7 @@
 0.0.0.0	zenzuu.com
 0.0.0.0	zeus.developershed.com
 0.0.0.0	zeusclicks.com
+0.0.0.0	zion-telemetry.api.cnn.io
 0.0.0.0	zlp6s.pw
 0.0.0.0	zm232.com
 0.0.0.0	zmedia.com
