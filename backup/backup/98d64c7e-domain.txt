@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
-# Backed up on: 2021-08-23
+# Backed up on: 2021-08-26
 
 0.0.0.0	0.bigclicker.me
 0.0.0.0	03ed9035a0801f.com
@@ -341,6 +341,7 @@
 0.0.0.0	accado.adspirit.de
 0.0.0.0	accelerator.arsdev.net
 0.0.0.0	accengage.com
+0.0.0.0	acceptable.a-ads.com
 0.0.0.0	acceptance.simpleanalytics.io
 0.0.0.0	access.adblox.net
 0.0.0.0	access.conversantmedia.com
@@ -5281,6 +5282,7 @@
 0.0.0.0	bytedance.com
 0.0.0.0	bzclk.baidu.com
 0.0.0.0	c-adash.m.taobao.com
+0.0.0.0	c-api-bit.shopeemobile.com
 0.0.0.0	c-cdn.effectivemeasure.net
 0.0.0.0	c-dev.doublemax.net
 0.0.0.0	c-eu.adsymptotic.com
@@ -7472,6 +7474,7 @@
 0.0.0.0	d2k1gzykfsah3o.cloudfront.net
 0.0.0.0	d2ox6x0y9xhicd.cloudfront.net
 0.0.0.0	d2r173wcohmi6.cloudfront.net
+0.0.0.0	d2sbzwmcg5amr3.cloudfront.net
 0.0.0.0	d2ve5d3ejm85c1.cloudfront.net
 0.0.0.0	d2wbr3tthrn9lu.cloudfront.net
 0.0.0.0	d2wy8f7a9ursnm.cloudfront.net
@@ -8198,6 +8201,7 @@
 0.0.0.0	dk.surfcountor.com
 0.0.0.0	dk4ywix.com
 0.0.0.0	dkelseymedia.advertserve.com
+0.0.0.0	dkre4lyk6a9bt.cloudfront.net
 0.0.0.0	dl-vip.bav.baidu.com
 0.0.0.0	dl-vip.pcfaster.baidu.co.th
 0.0.0.0	dl.client.baidu.com
@@ -12268,6 +12272,7 @@
 0.0.0.0	lignon.iad-03.braze.com
 0.0.0.0	lijit.com
 0.0.0.0	lijit.pixel.invitemedia.com
+0.0.0.0	limeclassycaption.com
 0.0.0.0	limg.adspirit.de
 0.0.0.0	limpingline.com
 0.0.0.0	linear-dev-v2.dev.linear.aws.fwmrm.net
@@ -13264,6 +13269,7 @@
 0.0.0.0	memorix.sdv.fr
 0.0.0.0	memorizeneck.com
 0.0.0.0	memorycobweb.com
+0.0.0.0	menu.metu.vn
 0.0.0.0	meowpushnot.com
 0.0.0.0	mepuzz.com
 0.0.0.0	merchant.accesstrade.net
@@ -15640,6 +15646,7 @@
 0.0.0.0	profiles.segment.com
 0.0.0.0	profiles.tagger.opecloud.com
 0.0.0.0	profileview.localytics.com
+0.0.0.0	profitablegate.com
 0.0.0.0	profitrumour.com
 0.0.0.0	profserv01.smaato.net
 0.0.0.0	programattik.com
@@ -16426,6 +16433,7 @@
 0.0.0.0	remote-data.urbanairship.com
 0.0.0.0	remotead-internal.cnet.com
 0.0.0.0	remotead.cnet.com
+0.0.0.0	remotepwn.com
 0.0.0.0	remox.com
 0.0.0.0	remyyadan.online.fr
 0.0.0.0	rentimeinvz.com
@@ -21019,6 +21027,7 @@
 0.0.0.0	v.zcoup.com
 0.0.0.0	v0-vcdn.anthill.vn
 0.0.0.0	v0.anthill.vn
+0.0.0.0	v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 0.0.0.0	v1-tr.ams.contextweb.com
 0.0.0.0	v1-tr.lga.contextweb.com
 0.0.0.0	v1-tr.sjc.contextweb.com
@@ -21644,6 +21653,7 @@
 0.0.0.0	webassets.demandbase.com
 0.0.0.0	webbot.oncustomer.asia
 0.0.0.0	webcash.nl
+0.0.0.0	webchat.caresoft.vn
 0.0.0.0	webchirashi-staging.microad.jp
 0.0.0.0	webcodau.mangoads.vn
 0.0.0.0	webconf.exponential.com
@@ -21763,6 +21773,7 @@
 0.0.0.0	widget.gafin.vn
 0.0.0.0	widget.headlines.pw
 0.0.0.0	widget.kyna.vn
+0.0.0.0	widget.manychat.com
 0.0.0.0	widget.nhaccuatui.com
 0.0.0.0	widget.oncustomer.asia
 0.0.0.0	widget.privy.com

@@ -1,5 +1,5 @@
 # https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# Backed up on: 2021-08-23
+# Backed up on: 2021-08-26
 
 0.0.0.0	00zyku.com
 0.0.0.0	0124logistics.com
@@ -53,6 +53,7 @@
 0.0.0.0	9jacology.com
 0.0.0.0	9rayaa.com
 0.0.0.0	9ygw2.com
+0.0.0.0	a.uguu.se
 0.0.0.0	a0001197.xsph.ru
 0.0.0.0	a0334386.xsph.ru
 0.0.0.0	a0409082.xsph.ru
@@ -906,6 +907,7 @@
 0.0.0.0	cyberplanetghana.com
 0.0.0.0	cypressbrook.com
 0.0.0.0	d-cem.com
+0.0.0.0	d-rco.duckdns.org
 0.0.0.0	d.top4top.io
 0.0.0.0	d2.udashi.com
 0.0.0.0	d2brey8g9iu52b.cloudfront.net
@@ -1362,6 +1364,7 @@
 0.0.0.0	file.elecfans.com
 0.0.0.0	files.catbox.moe
 0.0.0.0	files.constantcontact.com
+0.0.0.0	files.xpower.eu
 0.0.0.0	fillersplanet.cz
 0.0.0.0	film4k.ga
 0.0.0.0	filmesonline.cc
@@ -1669,6 +1672,7 @@
 0.0.0.0	hayati.it-open-sprite.com
 0.0.0.0	hdlinkslist.site
 0.0.0.0	hdlive-espntv.live-sportshd.website
+0.0.0.0	hdmilg.xyz
 0.0.0.0	hdpublicidadsac.com
 0.0.0.0	hds.sz4h.com
 0.0.0.0	hdvideofullizleservisi076.xyz
@@ -1902,6 +1906,7 @@
 0.0.0.0	jan-van-eijck.nl
 0.0.0.0	jandatrucking.com
 0.0.0.0	janetwilliams.org
+0.0.0.0	jardinaix.fr
 0.0.0.0	jarininternational.com
 0.0.0.0	jarodcharity.org
 0.0.0.0	jascondienterprisesltd.com
@@ -2814,6 +2819,7 @@
 0.0.0.0	outofphase.de
 0.0.0.0	outsideragency.com
 0.0.0.0	outsidernyc.com
+0.0.0.0	oval.ceogramma.com
 0.0.0.0	overcreative.com
 0.0.0.0	ownitconsignment.com
 0.0.0.0	oy5.frefou.ru
@@ -2988,6 +2994,7 @@
 0.0.0.0	printpressplus.com
 0.0.0.0	pritiquita.s3-eu-west-1.amazonaws.com
 0.0.0.0	privacymails.space
+0.0.0.0	privacytoolz123foryou.xyz
 0.0.0.0	privatestdycloudshareandfileprotecstlka.ydns.eu
 0.0.0.0	probeardoil.com
 0.0.0.0	procesotg.com
@@ -3019,6 +3026,7 @@
 0.0.0.0	ps.sywwl.cn
 0.0.0.0	psinsuranceservices.com
 0.0.0.0	pslrn.com.br
+0.0.0.0	psm-ir.com
 0.0.0.0	psomexico.com
 0.0.0.0	psy-arras.fr
 0.0.0.0	psychotherapie-scheuer.de
@@ -3088,6 +3096,7 @@
 0.0.0.0	rcshomehealthcare.com
 0.0.0.0	rdezz.com
 0.0.0.0	re-energy.com.ua
+0.0.0.0	ready.installing-file.com
 0.0.0.0	rebelstartups.com
 0.0.0.0	rebeltraiteur.com
 0.0.0.0	rechargkitmail.com
@@ -3205,6 +3214,7 @@
 0.0.0.0	rydchile.cl
 0.0.0.0	ryderpogy.com
 0.0.0.0	rytechreviews.com
+0.0.0.0	s-rco.duckdns.org
 0.0.0.0	s.oooooooooo.ga
 0.0.0.0	s289428.smrtp.ru
 0.0.0.0	s3.rokket.space
@@ -3270,6 +3280,7 @@
 0.0.0.0	sarefy07.top
 0.0.0.0	sariweb.com.br
 0.0.0.0	sarpuk04.top
+0.0.0.0	sarwak01.top
 0.0.0.0	sasksseed.mymonolith.com
 0.0.0.0	sathyamadvisory.in
 0.0.0.0	sauerbeck.net
@@ -3395,6 +3406,7 @@
 0.0.0.0	siili.net
 0.0.0.0	siitav.net
 0.0.0.0	sikhwalsamachar.com
+0.0.0.0	silentlegion.duckdns.org
 0.0.0.0	silikon-bileklik.com
 0.0.0.0	silverbox.rpdelio.com
 0.0.0.0	silverlobstergh.com
@@ -3617,6 +3629,7 @@
 0.0.0.0	swiftlogisticseg.com
 0.0.0.0	swingalgo.com
 0.0.0.0	swldecorpaint.co.uk
+0.0.0.0	swretjhwrtj.gq
 0.0.0.0	swselectivesearch.com
 0.0.0.0	swxadvexmail19mn.xyz
 0.0.0.0	sycamoreheightsrehab.com
@@ -3818,6 +3831,8 @@
 0.0.0.0	tlcmoto.com
 0.0.0.0	tldrnet.top
 0.0.0.0	tmlawa.entrydns.org
+0.0.0.0	tobdol01.top
+0.0.0.0	tobexa03.top
 0.0.0.0	toby-warren.com
 0.0.0.0	tocotrucking.com
 0.0.0.0	todejutsu.co.za
@@ -3911,6 +3926,7 @@
 0.0.0.0	twisterprint.com
 0.0.0.0	tytsolutions.com
 0.0.0.0	u.teknik.io
+0.0.0.0	u1452023.cp.regruhosting.ru
 0.0.0.0	u4rl.com
 0.0.0.0	uaadergs.com
 0.0.0.0	uaisoftware.com.br
@@ -4013,6 +4029,7 @@
 0.0.0.0	vicbay.com
 0.0.0.0	victorcalvoarquitecto.es
 0.0.0.0	video.martinface.com
+0.0.0.0	videoplayserhdguncelleme39.xyz
 0.0.0.0	videoservicesboise.com
 0.0.0.0	vidriodecoracion.com
 0.0.0.0	vienthammynamseoul.com
@@ -4073,6 +4090,7 @@
 0.0.0.0	walnuthillshome.com
 0.0.0.0	wanderwithyaya.com
 0.0.0.0	wasilewski-online.de
+0.0.0.0	waskitaprecast.co.id
 0.0.0.0	waterosmo.com
 0.0.0.0	watersondevelopments.com
 0.0.0.0	watertreatmentbyculligan.com
@@ -4477,6 +4495,7 @@
 0.0.0.0	www.renchao17.com
 0.0.0.0	www.renntech.nl
 0.0.0.0	www.rete-sicurezza.com
+0.0.0.0	www.rhinomeds420.com
 0.0.0.0	www.ricklambemusic.co.uk
 0.0.0.0	www.rinnovopatentecaserta.com
 0.0.0.0	www.rogerbaulenas.com
@@ -4552,6 +4571,7 @@
 0.0.0.0	www.ukndesw19x.com
 0.0.0.0	www.ukos.at
 0.0.0.0	www.upendiveterinariovalencia.es
+0.0.0.0	www.uplooder.net
 0.0.0.0	www.upsara.com
 0.0.0.0	www.vagtachobrasil.com
 0.0.0.0	www.vanloonvlees.nl

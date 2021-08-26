@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2021-08-23
+# Backed up on: 2021-08-26
 
 0.0.0.0	0sbm.consobaby.co.uk
 0.0.0.0	0x1f4b0.com
@@ -2254,6 +2254,7 @@
 0.0.0.0	ches5sort.com
 0.0.0.0	chevalierusa.actonservice.com
 0.0.0.0	chic9usia.com
+0.0.0.0	chickensstation.com
 0.0.0.0	chiefexecutive.actonservice.com
 0.0.0.0	chihiro.nostalgie.fr
 0.0.0.0	chip2gift.com
@@ -2289,6 +2290,7 @@
 0.0.0.0	cjbdme.conquer.org
 0.0.0.0	cjcqls.onbuy.com
 0.0.0.0	cjgffo.thesportsedit.com
+0.0.0.0	ck.connatix.com
 0.0.0.0	ckozwx.n11.com
 0.0.0.0	cl.canva.com
 0.0.0.0	cl.expedia.com
@@ -3064,7 +3066,9 @@
 0.0.0.0	dagda.vilynx.com
 0.0.0.0	daifez.thebay.com
 0.0.0.0	dailyecho-gb.dailyecho.co.uk
+0.0.0.0	damageddistance.com
 0.0.0.0	dana8herb.com
+0.0.0.0	dapperfloor.com
 0.0.0.0	daq0d0aotgq0f.cloudfront.net
 0.0.0.0	darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 0.0.0.0	dash.getsitecontrol.com
@@ -4823,6 +4827,7 @@
 0.0.0.0	halsteadgazette-gb.halsteadgazette.co.uk
 0.0.0.0	hambtr.unilife.co.jp
 0.0.0.0	hampshirechronicle-gb.hampshirechronicle.co.uk
+0.0.0.0	hanaana.socialblade.com
 0.0.0.0	haostat.qihoo.com
 0.0.0.0	happen.spkt.io
 0.0.0.0	harm6stop.com
@@ -8627,6 +8632,7 @@
 0.0.0.0	p.barrera.io
 0.0.0.0	p.classroombookings.com
 0.0.0.0	p.clvs7.com
+0.0.0.0	p.data.cctv.com
 0.0.0.0	p.eyebuydirect-cmr.net
 0.0.0.0	p.fairspot.host
 0.0.0.0	p.gazeta.pl
@@ -12039,6 +12045,7 @@
 0.0.0.0	stat.novinky.cz
 0.0.0.0	stat.nyheter24.se
 0.0.0.0	stat.ouedkniss.com
+0.0.0.0	stat.ovh
 0.0.0.0	stat.pladform.ru
 0.0.0.0	stat.ppstream.com
 0.0.0.0	stat.pravmir.ru
