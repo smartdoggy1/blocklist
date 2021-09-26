@@ -45,7 +45,7 @@ if args.select or args.ignore:
 # blacklist these from being blacklisted
 blacklist = {b'localhost', b'localhost.localdomain', b'broadcasthost', b'local'}
 keep_regex = re.compile(b'([^\#\*\<\>\:\/\\\{\}]*)(#.*)?$')
-ignore_regex = re.compile(b'([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})$')
+ignore_regex = re.compile(b'([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)$')
 strip_chars = f'{whitespace}/'.encode()
 
 
