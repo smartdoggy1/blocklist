@@ -21,6 +21,7 @@ hash_length = 8
 parser = argparse.ArgumentParser(description='Allows the retrieval (--backup) of hosts files, and then merging all of the hosts files (--combine) to one single host file.')
 backup_group = parser.add_argument_group('Backup-only Options')
 combine_group = parser.add_argument_group('Combine-only Options')
+search_group = parser.add_argument_group('Search-only Options')
 backup_group.add_argument('-b', '--backup', action='store_true', help=f'Downloads all lists found in {backup_hosts_sources}, and store as a file in the directory {backup_hosts_destination_dir}.')
 backup_group.add_argument('-k', '--keep-old', action='store_true', help=f'When using -b, keep old domains that were removed in the newest version.')
 backup_group.add_argument('-s', '--select', nargs='+', help=f'When using -b, specify which {hash_length}-character hash(es) to back up (will check hashes against {backup_hosts_sources}).')
@@ -30,9 +31,15 @@ combine_group.add_argument('-c', '--combine', action='store_true', help=f'Combin
 combine_group.add_argument('-e', '--everything', action='store_true', help=f'When used with -c, include {backup_hosts_destination_dir} and store to {combined_everything_hosts}.')
 combine_group.add_argument('-iw', '--ignore-whitelist', action='store_true', help='When using -c, ignore applying the whitelist.')
 combine_group.add_argument('-t', '--trim', action='store_true', help=f'When using -c, exclude all hosts that match regexes in the file {trim}. Useful to lower the final file size.')
+search_group.add_argument('-se', '--search', action='store_true', help='Interactively prompts for a host to search an exact match in the host file (--search-source-file).')
+search_group.add_argument('-sf', '--search-file', help='Provide a file with newline-separated hosts. Outputs each host with either True or False per line, then exits.')
+search_group.add_argument('-ssf', '--search-source-file', default=combined_everything_hosts, help=f'Provide the hosts file to search against. Default: {combined_everything_hosts}')
 args = parser.parse_args()
 
-if args.select and args.ignore:
+if args.search and args.search_file:
+    print('--search and --search-file are mutually exclusive.')
+    exit()
+elif args.select and args.ignore:
     print('--select and --ignore are mutually exclusive.')
     exit()
 
@@ -44,8 +51,8 @@ if args.select or args.ignore:
 
 # blacklist these from being blacklisted
 blacklist = {b'localhost', b'localhost.localdomain', b'broadcasthost', b'local'}
-keep_regex = re.compile(b'([^\#\*\<\>\:\/\\\{\}]*)(#.*)?$')
-ignore_regex = re.compile(b'([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)$')
+keep_regex = re.compile(br'([^\#\*\<\>\:\/\\\{\}]*)(#.*)?$')
+ignore_regex = re.compile(br'([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)$')
 strip_chars = f'{whitespace}/'.encode()
 
 
@@ -208,7 +215,60 @@ def combine():
     print(f'Written {len(data):,} lines to {fname} (removed {c - len(data):,} duplicates).')
 
 
+def search_file():
+    data = set()
+    with open(args.search_source_file, 'rb') as f:
+        load_file_to_set(f, data)
+    try:
+        with open(args.search_file, 'rb') as f:
+            lines = [line.strip() for line in f if line.strip()]
+    except Exception as e:
+        print(f'Error when opening "{args.search_file}": {e}')
+    if not lines:
+        return
+    longest = len(max(lines, key=len))
+    for line in lines:
+        target = b'0.0.0.0\t' + line
+        print(f'{line.decode():{longest}} - {target in data}')
+
+
+def interactive_search():
+    print('Constructing database...', end='', flush=True)
+    import sqlite3
+    con = sqlite3.connect(':memory:')
+    cur = con.cursor()
+    cur.execute('CREATE TABLE hosts (host BLOB, PRIMARY KEY(host))')
+    with open(args.search_source_file, 'rb') as f:
+        cur.executemany('INSERT INTO hosts VALUES(?)', ((line.strip()[8:],) for line in f if line.strip()))
+    print('done')
+    partial = False
+    while True:
+        inp = input(f'Enter a host to search {"partially" if partial else "exactly"} for (p={"exact search" if partial else "partial search"}, q=quit): ')
+        if inp == 'q':
+            break
+        elif inp == 'p':
+            partial ^= True
+            continue
+        inp = inp.encode()
+        if partial:
+            cur.execute(f'SELECT host FROM hosts WHERE host LIKE ?', (f'%{inp.decode()}%',))
+            found = [row[0].decode() for row in cur.fetchall()]
+            longest = len(str(len(found) + 1))
+            for i, host in enumerate(found):
+                print(f'{i + 1:{longest}}: {host}')
+            print()
+        else:
+            cur.execute('SELECT host FROM hosts WHERE host=?', (inp,))
+            print(bool(cur.fetchone()))
+
+
 def main():
+    if args.search_file:
+        search_file()
+        return
+    elif args.search:
+        interactive_search()
+        return
     if args.backup:
         backup()
     if args.clean:
