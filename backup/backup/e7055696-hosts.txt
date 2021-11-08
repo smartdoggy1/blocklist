@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2021-09-26
+# Backed up on: 2021-11-07
 
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10402.engine.mobileapptracking.com
@@ -1767,6 +1767,7 @@
 0.0.0.0	adservice.google.ie
 0.0.0.0	adservice.google.nl
 0.0.0.0	adservice.tohsoft.com
+0.0.0.0	adservices.brandcdn.com
 0.0.0.0	adserving.aan.speedshiftmedia.com
 0.0.0.0	adserving.speedshiftmedia.com
 0.0.0.0	adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
@@ -12172,6 +12173,7 @@
 0.0.0.0	serverc.shoofle.tv
 0.0.0.0	serverside4285.tagcommander.com
 0.0.0.0	servertest.mgid.com
+0.0.0.0	service-ad-impression-proxy.clusters.pluto.tv
 0.0.0.0	service-api.accesstrade.vn
 0.0.0.0	service.cmp.oath.com
 0.0.0.0	service.fyber.com

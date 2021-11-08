@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-09-26
+# Backed up on: 2021-11-07
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -913,6 +913,8 @@
 0.0.0.0	adservice.google.com.mt
 0.0.0.0	adserving.unibet.com
 0.0.0.0	adservingfront.com
+0.0.0.0	adservrs.com
+0.0.0.0	adservrs.com.edgekey.net
 0.0.0.0	adsfac.eu
 0.0.0.0	adsfac.net
 0.0.0.0	adsfac.us
@@ -975,6 +977,7 @@
 0.0.0.0	adtology.com
 0.0.0.0	adtoma.com
 0.0.0.0	adtrace.org
+0.0.0.0	adtraction.com
 0.0.0.0	adtrade.net
 0.0.0.0	adtrak.net
 0.0.0.0	adtriplex.com
@@ -1217,6 +1220,7 @@
 0.0.0.0	avpa.javalobby.org
 0.0.0.0	awakebird.com
 0.0.0.0	awempire.com
+0.0.0.0	awesomeagreement.com
 0.0.0.0	awin1.com
 0.0.0.0	awstrack.me
 0.0.0.0	awzbijw.com
@@ -1410,6 +1414,8 @@
 0.0.0.0	braincash.com
 0.0.0.0	brand-display.com
 0.0.0.0	brandreachsys.com
+0.0.0.0	breadbalance.com
+0.0.0.0	breakableinsurance.com
 0.0.0.0	breaktime.com.tw
 0.0.0.0	brealtime.com
 0.0.0.0	bridgetrack.com
@@ -1497,6 +1503,7 @@
 0.0.0.0	checkm8.com
 0.0.0.0	checkstat.nl
 0.0.0.0	cheerfulrange.com
+0.0.0.0	cherriescare.com
 0.0.0.0	chewcoat.com
 0.0.0.0	chickensstation.com
 0.0.0.0	chinsnakes.com
@@ -1511,10 +1518,12 @@
 0.0.0.0	claria.com
 0.0.0.0	clearcomb.com
 0.0.0.0	clevernt.com
+0.0.0.0	cliand.com
 0.0.0.0	click.a-ads.com
 0.0.0.0	click.airmalta-mail.com
 0.0.0.0	click.bkdpt.com
 0.0.0.0	click.cartsguru.io
+0.0.0.0	click.cision.com
 0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.fool.com
@@ -1601,6 +1610,7 @@
 0.0.0.0	complextoad.com
 0.0.0.0	comprabanner.it
 0.0.0.0	concernedcondition.com
+0.0.0.0	conditionchange.com
 0.0.0.0	conductrics.com
 0.0.0.0	connatix.com
 0.0.0.0	connectad.io
@@ -1723,6 +1733,7 @@
 0.0.0.0	debonairway.com
 0.0.0.0	debtbusterloans.com
 0.0.0.0	decenterads.com
+0.0.0.0	decisivebase.com
 0.0.0.0	decisivedrawer.com
 0.0.0.0	decisiveducks.com
 0.0.0.0	decknetwork.net
@@ -1806,7 +1817,9 @@
 0.0.0.0	e-n-t-e-r-n-e-x.com
 0.0.0.0	e-planning.net
 0.0.0.0	e.kde.cz
+0.0.0.0	e37364.dscd.akamaiedge.net
 0.0.0.0	eadexchange.com
+0.0.0.0	eaesie.com
 0.0.0.0	earthquakescarf.com
 0.0.0.0	earthycopy.com
 0.0.0.0	eas.almamedia.fi
@@ -1955,6 +1968,9 @@
 0.0.0.0	findyourcasino.com
 0.0.0.0	fineoffer.net
 0.0.0.0	fingahvf.top
+0.0.0.0	fireworkadservices.com
+0.0.0.0	fireworkanalytics.com
+0.0.0.0	fireworks-advertising.com
 0.0.0.0	first.nova.cz
 0.0.0.0	firstlightera.com
 0.0.0.0	fixel.ai
@@ -1968,6 +1984,7 @@
 0.0.0.0	flowgo.com
 0.0.0.0	flurry.com
 0.0.0.0	fly-analytics.com
+0.0.0.0	folawn.com
 0.0.0.0	foo.cosmocode.de
 0.0.0.0	foresee.com
 0.0.0.0	forex-affiliate.net
@@ -2011,6 +2028,8 @@
 0.0.0.0	fuzzybasketball.com
 0.0.0.0	fuzzyflavor.com
 0.0.0.0	fuzzyweather.com
+0.0.0.0	fwcdn1.com
+0.0.0.0	fwcdn2.com
 0.0.0.0	fxstyle.net
 0.0.0.0	ga.clearbit.com
 0.0.0.0	ga87z2o.com
@@ -2344,6 +2363,7 @@
 0.0.0.0	leadzupc.com
 0.0.0.0	leaplunchroom.com
 0.0.0.0	leedsads.com
+0.0.0.0	leftliquid.com
 0.0.0.0	lemmatechnologies.com
 0.0.0.0	lettucelimit.com
 0.0.0.0	levelrate.de
@@ -2373,6 +2393,7 @@
 0.0.0.0	lightcast.leadscoringcenter.com
 0.0.0.0	lightcushion.com
 0.0.0.0	lightspeedcash.com
+0.0.0.0	lightstep.medium.systems
 0.0.0.0	lijit.com
 0.0.0.0	line.jzs001.cn
 0.0.0.0	link-booster.de
@@ -2550,6 +2571,7 @@
 0.0.0.0	mktoresp.com
 0.0.0.0	ml314.com
 0.0.0.0	mlm.de
+0.0.0.0	mlsend.com
 0.0.0.0	mltrk.io
 0.0.0.0	mmismm.com
 0.0.0.0	mmstat.com
@@ -2855,6 +2877,7 @@
 0.0.0.0	pleasantpump.com
 0.0.0.0	plista.com
 0.0.0.0	plotrabbit.com
+0.0.0.0	ployea.com
 0.0.0.0	pluckypocket.com
 0.0.0.0	plugrush.com
 0.0.0.0	pocketmath.com
@@ -2866,6 +2889,7 @@
 0.0.0.0	popmyads.com
 0.0.0.0	popub.com
 0.0.0.0	popunder.ru
+0.0.0.0	popunhot1.blogspot.com
 0.0.0.0	popup.msn.com
 0.0.0.0	popupmoney.com
 0.0.0.0	popupnation.com
@@ -2938,6 +2962,7 @@
 0.0.0.0	pubmatic.com
 0.0.0.0	pubmine.com
 0.0.0.0	pubnative.net
+0.0.0.0	pubwes.com
 0.0.0.0	puffyloss.com
 0.0.0.0	puffypaste.com
 0.0.0.0	puffypull.com
@@ -2961,6 +2986,7 @@
 0.0.0.0	qcontentdelivery.info
 0.0.0.0	qctop.com
 0.0.0.0	qnsr.com
+0.0.0.0	qrlsx.com
 0.0.0.0	quacksquirrel.com
 0.0.0.0	quaintcan.com
 0.0.0.0	quantcast.com
@@ -3133,6 +3159,7 @@
 0.0.0.0	s20dh7e9dh.com
 0.0.0.0	s24hc8xzag.com
 0.0.0.0	s2d6.com
+0.0.0.0	s2strk.info
 0.0.0.0	sa.api.intl.miui.com
 0.0.0.0	sabio.us
 0.0.0.0	sageanalyst.net
@@ -3146,6 +3173,7 @@
 0.0.0.0	scambiobanner.aruba.it
 0.0.0.0	scanscout.com
 0.0.0.0	scarcesign.com
+0.0.0.0	scarfsmash.com
 0.0.0.0	scatteredheat.com
 0.0.0.0	scintillatingscissors.com
 0.0.0.0	scintillatingsilver.com
@@ -3285,6 +3313,7 @@
 0.0.0.0	specificpop.com
 0.0.0.0	speedomizer.com
 0.0.0.0	speedshiftmedia.com
+0.0.0.0	speop.com
 0.0.0.0	spezialreporte.de
 0.0.0.0	spidersboats.com
 0.0.0.0	spiffymachine.com
@@ -3318,6 +3347,7 @@
 0.0.0.0	stackadapt.com
 0.0.0.0	stakingscrew.com
 0.0.0.0	stakingslope.com
+0.0.0.0	stakingsmile.com
 0.0.0.0	stalesummer.com
 0.0.0.0	standingnest.com
 0.0.0.0	starffa.com
@@ -3549,6 +3579,7 @@
 0.0.0.0	track.hexcan.com
 0.0.0.0	track.mailerlite.com
 0.0.0.0	track.nuxues.com
+0.0.0.0	track.segmetrics.io
 0.0.0.0	track.software-codes.com
 0.0.0.0	track.themaccleanup.info
 0.0.0.0	track.tkbo.com
@@ -3588,6 +3619,7 @@
 0.0.0.0	tracking.lenddom.com
 0.0.0.0	tracking.markethero.io
 0.0.0.0	tracking.miui.com
+0.0.0.0	tracking.netalerts.io
 0.0.0.0	tracking.olx-st.com
 0.0.0.0	tracking.orixa-media.com
 0.0.0.0	tracking.publicidees.com
@@ -3818,6 +3850,7 @@
 0.0.0.0	whiskyqueue.com
 0.0.0.0	whispa.com
 0.0.0.0	whisperingcrib.com
+0.0.0.0	whisperingflesh.com
 0.0.0.0	whoisonline.net
 0.0.0.0	wholesaletraffic.info
 0.0.0.0	widespace.com

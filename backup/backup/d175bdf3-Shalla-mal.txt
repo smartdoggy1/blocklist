@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Shalla-mal.txt
-# Backed up on: 2021-05-25
+# Backed up on: 2021-11-07
 
 0.0.0.0	0-29.com
 0.0.0.0	0-2u.com
@@ -13025,6 +13025,7 @@
 0.0.0.0	safeguardbar.com
 0.0.0.0	safeheavenlab.com
 0.0.0.0	safehomesite.com
+0.0.0.0	safehouseinvestor.com
 0.0.0.0	safeiepage.com
 0.0.0.0	safeinstuctions.com
 0.0.0.0	safeinternettool.com
@@ -16594,8 +16595,11 @@
 0.0.0.0	vlc-software.com
 0.0.0.0	vodforcureatmypc.in
 0.0.0.0	voided.info
+0.0.0.0	volksbanklverland.serveirc.com
 0.0.0.0	votkontakt.ru
 0.0.0.0	votreantivirys.com
+0.0.0.0	vr-volksbank.serveirc.com
+0.0.0.0	vrde-trans.redirectme.net
 0.0.0.0	vsantivirxp.com
 0.0.0.0	vsmprot.co.uk
 0.0.0.0	vsmprot.eu
@@ -16604,6 +16608,7 @@
 0.0.0.0	vtimableblood.top
 0.0.0.0	vtimablebook.top
 0.0.0.0	w.woyo8g.com
+0.0.0.0	walleteupdate.page.link
 0.0.0.0	wallpapers91.com
 0.0.0.0	wangzongfacai.com
 0.0.0.0	wannaberichtoo.com

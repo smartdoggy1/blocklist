@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Backed up on: 2021-09-26
+# Backed up on: 2021-11-07
 
 0.0.0.0	0.r.msn.com
 0.0.0.0	0.solo6.biz
@@ -161,6 +161,7 @@
 0.0.0.0	a-mo.net
 0.0.0.0	a.acrabakasaka.com
 0.0.0.0	a.ad-sys.com
+0.0.0.0	a.ad.gt
 0.0.0.0	a.adfornet.com
 0.0.0.0	a.adnium.com
 0.0.0.0	a.adrolays.de
@@ -246,6 +247,7 @@
 0.0.0.0	aaa.username1.link
 0.0.0.0	aaa.zzpone.com
 0.0.0.0	aad73c550c.se
+0.0.0.0	aan.amazon.co.jp
 0.0.0.0	aaucwbe.com
 0.0.0.0	aax-fe-sin.amazon-adsystem.com
 0.0.0.0	aax-fe.amazon-adsystem.com
@@ -1044,10 +1046,12 @@
 0.0.0.0	app.launchdarkly.com
 0.0.0.0	app.link
 0.0.0.0	app.pendo.io
+0.0.0.0	app.retargetly.com
 0.0.0.0	app.scanscout.com
 0.0.0.0	app.trackinstaller.com
 0.0.0.0	app.validclick.com
 0.0.0.0	app.wgtbaseball.com
+0.0.0.0	app.wts2.one
 0.0.0.0	app2.downloadmacsoft.world
 0.0.0.0	appared.online
 0.0.0.0	apparede.com
@@ -1212,6 +1216,7 @@
 0.0.0.0	b.logly.co.jp
 0.0.0.0	b.misslk.com
 0.0.0.0	b.myspace.com
+0.0.0.0	b.nakanohito.jp
 0.0.0.0	b.photobucket.com
 0.0.0.0	b.rad.live.com
 0.0.0.0	b.rmgserving.com
@@ -1308,6 +1313,7 @@
 0.0.0.0	bdatero.info
 0.0.0.0	bdimg.share.baidu.com
 0.0.0.0	bdv.bidvertiser.com
+0.0.0.0	be.durationmedia.net
 0.0.0.0	bea4.v.fwmrm.net
 0.0.0.0	beacon-1.newrelic.com
 0.0.0.0	beacon-3.newrelic.com
@@ -1465,6 +1471,7 @@
 0.0.0.0	burnside.dtcn.com
 0.0.0.0	burstnet.com
 0.0.0.0	button.topsy.com
+0.0.0.0	buy-ap.piano.io
 0.0.0.0	buyersguide.pennwell.com
 0.0.0.0	buytesy.ru
 0.0.0.0	buzzdrink.com
@@ -1735,6 +1742,7 @@
 0.0.0.0	cdn.cpnscdn.com
 0.0.0.0	cdn.cquotient.com
 0.0.0.0	cdn.crwdcntrl.net
+0.0.0.0	cdn.cxense.com
 0.0.0.0	cdn.demdex.net
 0.0.0.0	cdn.digitru.st
 0.0.0.0	cdn.directrev.com
@@ -1763,6 +1771,7 @@
 0.0.0.0	cdn.flashtalking.com
 0.0.0.0	cdn.fraudlabspro.com
 0.0.0.0	cdn.freshmarketer.com
+0.0.0.0	cdn.ftd.agency
 0.0.0.0	cdn.gadgets360.com
 0.0.0.0	cdn.giddyup.io
 0.0.0.0	cdn.gigya.com
@@ -1807,6 +1816,7 @@
 0.0.0.0	cdn.nmcdn.us
 0.0.0.0	cdn.nsimg.net
 0.0.0.0	cdn.nsstatic.net
+0.0.0.0	cdn.ocelot.studio
 0.0.0.0	cdn.ocmhood.com
 0.0.0.0	cdn.octoshape.net
 0.0.0.0	cdn.oggifinogi.com
@@ -2032,6 +2042,7 @@
 0.0.0.0	cke.gamecoins.com
 0.0.0.0	ckm.iqiyi.com
 0.0.0.0	cks.jp.ap.valuecommerce.com
+0.0.0.0	cl.qualaroo.com
 0.0.0.0	cl.s4.exct.net
 0.0.0.0	clanmentaiwhis.gq
 0.0.0.0	clarium.global.ssl.fastly.net
@@ -2157,6 +2168,7 @@
 0.0.0.0	cnzz.mmstat.com
 0.0.0.0	code.37cs.com
 0.0.0.0	code.i-qianming.cn
+0.0.0.0	code.piano.io
 0.0.0.0	code.poptm.com
 0.0.0.0	code.rtbsystem.com
 0.0.0.0	code.theads.me
@@ -2180,6 +2192,7 @@
 0.0.0.0	colleduny.info
 0.0.0.0	com-reward.in
 0.0.0.0	com99.web.infoseek.co.jp
+0.0.0.0	comcluster.cxense.com
 0.0.0.0	cometfx.com
 0.0.0.0	comments.us1.gigya.com
 0.0.0.0	commercialvalue.org
@@ -2309,6 +2322,7 @@
 0.0.0.0	crwscdn.appspot.com
 0.0.0.0	crwscdn9.appspot.com
 0.0.0.0	cs.adingo.jp
+0.0.0.0	cs.admanmedia.com
 0.0.0.0	cs.adxpansion.com
 0.0.0.0	cs.emxdgt.com
 0.0.0.0	cs.genieessp.jp
@@ -2598,6 +2612,7 @@
 0.0.0.0	dnld.winsecuritydl.com
 0.0.0.0	dnn506yrbagrg.cloudfront.net
 0.0.0.0	dnssearch.rr.com
+0.0.0.0	dntcl.qualaroo.com
 0.0.0.0	docsconvert.club
 0.0.0.0	doctoconve.club
 0.0.0.0	dogfood.turbobytes.com
@@ -2853,6 +2868,7 @@
 0.0.0.0	exoclick.com
 0.0.0.0	expectorslapsino.info
 0.0.0.0	expendituredefeated.com
+0.0.0.0	experience-ap.piano.io
 0.0.0.0	experience.tinypass.com
 0.0.0.0	experiences.wyng.com
 0.0.0.0	ext.host-tracker.com
@@ -2877,6 +2893,7 @@
 0.0.0.0	f0.1lo0.net
 0.0.0.0	f00f4.truedefendlinked.com
 0.0.0.0	f1.aidaicn.com
+0.0.0.0	f1.cdn.ftd.agency
 0.0.0.0	f283ab792c8113.com
 0.0.0.0	f2network.112.2o7.net
 0.0.0.0	f3.ku63.com
@@ -3059,6 +3076,7 @@
 0.0.0.0	fullstory.com
 0.0.0.0	funbagget.info
 0.0.0.0	fundingchoices.google.com
+0.0.0.0	fundingchoicesmessages.google.com
 0.0.0.0	fungetbag.info
 0.0.0.0	funwarcab.club
 0.0.0.0	fusion.adtoma.com
@@ -3127,6 +3145,7 @@
 0.0.0.0	gdc.indeed.com
 0.0.0.0	gdlla.horrnygirls.com
 0.0.0.0	gdmconvtrck.com
+0.0.0.0	gdpr.internetbrands.com
 0.0.0.0	gdyn.cnn.com
 0.0.0.0	geacugl.jwmyba.biz
 0.0.0.0	gebadu.com
@@ -3485,6 +3504,7 @@
 0.0.0.0	ib.3lift.com
 0.0.0.0	ib.adnxs.com
 0.0.0.0	ib.reachjunction.com
+0.0.0.0	ibclick.stream
 0.0.0.0	ibcliff.hopfeed.com
 0.0.0.0	ibeat.indiatimes.com
 0.0.0.0	ic-7af95900-084db5-23c3605.d.rncdn3.com
@@ -3690,6 +3710,7 @@
 0.0.0.0	infographs.socialweekend.com
 0.0.0.0	infopicked.com
 0.0.0.0	infoyours.info
+0.0.0.0	ingestion.contentinsights.com
 0.0.0.0	inimage.carambo.la
 0.0.0.0	init.zopim.com
 0.0.0.0	innovyx.com
@@ -4129,6 +4150,7 @@
 0.0.0.0	lreprx-server.anyclip.com
 0.0.0.0	lroieivnhoojo.bid
 0.0.0.0	ls.hit.gemius.pl
+0.0.0.0	lt.logly.co.jp
 0.0.0.0	lt.ndnps.newsinc.com
 0.0.0.0	ltasconfig.ltassrv.com
 0.0.0.0	ltmdqbrxjaqn.bid
@@ -4306,6 +4328,7 @@
 0.0.0.0	meowpushnot.com
 0.0.0.0	meraxes-cdn.polarmobile.com
 0.0.0.0	messardu.com
+0.0.0.0	messenger.ngageics.com
 0.0.0.0	messenger.providesupport.com
 0.0.0.0	mesucces.top
 0.0.0.0	meta.wikimedia.org
@@ -4633,6 +4656,7 @@
 0.0.0.0	onerror.ml
 0.0.0.0	onerror.tk
 0.0.0.0	onesignal.com
+0.0.0.0	onetag-sys.com
 0.0.0.0	online.mimedia.com
 0.0.0.0	onmarshtompor.com
 0.0.0.0	onshowit.com
@@ -4700,6 +4724,7 @@
 0.0.0.0	ozyawn.com
 0.0.0.0	p.144gg.com
 0.0.0.0	p.49ko.com
+0.0.0.0	p.ad.gt
 0.0.0.0	p.adpdx.com
 0.0.0.0	p.adsymptotic.com
 0.0.0.0	p.algovid.com
@@ -4847,6 +4872,7 @@
 0.0.0.0	pix.spot.im
 0.0.0.0	pix04.revsci.net
 0.0.0.0	pixel-a.sitescout.com
+0.0.0.0	pixel-eu.rubiconproject.com
 0.0.0.0	pixel-geo.prfct.co
 0.0.0.0	pixel-sync.sitescout.com
 0.0.0.0	pixel-us-east.rubiconproject.com
@@ -4878,6 +4904,7 @@
 0.0.0.0	pixel.wp.com
 0.0.0.0	pixel.yabidos.com
 0.0.0.0	pixellitomedia.com
+0.0.0.0	pixels.ad.gt
 0.0.0.0	pixer.meaningtool.com
 0.0.0.0	pixfuture2-d.openx.net
 0.0.0.0	pixiedust.buzzfeed.com
@@ -5122,6 +5149,7 @@
 0.0.0.0	pubad.shanghaidaily.com
 0.0.0.0	pubads.g.doubleclick.net
 0.0.0.0	public-prod-dspcookiematching.dmxleo.com
+0.0.0.0	public.servenobid.com
 0.0.0.0	publicstorage.112.2o7.net
 0.0.0.0	publisher-assets.spot.im
 0.0.0.0	publisher.infinityads.com
@@ -5172,6 +5200,7 @@
 0.0.0.0	px.powerlinks.com
 0.0.0.0	px.srvcs.tumblr.com
 0.0.0.0	px.surveywall-api.survata.com
+0.0.0.0	pxlssl.ibpxl.com
 0.0.0.0	pxu-recent-sales-apps.s3.amazonaws.com
 0.0.0.0	pyq6n.com
 0.0.0.0	pzyilmog.cw.cm
@@ -5620,6 +5649,7 @@
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.link-trade.net
 0.0.0.0	scriptall.ga
+0.0.0.0	scripting.ngagelive.com
 0.0.0.0	scripts.chitika.net
 0.0.0.0	scripts.demandbase.com
 0.0.0.0	scripts.kiosked.com
@@ -5691,6 +5721,7 @@
 0.0.0.0	secure.systempush.online
 0.0.0.0	secure.vs3.com
 0.0.0.0	secure.vxsbill.com
+0.0.0.0	secure.widget.cloud.opta.net
 0.0.0.0	secure.zombaio.com
 0.0.0.0	secure2.segpay.com
 0.0.0.0	securecloud-smart.com
@@ -5706,6 +5737,7 @@
 0.0.0.0	seen-on-screen.thewhizmarketing.com
 0.0.0.0	seeptauw.net
 0.0.0.0	seethisinaction.com
+0.0.0.0	seg.ad.gt
 0.0.0.0	seg.sharethis.com
 0.0.0.0	segapi.quantserve.com
 0.0.0.0	segment-data.zqtk.net
@@ -5749,6 +5781,7 @@
 0.0.0.0	server.adformdsp.net
 0.0.0.0	server.cpmstar.com
 0.0.0.0	server.iad.liveperson.net
+0.0.0.0	server.ngagelive.com
 0.0.0.0	server.smartsupp.com
 0.0.0.0	server1.adpolestar.net
 0.0.0.0	server1.opentracker.net
@@ -5943,6 +5976,7 @@
 0.0.0.0	srv.imonomy.com
 0.0.0.0	srvpub.com
 0.0.0.0	ss3.zedo.com
+0.0.0.0	ssbsync.smartadserver.com
 0.0.0.0	sscdn.banners.advidi.com
 0.0.0.0	ssegs.btrll.com
 0.0.0.0	ssionsupre.fun
@@ -6343,6 +6377,7 @@
 0.0.0.0	tag.contextweb.com
 0.0.0.0	tag.crsspxl.com
 0.0.0.0	tag.demandbase.com
+0.0.0.0	tag.durationmedia.net
 0.0.0.0	tag.gammaplatform.com
 0.0.0.0	tag.getdrip.com
 0.0.0.0	tag.ladsp.com
@@ -6433,6 +6468,7 @@
 0.0.0.0	thausredmsmt.com
 0.0.0.0	thebestgame2020.com
 0.0.0.0	thebflix.com
+0.0.0.0	theconversation.com
 0.0.0.0	thefreecamsecret.com
 0.0.0.0	thehousenews.bearhugapp.com
 0.0.0.0	themediafilegroups.com
@@ -7602,6 +7638,7 @@
 0.0.0.0	www.niceratios.com
 0.0.0.0	www.njjybqyiuotl.com
 0.0.0.0	www.njpj.com
+0.0.0.0	www.nolo.com
 0.0.0.0	www.nowfreedownloads.com
 0.0.0.0	www.npttech.com
 0.0.0.0	www.ntdvjlvau.com
@@ -8100,6 +8137,7 @@
 0.0.0.0	z-na.amazon-adsystem.com
 0.0.0.0	z.analytics.yahoo.com
 0.0.0.0	z.blogads.com
+0.0.0.0	z.cdn.ftd.agency
 0.0.0.0	z.moatads.com
 0.0.0.0	z1440.takru.com
 0.0.0.0	z25087-p23001-n212.pub.pgssl.com

@@ -1,5 +1,5 @@
 # https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# Backed up on: 2021-09-26
+# Backed up on: 2021-11-07
 
 0.0.0.0	00zyku.com
 0.0.0.0	0124logistics.com
@@ -58,6 +58,11 @@
 0.0.0.0	a0334386.xsph.ru
 0.0.0.0	a0409082.xsph.ru
 0.0.0.0	a0581484.xsph.ru
+0.0.0.0	a0588091.xsph.ru
+0.0.0.0	a0593170.xsph.ru
+0.0.0.0	a0593905.xsph.ru
+0.0.0.0	a0594839.xsph.ru
+0.0.0.0	a0595400.xsph.ru
 0.0.0.0	a1wholesale.in
 0.0.0.0	a2gir.com
 0.0.0.0	aa-1255839675.cos.ap-chengdu.myqcloud.com
@@ -264,6 +269,7 @@
 0.0.0.0	animeseries.cc
 0.0.0.0	anjalihome.org
 0.0.0.0	anka-tek.com.tr
+0.0.0.0	annafraudy.com
 0.0.0.0	anneboese.de
 0.0.0.0	annk.com.ua
 0.0.0.0	anticogiardinosiciliano.it
@@ -499,6 +505,7 @@
 0.0.0.0	bimtekintelegensia.com
 0.0.0.0	binariomexico.com.mx
 0.0.0.0	binatonezx.gq
+0.0.0.0	binatonezx.tk
 0.0.0.0	biobliss.in
 0.0.0.0	biodanzaotiliarios.com
 0.0.0.0	biokeraline.com.br
@@ -633,6 +640,8 @@
 0.0.0.0	busanabranded.com
 0.0.0.0	busrentdhaka.com
 0.0.0.0	busybeeglasscompany.com
+0.0.0.0	butleq11.top
+0.0.0.0	butomp10.top
 0.0.0.0	buygooglereviews.net
 0.0.0.0	buyitshop.in
 0.0.0.0	buynail.ru
@@ -784,6 +793,7 @@
 0.0.0.0	cloudcertitude.com
 0.0.0.0	cloudmultiplefilesserviceintergatesese.duckdns.org
 0.0.0.0	cloudnetdesigners.com
+0.0.0.0	cloutingservicedb.su
 0.0.0.0	cmc.rice.edu
 0.0.0.0	cmessagers.com
 0.0.0.0	cms.keita.ae
@@ -811,6 +821,7 @@
 0.0.0.0	colegiovirtualonline.com
 0.0.0.0	collegethinking.com
 0.0.0.0	colombet-taxi.fr
+0.0.0.0	colonna.ug
 0.0.0.0	coltdogracoes.com.br
 0.0.0.0	coltec.ga
 0.0.0.0	comdishtech.com
@@ -1068,6 +1079,7 @@
 0.0.0.0	dmcfund.lu
 0.0.0.0	dmjteak.com
 0.0.0.0	dmtk.com.br
+0.0.0.0	dnadigitalbr.com
 0.0.0.0	dnamsolutions.com
 0.0.0.0	do-dear.com
 0.0.0.0	doctorb12.com
@@ -1078,6 +1090,7 @@
 0.0.0.0	doggiespalace.com
 0.0.0.0	dognme.com
 0.0.0.0	dokur-catering.eu
+0.0.0.0	dolorsguarro.com
 0.0.0.0	dominiquebristol.com
 0.0.0.0	domoresmt.com
 0.0.0.0	donboscoschoolbd.com
@@ -1245,6 +1258,7 @@
 0.0.0.0	engineering-2s.com
 0.0.0.0	engineeringegypt.com
 0.0.0.0	enixc.com
+0.0.0.0	enoe.net
 0.0.0.0	enprrollos.ydns.eu
 0.0.0.0	entrenofutbol.com
 0.0.0.0	entreprise-esposito.fr
@@ -1479,6 +1493,9 @@
 0.0.0.0	fuherpronn.org
 0.0.0.0	fulfillmententertainment.com
 0.0.0.0	full20gb.store
+0.0.0.0	fumnar04.top
+0.0.0.0	fumybd02.top
+0.0.0.0	fumzgo01.top
 0.0.0.0	fundacaocaminhodasnuvens.org.br
 0.0.0.0	fundacionausubelvirtual.com
 0.0.0.0	fundglobally.org
@@ -1667,6 +1684,7 @@
 0.0.0.0	hairstylingjo.gr
 0.0.0.0	haisannhatrang.com.vn
 0.0.0.0	hajarmasicg.com
+0.0.0.0	hajezey10.top
 0.0.0.0	halaarab.com
 0.0.0.0	halalcosmetics.uz
 0.0.0.0	halamalomerice.cz
@@ -1774,6 +1792,7 @@
 0.0.0.0	honeysposecurityfileexchangeservice.duckdns.org
 0.0.0.0	hookedupboatclub.com
 0.0.0.0	hopfenziz.de
+0.0.0.0	host-host-file6.com
 0.0.0.0	hosting-c.iuro.nl
 0.0.0.0	hotbodyyogafrisco.com
 0.0.0.0	hotelshivansh.com
@@ -1829,6 +1848,7 @@
 0.0.0.0	iluminacionindustrial.iltec.co
 0.0.0.0	imagescameraclub.com
 0.0.0.0	imaginedworld.co.za
+0.0.0.0	imobiles.pk
 0.0.0.0	imobilis.co.mz
 0.0.0.0	impeledu.com
 0.0.0.0	importantsrilanka.com
@@ -1916,6 +1936,7 @@
 0.0.0.0	isuzu-mientrung.com
 0.0.0.0	itacsa.com.co
 0.0.0.0	itc-sr.ru
+0.0.0.0	itisalllove.servepics.com
 0.0.0.0	itisverygoodqq.com
 0.0.0.0	itleadz.com
 0.0.0.0	itohukuk.com
@@ -2064,6 +2085,7 @@
 0.0.0.0	kevincameron.net
 0.0.0.0	kevokloud.com
 0.0.0.0	kevonahira2.top
+0.0.0.0	kexumq.bn.files.1drv.com
 0.0.0.0	kgfs3.329263.com
 0.0.0.0	khabardarnews.in
 0.0.0.0	khaliel.com
@@ -2144,6 +2166,7 @@
 0.0.0.0	laanpaanettet.dk
 0.0.0.0	labersa.com
 0.0.0.0	labo-m.org
+0.0.0.0	labpro.top
 0.0.0.0	labtop.pe
 0.0.0.0	lacan.vn
 0.0.0.0	lacteosguerrero.com
@@ -2244,6 +2267,7 @@
 0.0.0.0	linstitut.cat
 0.0.0.0	linx.li
 0.0.0.0	liquid-investments.com
+0.0.0.0	liquors.bigboss.co.ke
 0.0.0.0	litjackets.com
 0.0.0.0	littleextrasdiecuts.com
 0.0.0.0	littleindiadirectory.com
@@ -2296,6 +2320,7 @@
 0.0.0.0	lovely-lollies.com
 0.0.0.0	lovetv.co.za
 0.0.0.0	loxien2.com
+0.0.0.0	loydsspice.co.uk
 0.0.0.0	lq.frefou.ru
 0.0.0.0	lrt.com.pk
 0.0.0.0	lt-pet.com
@@ -2368,6 +2393,7 @@
 0.0.0.0	mannam.cat
 0.0.0.0	manuyala.com
 0.0.0.0	many.abbyservertime.fun
+0.0.0.0	map.cnam.md
 0.0.0.0	mapas.hoonicorns.pt
 0.0.0.0	maplecreek.net
 0.0.0.0	maponlinedata.com
@@ -2377,6 +2403,7 @@
 0.0.0.0	marchodak.com
 0.0.0.0	marcosdjdhsgvoustgd62020network.com
 0.0.0.0	marcussoil.com
+0.0.0.0	marcyovcx.ru
 0.0.0.0	marek-paysage-concept.fr
 0.0.0.0	marianbernabe.com
 0.0.0.0	marina-sk.ru
@@ -2407,6 +2434,7 @@
 0.0.0.0	masterklimat.by
 0.0.0.0	masterspecialists.co.zw
 0.0.0.0	matadorland.com
+0.0.0.0	matisaas.ac.ug
 0.0.0.0	matong47.com
 0.0.0.0	matsumototravel.com
 0.0.0.0	matthrivnak.com
@@ -2490,6 +2518,7 @@
 0.0.0.0	mikrokaynakmerkezi.com
 0.0.0.0	milavita56.ru
 0.0.0.0	milbayt.com
+0.0.0.0	milkhost.ru
 0.0.0.0	millenium-rj.com
 0.0.0.0	millenium-tk.com
 0.0.0.0	mindforcehypnosis.com
@@ -2519,6 +2548,7 @@
 0.0.0.0	mkontakt.az
 0.0.0.0	mkwxstarserver17km.xyz
 0.0.0.0	mkzone.com.ng
+0.0.0.0	mladtehnik.com
 0.0.0.0	mlbfreestream.gq
 0.0.0.0	mlbfreestream.ml
 0.0.0.0	mlds.go.th
@@ -2934,6 +2964,7 @@
 0.0.0.0	perpamarketim.com
 0.0.0.0	perruqueallier.fr
 0.0.0.0	personal.personaltrainerfds.com
+0.0.0.0	personalcredit-cardscreditjourney-com.stackstaging.com
 0.0.0.0	personalized-tee-shirts.com
 0.0.0.0	personalizzabili.com
 0.0.0.0	personaltrainerfds.com
@@ -2968,6 +2999,7 @@
 0.0.0.0	pinangcitygroup.asia
 0.0.0.0	pinara.biz
 0.0.0.0	pinchofbinge.com
+0.0.0.0	pinedacryptos.com
 0.0.0.0	pinnaclepropertysl.com
 0.0.0.0	pinoy-express.com
 0.0.0.0	pinsaved.com
@@ -3011,6 +3043,7 @@
 0.0.0.0	pops.works
 0.0.0.0	poptateseatery.com
 0.0.0.0	portal-ms.info
+0.0.0.0	portal.bigpass.com.co
 0.0.0.0	portal.perkss.co.uk
 0.0.0.0	portalltd100.scbmanagement.com
 0.0.0.0	pos-egypt.com
@@ -3018,6 +3051,7 @@
 0.0.0.0	povedavicedo.com
 0.0.0.0	pox23.io
 0.0.0.0	ppaauditores.com
+0.0.0.0	ppgggb.com
 0.0.0.0	pranaplanet.com
 0.0.0.0	pratikmetals.com
 0.0.0.0	premialestats.co
@@ -3109,6 +3143,7 @@
 0.0.0.0	qurbanicare.pk
 0.0.0.0	quttnerttatert.com
 0.0.0.0	quuik.com
+0.0.0.0	qxsgxd.com
 0.0.0.0	qzltrading.com
 0.0.0.0	r1.targobank.su
 0.0.0.0	radiomuziekland.com
@@ -3718,6 +3753,7 @@
 0.0.0.0	talentztech.com
 0.0.0.0	talhajaipursilver.com
 0.0.0.0	tallyinvoicecustomization.com
+0.0.0.0	talocajolingsyllenesliopa.com
 0.0.0.0	taotao500.cn
 0.0.0.0	tapss.com.br
 0.0.0.0	tarimevi.com
@@ -3751,6 +3787,7 @@
 0.0.0.0	tekcorp.net
 0.0.0.0	telecomservices.com.ec
 0.0.0.0	telelogical.com
+0.0.0.0	telmeez.com
 0.0.0.0	temazcalmazatepec.com
 0.0.0.0	temp.novi-tec.com
 0.0.0.0	temperoalternativo.com.br
@@ -3759,6 +3796,7 @@
 0.0.0.0	tennispot.gr
 0.0.0.0	tenso-m.cloud
 0.0.0.0	tepatitlan.gob.mx
+0.0.0.0	tepidness-tuesdays.000webhostapp.com
 0.0.0.0	teremok.kz
 0.0.0.0	termasdelacal.cl
 0.0.0.0	termek.pl
@@ -3808,6 +3846,7 @@
 0.0.0.0	thecedarchest1.co.za
 0.0.0.0	thecomedycrowd.com
 0.0.0.0	thecorporatetailors.com.au
+0.0.0.0	thecowbook.com
 0.0.0.0	thecreativeronin.com
 0.0.0.0	thecrites.com
 0.0.0.0	thedesirelife.com
@@ -3852,6 +3891,7 @@
 0.0.0.0	thirdchidet.com
 0.0.0.0	thisisitsqq.com
 0.0.0.0	thisisyourchangeqq.com
+0.0.0.0	thisonecantbebanned.top
 0.0.0.0	thoitrangtrungnienkim.vn
 0.0.0.0	thornadops.com
 0.0.0.0	thpcapital.ee
@@ -4259,6 +4299,7 @@
 0.0.0.0	wp.share-icu.de
 0.0.0.0	wpcoder.io
 0.0.0.0	wptransmissions.com
+0.0.0.0	wrcont.com
 0.0.0.0	wrrodrigo.com
 0.0.0.0	wsdy6pksnpcoperategovernmenttgpdagentx.duckdns.org
 0.0.0.0	wsdybsskillemmulatorsdevelovercomun11pq.duckdns.org
@@ -4340,6 +4381,7 @@
 0.0.0.0	www.bunnyrank.com
 0.0.0.0	www.buntebenelux.com
 0.0.0.0	www.cais.com.tw
+0.0.0.0	www.calicometal.net
 0.0.0.0	www.canaan.io
 0.0.0.0	www.canlitvim.com
 0.0.0.0	www.catalystitsolution.com
@@ -4587,8 +4629,10 @@
 0.0.0.0	www.spmkomputer.com
 0.0.0.0	www.sportingpro.com.ar
 0.0.0.0	www.sprxmy.top
+0.0.0.0	www.sriva.com.mx
 0.0.0.0	www.srq3dtours.com
 0.0.0.0	www.steiner-baukunst.at
+0.0.0.0	www.suffah.edu.pk
 0.0.0.0	www.sunnux.com
 0.0.0.0	www.supera.com.br
 0.0.0.0	www.supercutscissors.com
@@ -4647,6 +4691,7 @@
 0.0.0.0	www.willowcreekct.com
 0.0.0.0	www.worldfleetbd.com
 0.0.0.0	www.wulierji.com
+0.0.0.0	www.xiaodi8.com
 0.0.0.0	www.xinwenlook.com
 0.0.0.0	www.xn--80agebykngkdrh0n.xn--p1ai
 0.0.0.0	www.xportfreight.com
