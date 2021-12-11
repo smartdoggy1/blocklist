@@ -1,5 +1,5 @@
 # https://someonewhocares.org/hosts/hosts
-# Backed up on: 2021-11-07
+# Backed up on: 2021-12-11
 
 0.0.0.0	0.nextyourcontent.com
 0.0.0.0	006.free-counter.co.uk
@@ -1088,6 +1088,7 @@
 0.0.0.0	adrunnr.com
 0.0.0.0	ads-a.juicyads.com
 0.0.0.0	ads-adseast.yldbt.com
+0.0.0.0	ads-d.viber.com
 0.0.0.0	ads-de.spray.net
 0.0.0.0	ads-dev.youporn.com
 0.0.0.0	ads-direct.prodigy.net
@@ -1203,6 +1204,7 @@
 0.0.0.0	ads.aversion2.com
 0.0.0.0	ads.avocarrot.com
 0.0.0.0	ads.aws.sitepoint.com
+0.0.0.0	ads.aws.viber.com
 0.0.0.0	ads.azjmp.com
 0.0.0.0	ads.b10f.jp
 0.0.0.0	ads.baazee.com
@@ -1262,6 +1264,7 @@
 0.0.0.0	ads.cbc.ca
 0.0.0.0	ads.cc-dt.com
 0.0.0.0	ads.cdfreaks.com
+0.0.0.0	ads.cdn.viber.com
 0.0.0.0	ads.cdnow.com
 0.0.0.0	ads.centraliprom.com
 0.0.0.0	ads.cgchannel.com
@@ -2755,6 +2758,7 @@
 0.0.0.0	ajanlom-magamat.com
 0.0.0.0	ajcclassifieds.com
 0.0.0.0	ajelnews.net
+0.0.0.0	ajouny.com
 0.0.0.0	ak.5.p2l.info
 0.0.0.0	ak.buyservices.com
 0.0.0.0	ak.maxserving.com
@@ -2846,6 +2850,7 @@
 0.0.0.0	amplifypixel.outbrain.com
 0.0.0.0	amrytt.adk2x.com
 0.0.0.0	ams1-ib.adnxs.com
+0.0.0.0	ams1-mobile.adnxs.com
 0.0.0.0	ams1.ib.adnxs.com
 0.0.0.0	amscdn.btrll.com
 0.0.0.0	amusun.com
@@ -2972,6 +2977,7 @@
 0.0.0.0	api.inwemo.com
 0.0.0.0	api.linkgist.com
 0.0.0.0	api.linkz.net
+0.0.0.0	api.mixpanel.com
 0.0.0.0	api.murdoog.com
 0.0.0.0	api.opencandy.com
 0.0.0.0	api.optnmnstr.com
@@ -3524,6 +3530,7 @@
 0.0.0.0	bestfriendneedshelp.com
 0.0.0.0	bestgift4you.cn
 0.0.0.0	bestgore.com
+0.0.0.0	bestgore.fun
 0.0.0.0	bestheadphones4u.com
 0.0.0.0	besthotelsaroundme.com
 0.0.0.0	bestlolaray.com
@@ -8228,6 +8235,7 @@
 0.0.0.0	local.promoisland.net
 0.0.0.0	localgreenflowers.com
 0.0.0.0	lockerdome.com
+0.0.0.0	locp-ir.viber.com
 0.0.0.0	loestrin.1.p2l.info
 0.0.0.0	log.btopenworld.com
 0.0.0.0	log.clickstream.co.za
@@ -8964,6 +8972,7 @@
 0.0.0.0	mediapst.adbureau.net
 0.0.0.0	medias.clicks4ads.com
 0.0.0.0	medias.europacash.com
+0.0.0.0	mediation.adnxs.com
 0.0.0.0	mediative.ca
 0.0.0.0	mediative.com
 0.0.0.0	mediatrack.revenue.net
@@ -11448,6 +11457,7 @@
 0.0.0.0	rmcentre.bigfilmproduction.com
 0.0.0.0	rmedia.boston.com
 0.0.0.0	rmm1u.checkm8.com
+0.0.0.0	rmp.rakuten.com
 0.0.0.0	rms.admeta.com
 0.0.0.0	rmt-downloads.com
 0.0.0.0	rncgopcom.122.2o7.net
@@ -11576,6 +11586,8 @@
 0.0.0.0	s-39.predictvideo.com
 0.0.0.0	s-41.algovid.com
 0.0.0.0	s-adserver.sandbox.cxad.cxense.com
+0.0.0.0	s-bid.rmp.rakuten.com
+0.0.0.0	s-clk.rmp.rakuten.com
 0.0.0.0	s.ad121m.com
 0.0.0.0	s.ad131m.com
 0.0.0.0	s.admob.com
@@ -15330,6 +15342,7 @@
 0.0.0.0	www.datanotary.com
 0.0.0.0	www.datatech.es
 0.0.0.0	www.datingadvertising.com
+0.0.0.0	www.datoben.waw.pl
 0.0.0.0	www.davion.plus.com
 0.0.0.0	www.dctracking.com
 0.0.0.0	www.debbo.plus.com
@@ -15849,6 +15862,7 @@
 0.0.0.0	www.magento-analytics.com
 0.0.0.0	www.mailforfreedom.com
 0.0.0.0	www.mangayhentai.com
+0.0.0.0	www.manoces.waw.pl
 0.0.0.0	www.market-buster.com
 0.0.0.0	www.marketing-rewardpath.com
 0.0.0.0	www.marketrip.co
@@ -16045,6 +16059,7 @@
 0.0.0.0	www.poker-unique.com
 0.0.0.0	www.poker4spain.com
 0.0.0.0	www.politicalopinionsurvey.com
+0.0.0.0	www.polovane.xyz
 0.0.0.0	www.polskasupermarkecie.website
 0.0.0.0	www.pomp-buerotechnik.de
 0.0.0.0	www.poponclick.com

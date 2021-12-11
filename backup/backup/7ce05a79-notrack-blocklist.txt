@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2021-11-07
+# Backed up on: 2021-12-11
 
 0.0.0.0	1-cl0ud.com
 0.0.0.0	1-creative-1.com
@@ -15,6 +15,7 @@
 0.0.0.0	1e3af2bf58df83b8e9e1973f2dcadf72b4c7da97efe420ffcd138616.com
 0.0.0.0	1orange-u.com
 0.0.0.0	1s3h4f7sl.com
+0.0.0.0	1ts19.top
 0.0.0.0	200summit.com
 0.0.0.0	2020mustang.com
 0.0.0.0	206ads.com
@@ -392,6 +393,7 @@
 0.0.0.0	adserver.diariodeavisos.com
 0.0.0.0	adserver.diariodosertao.com.br
 0.0.0.0	adserver.doccheck.com
+0.0.0.0	adserver.earlygame.com
 0.0.0.0	adserver.lenouvelliste.com
 0.0.0.0	adserver.logisticaprofesional.com
 0.0.0.0	adserver.maispb.com.br
@@ -401,6 +403,7 @@
 0.0.0.0	adserverhd.com
 0.0.0.0	adservice.google.co.uk
 0.0.0.0	adservice.google.com
+0.0.0.0	adservice.google.com.pk
 0.0.0.0	adsfac.eu
 0.0.0.0	adsgaga.com
 0.0.0.0	adsgainer.com
@@ -452,6 +455,7 @@
 0.0.0.0	advcake.com
 0.0.0.0	adventive.com
 0.0.0.0	adventori.com
+0.0.0.0	adventurefeeds.com
 0.0.0.0	adversal.com
 0.0.0.0	advertarium.com.ua
 0.0.0.0	advertise.pro
@@ -460,9 +464,11 @@
 0.0.0.0	advertiserurl.com
 0.0.0.0	advertising.amazon.co.uk
 0.0.0.0	advertising.aol.com
+0.0.0.0	advertising.apple.com
 0.0.0.0	advertising.bbcworldwide.com
 0.0.0.0	advertising.com
 0.0.0.0	advertising.microsoft.com
+0.0.0.0	advertising.twitter.com
 0.0.0.0	adverts.ie
 0.0.0.0	adverts.itv.com
 0.0.0.0	advertserve.com
@@ -578,16 +584,20 @@
 0.0.0.0	analytics.74.ru
 0.0.0.0	analytics.amakings.com
 0.0.0.0	analytics.any-lamp.co.uk
+0.0.0.0	analytics.api.vatominc.com
 0.0.0.0	analytics.archive.org
 0.0.0.0	analytics.arecontvision.com
 0.0.0.0	analytics.autodesk.com
+0.0.0.0	analytics.awsmcafeeccs.mcafee.com
 0.0.0.0	analytics.barnebys.sh
 0.0.0.0	analytics.bluemosh.com
+0.0.0.0	analytics.bmj.com
 0.0.0.0	analytics.brave.com
 0.0.0.0	analytics.businessinsider.com
 0.0.0.0	analytics.cappasity.com
 0.0.0.0	analytics.ccs.mcafee.com
 0.0.0.0	analytics.chase.com
+0.0.0.0	analytics.chegg.com
 0.0.0.0	analytics.cincopa.com
 0.0.0.0	analytics.civicplus.com
 0.0.0.0	analytics.ckju.net
@@ -595,11 +605,13 @@
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.convertlanguage.com
 0.0.0.0	analytics.credible.com
+0.0.0.0	analytics.dealmoon.com
 0.0.0.0	analytics.directlinegroup.com
 0.0.0.0	analytics.dns-shop.ru
 0.0.0.0	analytics.dominos.com
 0.0.0.0	analytics.eip.telegraph.co.uk
 0.0.0.0	analytics.evehome.com
+0.0.0.0	analytics.facebook.com
 0.0.0.0	analytics.faw.sky.com
 0.0.0.0	analytics.feeder.co
 0.0.0.0	analytics.ff.avast.com
@@ -659,12 +671,15 @@
 0.0.0.0	analytics.ngs.ru
 0.0.0.0	analytics.nike.com
 0.0.0.0	analytics.ninjakiwi.com
+0.0.0.0	analytics.ns1.ff.avast.com
+0.0.0.0	analytics.oneplus.cn
 0.0.0.0	analytics.openelec.tv
 0.0.0.0	analytics.ovh.com
 0.0.0.0	analytics.pandahall.com
 0.0.0.0	analytics.pinterest.com
 0.0.0.0	analytics.playinfinity.cn
 0.0.0.0	analytics.plex.tv
+0.0.0.0	analytics.pointdrive.linkedin.com
 0.0.0.0	analytics.predb.de
 0.0.0.0	analytics.primorske.si
 0.0.0.0	analytics.prod.mybuddy.ai
@@ -698,6 +713,7 @@
 0.0.0.0	analytics.twitter.com
 0.0.0.0	analytics.unibuddy.co
 0.0.0.0	analytics.valiuz.com
+0.0.0.0	analytics.volla.online
 0.0.0.0	analytics.webpushr.com
 0.0.0.0	analytics.wikimedia.org
 0.0.0.0	analytics.yahoo.com
@@ -864,10 +880,13 @@
 0.0.0.0	bdg001a.com
 0.0.0.0	beacon.direct.asda.com
 0.0.0.0	beacon.dropbox.com
+0.0.0.0	beacon.flow.io
 0.0.0.0	beacon.groceries.asda.com
 0.0.0.0	beacon.guim.co.uk
 0.0.0.0	beacon.my.salesforce.com
 0.0.0.0	beacon.riskified.com
+0.0.0.0	beacon.searchspring.io
+0.0.0.0	beacon.walmart.com
 0.0.0.0	beacon.wikia-services.com
 0.0.0.0	beaconimages.netflix.net
 0.0.0.0	beacons.gcp.gvt2.com
@@ -1001,6 +1020,7 @@
 0.0.0.0	brightrollmarketplace.com
 0.0.0.0	brightroulette.com
 0.0.0.0	brilig.com
+0.0.0.0	britepool.com
 0.0.0.0	broker.to
 0.0.0.0	brpx.com
 0.0.0.0	brpx.io
@@ -1073,6 +1093,7 @@
 0.0.0.0	ccemails.com
 0.0.0.0	ccmd1.com
 0.0.0.0	ccmp.eu
+0.0.0.0	ccpmtrk.com
 0.0.0.0	cdn-mxpnl.com
 0.0.0.0	cdn-net.com
 0.0.0.0	cdn-rum.ngenix.net
@@ -1125,6 +1146,7 @@
 0.0.0.0	clearbit.com
 0.0.0.0	clearcode.cc
 0.0.0.0	clevernt.com
+0.0.0.0	cleverpush.com
 0.0.0.0	clic2buy.com
 0.0.0.0	click.email.microsoftonline.com
 0.0.0.0	click.emails-comparethemarket.com
@@ -1251,6 +1273,7 @@
 0.0.0.0	contributorshaveangry.com
 0.0.0.0	conversionlogic.net
 0.0.0.0	convertexperiments.com
+0.0.0.0	convertize.com
 0.0.0.0	convertro.com
 0.0.0.0	conviva.com
 0.0.0.0	convrse.media
@@ -1473,6 +1496,7 @@
 0.0.0.0	dmtrk.net
 0.0.0.0	dmtry.com
 0.0.0.0	dmvbdfblevxvx.com
+0.0.0.0	dn360.net
 0.0.0.0	docalytics.com
 0.0.0.0	doctorhousing.com
 0.0.0.0	dohi.se
@@ -1604,6 +1628,7 @@
 0.0.0.0	eloqua.infobip.com
 0.0.0.0	eloqua.modernize.com
 0.0.0.0	eloqua.talktalkbusiness.co.uk
+0.0.0.0	elqtrk.intel.com
 0.0.0.0	email-standards.com
 0.0.0.0	email-standards.org
 0.0.0.0	emailmeter.com
@@ -1859,6 +1884,7 @@
 0.0.0.0	getgo.com
 0.0.0.0	getlocalmeasure.com
 0.0.0.0	getmyads.com
+0.0.0.0	getscriptjs.com
 0.0.0.0	getsentry.com
 0.0.0.0	getsentry.net
 0.0.0.0	getsentry.org
@@ -2307,6 +2333,7 @@
 0.0.0.0	labaz.vip
 0.0.0.0	labelinganalytics.com
 0.0.0.0	ladsoks.com
+0.0.0.0	ladsp.jp
 0.0.0.0	ladycash.ru
 0.0.0.0	lakered.eu
 0.0.0.0	landscapeburpgrandfather.com
@@ -2333,6 +2360,7 @@
 0.0.0.0	leady.com
 0.0.0.0	leanplum.com
 0.0.0.0	leftoverdense.com
+0.0.0.0	legacy-telemetry.malwarebytes.com
 0.0.0.0	legolas-media.com
 0.0.0.0	leiki.com
 0.0.0.0	lemonpi.io
@@ -2532,6 +2560,7 @@
 0.0.0.0	megavoordeeltips.eu
 0.0.0.0	mellowads.com
 0.0.0.0	member-hsbc-group.com
+0.0.0.0	menanglevalley.top
 0.0.0.0	mencemes.eu
 0.0.0.0	mentagnes.eu
 0.0.0.0	mention-me.email
@@ -2568,8 +2597,11 @@
 0.0.0.0	metrics.asos.com
 0.0.0.0	metrics.cbc.ca
 0.0.0.0	metrics.corus.ca
+0.0.0.0	metrics.data.hicloud.com
 0.0.0.0	metrics.dt.hicloud.com
 0.0.0.0	metrics.ebay.com
+0.0.0.0	metrics.fe.apple-dns.net
+0.0.0.0	metrics.fidelity.com
 0.0.0.0	metrics.foxnews.com
 0.0.0.0	metrics.g.ebay.com
 0.0.0.0	metrics.hackerrank.com
@@ -2578,6 +2610,7 @@
 0.0.0.0	metrics.ionos.com
 0.0.0.0	metrics.ionos.de
 0.0.0.0	metrics.marksandspencer.com
+0.0.0.0	metrics.mzstatic.com
 0.0.0.0	metrics.plex.tv
 0.0.0.0	metrics.postoffice.co.uk
 0.0.0.0	metrics.raptr.com
@@ -2587,10 +2620,13 @@
 0.0.0.0	metrics.spbtv.com
 0.0.0.0	metrics.three.co.uk
 0.0.0.0	metrics.ubuntu.com
+0.0.0.0	metrics.washingtonpost.com
 0.0.0.0	metricswindow.com
 0.0.0.0	metrigo.com
+0.0.0.0	metrika.bestofworldcontent.com
 0.0.0.0	metrika.mos.ru
 0.0.0.0	metrika.myseldon.com
+0.0.0.0	metrika.thisistheplacetowatch.com
 0.0.0.0	metveelvoorkados.eu
 0.0.0.0	metvoordeelkado.eu
 0.0.0.0	mfadsrvr.com
@@ -3732,12 +3768,14 @@
 0.0.0.0	mkt10930.com
 0.0.0.0	mkt10931.com
 0.0.0.0	mkt10932.com
+0.0.0.0	mkt10933.com
 0.0.0.0	mkt10936.com
 0.0.0.0	mkt10937.com
 0.0.0.0	mkt10938.com
 0.0.0.0	mkt10939.com
 0.0.0.0	mkt1094.com
 0.0.0.0	mkt10940.com
+0.0.0.0	mkt10941.com
 0.0.0.0	mkt10943.com
 0.0.0.0	mkt10944.com
 0.0.0.0	mkt10945.com
@@ -3801,9 +3839,11 @@
 0.0.0.0	mkt10999.com
 0.0.0.0	mkt110.com
 0.0.0.0	mkt1100.com
+0.0.0.0	mkt11000.com
 0.0.0.0	mkt11002.com
 0.0.0.0	mkt11003.com
 0.0.0.0	mkt11004.com
+0.0.0.0	mkt11005.com
 0.0.0.0	mkt11006.com
 0.0.0.0	mkt11007.com
 0.0.0.0	mkt11008.com
@@ -3833,6 +3873,7 @@
 0.0.0.0	mkt11031.com
 0.0.0.0	mkt11032.com
 0.0.0.0	mkt11033.com
+0.0.0.0	mkt11035.com
 0.0.0.0	mkt11036.com
 0.0.0.0	mkt11037.com
 0.0.0.0	mkt11038.com
@@ -3844,10 +3885,12 @@
 0.0.0.0	mkt11045.com
 0.0.0.0	mkt11046.com
 0.0.0.0	mkt11047.com
+0.0.0.0	mkt11049.com
 0.0.0.0	mkt1105.com
 0.0.0.0	mkt11050.com
 0.0.0.0	mkt11052.com
 0.0.0.0	mkt11053.com
+0.0.0.0	mkt11054.com
 0.0.0.0	mkt11057.com
 0.0.0.0	mkt11058.com
 0.0.0.0	mkt11059.com
@@ -3855,11 +3898,14 @@
 0.0.0.0	mkt11060.com
 0.0.0.0	mkt11061.com
 0.0.0.0	mkt11062.com
+0.0.0.0	mkt11063.com
 0.0.0.0	mkt11064.com
 0.0.0.0	mkt11065.com
 0.0.0.0	mkt11066.com
 0.0.0.0	mkt11067.com
 0.0.0.0	mkt1107.com
+0.0.0.0	mkt11071.com
+0.0.0.0	mkt11072.com
 0.0.0.0	mkt11073.com
 0.0.0.0	mkt11074.com
 0.0.0.0	mkt11075.com
@@ -3873,6 +3919,7 @@
 0.0.0.0	mkt11082.com
 0.0.0.0	mkt11083.com
 0.0.0.0	mkt11085.com
+0.0.0.0	mkt11086.com
 0.0.0.0	mkt11087.com
 0.0.0.0	mkt11088.com
 0.0.0.0	mkt11089.com
@@ -3880,31 +3927,52 @@
 0.0.0.0	mkt11090.com
 0.0.0.0	mkt11091.com
 0.0.0.0	mkt11092.com
+0.0.0.0	mkt11094.com
 0.0.0.0	mkt11095.com
 0.0.0.0	mkt11096.com
 0.0.0.0	mkt11097.com
 0.0.0.0	mkt11098.com
+0.0.0.0	mkt11099.com
 0.0.0.0	mkt111.com
 0.0.0.0	mkt1110.com
 0.0.0.0	mkt11100.com
+0.0.0.0	mkt11101.com
 0.0.0.0	mkt11102.com
 0.0.0.0	mkt11103.com
 0.0.0.0	mkt11104.com
 0.0.0.0	mkt11105.com
 0.0.0.0	mkt11106.com
 0.0.0.0	mkt11107.com
+0.0.0.0	mkt11108.com
+0.0.0.0	mkt11109.com
 0.0.0.0	mkt1111.com
 0.0.0.0	mkt11110.com
 0.0.0.0	mkt11111.com
+0.0.0.0	mkt11112.com
+0.0.0.0	mkt11114.com
+0.0.0.0	mkt11115.com
 0.0.0.0	mkt11116.com
 0.0.0.0	mkt11117.com
 0.0.0.0	mkt11118.com
+0.0.0.0	mkt11119.com
 0.0.0.0	mkt1112.com
 0.0.0.0	mkt11120.com
+0.0.0.0	mkt11121.com
 0.0.0.0	mkt11122.com
+0.0.0.0	mkt11123.com
 0.0.0.0	mkt11124.com
+0.0.0.0	mkt11125.com
+0.0.0.0	mkt11126.com
+0.0.0.0	mkt11127.com
+0.0.0.0	mkt11128.com
 0.0.0.0	mkt1113.com
 0.0.0.0	mkt11130.com
+0.0.0.0	mkt11131.com
+0.0.0.0	mkt11132.com
+0.0.0.0	mkt11133.com
+0.0.0.0	mkt11134.com
+0.0.0.0	mkt11137.com
+0.0.0.0	mkt11138.com
 0.0.0.0	mkt1114.com
 0.0.0.0	mkt1115.com
 0.0.0.0	mkt1116.com
@@ -13947,6 +14015,7 @@
 0.0.0.0	onefeed.co.uk
 0.0.0.0	oneittelemetry.blob.core.windows.net
 0.0.0.0	onemarketnetwork.com
+0.0.0.0	onemob.mobi
 0.0.0.0	onesignal.com
 0.0.0.0	onestat.com
 0.0.0.0	onetag-sys.com
@@ -14071,6 +14140,7 @@
 0.0.0.0	peer39.net
 0.0.0.0	peerius.com
 0.0.0.0	pegivembe.eu
+0.0.0.0	pepperjam.com
 0.0.0.0	pepperjamnetwork.com
 0.0.0.0	perceivefilthy.com
 0.0.0.0	perfb.com
@@ -14412,6 +14482,7 @@
 0.0.0.0	research-int.se
 0.0.0.0	researchad.com
 0.0.0.0	researchresults.com
+0.0.0.0	resetdigital.co
 0.0.0.0	reson8.com
 0.0.0.0	resorsedroblet.pro
 0.0.0.0	respectivepreservation.com
@@ -14537,6 +14608,7 @@
 0.0.0.0	sagent.io
 0.0.0.0	sail-horizon.com
 0.0.0.0	sail-track.com
+0.0.0.0	sailthru.cloud
 0.0.0.0	sailthru.com
 0.0.0.0	salecycle.com
 0.0.0.0	salesfire.co.uk
@@ -14589,6 +14661,7 @@
 0.0.0.0	securemetrics.apple.com
 0.0.0.0	securemetrics.dubevdrea.com
 0.0.0.0	securemetrics.eagletac.com
+0.0.0.0	securemetrics.enzyme.finance
 0.0.0.0	securemetrics.healthnavigator.info
 0.0.0.0	securemetrics.jewish.museum
 0.0.0.0	securemetrics.net.ws
@@ -14622,6 +14695,7 @@
 0.0.0.0	sexualpitfall.com
 0.0.0.0	sg-living.co.jp
 0.0.0.0	shareaholic.com
+0.0.0.0	shareaholic.net
 0.0.0.0	sharethis.com
 0.0.0.0	sharethrough.com
 0.0.0.0	shemedia.com
@@ -14798,6 +14872,7 @@
 0.0.0.0	smetrics.aa.com
 0.0.0.0	smetrics.aaa.com
 0.0.0.0	smetrics.aaamidatlantic.com
+0.0.0.0	smetrics.aaas.org
 0.0.0.0	smetrics.aainsurance.co.nz
 0.0.0.0	smetrics.aami.com.au
 0.0.0.0	smetrics.aarp.org
@@ -14924,6 +14999,7 @@
 0.0.0.0	smetrics.binarystew.com
 0.0.0.0	smetrics.binge.com.au
 0.0.0.0	smetrics.bingle.com.au
+0.0.0.0	smetrics.biomedtracker.com
 0.0.0.0	smetrics.biosimilarsbyboehringer.com
 0.0.0.0	smetrics.bipimedicine.com
 0.0.0.0	smetrics.bjs.com
@@ -15046,6 +15122,7 @@
 0.0.0.0	smetrics.corus.ca
 0.0.0.0	smetrics.costacruise.com
 0.0.0.0	smetrics.costadelmar.com
+0.0.0.0	smetrics.costco.com
 0.0.0.0	smetrics.costcobusinesscentre.ca
 0.0.0.0	smetrics.costcobusinessdelivery.com
 0.0.0.0	smetrics.cottages.com
@@ -15129,6 +15206,7 @@
 0.0.0.0	smetrics.esignal.com
 0.0.0.0	smetrics.etcanada.com
 0.0.0.0	smetrics.etihad.com
+0.0.0.0	smetrics.eurekalert.org
 0.0.0.0	smetrics.eurocardbyinvitation.dk
 0.0.0.0	smetrics.europafm.com
 0.0.0.0	smetrics.eurowings.com
@@ -15327,6 +15405,7 @@
 0.0.0.0	smetrics.kone.pl
 0.0.0.0	smetrics.kone.us
 0.0.0.0	smetrics.kone.vn
+0.0.0.0	smetrics.koolyio.online
 0.0.0.0	smetrics.kpmg.us
 0.0.0.0	smetrics.krugerseed.com
 0.0.0.0	smetrics.kyndryl.com
@@ -15341,6 +15420,7 @@
 0.0.0.0	smetrics.lanebryant.com
 0.0.0.0	smetrics.laredoute.fr
 0.0.0.0	smetrics.lasexta.com
+0.0.0.0	smetrics.latitudefinancial.co.nz
 0.0.0.0	smetrics.latitudefinancial.com
 0.0.0.0	smetrics.latitudefinancial.com.au
 0.0.0.0	smetrics.latitudepay.com
@@ -15431,6 +15511,7 @@
 0.0.0.0	smetrics.motionindustries.com
 0.0.0.0	smetrics.motortrend.com
 0.0.0.0	smetrics.moving.com
+0.0.0.0	smetrics.mphasis.com
 0.0.0.0	smetrics.mrappliance.ca
 0.0.0.0	smetrics.mrappliance.com
 0.0.0.0	smetrics.mrelectric.com
@@ -15442,6 +15523,7 @@
 0.0.0.0	smetrics.msg.com
 0.0.0.0	smetrics.msgentertainment.com
 0.0.0.0	smetrics.msgsports.com
+0.0.0.0	smetrics.mtu-solutions.com
 0.0.0.0	smetrics.murata.com
 0.0.0.0	smetrics.mutua.es
 0.0.0.0	smetrics.mutuactivos.com
@@ -15619,6 +15701,7 @@
 0.0.0.0	smetrics.ryanair.com
 0.0.0.0	smetrics.sainsburysbank.co.uk
 0.0.0.0	smetrics.saksoff5th.com
+0.0.0.0	smetrics.salesforce1.us
 0.0.0.0	smetrics.salliemae.com
 0.0.0.0	smetrics.salomon.com
 0.0.0.0	smetrics.samsung.com
@@ -15634,6 +15717,9 @@
 0.0.0.0	smetrics.sbs.com.au
 0.0.0.0	smetrics.sce.com
 0.0.0.0	smetrics.schwans.com
+0.0.0.0	smetrics.science.org
+0.0.0.0	smetrics.sciencecareers.org
+0.0.0.0	smetrics.sciencemagazinedigital.org
 0.0.0.0	smetrics.scottbanks.com
 0.0.0.0	smetrics.sdcvisit.com
 0.0.0.0	smetrics.seat-auto.pl
@@ -15798,8 +15884,10 @@
 0.0.0.0	smetrics.trilliumhealthplan.com
 0.0.0.0	smetrics.tryg.dk
 0.0.0.0	smetrics.trygghansa.se
+0.0.0.0	smetrics.tsc.ca
 0.0.0.0	smetrics.ttiinc.com
 0.0.0.0	smetrics.tudorwatch.com
+0.0.0.0	smetrics.tune-h.com
 0.0.0.0	smetrics.tunegocioenserio.com
 0.0.0.0	smetrics.tv2.dk
 0.0.0.0	smetrics.tyro.com
@@ -16017,6 +16105,8 @@
 0.0.0.0	stats.elementary.io
 0.0.0.0	stats.ft.com
 0.0.0.0	stats.g.doubleclick.net
+0.0.0.0	stats.gc.apple.com
+0.0.0.0	stats.gc.fe.apple-dns.net
 0.0.0.0	stats.gcp.smartmailcloud.com
 0.0.0.0	stats.glb.paypal.com
 0.0.0.0	stats.grml.org
@@ -16027,6 +16117,8 @@
 0.0.0.0	stats.ksearchnet.com
 0.0.0.0	stats.l.doubleclick.net
 0.0.0.0	stats.maps.api.2gis.ru
+0.0.0.0	stats.mbamupdates.com
+0.0.0.0	stats.medium.build
 0.0.0.0	stats.merriam-webster.com
 0.0.0.0	stats.mos.ru
 0.0.0.0	stats.newsweek.com
@@ -16192,6 +16284,8 @@
 0.0.0.0	telemetry.dropbox.com
 0.0.0.0	telemetry.geo.dmcdn.net
 0.0.0.0	telemetry.gfe.nvidia.com
+0.0.0.0	telemetry.insights.video.a2z.com
+0.0.0.0	telemetry.intel.com
 0.0.0.0	telemetry.jivosite.com
 0.0.0.0	telemetry.malwarebytes.com
 0.0.0.0	telemetry.microsoft.com
@@ -16354,6 +16448,8 @@
 0.0.0.0	track.tproger.ru
 0.0.0.0	track.untd.com
 0.0.0.0	track.us.org
+0.0.0.0	track.wattpad.com
+0.0.0.0	track.wattpadhq.com
 0.0.0.0	track.wikibuy.com
 0.0.0.0	trackad.cz
 0.0.0.0	trackadm.com
@@ -16374,6 +16470,8 @@
 0.0.0.0	tracking.aviasales.ru
 0.0.0.0	tracking.cmjump.com.au
 0.0.0.0	tracking.epicgames.com
+0.0.0.0	tracking.hsn.com
+0.0.0.0	tracking.india.miui.com
 0.0.0.0	tracking.intl.miui.com
 0.0.0.0	tracking.komoot.de
 0.0.0.0	tracking.lenzmx.com
@@ -16385,6 +16483,7 @@
 0.0.0.0	tracking.paypal.com
 0.0.0.0	tracking.prd.mz.internal.unity3d.com
 0.0.0.0	tracking.resortsandlodges.com
+0.0.0.0	tracking.rus.miui.com
 0.0.0.0	tracking.sezzle.com
 0.0.0.0	tracking.shopstyle.co.uk
 0.0.0.0	tracking.volo-mobile.com
@@ -16433,10 +16532,12 @@
 0.0.0.0	tribalfusion.com
 0.0.0.0	triggit.com
 0.0.0.0	tritondigital.com
+0.0.0.0	trk.celtx.com
 0.0.0.0	trk.homeaway.com
 0.0.0.0	trk.informationweek.com
 0.0.0.0	trk.justanswer.com
 0.0.0.0	trk.lemon-ade.site
+0.0.0.0	trk.nfl-online-streams.live
 0.0.0.0	trk.pinterest.com
 0.0.0.0	trk2.pinterest.com
 0.0.0.0	trkad.network
@@ -16452,6 +16553,7 @@
 0.0.0.0	trustedsite.com
 0.0.0.0	trvdp.com
 0.0.0.0	trychameleon.com
+0.0.0.0	tsusercontent.com
 0.0.0.0	tsyndicate.com
 0.0.0.0	ttauri.tomshardware.com
 0.0.0.0	ttgtmedia.com
@@ -16490,6 +16592,7 @@
 0.0.0.0	umhalilabs.com
 0.0.0.0	unanimis.co.uk
 0.0.0.0	underso.eu
+0.0.0.0	undertone.com
 0.0.0.0	undrininvereb.info
 0.0.0.0	uniconsent.com
 0.0.0.0	uniqodo.com
@@ -16623,6 +16726,7 @@
 0.0.0.0	vlitag.com
 0.0.0.0	vmn.net
 0.0.0.0	voicefive.com
+0.0.0.0	voltn.com
 0.0.0.0	voluumtrk.com
 0.0.0.0	voluumtrk2.com
 0.0.0.0	voluumtrk3.com
@@ -16860,4 +16964,5 @@
 0.0.0.0	zprk.io
 0.0.0.0	zqtk.net
 0.0.0.0	zsj18.com
+0.0.0.0	zucks.net
 0.0.0.0	zupml.com

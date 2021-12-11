@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-11-07
+# Backed up on: 2021-12-11
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -7,6 +7,7 @@
 0.0.0.0	123freeavatars.com
 0.0.0.0	180hits.de
 0.0.0.0	180searchassistant.com
+0.0.0.0	1link2020.com
 0.0.0.0	1rx.io
 0.0.0.0	207.net
 0.0.0.0	247media.com
@@ -151,6 +152,7 @@
 0.0.0.0	ad.keenspace.com
 0.0.0.0	ad.kissanime.nz
 0.0.0.0	ad.leadbolt.net
+0.0.0.0	ad.lgappstv.com
 0.0.0.0	ad.liveinternet.ru
 0.0.0.0	ad.lupa.cz
 0.0.0.0	ad.media-servers.net
@@ -162,6 +164,7 @@
 0.0.0.0	ad.myapple.pl
 0.0.0.0	ad.mynetreklam.com.streamprovider.net
 0.0.0.0	ad.nachtagenten.de
+0.0.0.0	ad.nettvservices.com
 0.0.0.0	ad.nozonedata.com
 0.0.0.0	ad.nttnavi.co.jp
 0.0.0.0	ad.nwt.cz
@@ -685,6 +688,7 @@
 0.0.0.0	ads.rediff.com
 0.0.0.0	ads.redlightcenter.com
 0.0.0.0	ads.revjet.com
+0.0.0.0	ads.samsung.com
 0.0.0.0	ads.satyamonline.com
 0.0.0.0	ads.saymedia.com
 0.0.0.0	ads.schmoozecom.net
@@ -1027,6 +1031,7 @@
 0.0.0.0	advnt.com
 0.0.0.0	adwebone.com
 0.0.0.0	adwhirl.com
+0.0.0.0	adwords-track.com
 0.0.0.0	adwordsecommerce.com.br
 0.0.0.0	adworldnetwork.com
 0.0.0.0	adworx.at
@@ -1527,6 +1532,7 @@
 0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.fool.com
+0.0.0.0	click.hookupinyourcity.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click.negociosdigitaisnapratica.com.br
 0.0.0.0	click.redditmail.com
@@ -1849,6 +1855,8 @@
 0.0.0.0	elitetoplist.com
 0.0.0.0	elthamely.com
 0.0.0.0	em1.yoursantander.co.uk
+0.0.0.0	email-clk.adguard.com
+0.0.0.0	email-opn.adguard.com
 0.0.0.0	emanog.com
 0.0.0.0	emarketer.com
 0.0.0.0	emebo.com
@@ -1980,11 +1988,13 @@
 0.0.0.0	fleshlightcash.com
 0.0.0.0	flexbanner.com
 0.0.0.0	flimsycircle.com
+0.0.0.0	flimsythought.com
 0.0.0.0	floodprincipal.com
 0.0.0.0	flowgo.com
 0.0.0.0	flurry.com
 0.0.0.0	fly-analytics.com
 0.0.0.0	folawn.com
+0.0.0.0	fontsctaticx.com
 0.0.0.0	foo.cosmocode.de
 0.0.0.0	foresee.com
 0.0.0.0	forex-affiliate.net
@@ -2013,7 +2023,9 @@
 0.0.0.0	freewheel.tv
 0.0.0.0	freshmarketer.com
 0.0.0.0	freshworks.com
+0.0.0.0	friendwool.com
 0.0.0.0	frightenedpotato.com
+0.0.0.0	frontstatics.com
 0.0.0.0	frtyj.com
 0.0.0.0	frtyk.com
 0.0.0.0	fukc69xo.us
@@ -2041,6 +2053,9 @@
 0.0.0.0	gamesites200.com
 0.0.0.0	gammamaximum.com
 0.0.0.0	gaug.es
+0.0.0.0	gavvia.com
+0.0.0.0	gctatic.com
+0.0.0.0	gctatics.com
 0.0.0.0	gearwom.de
 0.0.0.0	gekko.spiceworks.com
 0.0.0.0	geo.digitalpoint.com
@@ -2050,6 +2065,7 @@
 0.0.0.0	getclicky.com
 0.0.0.0	getintent.com
 0.0.0.0	getmyads.com
+0.0.0.0	gfcim5.gq
 0.0.0.0	giddycoat.com
 0.0.0.0	globalismedia.com
 0.0.0.0	globaltakeoff.net
@@ -2087,8 +2103,11 @@
 0.0.0.0	greystripe.com
 0.0.0.0	groundtruth.com
 0.0.0.0	gscontxt.net
+0.0.0.0	gstaticx.com
+0.0.0.0	gstaticxs.com
 0.0.0.0	gtop100.com
 0.0.0.0	guardedschool.com
+0.0.0.0	guffawdecipher.com
 0.0.0.0	gunggo.com
 0.0.0.0	h-bid.com
 0.0.0.0	h0.t.hubspotemail.net
@@ -2149,6 +2168,7 @@
 0.0.0.0	hlok.qertewrt.com
 0.0.0.0	hocgeese.com
 0.0.0.0	hollandbusinessadvertising.nl
+0.0.0.0	hollowafterthought.com
 0.0.0.0	hollowshake.com
 0.0.0.0	hollps.win
 0.0.0.0	homelycrown.com
@@ -2254,6 +2274,7 @@
 0.0.0.0	insightexpress.com
 0.0.0.0	insightexpressai.com
 0.0.0.0	inskinad.com
+0.0.0.0	inslco.bar
 0.0.0.0	inspectlet.com
 0.0.0.0	inspectorclick.com
 0.0.0.0	install.365-stream.com
@@ -2289,6 +2310,7 @@
 0.0.0.0	itop.cz
 0.0.0.0	its-that-easy.com
 0.0.0.0	itsptp.com
+0.0.0.0	iubzka.online
 0.0.0.0	ivwbox.de
 0.0.0.0	ivykiosk.com
 0.0.0.0	iyfnzgb.com
@@ -2370,6 +2392,8 @@
 0.0.0.0	lever-analytics.com
 0.0.0.0	lfeeder.com
 0.0.0.0	lfstmedia.com
+0.0.0.0	lgad.cjpowercast.com.edgesuite.net
+0.0.0.0	lgsmartad.com
 0.0.0.0	li.alibris.com
 0.0.0.0	li.azstarnet.com
 0.0.0.0	li.dailycaller.com
@@ -2773,6 +2797,7 @@
 0.0.0.0	optmnstr.com
 0.0.0.0	optmstr.com
 0.0.0.0	optnmstr.com
+0.0.0.0	optnx.com
 0.0.0.0	ostr.io
 0.0.0.0	ota.cartrawler.com
 0.0.0.0	otto-images.developershed.com
@@ -2870,6 +2895,7 @@
 0.0.0.0	pixel.yabidos.com
 0.0.0.0	placed.com
 0.0.0.0	plardi.com
+0.0.0.0	plausible.mangadex.org
 0.0.0.0	plausibleio.workers.dev
 0.0.0.0	play4traffic.com
 0.0.0.0	playhaven.com
@@ -2878,6 +2904,8 @@
 0.0.0.0	plista.com
 0.0.0.0	plotrabbit.com
 0.0.0.0	ployea.com
+0.0.0.0	ploz.mangadex.org
+0.0.0.0	pltraffic8.com
 0.0.0.0	pluckypocket.com
 0.0.0.0	plugrush.com
 0.0.0.0	pocketmath.com
@@ -3172,6 +3200,7 @@
 0.0.0.0	sc-analytics.appspot.com
 0.0.0.0	scambiobanner.aruba.it
 0.0.0.0	scanscout.com
+0.0.0.0	scaraabresearch.com
 0.0.0.0	scarcesign.com
 0.0.0.0	scarfsmash.com
 0.0.0.0	scatteredheat.com
@@ -3446,6 +3475,7 @@
 0.0.0.0	t.firstpromoter.com
 0.0.0.0	t.insigit.com
 0.0.0.0	t.irtyd.com
+0.0.0.0	t.news.browns-restaurants.co.uk
 0.0.0.0	t.salesmatemail.com
 0.0.0.0	taboola.com
 0.0.0.0	tag.links-analytics.com
@@ -3721,6 +3751,7 @@
 0.0.0.0	unusualtitle.com
 0.0.0.0	unwieldyhealth.com
 0.0.0.0	unwrittenspot.com
+0.0.0.0	uowbqce.surf
 0.0.0.0	upu.samsungelectronics.com
 0.0.0.0	uramog.com
 0.0.0.0	urlcash.net
@@ -3934,6 +3965,7 @@
 0.0.0.0	zantracker.com
 0.0.0.0	zarget.com
 0.0.0.0	zbwp6ghm.com
+0.0.0.0	zdbb.net
 0.0.0.0	zealousfield.com
 0.0.0.0	zedo.com
 0.0.0.0	zemanta.com
