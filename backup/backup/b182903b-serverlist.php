@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2021-12-11
+# Backed up on: 2022-01-24
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -245,6 +245,7 @@
 0.0.0.0	adcannyads.com
 0.0.0.0	adcash.com
 0.0.0.0	adcast.deviantart.com
+0.0.0.0	adcel.co
 0.0.0.0	adcell.de
 0.0.0.0	adcenter.net
 0.0.0.0	adcentriconline.com
@@ -271,6 +272,7 @@
 0.0.0.0	adexpose.com
 0.0.0.0	adext.inkclub.com
 0.0.0.0	adf.ly
+0.0.0.0	adfeed.marchex.com
 0.0.0.0	adflight.com
 0.0.0.0	adforce.com
 0.0.0.0	adform.com
@@ -933,6 +935,7 @@
 0.0.0.0	adsmarket.com
 0.0.0.0	adsmart.com
 0.0.0.0	adsmart.net
+0.0.0.0	adsmetadata.startappservice.com
 0.0.0.0	adsmogo.com
 0.0.0.0	adsnative.com
 0.0.0.0	adsoftware.com
@@ -1166,12 +1169,16 @@
 0.0.0.0	anxiousapples.com
 0.0.0.0	apathetictheory.com
 0.0.0.0	api.amplitude.com
+0.0.0.0	api.eu.amplitude.com
 0.0.0.0	api.intensifier.de
 0.0.0.0	api.jetlore.com
 0.0.0.0	api.kameleoon.com
+0.0.0.0	api.lab.amplitude.com
 0.0.0.0	api.rudderlabs.com
+0.0.0.0	api2.amplitude.com
 0.0.0.0	apolloprogram.io
 0.0.0.0	app-ab33.marketo.com
+0.0.0.0	app-analytics-v2.snapchat.com
 0.0.0.0	app-analytics.snapchat.com
 0.0.0.0	app.pendo.io
 0.0.0.0	appboycdn.com
@@ -1329,6 +1336,7 @@
 0.0.0.0	baremetrics.com
 0.0.0.0	barnesandnoble.bfast.com
 0.0.0.0	basebanner.com
+0.0.0.0	basketballbelieve.com
 0.0.0.0	baskettexture.com
 0.0.0.0	bat.bing.com
 0.0.0.0	batbuilding.com
@@ -1338,6 +1346,8 @@
 0.0.0.0	bbn.img.com.ua
 0.0.0.0	beachfront.com
 0.0.0.0	beacon.gu-web.net
+0.0.0.0	beam-ws.giraffe360.com
+0.0.0.0	beam.giraffe360.com
 0.0.0.0	beamincrease.com
 0.0.0.0	bebi.com
 0.0.0.0	bedsbreath.com
@@ -1452,6 +1462,7 @@
 0.0.0.0	calculatingcircle.com
 0.0.0.0	calculatingtoothbrush.com
 0.0.0.0	calculatorcamera.com
+0.0.0.0	call-ad-network-api.marchex.com
 0.0.0.0	callousbrake.com
 0.0.0.0	callrail.com
 0.0.0.0	calmcactus.com
@@ -1529,6 +1540,7 @@
 0.0.0.0	click.bkdpt.com
 0.0.0.0	click.cartsguru.io
 0.0.0.0	click.cision.com
+0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.fool.com
@@ -1583,6 +1595,7 @@
 0.0.0.0	cloisteredhydrant.com
 0.0.0.0	closedcows.com
 0.0.0.0	cloudcoins.biz
+0.0.0.0	cloudflare-dacdn.visualwebsiteoptimizer.com
 0.0.0.0	cloudflareinsights.com
 0.0.0.0	clrstm.com
 0.0.0.0	cluster.adultworld.com
@@ -1708,6 +1721,7 @@
 0.0.0.0	curtaincows.com
 0.0.0.0	custom.plausible.io
 0.0.0.0	customad.cnn.com
+0.0.0.0	customads.co
 0.0.0.0	customers.kameleoon.com
 0.0.0.0	cutechin.com
 0.0.0.0	cutecushion.com
@@ -1814,6 +1828,7 @@
 0.0.0.0	dsp.colpirio.com
 0.0.0.0	dsp.io
 0.0.0.0	dstillery.com
+0.0.0.0	dustywave.com
 0.0.0.0	dynamic.fmpub.net
 0.0.0.0	dyntrk.com
 0.0.0.0	dzairads.com
@@ -1876,6 +1891,7 @@
 0.0.0.0	engage.webshrinker.com
 0.0.0.0	engage.windows.com
 0.0.0.0	engagebdr.com
+0.0.0.0	engageya.com
 0.0.0.0	engine.espace.netavenir.com
 0.0.0.0	enginenetwork.com
 0.0.0.0	enormousearth.com
@@ -1915,6 +1931,7 @@
 0.0.0.0	everesttech.net
 0.0.0.0	evergage.com
 0.0.0.0	eversales.space
+0.0.0.0	evs.sgmt.loom.com
 0.0.0.0	evyy.net
 0.0.0.0	ewebcounter.com
 0.0.0.0	exanae.com
@@ -1963,6 +1980,7 @@
 0.0.0.0	fastly-insights.com
 0.0.0.0	faultycanvas.com
 0.0.0.0	faultyfowl.com
+0.0.0.0	fave.co
 0.0.0.0	fc.webmasterpro.de
 0.0.0.0	feathr.co
 0.0.0.0	feebleshock.com
@@ -1999,6 +2017,7 @@
 0.0.0.0	foresee.com
 0.0.0.0	forex-affiliate.net
 0.0.0.0	forkcdn.com
+0.0.0.0	forwrdnow.com
 0.0.0.0	fourarithmetic.com
 0.0.0.0	fpctraffic.com
 0.0.0.0	fpctraffic2.com
@@ -2078,6 +2097,8 @@
 0.0.0.0	go-clicks.de
 0.0.0.0	go-mpulse.net
 0.0.0.0	go-rank.de
+0.0.0.0	go.eu.sparkpostmail1.com
+0.0.0.0	go.icann.org
 0.0.0.0	go2affise.com
 0.0.0.0	goingplatinum.com
 0.0.0.0	goldstats.com
@@ -2253,6 +2274,7 @@
 0.0.0.0	incentaclick.com
 0.0.0.0	inclk.com
 0.0.0.0	incognitosearches.com
+0.0.0.0	incoming-telemetry.thunderbird.net
 0.0.0.0	incoming.telemetry.mozilla.org
 0.0.0.0	indexexchange.com
 0.0.0.0	indexstats.com
@@ -2262,6 +2284,7 @@
 0.0.0.0	inetlog.ru
 0.0.0.0	infinite-ads.com
 0.0.0.0	infinityads.com
+0.0.0.0	infoevent.startappservice.com
 0.0.0.0	infolinks.com
 0.0.0.0	information.com
 0.0.0.0	inmobi.com
@@ -2500,6 +2523,7 @@
 0.0.0.0	marketing.hearstmagazines.nl
 0.0.0.0	marketing.net.brillen.de
 0.0.0.0	marketing.net.home24.de
+0.0.0.0	marketing.net.occhiali24.it
 0.0.0.0	marketing.nyi.net
 0.0.0.0	marketing.osijek031.com
 0.0.0.0	marketingsolutions.yahoo.com
@@ -2536,6 +2560,7 @@
 0.0.0.0	mediaarea.eu
 0.0.0.0	mediabridge.cc
 0.0.0.0	mediacharger.com
+0.0.0.0	mediafuse.com
 0.0.0.0	mediageneral.com
 0.0.0.0	mediaiqdigital.com
 0.0.0.0	mediamath.com
@@ -2643,6 +2668,7 @@
 0.0.0.0	myads.net
 0.0.0.0	myads.telkomsel.com
 0.0.0.0	myaffiliateprogram.com
+0.0.0.0	mybbc-analytics.files.bbci.co.uk
 0.0.0.0	mybestmv.com
 0.0.0.0	mybetterdl.com
 0.0.0.0	mybloglog.com
@@ -2686,6 +2712,8 @@
 0.0.0.0	netcommunities.com
 0.0.0.0	netdirect.nl
 0.0.0.0	netincap.com
+0.0.0.0	netmera-web.com
+0.0.0.0	netmera.com
 0.0.0.0	netmng.com
 0.0.0.0	netpool.netbookia.net
 0.0.0.0	netshelter.net
@@ -2931,6 +2959,7 @@
 0.0.0.0	postback.iqm.com
 0.0.0.0	postrelease.com
 0.0.0.0	posumeads.com
+0.0.0.0	ppc.adhere.marchex.com
 0.0.0.0	pr-star.de
 0.0.0.0	praddpro.de
 0.0.0.0	prchecker.info
@@ -2971,6 +3000,7 @@
 0.0.0.0	protectsubrev.com
 0.0.0.0	proton-tm.com
 0.0.0.0	protraffic.com
+0.0.0.0	provenpixel.com
 0.0.0.0	provexia.com
 0.0.0.0	prsaln.com
 0.0.0.0	prsitecheck.com
@@ -3013,6 +3043,7 @@
 0.0.0.0	q1connect.com
 0.0.0.0	qcontentdelivery.info
 0.0.0.0	qctop.com
+0.0.0.0	ql.tc
 0.0.0.0	qnsr.com
 0.0.0.0	qrlsx.com
 0.0.0.0	quacksquirrel.com
@@ -3037,6 +3068,7 @@
 0.0.0.0	r1.visualwebsiteoptimizer.com
 0.0.0.0	r2.visualwebsiteoptimizer.com
 0.0.0.0	r3.visualwebsiteoptimizer.com
+0.0.0.0	rabbitrifle.com
 0.0.0.0	radar.cedexis.com
 0.0.0.0	radarurl.com
 0.0.0.0	radiate.com
@@ -3228,6 +3260,7 @@
 0.0.0.0	securemetrics.apple.com
 0.0.0.0	sedoparking.com
 0.0.0.0	sedotracker.com
+0.0.0.0	segment-cdn.producthunt.com
 0.0.0.0	segmetrics.io
 0.0.0.0	selectionsugar.com
 0.0.0.0	selectivesummer.com
@@ -3329,6 +3362,7 @@
 0.0.0.0	somniture.stuff.co.nz
 0.0.0.0	somoaudience.com
 0.0.0.0	sonobi.com
+0.0.0.0	sordidsmile.com
 0.0.0.0	sortable.com
 0.0.0.0	sourcepoint.vice.com
 0.0.0.0	sovrn.com
@@ -3337,6 +3371,7 @@
 0.0.0.0	spannersalesman.com
 0.0.0.0	sparklingshelf.com
 0.0.0.0	sparkstudios.com
+0.0.0.0	speakol.com
 0.0.0.0	specially4u.net
 0.0.0.0	specificmedia.co.uk
 0.0.0.0	specificpop.com
@@ -3393,6 +3428,7 @@
 0.0.0.0	stat24.meta.ua
 0.0.0.0	statcounter.com
 0.0.0.0	statdynamic.com
+0.0.0.0	static-tracking.klaviyo.com
 0.0.0.0	static.a-ads.com
 0.0.0.0	static.fmpub.net
 0.0.0.0	static.itrack.it
@@ -3475,8 +3511,12 @@
 0.0.0.0	t.firstpromoter.com
 0.0.0.0	t.insigit.com
 0.0.0.0	t.irtyd.com
+0.0.0.0	t.leady.com
 0.0.0.0	t.news.browns-restaurants.co.uk
 0.0.0.0	t.salesmatemail.com
+0.0.0.0	t.vacations.disneydestinations.com
+0.0.0.0	t.visit.disneydestinations.com
+0.0.0.0	t.visitorqueue.com
 0.0.0.0	taboola.com
 0.0.0.0	tag.links-analytics.com
 0.0.0.0	tagan.adlightning.com
@@ -3607,7 +3647,9 @@
 0.0.0.0	track.game18click.com
 0.0.0.0	track.gawker.com
 0.0.0.0	track.hexcan.com
+0.0.0.0	track.mailalert.io
 0.0.0.0	track.mailerlite.com
+0.0.0.0	track.miro.com
 0.0.0.0	track.nuxues.com
 0.0.0.0	track.segmetrics.io
 0.0.0.0	track.software-codes.com
@@ -3624,6 +3666,7 @@
 0.0.0.0	trackedweb.net
 0.0.0.0	tracker-pm2.spilleren.com
 0.0.0.0	tracker.bannerflow.com
+0.0.0.0	tracker.bongngo.bar
 0.0.0.0	tracker.cdnbye.com
 0.0.0.0	tracker.comunidadmarriott.com
 0.0.0.0	tracker.icerocket.com
@@ -3639,6 +3682,7 @@
 0.0.0.0	tracking.crunchiemedia.com
 0.0.0.0	tracking.emilyclarkconsulting.com
 0.0.0.0	tracking.epicgames.com
+0.0.0.0	tracking.exipure.com
 0.0.0.0	tracking.gajmp.com
 0.0.0.0	tracking.hyros.com
 0.0.0.0	tracking.ibxlink.com
@@ -3655,6 +3699,7 @@
 0.0.0.0	tracking.publicidees.com
 0.0.0.0	tracking.theoceanac.online
 0.0.0.0	tracking.thinkabt.com
+0.0.0.0	tracking.wetter.at
 0.0.0.0	tracking01.walmart.com
 0.0.0.0	tracking101.com
 0.0.0.0	tracking22.com
@@ -3685,6 +3730,7 @@
 0.0.0.0	trafficz.com
 0.0.0.0	traffiq.com
 0.0.0.0	trafic.ro
+0.0.0.0	traildelsfars.com
 0.0.0.0	traktrafficflow.com
 0.0.0.0	tranquilside.com
 0.0.0.0	travis.bosscasinos.com
@@ -3703,6 +3749,7 @@
 0.0.0.0	triplelift.com
 0.0.0.0	triptease.io
 0.0.0.0	trix.net
+0.0.0.0	trk.bad-tool-tell-doubt.xyz
 0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.bee-data.com
 0.0.0.0	trk.enemy-adult-scared-there.xyz

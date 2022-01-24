@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2021-12-11
+# Backed up on: 2022-01-24
 
 0.0.0.0	042qge73l5aw.app.polymersearch.com
 0.0.0.0	0sbm.consobaby.co.uk
@@ -1444,6 +1444,7 @@
 0.0.0.0	amp-error-reporting.appspot.com
 0.0.0.0	amplify.strategic-i.com
 0.0.0.0	amplifypixel.outbrain.com
+0.0.0.0	ams-pageview-public.s3.amazonaws.com
 0.0.0.0	amusementmorning.com
 0.0.0.0	amusinggirls.com
 0.0.0.0	an.avast.com
@@ -1477,6 +1478,7 @@
 0.0.0.0	analytics-api.dvdfab.cn
 0.0.0.0	analytics-api.samsunghealthcn.com
 0.0.0.0	analytics-cms.whitebeard.me
+0.0.0.0	analytics-gw.games.wanmei.com
 0.0.0.0	analytics-production.hapyak.com
 0.0.0.0	analytics-proxy.springboard.com
 0.0.0.0	analytics-rhwg.rhcloud.com
@@ -1676,6 +1678,7 @@
 0.0.0.0	analytics.nordea.fi
 0.0.0.0	analytics.nordea.no
 0.0.0.0	analytics.nordea.se
+0.0.0.0	analytics.oceanengine.com
 0.0.0.0	analytics.oneplus.cn
 0.0.0.0	analytics.onlyonlinemarketing.com
 0.0.0.0	analytics.ooyala.com
@@ -2098,6 +2101,7 @@
 0.0.0.0	auqvva.insektenstop.net
 0.0.0.0	auriro.net
 0.0.0.0	aurora-d3.herokuapp.com
+0.0.0.0	auspiciousyard.com
 0.0.0.0	auth.lib-ln-1.net.daraz.com
 0.0.0.0	auth.r-ln-2.net.daraz.com
 0.0.0.0	authcaptcha.com
@@ -2323,6 +2327,7 @@
 0.0.0.0	beadbears.com
 0.0.0.0	beagle.prod.tda.link
 0.0.0.0	beam-ws.giraffe360.com
+0.0.0.0	beam.bankrate.com
 0.0.0.0	beam.giraffe360.com
 0.0.0.0	beam.mjhlifesciences.com
 0.0.0.0	beamincrease.com
@@ -2632,6 +2637,7 @@
 0.0.0.0	bznlrr.butlers.com
 0.0.0.0	bznxqj.fiat.it
 0.0.0.0	c-c-l.actonservice.com
+0.0.0.0	c.amazinglybrilliant.com.au
 0.0.0.0	c.atinternet-solutions.com
 0.0.0.0	c.authns.emailvision.net.daraz.com
 0.0.0.0	c.bigmir.net
@@ -3655,6 +3661,7 @@
 0.0.0.0	cstm.baidu.com
 0.0.0.0	csv4.ebs-paris.fr
 0.0.0.0	csyqts.tmon.co.kr
+0.0.0.0	ct.corpusapp.com
 0.0.0.0	ct.irl.com
 0.0.0.0	ct.irlmail.org
 0.0.0.0	ct.needlive.com
@@ -3778,6 +3785,7 @@
 0.0.0.0	d10gj7yjsfriaj.cloudfront.net
 0.0.0.0	d10lpsik1i8c69.cloudfront.net
 0.0.0.0	d11a2fzhgzqe7i.cloudfront.net
+0.0.0.0	d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0	d15kdpgjg3unno.cloudfront.net
 0.0.0.0	d169bbxks24g2u.cloudfront.net
 0.0.0.0	d16fk4ms6rqz1v.cloudfront.net
@@ -4039,6 +4047,7 @@
 0.0.0.0	ddguhg.wickes.co.uk
 0.0.0.0	ddioce.wolverine.com
 0.0.0.0	ddns.dataunlocker.com
+0.0.0.0	ddrvjrfwnij7n.cloudfront.net
 0.0.0.0	ddynwa.brithotel.fr
 0.0.0.0	de-mi-nis-ner.info
 0.0.0.0	de-mi-nis-ner2.info
@@ -4151,6 +4160,7 @@
 0.0.0.0	dhplma.pontofrio.com.br
 0.0.0.0	di.ifolor.ch
 0.0.0.0	di.ifolor.net
+0.0.0.0	di2xwvxz1jrvu.cloudfront.net
 0.0.0.0	di8n.bfmtv.com
 0.0.0.0	diagnose.igstatic.com
 0.0.0.0	dial4gwyn.com
@@ -4289,6 +4299,7 @@
 0.0.0.0	dkbicq.elektramat.nl
 0.0.0.0	dko.vente-unique.nl
 0.0.0.0	dkskbu.demae-can.com
+0.0.0.0	dkupaw9ae63a8.cloudfront.net
 0.0.0.0	dl-stage.zola.com
 0.0.0.0	dl.benefits.express-scripts.com
 0.0.0.0	dl.health-programs.express-scripts.com
@@ -4437,6 +4448,7 @@
 0.0.0.0	dtmxst.66girls.co.kr
 0.0.0.0	du2k.bhv.fr
 0.0.0.0	du4rq1xqh3i1k.cloudfront.net
+0.0.0.0	du8783wkf05yr.cloudfront.net
 0.0.0.0	dudleynews-gb.dudleynews.co.uk
 0.0.0.0	dufue2m4sondk.cloudfront.net
 0.0.0.0	dump4barn.com
@@ -4463,6 +4475,7 @@
 0.0.0.0	dwh-tracking.it.auth0.com
 0.0.0.0	dwtpxq.karaca-home.com
 0.0.0.0	dwtracking.sdo.com
+0.0.0.0	dx.mountain.com
 0.0.0.0	dx.thermofisher.com
 0.0.0.0	dxe2.heip.fr
 0.0.0.0	dxjpqe.usereserva.com
@@ -5239,6 +5252,7 @@
 0.0.0.0	events.realgravity.com
 0.0.0.0	events.reddit.com
 0.0.0.0	events.redditmedia.com
+0.0.0.0	events.release.narrativ.com
 0.0.0.0	events.santander.co.uk
 0.0.0.0	events.secureserver.net
 0.0.0.0	events.shareably.net
@@ -5330,6 +5344,7 @@
 0.0.0.0	f.staticlp.com
 0.0.0.0	f0nn.oney.fr
 0.0.0.0	f1tbit.com
+0.0.0.0	f362.nola.com
 0.0.0.0	f5q72e2o8r5f.www.word.com.au
 0.0.0.0	f7ds.liberation.fr
 0.0.0.0	f8phvntohv.tpetry.me
@@ -5385,6 +5400,7 @@
 0.0.0.0	fbycnk.chiaki.vn
 0.0.0.0	fc.vodafone.de
 0.0.0.0	fcardq.didongthongminh.vn
+0.0.0.0	fclog.baidu.com
 0.0.0.0	fcmatch.google.com
 0.0.0.0	fcmatch.youtube.com
 0.0.0.0	fcpszk.telestream.net
@@ -5408,6 +5424,7 @@
 0.0.0.0	feedback.vegasgoldenknights.com
 0.0.0.0	feesocrald.com
 0.0.0.0	felitb.rightinthebox.com
+0.0.0.0	felix.data.tm-awx.com
 0.0.0.0	feqbqn.rent.com
 0.0.0.0	ffcpfu.kmyu.shop
 0.0.0.0	ffrmwn.musinsa.com
@@ -5669,6 +5686,7 @@
 0.0.0.0	g12281228770.co
 0.0.0.0	g12479313105.co
 0.0.0.0	g1584674682.co
+0.0.0.0	g1782759015.co
 0.0.0.0	g1782759016.co
 0.0.0.0	g1980843350.co
 0.0.0.0	g1be.swisslife-direct.fr
@@ -5714,9 +5732,11 @@
 0.0.0.0	g8715710740.co
 0.0.0.0	g8913795075.co
 0.0.0.0	g9111879410.co
+0.0.0.0	g990421675.co
 0.0.0.0	g990421676.co
 0.0.0.0	ga-beacon.appspot.com
 0.0.0.0	ga.canoe.ca
+0.0.0.0	ga.giuem.com
 0.0.0.0	ga.kvideo.io
 0.0.0.0	ga.nsimg.net
 0.0.0.0	ga.webdigi.co.uk
@@ -5796,6 +5816,7 @@
 0.0.0.0	geoip.hmageo.com
 0.0.0.0	geoip.ifunny.co
 0.0.0.0	geoip.inquirer.net
+0.0.0.0	geoip.instiengage.com
 0.0.0.0	geoip.lehighvalleylive.com
 0.0.0.0	geoip.masslive.com
 0.0.0.0	geoip.mlive.com
@@ -6110,6 +6131,7 @@
 0.0.0.0	h.imedia.cz
 0.0.0.0	h.seznam.cz
 0.0.0.0	h00c.sfr.fr
+0.0.0.0	h5log.zongheng.com
 0.0.0.0	h5nmx7qrncrp.mailfloss.com
 0.0.0.0	h78xb.pw
 0.0.0.0	haag0some.com
@@ -6138,6 +6160,7 @@
 0.0.0.0	harborcub.com
 0.0.0.0	hardtofindmilk.com
 0.0.0.0	harm6stop.com
+0.0.0.0	harpocrates.ethyca.com
 0.0.0.0	harrowtimes-gb.harrowtimes.co.uk
 0.0.0.0	harvester.eu.square-enix.com
 0.0.0.0	harvester.ext.square-enix-europe.com
@@ -6152,6 +6175,7 @@
 0.0.0.0	hazawl.veke.fi
 0.0.0.0	hazy4cant.com
 0.0.0.0	hb-fa-1.hb.omtrdc.net
+0.0.0.0	hb.vhsrv.com
 0.0.0.0	hbaazk.bukalapak.com
 0.0.0.0	hbbtv-track.prosieben.de
 0.0.0.0	hbfpvm.comolib.com
@@ -6440,6 +6464,7 @@
 0.0.0.0	icxmlt.decathlon.ru
 0.0.0.0	id5-sync.com
 0.0.0.0	idbkfy.kango-roo.com
+0.0.0.0	iddu1vvb7sk8-a.akamaihd.net
 0.0.0.0	ideadevice.actonservice.com
 0.0.0.0	idg1.idgarages.com
 0.0.0.0	idm.net.daraz.com
@@ -7804,6 +7829,7 @@
 0.0.0.0	log.webnovel.com
 0.0.0.0	log.wilmaa.com
 0.0.0.0	log.worldsoft-cms.info
+0.0.0.0	log.zongheng.com
 0.0.0.0	log000.goo.ne.jp
 0.0.0.0	log1.17173.com
 0.0.0.0	log2.sina.cn
@@ -10359,6 +10385,7 @@
 0.0.0.0	netc.sfr.fr
 0.0.0.0	netinsight.actonservice.com
 0.0.0.0	netu.wiztube.xyz
+0.0.0.0	neurotrack.neurolake.io
 0.0.0.0	never.ovh
 0.0.0.0	newenglandsportsnetworkinc.hb.omtrdc.net
 0.0.0.0	newimagitasinc.hb.omtrdc.net
@@ -10456,6 +10483,7 @@
 0.0.0.0	nntgna.dmm.com
 0.0.0.0	nnviav.pier1.com
 0.0.0.0	nnvtvx.chegg.com
+0.0.0.0	no9pldds1lmn3.soundcloud.com
 0.0.0.0	noa0.compteczam.fr
 0.0.0.0	noffreh.carte-gr.total.fr
 0.0.0.0	noflake-aggregator-http.narvar.com
@@ -10548,6 +10576,7 @@
 0.0.0.0	nwgo.tylertech.com
 0.0.0.0	nws.naltis.com
 0.0.0.0	nwtrih.ticket.com.br
+0.0.0.0	nwuoxwthvak3.stoic.ai
 0.0.0.0	nxakpj4ac8gkd53.info
 0.0.0.0	nxnszu.ettoday.net
 0.0.0.0	nxovay.fo-online.jp
@@ -10965,6 +10994,7 @@
 0.0.0.0	ozdoir.meundies.com
 0.0.0.0	ozkkuy.fabianafilippi.com
 0.0.0.0	ozvlyz.justmusic.de
+0.0.0.0	p-analytics.life
 0.0.0.0	p-log.ykimg.com
 0.0.0.0	p.adbrn.com
 0.0.0.0	p.aty.sohu.com
@@ -11158,6 +11188,7 @@
 0.0.0.0	phgnxd.nike.com.br
 0.0.0.0	phjzsx.elevit.jp
 0.0.0.0	phoenix.untd.com
+0.0.0.0	phpstat.cntcm.com.cn
 0.0.0.0	phqwdj.flyerca.com
 0.0.0.0	phsmobile.actonservice.com
 0.0.0.0	pi.feedsportal.com
@@ -11194,6 +11225,7 @@
 0.0.0.0	piostats.gdcorner.com
 0.0.0.0	pipe-collect.ebu.io
 0.0.0.0	pipedream.wistia.com
+0.0.0.0	pipeline.rd.nl
 0.0.0.0	pipeline.realtime.active.com
 0.0.0.0	piper.amocrm.ru
 0.0.0.0	piquantpigs.com
@@ -11241,6 +11273,7 @@
 0.0.0.0	pixel.honestjohn.co.uk
 0.0.0.0	pixel.inforsea.com
 0.0.0.0	pixel.ionos.fr
+0.0.0.0	pixel.kknews.cc
 0.0.0.0	pixel.mintigo.com
 0.0.0.0	pixel.mtrcs.samba.tv
 0.0.0.0	pixel.naij.com
@@ -11565,10 +11598,12 @@
 0.0.0.0	pudalz.gismeteo.by
 0.0.0.0	puiwrs.misterspex.de
 0.0.0.0	pulsar.ebay.com
+0.0.0.0	pulsarback.mail.ru
 0.0.0.0	pulse.delta.com
 0.0.0.0	punyplant.com
 0.0.0.0	purchasesuggestion.com
 0.0.0.0	purr.nytimes.com
+0.0.0.0	pushmaster-cdn.xyz
 0.0.0.0	pushspring.actonservice.com
 0.0.0.0	puzzlingproperty.com
 0.0.0.0	pv.hd.sohu.com
@@ -12103,6 +12138,7 @@
 0.0.0.0	rtvc.hb.omtrdc.net
 0.0.0.0	rtve.hb.omtrdc.net
 0.0.0.0	rtxlni.doclasse.com
+0.0.0.0	rtxpx-a.akamaihd.net
 0.0.0.0	ruddycast.com
 0.0.0.0	ruddywash.com
 0.0.0.0	rum.azion.com
@@ -13058,6 +13094,7 @@
 0.0.0.0	seg.sharethis.com
 0.0.0.0	segra.actonservice.com
 0.0.0.0	selectionship.com
+0.0.0.0	selfishsnake.com
 0.0.0.0	sem.triboomedia.it
 0.0.0.0	sendgridlinks.neuroflowsolution.com
 0.0.0.0	seniorliving.ascanet.com
@@ -15000,6 +15037,7 @@
 0.0.0.0	sootheside.com
 0.0.0.0	sophisticatedstory.com
 0.0.0.0	sophisticatedstove.com
+0.0.0.0	sordidsmile.com
 0.0.0.0	soresneeze.com
 0.0.0.0	sorethunder.com
 0.0.0.0	soretrain.com
@@ -15507,6 +15545,7 @@
 0.0.0.0	st.newyorklife.com
 0.0.0.0	st.newyorklifeinvestments.com
 0.0.0.0	st.s-bahn-muenchen-magazin.de
+0.0.0.0	st.sawlive.tv
 0.0.0.0	st.tmgrup.com.tr
 0.0.0.0	st.upmc.com
 0.0.0.0	st.wagen-eins.de
@@ -15569,6 +15608,7 @@
 0.0.0.0	stat-ssl.xn--pckua2a7gp15o89zb.com
 0.0.0.0	stat.1688.com
 0.0.0.0	stat.24liveplus.com
+0.0.0.0	stat.5-tv.ru
 0.0.0.0	stat.55bbs.com
 0.0.0.0	stat.acca.it
 0.0.0.0	stat.alibaba.com
@@ -15659,10 +15699,12 @@
 0.0.0.0	states.newegg.com
 0.0.0.0	states.neweggbusiness.com
 0.0.0.0	static-car10.net.daraz.com
+0.0.0.0	static-tracking.klaviyo.com
 0.0.0.0	static.lib-ht-1.net.daraz.com
 0.0.0.0	static.r-ht-1.net.daraz.com
 0.0.0.0	statistic.qzone.qq.com
 0.0.0.0	statistic.takungpao.com
+0.0.0.0	statistic2.reichelt.de
 0.0.0.0	statistics.crowdynews.com
 0.0.0.0	statistics.csweapons.com
 0.0.0.0	statistics.daktilo.com
@@ -16251,6 +16293,7 @@
 0.0.0.0	stats.zander.wtf
 0.0.0.0	stats.zeitimpuls.at
 0.0.0.0	stats.zmags.com
+0.0.0.0	stats.zone-annuaire.one
 0.0.0.0	stats.zotabox.com
 0.0.0.0	stats01.20min.ch
 0.0.0.0	stats02.topix.com
@@ -16697,6 +16740,7 @@
 0.0.0.0	t.hypers.com.cn
 0.0.0.0	t.imgur.com
 0.0.0.0	t.indeed.com
+0.0.0.0	t.irtyc.com
 0.0.0.0	t.itsehoitoapteekki.fi
 0.0.0.0	t.jmusports.com
 0.0.0.0	t.jobsyn.org
@@ -16806,6 +16850,7 @@
 0.0.0.0	tags.creativille.co.uk
 0.0.0.0	tags.esri.com
 0.0.0.0	tags.globo.com
+0.0.0.0	tags.johnlewis.com
 0.0.0.0	tags.master-perf-tools.com
 0.0.0.0	tags.msnbc.com
 0.0.0.0	tags.newscgp.com
@@ -17744,6 +17789,7 @@
 0.0.0.0	tracker.thinkindot.com
 0.0.0.0	tracker.timesgroup.com
 0.0.0.0	tracker.tiu.ru
+0.0.0.0	tracker.tubecj.com
 0.0.0.0	tracker.tv.sohu.com
 0.0.0.0	tracker.unbxdapi.com
 0.0.0.0	tracker.uprinting.com
@@ -19543,6 +19589,7 @@
 0.0.0.0	xoxo8-eng.spankbang.com
 0.0.0.0	xqtcur.kirklands.com
 0.0.0.0	xr.shinobi.jp
+0.0.0.0	xray.mail.ru
 0.0.0.0	xrchmz.mobafire.com
 0.0.0.0	xrhrrk.steepandcheap.com
 0.0.0.0	xscmzs.tenki.jp

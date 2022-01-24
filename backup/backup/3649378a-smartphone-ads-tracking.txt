@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
-# Backed up on: 2021-12-11
+# Backed up on: 2022-01-24
 
 0.0.0.0	0.fls.doubleclick.net
 0.0.0.0	00.fls.doubleclick.net
@@ -790,6 +790,7 @@
 0.0.0.0	api.factual.com
 0.0.0.0	api.flurry.com
 0.0.0.0	api.gameanalytics.com
+0.0.0.0	api.gateway.kik-live.com
 0.0.0.0	api.getblueshift.com
 0.0.0.0	api.intercom.io
 0.0.0.0	api.kochava.com
@@ -910,6 +911,7 @@
 0.0.0.0	audio-cf.spotify.com
 0.0.0.0	augur.io
 0.0.0.0	auspice.augur.io
+0.0.0.0	auth.gateway.kik-live.com
 0.0.0.0	auto.search.msn.com
 0.0.0.0	autocomplete.demandbase.com
 0.0.0.0	autosuggest.api.swiftkey.com
@@ -2282,6 +2284,7 @@
 0.0.0.0	login73847773-paypal.com
 0.0.0.0	logs.locarta.co
 0.0.0.0	logs1409.xiti.com
+0.0.0.0	logsink.devices.nest.com
 0.0.0.0	logx.optimizely.com
 0.0.0.0	lolhello.com
 0.0.0.0	lolshock.com
@@ -2538,6 +2541,7 @@
 0.0.0.0	nextdoor-alternate.app.link
 0.0.0.0	nextdoor.app.link
 0.0.0.0	nexus.ensighten.com
+0.0.0.0	nhs.your-digital-pass.com
 0.0.0.0	nimp.org
 0.0.0.0	nine-a.p.adnxs.com
 0.0.0.0	nk11p01ad-netscaler001-snip01.iad.apple.com
@@ -3013,6 +3017,7 @@
 0.0.0.0	share.baidu.com
 0.0.0.0	share.musemuse.cn
 0.0.0.0	sharethrough.adnxs.com
+0.0.0.0	shealth-analytics-api.samsunghealth.com
 0.0.0.0	shepherd.ff.avast.com
 0.0.0.0	shepherd.ns1.ff.avast.com
 0.0.0.0	shftr.adnxs.net
@@ -3270,6 +3275,7 @@
 0.0.0.0	tags.crwdcntrl.net
 0.0.0.0	tags.experian.co.uk
 0.0.0.0	tahb.cloud.avg.com
+0.0.0.0	talent.meetme.com
 0.0.0.0	tap-client-stats.s3-eu-west-1.amazonaws.com
 0.0.0.0	tap-s.rubiconproject.com
 0.0.0.0	tap-secure.rubiconproject.com
@@ -3316,6 +3322,7 @@
 0.0.0.0	tie.247-inc.net
 0.0.0.0	tigger-citadel.touchtype-fluency.com
 0.0.0.0	tls.telemetry.swe.quicinc.com
+0.0.0.0	tmg-stream.gateway.kik-live.com
 0.0.0.0	tmhb.cloud.avg.com
 0.0.0.0	tmx-api.ams.online-metrix.net
 0.0.0.0	tmx-fp.online-metrix.net
@@ -3524,6 +3531,7 @@
 0.0.0.0	vid.applovin.com
 0.0.0.0	vidanalytics.taboola.com
 0.0.0.0	video-ad-stats.googlesyndication.com
+0.0.0.0	video-api.gateway.kik-live.com
 0.0.0.0	video-stats.video.google.com
 0.0.0.0	video.adsafeprotected.com
 0.0.0.0	vidstat.taboola.com
@@ -3780,6 +3788,7 @@
 0.0.0.0	yj.p.adnxs.com
 0.0.0.0	ym-default.adnxs.com
 0.0.0.0	ym.adnxs.com
+0.0.0.0	your-digital-pass.com
 0.0.0.0	yourbetterofferfinal.best
 0.0.0.0	youvisit.com
 0.0.0.0	ypu.samsungelectronics.com

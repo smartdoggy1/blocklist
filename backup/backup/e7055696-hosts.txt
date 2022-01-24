@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2021-12-11
+# Backed up on: 2022-01-24
 
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10402.engine.mobileapptracking.com
@@ -940,6 +940,7 @@
 0.0.0.0	ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0	ad-dc2.adtech.de
 0.0.0.0	ad-delivery.net
+0.0.0.0	ad-display.wikawika.xyz
 0.0.0.0	ad-e1.media6degrees.com
 0.0.0.0	ad-e2.media6degrees.com
 0.0.0.0	ad-emea.doubleclick.net
@@ -1802,6 +1803,7 @@
 0.0.0.0	adsmart.co.uk
 0.0.0.0	adsmart.com
 0.0.0.0	adsmart.net
+0.0.0.0	adsmetadata.startappservice.com
 0.0.0.0	adsmira.offerstrack.net
 0.0.0.0	adsmo.ru
 0.0.0.0	adsmobi.com
@@ -2352,6 +2354,7 @@
 0.0.0.0	analytics.mailmunch.co
 0.0.0.0	analytics.map.qq.com
 0.0.0.0	analytics.metalocator.com
+0.0.0.0	analytics.metrix.ir
 0.0.0.0	analytics.mgid.com
 0.0.0.0	analytics.mobile-cdn.walmart.com.akadns.net
 0.0.0.0	analytics.mobile.walmart.com
@@ -2446,6 +2449,7 @@
 0.0.0.0	androidads23.adcolony.com
 0.0.0.0	androidads30.adcolony.com
 0.0.0.0	androidads4-3.adcolony.com
+0.0.0.0	androidads4-5.adcolony.com
 0.0.0.0	androidquery.appspot.com
 0.0.0.0	androidsdk.ads.mp.mydas.mobi
 0.0.0.0	androidtvwatsonfe-pa.googleapis.com
@@ -2708,6 +2712,7 @@
 0.0.0.0	api.growthpush.com
 0.0.0.0	api.hadarone.com
 0.0.0.0	api.hdtv.letv.com
+0.0.0.0	api.huq.io
 0.0.0.0	api.huqindustries.co.uk
 0.0.0.0	api.hypertrack.com
 0.0.0.0	api.iad.appboy.com
@@ -2778,6 +2783,8 @@
 0.0.0.0	api.mobula.ds.duapps.com
 0.0.0.0	api.mobula.sdk.duapps.com
 0.0.0.0	api.moengage.com
+0.0.0.0	api.monedata.io
+0.0.0.0	api.monedata.iomericreceiver.cellrebel.com
 0.0.0.0	api.monetate.net
 0.0.0.0	api.muneris.io
 0.0.0.0	api.myendpoint.io
@@ -2879,6 +2886,7 @@
 0.0.0.0	api.taplytics.com
 0.0.0.0	api.tappx.com
 0.0.0.0	api.taps.io
+0.0.0.0	api.tapsell.ir
 0.0.0.0	api.tapstream.com
 0.0.0.0	api.target2sell.com
 0.0.0.0	api.theadex.com
@@ -2922,6 +2930,7 @@
 0.0.0.0	api.yieldmagic.com
 0.0.0.0	api.zcoup.com
 0.0.0.0	api.zwizzarmyknife.com
+0.0.0.0	api16-access-gcp.pangle.io
 0.0.0.0	api16-access-sg.pangle.io
 0.0.0.0	api2.amplitude.com
 0.0.0.0	api2.appsflyer.com
@@ -7555,6 +7564,9 @@
 0.0.0.0	humandemand.com
 0.0.0.0	hunantv-ipdx.cn.miaozhen.com
 0.0.0.0	huntmad.com
+0.0.0.0	huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
+0.0.0.0	huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
+0.0.0.0	huq.io
 0.0.0.0	huskieaccess.bugly.qq.com
 0.0.0.0	hv.adingo.jp
 0.0.0.0	hw-cdn-ap.trafficjunky.net
@@ -9229,6 +9241,7 @@
 0.0.0.0	metric-api.newrelic.com
 0.0.0.0	metric.cliphub.io
 0.0.0.0	metrica.yandex.ru
+0.0.0.0	metricreceiver.cellrebel.com
 0.0.0.0	metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0	metrics-collector.onscroll.com
 0.0.0.0	metrics-collector.s-onetag.com
@@ -9428,6 +9441,7 @@
 0.0.0.0	mobile.ib.sin1.geoadnxs.com
 0.0.0.0	mobile.itsbetter.com
 0.0.0.0	mobile.launchdarkly.com
+0.0.0.0	mobile.measurelib.com
 0.0.0.0	mobile.mediabrix.com
 0.0.0.0	mobile.mng-ads.com
 0.0.0.0	mobile.mofowl.com
@@ -9743,6 +9757,7 @@
 0.0.0.0	nativex.com
 0.0.0.0	nativo.openadid.adnxs.com
 0.0.0.0	naturheilkunde.cleverpush.com
+0.0.0.0	nav.telematicsdirect.com
 0.0.0.0	navigation.api.hk.goforandroid.com
 0.0.0.0	nbcu.demdex.net
 0.0.0.0	nbcu.prd.ads.aws.fwmrm.net
@@ -10690,6 +10705,7 @@
 0.0.0.0	plugin.2easydroid.com
 0.0.0.0	plugin.mobopay.baidu.com
 0.0.0.0	plugins.blueconic.net
+0.0.0.0	plus.tapsell.ir
 0.0.0.0	pm-gateway.supersonicads.com
 0.0.0.0	pm.adsafeprotected.com
 0.0.0.0	pm.appsee.com
@@ -11929,6 +11945,8 @@
 0.0.0.0	sdk-ios.ad.smaato.net
 0.0.0.0	sdk-key.ulsee.com
 0.0.0.0	sdk-log.gwallet.com
+0.0.0.0	sdk-monitoring.ogury.co
+0.0.0.0	sdk-monitoring.ogury.io
 0.0.0.0	sdk-orion.appboy.com
 0.0.0.0	sdk-orion.appboycomnulled.iad.appboy.com
 0.0.0.0	sdk-resources.blinkreceipt.com

@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Backed up on: 2021-12-11
+# Backed up on: 2022-01-24
 
 0.0.0.0	0.r.msn.com
 0.0.0.0	0.solo6.biz
@@ -203,6 +203,7 @@
 0.0.0.0	a.nimdinb.com
 0.0.0.0	a.nitropay.com
 0.0.0.0	a.o333o.com
+0.0.0.0	a.omappapi.com
 0.0.0.0	a.optimizesrv.com
 0.0.0.0	a.optmstr.com
 0.0.0.0	a.optnmnstr.com
@@ -216,6 +217,7 @@
 0.0.0.0	a.realsrv.com
 0.0.0.0	a.rmgserving.com
 0.0.0.0	a.scorecardresearch.com
+0.0.0.0	a.shukriya90.com
 0.0.0.0	a.slashdotmedia.com
 0.0.0.0	a.teads.tv
 0.0.0.0	a.tribalfusion.com
@@ -295,6 +297,7 @@
 0.0.0.0	acrossiblel.info
 0.0.0.0	acrvclk.com
 0.0.0.0	acs.56.com
+0.0.0.0	acsbapp.com
 0.0.0.0	acscdn.com
 0.0.0.0	action.mathtag.com
 0.0.0.0	actions.zotabox.com
@@ -915,6 +918,7 @@
 0.0.0.0	analytics.businessinsider.com
 0.0.0.0	analytics.candid.io
 0.0.0.0	analytics.carambo.la
+0.0.0.0	analytics.churnzero.net
 0.0.0.0	analytics.foresee.com
 0.0.0.0	analytics.hosting24.com
 0.0.0.0	analytics.kaltura.com
@@ -929,6 +933,7 @@
 0.0.0.0	analytics.shareaholic.com
 0.0.0.0	analytics.slashdotmedia.com
 0.0.0.0	analytics.soup.io
+0.0.0.0	analytics.tiktok.com
 0.0.0.0	analytics.twitter.com
 0.0.0.0	analytics.yext-static.com
 0.0.0.0	analytics.yopify.com
@@ -990,6 +995,7 @@
 0.0.0.0	api.evri.com
 0.0.0.0	api.facetz.net
 0.0.0.0	api.fouanalytics.com
+0.0.0.0	api.geetest.com
 0.0.0.0	api.geo.kontagent.net
 0.0.0.0	api.getcandid.com
 0.0.0.0	api.getvero.com
@@ -1140,6 +1146,7 @@
 0.0.0.0	assets.purch.com
 0.0.0.0	assets.revcontent.com
 0.0.0.0	assets.sitescdn.net
+0.0.0.0	assets.ubembed.com
 0.0.0.0	assets.zendesk.com
 0.0.0.0	assets0.fusionads.net
 0.0.0.0	assets2.superrewards-images.com
@@ -1303,6 +1310,7 @@
 0.0.0.0	baresi.xyz
 0.0.0.0	basepush.com
 0.0.0.0	bat.bing.com
+0.0.0.0	bats.video.yahoo.com
 0.0.0.0	bauffnmtou.com
 0.0.0.0	baypops.com
 0.0.0.0	bazaarvoice.com
@@ -1687,6 +1695,7 @@
 0.0.0.0	cdn-static.liverail.com
 0.0.0.0	cdn.247ilabs.com
 0.0.0.0	cdn.acloudvideos.com
+0.0.0.0	cdn.acsbapp.com
 0.0.0.0	cdn.ad-maven.com
 0.0.0.0	cdn.ad.maist.jp
 0.0.0.0	cdn.adbrau.com
@@ -1800,6 +1809,8 @@
 0.0.0.0	cdn.insights.gravity.com
 0.0.0.0	cdn.inspectlet.com
 0.0.0.0	cdn.instaemail.net
+0.0.0.0	cdn.intergi.com
+0.0.0.0	cdn.intergient.com
 0.0.0.0	cdn.itphanpytor.club
 0.0.0.0	cdn.itskiddoan.club
 0.0.0.0	cdn.izooto.com
@@ -1877,6 +1888,7 @@
 0.0.0.0	cdn.seon.io
 0.0.0.0	cdn.shorte.st
 0.0.0.0	cdn.shortpixel.ai
+0.0.0.0	cdn.sift.com
 0.0.0.0	cdn.siftscience.com
 0.0.0.0	cdn.sometrics.com
 0.0.0.0	cdn.speakol.com
@@ -1906,6 +1918,7 @@
 0.0.0.0	cdn.treasuredata.com
 0.0.0.0	cdn.tubecorp.com
 0.0.0.0	cdn.tubia.com
+0.0.0.0	cdn.twinrdsrv.com
 0.0.0.0	cdn.tynt.com
 0.0.0.0	cdn.undertone.com
 0.0.0.0	cdn.user-api.com
@@ -2030,6 +2043,7 @@
 0.0.0.0	check4.facebook.com
 0.0.0.0	check6.facebook.com
 0.0.0.0	checkandgo.info
+0.0.0.0	checkoutenlist.com
 0.0.0.0	chequent.info
 0.0.0.0	cherry.webvole.com
 0.0.0.0	cherryescort.net
@@ -2240,6 +2254,7 @@
 0.0.0.0	consent.cookiebot.com
 0.0.0.0	consent.trustarc.com
 0.0.0.0	consent.truste.com
+0.0.0.0	consent.yahoo.com
 0.0.0.0	consentrenovate.com
 0.0.0.0	console.ebsta.com
 0.0.0.0	constintptr.com
@@ -2265,6 +2280,7 @@
 0.0.0.0	conversion.7search.com
 0.0.0.0	cookiex.ngd.yahoo.com
 0.0.0.0	coolandevencooler.com
+0.0.0.0	coolcashstashes.com
 0.0.0.0	coolina.org
 0.0.0.0	core.arc.io
 0.0.0.0	core.insightexpressai.com
@@ -2322,6 +2338,7 @@
 0.0.0.0	creative.speednetwork15.com
 0.0.0.0	creative.speednetwork16.com
 0.0.0.0	creative.wwwpromoter.com
+0.0.0.0	creative.xxxjmp.com
 0.0.0.0	creatives.badongo.com
 0.0.0.0	creatives.cdn.commindo.de.lg1.simplecdn.net
 0.0.0.0	creatives.livejasmin.com
@@ -2651,6 +2668,7 @@
 0.0.0.0	dotcomconsultancy.advertserve.com
 0.0.0.0	dotomi.com
 0.0.0.0	doubleclick.net
+0.0.0.0	doublepimpads.com
 0.0.0.0	doublepimpssl.com
 0.0.0.0	doug1izaerwt3.cloudfront.net
 0.0.0.0	downlloadfiles.info
@@ -2729,6 +2747,7 @@
 0.0.0.0	e-wolff-tools.de
 0.0.0.0	e.70e.com
 0.0.0.0	e.deployads.com
+0.0.0.0	e.fomo.com
 0.0.0.0	e.gdbly.com
 0.0.0.0	e.lndjj.com
 0.0.0.0	e.nexac.com
@@ -2756,6 +2775,7 @@
 0.0.0.0	eagle.bnamericas.com
 0.0.0.0	eas.apm.emediate.eu
 0.0.0.0	eas.yna.co.kr
+0.0.0.0	easychatform.com
 0.0.0.0	easypdfcombine.dl.myway.com
 0.0.0.0	easypdfcombine.dl.tb.ask.com
 0.0.0.0	eavesdroppingsickleemotionally.com
@@ -2789,6 +2809,7 @@
 0.0.0.0	egoporn.com
 0.0.0.0	eh8jq4cmq8j9g5.com
 0.0.0.0	ehu96t2p.com
+0.0.0.0	eic-rum.elsa.lgecloudapm.com
 0.0.0.0	eikegolehem.com
 0.0.0.0	ektezis.ru
 0.0.0.0	ekzstfriawl.bid
@@ -3090,6 +3111,7 @@
 0.0.0.0	freychang.fun
 0.0.0.0	friendfinder.com
 0.0.0.0	frkohfqkpwvvq.com
+0.0.0.0	frlysglmt.com
 0.0.0.0	frog.wix.com
 0.0.0.0	frolicpan.com
 0.0.0.0	frolnk.com
@@ -3193,6 +3215,7 @@
 0.0.0.0	geobanner.adultfriendfinder.com
 0.0.0.0	geobanner.asiafriendfinder.com
 0.0.0.0	geobanner.getiton.com
+0.0.0.0	geoip.esignonsecure.com
 0.0.0.0	geoip.insticator.com
 0.0.0.0	geoip.liftium.com
 0.0.0.0	geoip.nekudo.com
@@ -3272,10 +3295,12 @@
 0.0.0.0	go.tracking202.com
 0.0.0.0	go.trafficshop.com
 0.0.0.0	go.urlcash.net
+0.0.0.0	go.xxxjmp.com
 0.0.0.0	go.youlamedia.com
 0.0.0.0	goajuzey.com
 0.0.0.0	gocreamery.live
 0.0.0.0	godatemetoday.com
+0.0.0.0	godog.shopifycloud.com
 0.0.0.0	gogamego.thewhizproducts.com
 0.0.0.0	gogvo.com
 0.0.0.0	goku.brightcove.com
@@ -3558,6 +3583,7 @@
 0.0.0.0	idcs.interclick.com
 0.0.0.0	ideliv.net
 0.0.0.0	idelv.net
+0.0.0.0	identity.mparticle.com
 0.0.0.0	idpix.media6degrees.com
 0.0.0.0	idsync.rlcdn.com
 0.0.0.0	ie8eamus.com
@@ -3661,6 +3687,7 @@
 0.0.0.0	img.scupio.com
 0.0.0.0	img.sedoparking.com
 0.0.0.0	img.shinobi.jp
+0.0.0.0	img.strpst.com
 0.0.0.0	img.turn.com
 0.0.0.0	img.users.51.la
 0.0.0.0	img.vidible.tv
@@ -3879,6 +3906,7 @@
 0.0.0.0	js.adm.img53.com
 0.0.0.0	js.admeld.com
 0.0.0.0	js.adsonar.com
+0.0.0.0	js.adsrvr.org
 0.0.0.0	js.agkn.com
 0.0.0.0	js.appboycdn.com
 0.0.0.0	js.bizographics.com
@@ -3921,6 +3949,7 @@
 0.0.0.0	js.t.sinajs.cn
 0.0.0.0	js.ta80.com
 0.0.0.0	js.tongji.linezing.com
+0.0.0.0	js.ubembed.com
 0.0.0.0	js.usemessages.com
 0.0.0.0	js.users.51.la
 0.0.0.0	js.wpncdn.com
@@ -3944,6 +3973,8 @@
 0.0.0.0	json.mmotraffic.com
 0.0.0.0	jsoon.digitiminimi.com
 0.0.0.0	jss.155game.com
+0.0.0.0	jssdkcdns.mparticle.com
+0.0.0.0	jssdks.mparticle.com
 0.0.0.0	ju.atpanel.com
 0.0.0.0	judo.salon.com
 0.0.0.0	juggler.services.disqus.com
@@ -4099,6 +4130,7 @@
 0.0.0.0	live.demand.supply
 0.0.0.0	live.fc2.com
 0.0.0.0	live.mrf.io
+0.0.0.0	live.primis.tech
 0.0.0.0	live.rezync.com
 0.0.0.0	live.sekindo.com
 0.0.0.0	livechat.dtiblog.com
@@ -4120,6 +4152,7 @@
 0.0.0.0	lmymere.info
 0.0.0.0	ln.gamesrevenue.com
 0.0.0.0	load.exelator.com
+0.0.0.0	load.fomo.com
 0.0.0.0	load.instinctiveads.com
 0.0.0.0	load.s3.amazonaws.com
 0.0.0.0	load.sumo.com
@@ -4723,6 +4756,7 @@
 0.0.0.0	origer.info
 0.0.0.0	origin-ads.exosrv.com
 0.0.0.0	origin-images.wikia.com
+0.0.0.0	origin.coda.io
 0.0.0.0	os4m-d.openx.net
 0.0.0.0	osimg.nbcuni.com
 0.0.0.0	oskale.ru
@@ -4785,6 +4819,7 @@
 0.0.0.0	p.typekit.net
 0.0.0.0	p.univide.com
 0.0.0.0	p.visualrevenue.com
+0.0.0.0	p.yotpo.com
 0.0.0.0	p0-ia.powr-media.com
 0.0.0.0	p111357.adskape.ru
 0.0.0.0	p2.adhitzads.com
@@ -5540,6 +5575,7 @@
 0.0.0.0	s.ato.mx
 0.0.0.0	s.click.aliexpress.com
 0.0.0.0	s.clicktale.net
+0.0.0.0	s.console.adtarget.com.tr
 0.0.0.0	s.cr-nielsen.com
 0.0.0.0	s.cxt.ms
 0.0.0.0	s.effectivemeasure.net
@@ -5695,6 +5731,7 @@
 0.0.0.0	scripts.webcontentassessor.com
 0.0.0.0	scrubheiress.com
 0.0.0.0	sda.vidcr.com
+0.0.0.0	sdk.fra-01.braze.eu
 0.0.0.0	sdk.streamrail.com
 0.0.0.0	sdks.shopifycdn.com
 0.0.0.0	sdscdn.userreport.com
@@ -6129,6 +6166,7 @@
 0.0.0.0	static.exosrv.com
 0.0.0.0	static.fleshlight.com
 0.0.0.0	static.fmpub.net
+0.0.0.0	static.geetest.com
 0.0.0.0	static.genericlink.com
 0.0.0.0	static.genieo.com
 0.0.0.0	static.getclicky.com
@@ -6208,6 +6246,7 @@
 0.0.0.0	staticd.cdn.adblade.com
 0.0.0.0	statichtmlapp.heroku.com
 0.0.0.0	statics.a8.net
+0.0.0.0	staticw2.yotpo.com
 0.0.0.0	statistics.pornnperfect.com
 0.0.0.0	statistics.wibiya.com
 0.0.0.0	statistik-gallup.net
@@ -6319,6 +6358,7 @@
 0.0.0.0	sync.adstir.com
 0.0.0.0	sync.aralego.com
 0.0.0.0	sync.bfmio.com
+0.0.0.0	sync.console.adtarget.com.tr
 0.0.0.0	sync.fout.jp
 0.0.0.0	sync.go.sonobi.com
 0.0.0.0	sync.im-apps.net
@@ -6960,8 +7000,10 @@
 0.0.0.0	video-static.vooxe.com
 0.0.0.0	video.bnmla.com
 0.0.0.0	video.bnqt.com
+0.0.0.0	video.ktkjmp.com
 0.0.0.0	video.mediavine.com
 0.0.0.0	video.od.visiblemeasures.com
+0.0.0.0	video.primis.tech
 0.0.0.0	video.sekindo.com
 0.0.0.0	video.unrulymedia.com
 0.0.0.0	videoegg.adbureau.net
@@ -7872,6 +7914,7 @@
 0.0.0.0	www.torrenthandler.com
 0.0.0.0	www.totalfreetv.com
 0.0.0.0	www.toucantube.com
+0.0.0.0	www.tp88trk.com
 0.0.0.0	www.tqixovpneycfmk.com
 0.0.0.0	www.tracemyip.org
 0.0.0.0	www.tracklead.net

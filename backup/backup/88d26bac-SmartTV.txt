@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2021-07-04
+# Backed up on: 2022-01-24
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -21,6 +21,8 @@
 0.0.0.0	advertising.com
 0.0.0.0	aic-ngfts.lge.com
 0.0.0.0	amauthprd.samsungcloudsolution.com
+0.0.0.0	androidtvchannels-pa.googleapis.com
+0.0.0.0	androidtvwatsonfe-pa.googleapis.com
 0.0.0.0	api-gps-em.hismarttv.com
 0.0.0.0	api-gps-na.hismarttv.com
 0.0.0.0	api-hub.samsungyosemite.com
@@ -210,6 +212,7 @@
 0.0.0.0	tv-static.scdn.co
 0.0.0.0	tvmeta-dynamic.tvinteractive.tv
 0.0.0.0	tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
+0.0.0.0	tvx.adgrx.com
 0.0.0.0	unified-ter-na.hismarttv.com
 0.0.0.0	update.biv.sony.tv
 0.0.0.0	upu.samsungelectronics.com

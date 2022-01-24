@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Backed up on: 2020-12-24
+# Backed up on: 2022-01-24
 
 0.0.0.0	0.fls.doubleclick.net
 0.0.0.0	0001-cab8-4c8c-43de.reporo.net
@@ -7355,6 +7355,8 @@
 0.0.0.0	adclick.g.doubleclick.net
 0.0.0.0	adclick.ushareit.com
 0.0.0.0	adclut.adlooxtracking.com
+0.0.0.0	adconfig-preprod.wynk.in
+0.0.0.0	adconfig-staging.wynk.in
 0.0.0.0	adconsole.inmobi.com
 0.0.0.0	adcount.fyber.com
 0.0.0.0	adcountymedia.go2affise.com
@@ -7544,6 +7546,7 @@
 0.0.0.0	adminv3.touchcommerce.com
 0.0.0.0	admktsvc.atlassolutions.com
 0.0.0.0	admnew.dynamicyield.com
+0.0.0.0	admob-gmats.uc.r.appspot.com
 0.0.0.0	admobtize.offerstrack.net
 0.0.0.0	admonster.g2afse.com
 0.0.0.0	admost.com
@@ -8892,6 +8895,7 @@
 0.0.0.0	agentevolution.com.re.getclicky.com
 0.0.0.0	aggr.mirtesen.ru
 0.0.0.0	aggreports.appsflyer.com
+0.0.0.0	agi-static.indiatimes.com
 0.0.0.0	agilehealthinsurance.7eer.net
 0.0.0.0	agl.hotstar.com
 0.0.0.0	agodath.widget.criteo.com
@@ -12086,6 +12090,7 @@
 0.0.0.0	bloomnation.7eer.net
 0.0.0.0	bloomu.az1.qualtrics.com
 0.0.0.0	blooom.pxf.io
+0.0.0.0	blotcreepy.com
 0.0.0.0	blpb4wu1mxkehlxuwglp8mzch3cxr1509455380.nuid.imrworldwide.com
 0.0.0.0	blu.pxf.io
 0.0.0.0	blue-apron.evyy.net
@@ -15563,6 +15568,7 @@
 0.0.0.0	crain.com.102.112.2o7.net
 0.0.0.0	crain.d1.sc.omtrdc.net
 0.0.0.0	crash-master.corp.appnexus.com
+0.0.0.0	crash-metrics.sdk.inmobi.com
 0.0.0.0	crash.163.com
 0.0.0.0	crash.amplitude.com
 0.0.0.0	crashapi.growingio.com
@@ -17475,6 +17481,7 @@
 0.0.0.0	dropped.adx1.com
 0.0.0.0	dropped.rtb.adx1.com
 0.0.0.0	dropped.xml.adx1.com
+0.0.0.0	droppedrolling.com
 0.0.0.0	dropps.pxf.io
 0.0.0.0	drs2.veinteractive.com
 0.0.0.0	drts.contextweb.com
@@ -18566,6 +18573,7 @@
 0.0.0.0	eventgw.twilio.com
 0.0.0.0	eventlog.adx1.com
 0.0.0.0	eventlog.outbrain.com
+0.0.0.0	events-analytics.hotstar.com
 0.0.0.0	events-api.outfit7.net
 0.0.0.0	events-collector.spot.im
 0.0.0.0	events-gateway.unbounce.com
@@ -23664,6 +23672,7 @@
 0.0.0.0	ingest.fwmrm.net
 0.0.0.0	ingest.unbounce.com
 0.0.0.0	ingest.vungle.com
+0.0.0.0	ingestion.contentinsights.com
 0.0.0.0	ingmarkets01.webtrekk.net
 0.0.0.0	ingmob.offerstrack.net
 0.0.0.0	ingnl04.webtrekk.net
@@ -23695,6 +23704,7 @@
 0.0.0.0	innovativepublishing.actonsoftware.com
 0.0.0.0	innovativepublishing2.actonsoftware.com
 0.0.0.0	innovid.com
+0.0.0.0	innumerablecaw.com
 0.0.0.0	inplay-ad03.tubemogul.com
 0.0.0.0	inplay-rcv01.tubemogul.com
 0.0.0.0	inplay-rcv06.tubemogul.com
@@ -24858,6 +24868,7 @@
 0.0.0.0	kenshouat1.inmobi.com
 0.0.0.0	kent.qualtrics.com
 0.0.0.0	kentstate.qualtrics.com
+0.0.0.0	ketchupscreech.com
 0.0.0.0	keycloak.default.console.ws.adacts.com
 0.0.0.0	keycode.onthe.io
 0.0.0.0	keycodemedia.actonsoftware.com
@@ -24974,6 +24985,7 @@
 0.0.0.0	kmonitoring.voodoo-ads.io
 0.0.0.0	kmrc.qualtrics.com
 0.0.0.0	kmwatsonc.telemetry.microsoft.com
+0.0.0.0	kneesfrostcompare.com
 0.0.0.0	knewmedia01.webtrekk.net
 0.0.0.0	knewmobi.offerstrack.net
 0.0.0.0	kniga-zalob.mirtesen.ru
@@ -25756,6 +25768,7 @@
 0.0.0.0	location.tabletwise.com
 0.0.0.0	location.wynk.in
 0.0.0.0	locker.data.ksmobile.net
+0.0.0.0	locketamoral.com
 0.0.0.0	lockoutservices.g2afse.com
 0.0.0.0	lodef.api.naiadsystems.com
 0.0.0.0	lodenfreyde.widget.criteo.com
@@ -26052,6 +26065,7 @@
 0.0.0.0	lululemonuk.btttag.com
 0.0.0.0	lulupress.evergage.com
 0.0.0.0	lumasde.widget.criteo.com
+0.0.0.0	lumberjack.razorpay.com
 0.0.0.0	lumens.evyy.net
 0.0.0.0	lumileads.g2afse.com
 0.0.0.0	luminamedia-d.openx.net
@@ -29442,6 +29456,7 @@
 0.0.0.0	open.segment.com
 0.0.0.0	openapi-smsp.getui.com
 0.0.0.0	opendsp.rubiconproject.com
+0.0.0.0	openedinfractructureilliterate.com
 0.0.0.0	openim.hiido.com
 0.0.0.0	openjmacs.m.taobao.com
 0.0.0.0	openldap.corp.ams1.appnexus.com
@@ -31374,6 +31389,7 @@
 0.0.0.0	placement-networks.sharethrough.com
 0.0.0.0	placements.tapjoy.com
 0.0.0.0	placewise.t.domdex.com
+0.0.0.0	plaicecaught.com
 0.0.0.0	plaimedia.com
 0.0.0.0	plala.d1.sc.omtrdc.net
 0.0.0.0	plandosee.d1.sc.omtrdc.net
@@ -33097,6 +33113,7 @@
 0.0.0.0	revcontent.com
 0.0.0.0	reveal.apxy.io
 0.0.0.0	reveal.clearbit.com
+0.0.0.0	revealedsolid.com
 0.0.0.0	revee.outbrain.com
 0.0.0.0	reveetracking.outbrain.com
 0.0.0.0	revenuehits.adk2x.com
@@ -37264,6 +37281,7 @@
 0.0.0.0	stats.adspaces.ero-advertising.com
 0.0.0.0	stats.anisource.net
 0.0.0.0	stats.appsflyer.com
+0.0.0.0	stats.appvirality.com
 0.0.0.0	stats.avastbrowser.com
 0.0.0.0	stats.awkwardgroup.com.re.getclicky.com
 0.0.0.0	stats.aws.rubiconproject.com
@@ -40075,6 +40093,7 @@
 0.0.0.0	unicorbott.com
 0.0.0.0	unicredit.it.ssl.d2.sc.omtrdc.net
 0.0.0.0	unicreditit.tt.omtrdc.net
+0.0.0.0	unif-id.ssp.inmobi.com
 0.0.0.0	unifi.corp.exoclick.com
 0.0.0.0	uniform-city.pxf.io
 0.0.0.0	uniformcity.btttag.com
@@ -40147,6 +40166,7 @@
 0.0.0.0	upcbroadband.eu.qualtrics.com
 0.0.0.0	update.adsrvr.org
 0.0.0.0	update.connectad.io
+0.0.0.0	update.crashlytics.com
 0.0.0.0	update.moatads.com
 0.0.0.0	update.mopub.com
 0.0.0.0	update.sdk.batmobi.net
