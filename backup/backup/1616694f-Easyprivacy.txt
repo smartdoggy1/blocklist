@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2022-01-24
+# Backed up on: 2022-01-28
 
 0.0.0.0	042qge73l5aw.app.polymersearch.com
 0.0.0.0	0sbm.consobaby.co.uk
@@ -5782,6 +5782,7 @@
 0.0.0.0	gefkkw.cyberport.de
 0.0.0.0	gekko.spiceworks.com
 0.0.0.0	gemius.mgr.consensu.org
+0.0.0.0	genesis.malwarebytes.com
 0.0.0.0	geo.6play.fr
 0.0.0.0	geo.battle.net
 0.0.0.0	geo.bluedot.io
@@ -13251,6 +13252,7 @@
 0.0.0.0	siteintercept.allegiancetech.com
 0.0.0.0	sitelife.ehow.com
 0.0.0.0	sixscissors.com
+0.0.0.0	sixtrk.com
 0.0.0.0	sizcsi.eobuv.cz
 0.0.0.0	sizesidewalk.com
 0.0.0.0	sjpf.io
@@ -15845,6 +15847,7 @@
 0.0.0.0	stats.dashbit.co
 0.0.0.0	stats.datahjaelp.net
 0.0.0.0	stats.davestewart.co.uk
+0.0.0.0	stats.davidickedelivery.com
 0.0.0.0	stats.davidlms.com
 0.0.0.0	stats.deloitte.com
 0.0.0.0	stats.depends-on-the-definition.com
@@ -18059,6 +18062,7 @@
 0.0.0.0	tracking.sharplink.us
 0.0.0.0	tracking.shl.com
 0.0.0.0	tracking.shop.verymobile.it
+0.0.0.0	tracking.shopstyle.co.uk
 0.0.0.0	tracking.shopstyle.com
 0.0.0.0	tracking.shoptogether.buy.com
 0.0.0.0	tracking.sierrawireless.com
@@ -19746,6 +19750,7 @@
 0.0.0.0	yzzqza.vanillashu.co.kr
 0.0.0.0	z.cdp-dev.cnn.com
 0.0.0.0	z0uolej1qnxzub1.info
+0.0.0.0	za.zdn.vn
 0.0.0.0	zaawds.farmae.it
 0.0.0.0	zam.nextinpact.com
 0.0.0.0	zaventemdijleland.viessmann.be

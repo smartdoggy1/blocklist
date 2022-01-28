@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2022-01-24
+# Backed up on: 2022-01-28
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -2535,6 +2535,7 @@
 0.0.0.0	matheranalytics.com
 0.0.0.0	mathtag.com
 0.0.0.0	matomo.activate.cz
+0.0.0.0	matomo.crossiety.app
 0.0.0.0	matomo.gals24.ru
 0.0.0.0	matomo.hdweb.ru
 0.0.0.0	matomo.kmkb.ru

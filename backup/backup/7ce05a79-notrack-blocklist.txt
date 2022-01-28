@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2022-01-24
+# Backed up on: 2022-01-28
 
 0.0.0.0	1-cl0ud.com
 0.0.0.0	1-creative-1.com
@@ -767,6 +767,7 @@
 0.0.0.0	api-analytics-in.huami.com
 0.0.0.0	api-analytics-ru.huami.com
 0.0.0.0	api-analytics-us.huami.com
+0.0.0.0	api-sdk.datadome.co
 0.0.0.0	api-telemetry.servers.getgo.com
 0.0.0.0	api.action-media.ru
 0.0.0.0	api.b2c.com
