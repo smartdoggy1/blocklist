@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2022-04-08
+# Backed up on: 2022-04-30
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -1962,6 +1962,7 @@
 0.0.0.0	exosrv.com
 0.0.0.0	experianmarketingservices.digital
 0.0.0.0	explorads.com
+0.0.0.0	expmediadirect1.com
 0.0.0.0	exponea.com
 0.0.0.0	exponential.com
 0.0.0.0	express-submit.de
@@ -2140,6 +2141,7 @@
 0.0.0.0	greyinstrument.com
 0.0.0.0	greystripe.com
 0.0.0.0	groundtruth.com
+0.0.0.0	grychiphidu.com
 0.0.0.0	gscontxt.net
 0.0.0.0	gstaticx.com
 0.0.0.0	gstaticxs.com
@@ -3687,6 +3689,7 @@
 0.0.0.0	track.game18click.com
 0.0.0.0	track.gawker.com
 0.0.0.0	track.hexcan.com
+0.0.0.0	track.lettingaproperty.com
 0.0.0.0	track.mailalert.io
 0.0.0.0	track.mailerlite.com
 0.0.0.0	track.miro.com

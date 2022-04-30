@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2022-04-08
+# Backed up on: 2022-04-30
 
 0.0.0.0	0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0	100016075.collect.igodigital.com
@@ -5945,6 +5945,7 @@
 0.0.0.0	detect-survey.effectivemeasure.net
 0.0.0.0	detect.rayjump.com
 0.0.0.0	detik.serving-sys.com
+0.0.0.0	deutschebahn.sc.omtrdc.net
 0.0.0.0	dev-api.persona.ly
 0.0.0.0	dev-as.cluep.com
 0.0.0.0	dev-block.mediavenus.com
@@ -8325,6 +8326,7 @@
 0.0.0.0	ipv6.adrta.com
 0.0.0.0	ipw.metadsp.co.uk
 0.0.0.0	iq.adtech.de
+0.0.0.0	iqdigital.demdex.net
 0.0.0.0	iqtestsites.adtech.de
 0.0.0.0	iqzn-apac.adnxs.com
 0.0.0.0	iqzn-emea.adnxs.com
@@ -9723,6 +9725,7 @@
 0.0.0.0	ms.applvn.com
 0.0.0.0	ms.cmcm.com
 0.0.0.0	ms.onscroll.com
+0.0.0.0	ms4.applovin.com
 0.0.0.0	msads.net
 0.0.0.0	msales.com
 0.0.0.0	msc.baidu.com
@@ -12228,6 +12231,7 @@
 0.0.0.0	sdkclick.mobile.sina.cn
 0.0.0.0	sdkcoimage.onemt.co
 0.0.0.0	sdkconf.msstatic.com
+0.0.0.0	sdkconfig.ad.india.xiaomi.com
 0.0.0.0	sdkconfig.ad.intl.xiaomi.com
 0.0.0.0	sdkconfig.ad.xiaomi.com
 0.0.0.0	sdkconfig.voiceads.cn
