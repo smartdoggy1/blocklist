@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2022-04-30
+# Backed up on: 2022-07-06
 
 0.0.0.0	0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0	100016075.collect.igodigital.com
@@ -873,6 +873,8 @@
 0.0.0.0	aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0	aax-fe-sin.amazon-adsystem.com
 0.0.0.0	aax-fe.amazon-adsystem.com
+0.0.0.0	aax-us-east-retail-direct.amazon-adsystem.com
+0.0.0.0	aax-us-east-retail-direct.amazon.com
 0.0.0.0	aax-us-east.amazon-adsystem.com
 0.0.0.0	aax-us-iad.amazon.com
 0.0.0.0	aax-us.amazon-adsystem.com

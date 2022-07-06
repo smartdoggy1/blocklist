@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2022-04-30
+# Backed up on: 2022-07-06
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -1119,6 +1119,7 @@
 0.0.0.0	als-svc.nytimes.com
 0.0.0.0	amazingcounters.com
 0.0.0.0	amazon-adsystem.com
+0.0.0.0	amazonaax.com
 0.0.0.0	ambiguousquilt.com
 0.0.0.0	ambitiousagreement.com
 0.0.0.0	americash.com
@@ -1529,6 +1530,7 @@
 0.0.0.0	cherriescare.com
 0.0.0.0	chewcoat.com
 0.0.0.0	chickensstation.com
+0.0.0.0	childlikecrowd.com
 0.0.0.0	chinsnakes.com
 0.0.0.0	chitika.net
 0.0.0.0	cision.com
@@ -1548,11 +1550,14 @@
 0.0.0.0	click.bkdpt.com
 0.0.0.0	click.cartsguru.io
 0.0.0.0	click.cision.com
+0.0.0.0	click.classmates.com
+0.0.0.0	click.e.progressive.com
 0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.fool.com
 0.0.0.0	click.hookupinyourcity.com
+0.0.0.0	click.hooligapps.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click.negociosdigitaisnapratica.com.br
 0.0.0.0	click.redditmail.com
@@ -1867,6 +1872,7 @@
 0.0.0.0	ecoupons.com
 0.0.0.0	edaa.eu
 0.0.0.0	edgeio.com
+0.0.0.0	edgexads.com
 0.0.0.0	educationdynamics.com
 0.0.0.0	effectivemeasure.com
 0.0.0.0	effectivemeasure.net
@@ -1882,8 +1888,10 @@
 0.0.0.0	elthamely.com
 0.0.0.0	em1.yoursantander.co.uk
 0.0.0.0	email-clk.adguard.com
+0.0.0.0	email-links.crowdfireapp.com
 0.0.0.0	email-opn.adguard.com
 0.0.0.0	email.m1.bktrksmail.com
+0.0.0.0	emaillinks.soundiiz.com
 0.0.0.0	emanog.com
 0.0.0.0	emarketer.com
 0.0.0.0	emebo.com
@@ -2023,6 +2031,7 @@
 0.0.0.0	flimsycircle.com
 0.0.0.0	flimsythought.com
 0.0.0.0	floodprincipal.com
+0.0.0.0	floweryflavor.com
 0.0.0.0	flowgo.com
 0.0.0.0	flurry.com
 0.0.0.0	fly-analytics.com
@@ -2331,6 +2340,7 @@
 0.0.0.0	intentmedia.net
 0.0.0.0	intentsify.io
 0.0.0.0	interactive.forthnet.gr
+0.0.0.0	intercom-clicks.com
 0.0.0.0	intergi.com
 0.0.0.0	internetfuel.com
 0.0.0.0	interreklame.de
@@ -2466,6 +2476,7 @@
 0.0.0.0	lijit.com
 0.0.0.0	line.jzs001.cn
 0.0.0.0	link-booster.de
+0.0.0.0	link.uk.expediamail.com
 0.0.0.0	link4ads.com
 0.0.0.0	linkadd.de
 0.0.0.0	linkbuddies.com
@@ -2618,6 +2629,7 @@
 0.0.0.0	methodcash.com
 0.0.0.0	metrics-logger.spot.im
 0.0.0.0	metrics.api.drift.com
+0.0.0.0	metrics.articulate.com
 0.0.0.0	metrics.cnn.com
 0.0.0.0	metrics.consumerreports.org
 0.0.0.0	metrics.ctv.ca
@@ -3032,6 +3044,7 @@
 0.0.0.0	protraffic.com
 0.0.0.0	provenpixel.com
 0.0.0.0	provexia.com
+0.0.0.0	prpops.com
 0.0.0.0	prsaln.com
 0.0.0.0	prsitecheck.com
 0.0.0.0	prudencewiserelapse.com
@@ -3545,14 +3558,19 @@
 0.0.0.0	swordfishdc.com
 0.0.0.0	swordgoose.com
 0.0.0.0	t.appsflyer.com
+0.0.0.0	t.armchairbookie.com
 0.0.0.0	t.bawafx.com
+0.0.0.0	t.carta.com
+0.0.0.0	t.co
 0.0.0.0	t.eloqua.com
+0.0.0.0	t.email.superdrug.com
 0.0.0.0	t.en25.com
 0.0.0.0	t.firstpromoter.com
 0.0.0.0	t.insigit.com
 0.0.0.0	t.irtyd.com
 0.0.0.0	t.leady.com
 0.0.0.0	t.news.browns-restaurants.co.uk
+0.0.0.0	t.notif-colissimo-laposte.info
 0.0.0.0	t.salesmatemail.com
 0.0.0.0	t.vacations.disneydestinations.com
 0.0.0.0	t.visit.disneydestinations.com
@@ -3689,10 +3707,12 @@
 0.0.0.0	track.game18click.com
 0.0.0.0	track.gawker.com
 0.0.0.0	track.hexcan.com
+0.0.0.0	track.homejobs.careers
 0.0.0.0	track.lettingaproperty.com
 0.0.0.0	track.mailalert.io
 0.0.0.0	track.mailerlite.com
 0.0.0.0	track.miro.com
+0.0.0.0	track.nationalgunrights.org
 0.0.0.0	track.nuxues.com
 0.0.0.0	track.segmetrics.io
 0.0.0.0	track.software-codes.com
@@ -3799,16 +3819,19 @@
 0.0.0.0	trk.enemy-adult-scared-there.xyz
 0.0.0.0	trk.pinterest.com
 0.0.0.0	trk.techtarget.com
+0.0.0.0	trk.us-learn-teacher-poetry.xyz
 0.0.0.0	trk42.net
 0.0.0.0	trkn.us
 0.0.0.0	trknths.com
 0.0.0.0	trkoptimizer.com
+0.0.0.0	trkpnt.ongage.net
 0.0.0.0	trmit.com
 0.0.0.0	truckstomatoes.com
 0.0.0.0	truehits.net
 0.0.0.0	truehits1.gits.net.th
 0.0.0.0	truehits2.gits.net.th
 0.0.0.0	trust.titanhq.com
+0.0.0.0	trustpid.com
 0.0.0.0	trustx.org
 0.0.0.0	tsuam.com
 0.0.0.0	tsyndicate.com
@@ -3853,6 +3876,7 @@
 0.0.0.0	user-shield-check.com
 0.0.0.0	userreplay.com
 0.0.0.0	userreplay.net
+0.0.0.0	users.maxcluster.net
 0.0.0.0	usherprayer.com
 0.0.0.0	usingirritatecordial.com
 0.0.0.0	utenod.com
@@ -3923,6 +3947,7 @@
 0.0.0.0	w55c.net
 0.0.0.0	wa.and.co.uk
 0.0.0.0	waardex.com
+0.0.0.0	walkets.click
 0.0.0.0	warlog.ru
 0.0.0.0	warmafterthought.com
 0.0.0.0	waryfog.com
