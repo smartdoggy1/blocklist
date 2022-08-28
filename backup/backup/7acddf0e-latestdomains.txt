@@ -1,5 +1,5 @@
 # https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# Backed up on: 2022-07-06
+# Backed up on: 2022-08-27
 
 0.0.0.0	00zyku.com
 0.0.0.0	0124logistics.com
@@ -70,6 +70,7 @@
 0.0.0.0	77homolog.com.br
 0.0.0.0	7cats.ch
 0.0.0.0	7gallery.com
+0.0.0.0	7jm3carsom.duckdns.org
 0.0.0.0	7melk.com
 0.0.0.0	7p22jz.chokun.ru
 0.0.0.0	7pksnpcoperategovernmenttgpdsndyagengf.duckdns.org
@@ -825,6 +826,7 @@
 0.0.0.0	bracbank.info
 0.0.0.0	braceletsupplier.com
 0.0.0.0	bradleyinstitute.co.za
+0.0.0.0	brainstormvc.me
 0.0.0.0	bramaleaorthopedics.ca
 0.0.0.0	brandfocus.us
 0.0.0.0	brandotoday.com
@@ -1114,6 +1116,7 @@
 0.0.0.0	cmvcapital.co.za
 0.0.0.0	cnc.c25e6559668942.xyz
 0.0.0.0	cnc.cyberwex.com
+0.0.0.0	cnc.fearfulcats.tk
 0.0.0.0	cnc.iotbotnet.xyz
 0.0.0.0	cnc.notabotnet.tk
 0.0.0.0	cnoenc.com
@@ -1205,6 +1208,7 @@
 0.0.0.0	cortexdm.ae
 0.0.0.0	cortexdm.com
 0.0.0.0	cosmos.stories.ch
+0.0.0.0	cothdesigns.com
 0.0.0.0	countercon.com.br
 0.0.0.0	countrynavigator.com
 0.0.0.0	countsquare.com
@@ -1541,6 +1545,7 @@
 0.0.0.0	doraflores.com.br
 0.0.0.0	dormcorp.viosoria-das.ml
 0.0.0.0	dorotheesausset.com
+0.0.0.0	dosbot.re
 0.0.0.0	doskidoskinneeryujsuue.webredirect.org
 0.0.0.0	dostlarsamsunda.com
 0.0.0.0	dotapp.id
@@ -1972,6 +1977,7 @@
 0.0.0.0	filyoshaber.com
 0.0.0.0	finalemutaezle.com
 0.0.0.0	find-a-good-attorney.com
+0.0.0.0	findbandsnearme.com
 0.0.0.0	findemlak.com
 0.0.0.0	findthemlocal.co.uk
 0.0.0.0	fine.black
@@ -2359,6 +2365,7 @@
 0.0.0.0	haidarysurgical.com
 0.0.0.0	haircutbar.com
 0.0.0.0	hairlovers.hu
+0.0.0.0	hairnaturalhairstudio.com
 0.0.0.0	hairspirationsbeauties.com
 0.0.0.0	hairstylingjo.gr
 0.0.0.0	haisannhatrang.com.vn
@@ -2656,6 +2663,7 @@
 0.0.0.0	instalaar.com
 0.0.0.0	instalasi.ndrotech.com
 0.0.0.0	installlprosetupp.xyz
+0.0.0.0	installtracker.cfd
 0.0.0.0	institute.callensaxen.com
 0.0.0.0	institutolondres.edu.mx
 0.0.0.0	institutosantarosa.org
@@ -3718,6 +3726,7 @@
 0.0.0.0	navinplastic.com
 0.0.0.0	navshanti.com
 0.0.0.0	navyyanltd.com
+0.0.0.0	nazi-naz-nakon.tk
 0.0.0.0	nazrultheking.com
 0.0.0.0	nb-repair.ru
 0.0.0.0	nb21.xyz
@@ -4140,6 +4149,7 @@
 0.0.0.0	pics.crystalridgedesigns.com
 0.0.0.0	picturebymucha.de
 0.0.0.0	piedmontteem.com
+0.0.0.0	pigre-edti.tk
 0.0.0.0	pijventures.org
 0.0.0.0	pile-ca.fr
 0.0.0.0	pilotscience.com
@@ -4208,6 +4218,7 @@
 0.0.0.0	pos-egypt.com
 0.0.0.0	pos.appsdemo.xyz
 0.0.0.0	postnl-b.top
+0.0.0.0	poupahotel.com.br
 0.0.0.0	povedavicedo.com
 0.0.0.0	powerfulmantra.in
 0.0.0.0	pox23.io
@@ -4306,6 +4317,7 @@
 0.0.0.0	pureblissmyanmar.com
 0.0.0.0	purification.ug
 0.0.0.0	puroraw.com
+0.0.0.0	purposedesigns.net
 0.0.0.0	pwiic.com
 0.0.0.0	pwscripts.net
 0.0.0.0	py.botapi.cc
@@ -4641,6 +4653,7 @@
 0.0.0.0	sbninspections.com
 0.0.0.0	sbobet.co.in
 0.0.0.0	scan.apollonet02.com
+0.0.0.0	scan.fearfulcats.tk
 0.0.0.0	scarediesaway.com
 0.0.0.0	schaefer-frank.de
 0.0.0.0	schaidl.de
@@ -5089,6 +5102,7 @@
 0.0.0.0	sustainabilityparadigm.com
 0.0.0.0	sustainableandorganicgarments.com
 0.0.0.0	sutekihome.co.id
+0.0.0.0	sutliff.khamak.com
 0.0.0.0	svggraf.com
 0.0.0.0	svitlovsim.com.ua
 0.0.0.0	swallow.tdmcdev.co.za
@@ -5534,6 +5548,7 @@
 0.0.0.0	ultrawellmultiservices.com
 0.0.0.0	umadacart.com
 0.0.0.0	umami-learning.com
+0.0.0.0	umanostudio.com
 0.0.0.0	ummetciftligi.com
 0.0.0.0	unagestion.com
 0.0.0.0	underthepresserfoot.com

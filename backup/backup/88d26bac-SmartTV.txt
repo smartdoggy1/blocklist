@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2022-01-24
+# Backed up on: 2022-08-27
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -31,8 +31,10 @@
 0.0.0.0	api-mf1.meta.ndmdhs.com
 0.0.0.0	api.cid.samba.tv
 0.0.0.0	api.distribution.hulu.com
+0.0.0.0	api.eu.hismarttv.com
 0.0.0.0	api.euro.hismarttv.com
 0.0.0.0	api.nfl.com
+0.0.0.0	api.thetake.com
 0.0.0.0	api.us.hismarttv.com
 0.0.0.0	apu.samsungelectronics.com
 0.0.0.0	austin.logs.roku.com
@@ -61,6 +63,8 @@
 0.0.0.0	collect-eu-fy2018.myhomescreen.tv
 0.0.0.0	collect-eu-fy2019.myhomescreen.tv
 0.0.0.0	collect-eu-fy2020.myhomescreen.tv
+0.0.0.0	collect-eu-fy2021.myhomescreen.tv
+0.0.0.0	collect-eu-fy2022.myhomescreen.tv
 0.0.0.0	collect-us-fy2014.myhomescreen.tv
 0.0.0.0	collect-us-fy2015.myhomescreen.tv
 0.0.0.0	collect-us-fy2016.myhomescreen.tv
@@ -68,6 +72,8 @@
 0.0.0.0	collect-us-fy2018.myhomescreen.tv
 0.0.0.0	collect-us-fy2019.myhomescreen.tv
 0.0.0.0	collect-us-fy2020.myhomescreen.tv
+0.0.0.0	collect-us-fy2021.myhomescreen.tv
+0.0.0.0	collect-us-fy2022.myhomescreen.tv
 0.0.0.0	collect.myhomescreen.tv
 0.0.0.0	configprd.samsungcloudsolution.net
 0.0.0.0	connecttv.pelmorex.com
@@ -229,6 +235,8 @@
 0.0.0.0	usage-eu-fy2018.myhomescreen.tv
 0.0.0.0	usage-eu-fy2019.myhomescreen.tv
 0.0.0.0	usage-eu-fy2020.myhomescreen.tv
+0.0.0.0	usage-eu-fy2021.myhomescreen.tv
+0.0.0.0	usage-eu-fy2022.myhomescreen.tv
 0.0.0.0	usage-us-fy2014.myhomescreen.tv
 0.0.0.0	usage-us-fy2015.myhomescreen.tv
 0.0.0.0	usage-us-fy2016.myhomescreen.tv
@@ -236,6 +244,8 @@
 0.0.0.0	usage-us-fy2018.myhomescreen.tv
 0.0.0.0	usage-us-fy2019.myhomescreen.tv
 0.0.0.0	usage-us-fy2020.myhomescreen.tv
+0.0.0.0	usage-us-fy2021.myhomescreen.tv
+0.0.0.0	usage-us-fy2022.myhomescreen.tv
 0.0.0.0	usage.myhomescreen.tv
 0.0.0.0	vd.contents.prod.eu.s3.amazonaws.com
 0.0.0.0	vd.emp.prd.s3.amazonaws.com

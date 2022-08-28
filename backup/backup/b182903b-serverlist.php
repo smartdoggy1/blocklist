@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2022-07-06
+# Backed up on: 2022-08-27
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -1123,6 +1123,7 @@
 0.0.0.0	ambiguousquilt.com
 0.0.0.0	ambitiousagreement.com
 0.0.0.0	americash.com
+0.0.0.0	ampleclick.com
 0.0.0.0	amplitude.com
 0.0.0.0	amung.us
 0.0.0.0	analyticacdn.com
@@ -1176,6 +1177,7 @@
 0.0.0.0	api.amplitude.com
 0.0.0.0	api.eu.amplitude.com
 0.0.0.0	api.intensifier.de
+0.0.0.0	api.iterable.com
 0.0.0.0	api.jetlore.com
 0.0.0.0	api.kameleoon.com
 0.0.0.0	api.lab.amplitude.com
@@ -1435,6 +1437,7 @@
 0.0.0.0	braincash.com
 0.0.0.0	brand-display.com
 0.0.0.0	brandreachsys.com
+0.0.0.0	braze.eu
 0.0.0.0	breadbalance.com
 0.0.0.0	breakableinsurance.com
 0.0.0.0	breaktime.com.tw
@@ -1551,6 +1554,7 @@
 0.0.0.0	click.cartsguru.io
 0.0.0.0	click.cision.com
 0.0.0.0	click.classmates.com
+0.0.0.0	click.digital.metaquestmail.com
 0.0.0.0	click.e.progressive.com
 0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.email.bbc.com
@@ -1560,6 +1564,7 @@
 0.0.0.0	click.hooligapps.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click.negociosdigitaisnapratica.com.br
+0.0.0.0	click.news.vans.com
 0.0.0.0	click.redditmail.com
 0.0.0.0	click.twcwigs.com
 0.0.0.0	click2freemoney.com
@@ -1581,6 +1586,7 @@
 0.0.0.0	clicklink.jp
 0.0.0.0	clickmate.io
 0.0.0.0	clickonometrics.pl
+0.0.0.0	clicks.deliveroo.co.uk
 0.0.0.0	clicks.equantum.com
 0.0.0.0	clicks.mods.de
 0.0.0.0	clickserve.cc-dt.com
@@ -1888,7 +1894,11 @@
 0.0.0.0	elthamely.com
 0.0.0.0	em1.yoursantander.co.uk
 0.0.0.0	email-clk.adguard.com
+0.0.0.0	email-link.adtidy.net
+0.0.0.0	email-link.adtidy.org
 0.0.0.0	email-links.crowdfireapp.com
+0.0.0.0	email-open.adtidy.net
+0.0.0.0	email-open.adtidy.org
 0.0.0.0	email-opn.adguard.com
 0.0.0.0	email.m1.bktrksmail.com
 0.0.0.0	emaillinks.soundiiz.com
@@ -2038,6 +2048,7 @@
 0.0.0.0	folawn.com
 0.0.0.0	fontsctaticx.com
 0.0.0.0	foo.cosmocode.de
+0.0.0.0	foo.software
 0.0.0.0	foresee.com
 0.0.0.0	forex-affiliate.net
 0.0.0.0	forkcdn.com
@@ -2377,6 +2388,7 @@
 0.0.0.0	jinkads.de
 0.0.0.0	joetec.net
 0.0.0.0	js-agent.newrelic.com
+0.0.0.0	js.iterable.com
 0.0.0.0	js.users.51.la
 0.0.0.0	jsecoin.com
 0.0.0.0	jsrdn.com
@@ -2564,6 +2576,7 @@
 0.0.0.0	marketing.osijek031.com
 0.0.0.0	marketingsolutions.yahoo.com
 0.0.0.0	marketo.com
+0.0.0.0	marriedbelief.com
 0.0.0.0	mas.sector.sk
 0.0.0.0	massivemark.com
 0.0.0.0	matchcraft.com
@@ -2854,6 +2867,7 @@
 0.0.0.0	openx.skinet.cz
 0.0.0.0	openx.smcaen.fr
 0.0.0.0	openx2.kytary.cz
+0.0.0.0	operationchicken.com
 0.0.0.0	operationkettle.com
 0.0.0.0	opienetwork.com
 0.0.0.0	opmnstr.com
@@ -2956,6 +2970,7 @@
 0.0.0.0	piquantpigs.com
 0.0.0.0	pix.spot.im
 0.0.0.0	pixel.adsafeprotected.com
+0.0.0.0	pixel.app.returnpath.net
 0.0.0.0	pixel.condenastdigital.com
 0.0.0.0	pixel.digitru.st
 0.0.0.0	pixel.keywee.co
@@ -3419,6 +3434,7 @@
 0.0.0.0	sovrn.com
 0.0.0.0	spacash.com
 0.0.0.0	spaceleadster.com
+0.0.0.0	spadelocket.com
 0.0.0.0	spannersalesman.com
 0.0.0.0	sparklingshelf.com
 0.0.0.0	sparkstudios.com
