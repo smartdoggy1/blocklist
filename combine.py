@@ -159,7 +159,7 @@ def backup():
             f.write(f'# {url}\n# Backed up on: {datetime.datetime.now().strftime("%Y-%m-%d")}\n\n'.encode())
             f.write(b'\n'.join(sorted(new_data)))
         removed = len(old_data - new_data)
-        print(f'wrote {len(new_data):,} lines ({len(new_data - old_data):+,d}{f", -{removed:,}" if removed else ""}).')
+        print(f'wrote {len(new_data):,} lines ({len(new_data - old_data):+,d}{f", -{removed:,}" if removed else ""})')
 
 
 def store_hosts(data, source_dir):
