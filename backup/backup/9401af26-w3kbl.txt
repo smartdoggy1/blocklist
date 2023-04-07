@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/static/w3kbl.txt
-# Backed up on: 2021-05-25
+# Backed up on: 2023-04-07
 
 0.0.0.0	2znp09oa.com
 0.0.0.0	4jnzhl0d0.com
@@ -220,6 +220,7 @@
 0.0.0.0	chinchickens.com
 0.0.0.0	chinsnakes.com
 0.0.0.0	chunkycactus.com
+0.0.0.0	ck.getcookiestxt.com
 0.0.0.0	clearcabbage.com
 0.0.0.0	clearcomb.com
 0.0.0.0	cloisteredhydrant.com

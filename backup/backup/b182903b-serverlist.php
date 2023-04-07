@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2023-02-24
+# Backed up on: 2023-04-07
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -37,6 +37,7 @@
 0.0.0.0	777partner.com
 0.0.0.0	77tracking.com
 0.0.0.0	7bpeople.com
+0.0.0.0	7cnq.net
 0.0.0.0	7search.com
 0.0.0.0	82o9v830.com
 0.0.0.0	a-ads.com
@@ -1604,6 +1605,8 @@
 0.0.0.0	click.classmates.com
 0.0.0.0	click.comm.rcibank.co.uk
 0.0.0.0	click.digital.metaquestmail.com
+0.0.0.0	click.discord.com
+0.0.0.0	click.e.bbcmail.co.uk
 0.0.0.0	click.e.progressive.com
 0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.email.bbc.com
@@ -1620,6 +1623,7 @@
 0.0.0.0	click.negociosdigitaisnapratica.com.br
 0.0.0.0	click.news.vans.com
 0.0.0.0	click.nl.npr.org
+0.0.0.0	click.nvgaming.nvidia.com
 0.0.0.0	click.redditmail.com
 0.0.0.0	click.twcwigs.com
 0.0.0.0	click2freemoney.com
@@ -2253,6 +2257,7 @@
 0.0.0.0	gstaticx.com
 0.0.0.0	gstaticxs.com
 0.0.0.0	gtop100.com
+0.0.0.0	guardeddirection.com
 0.0.0.0	guardedschool.com
 0.0.0.0	guffawdecipher.com
 0.0.0.0	gunggo.com
@@ -2312,6 +2317,7 @@
 0.0.0.0	hits.europuls.eu
 0.0.0.0	hits.informer.com
 0.0.0.0	hits.puls.lv
+0.0.0.0	hits.sh
 0.0.0.0	hits.theguardian.com
 0.0.0.0	hits4me.com
 0.0.0.0	hitslink.com
@@ -3424,6 +3430,7 @@
 0.0.0.0	s2strk.info
 0.0.0.0	sa.api.intl.miui.com
 0.0.0.0	sabio.us
+0.0.0.0	sadloaf.com
 0.0.0.0	sageanalyst.net
 0.0.0.0	sail-horizon.com
 0.0.0.0	samsungacr.com
@@ -3512,9 +3519,11 @@
 0.0.0.0	shinystat.com
 0.0.0.0	shinystat.it
 0.0.0.0	shiveringspot.com
+0.0.0.0	shiverscissors.com
 0.0.0.0	shockinggrass.com
 0.0.0.0	shoppingads.com
 0.0.0.0	shrillspoon.com
+0.0.0.0	shxtrk.com
 0.0.0.0	sickflock.com
 0.0.0.0	sicksmash.com
 0.0.0.0	sidebar.angelfire.com
@@ -3747,6 +3756,7 @@
 0.0.0.0	t.insigit.com
 0.0.0.0	t.irtyd.com
 0.0.0.0	t.leady.com
+0.0.0.0	t.mmtrkr.com
 0.0.0.0	t.news.browns-restaurants.co.uk
 0.0.0.0	t.notif-colissimo-laposte.info
 0.0.0.0	t.salesmatemail.com
@@ -4189,6 +4199,7 @@
 0.0.0.0	webtrendslive.com
 0.0.0.0	webxcdn.com
 0.0.0.0	wellmadefrog.com
+0.0.0.0	welved.com
 0.0.0.0	werbung.meteoxpress.com
 0.0.0.0	wetrack.it
 0.0.0.0	whaleads.com
