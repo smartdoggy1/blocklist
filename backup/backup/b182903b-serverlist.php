@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2023-04-07
+# Backed up on: 2023-06-24
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -993,6 +993,7 @@
 0.0.0.0	adsynergy.com
 0.0.0.0	adsys.townnews.com
 0.0.0.0	adsystem.simplemachines.org
+0.0.0.0	adt598.com
 0.0.0.0	adtech-digital.ru
 0.0.0.0	adtech.com
 0.0.0.0	adtech.de
@@ -1008,6 +1009,7 @@
 0.0.0.0	adtology.com
 0.0.0.0	adtoma.com
 0.0.0.0	adtrace.org
+0.0.0.0	adtrack.voicestar.com
 0.0.0.0	adtraction.com
 0.0.0.0	adtrade.net
 0.0.0.0	adtrak.net
@@ -1493,6 +1495,7 @@
 0.0.0.0	browser-http-intake.logs.datadoghq.eu
 0.0.0.0	bs.yandex.ru
 0.0.0.0	btez8.xyz
+0.0.0.0	btglss.net
 0.0.0.0	btrll.com
 0.0.0.0	bttrack.com
 0.0.0.0	bucketbean.com
@@ -1553,8 +1556,10 @@
 0.0.0.0	cdn.freshmarketer.com
 0.0.0.0	cdn.heapanalytics.com
 0.0.0.0	cdn.keywee.co
+0.0.0.0	cdn.mouseflow.com
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	cdn.panelbear.com
+0.0.0.0	cdn.scarabresearch.com
 0.0.0.0	cdn.segment.com
 0.0.0.0	cdnondemand.org
 0.0.0.0	cecash.com
@@ -1599,6 +1604,8 @@
 0.0.0.0	cliand.com
 0.0.0.0	click.a-ads.com
 0.0.0.0	click.airmalta-mail.com
+0.0.0.0	click.aliexpress.com
+0.0.0.0	click.allkeyshop.com
 0.0.0.0	click.bkdpt.com
 0.0.0.0	click.cartsguru.io
 0.0.0.0	click.cision.com
@@ -1619,6 +1626,7 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click.mail.hotels.com
+0.0.0.0	click.mailing.ticketmaster.com
 0.0.0.0	click.mkt.grab.com
 0.0.0.0	click.negociosdigitaisnapratica.com.br
 0.0.0.0	click.news.vans.com
@@ -1823,7 +1831,9 @@
 0.0.0.0	cyberbounty.com
 0.0.0.0	cyrasi.com
 0.0.0.0	d.adroll.com
+0.0.0.0	d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0	d2cmedia.ca
+0.0.0.0	d81mfvml8p5ml.cloudfront.net
 0.0.0.0	dabiaozhi.com
 0.0.0.0	dacdn.visualwebsiteoptimizer.com
 0.0.0.0	dacdn.vwo.com
@@ -2020,6 +2030,7 @@
 0.0.0.0	espn.com.ssl.sc.omtrdc.net
 0.0.0.0	estat.com
 0.0.0.0	esty.com
+0.0.0.0	et.educationdynamics.com
 0.0.0.0	et.nytimes.com
 0.0.0.0	etahub.com
 0.0.0.0	etargetnet.com
@@ -2157,6 +2168,7 @@
 0.0.0.0	freewebcounter.com
 0.0.0.0	freewheel.com
 0.0.0.0	freewheel.tv
+0.0.0.0	freezingbuilding.com
 0.0.0.0	freshmarketer.com
 0.0.0.0	freshrelevance.com
 0.0.0.0	freshworks.com
@@ -2593,6 +2605,7 @@
 0.0.0.0	lijit.com
 0.0.0.0	line.jzs001.cn
 0.0.0.0	link-booster.de
+0.0.0.0	link.axios.com
 0.0.0.0	link.uk.expediamail.com
 0.0.0.0	link4ads.com
 0.0.0.0	linkadd.de
@@ -2862,6 +2875,7 @@
 0.0.0.0	mytop-in.net
 0.0.0.0	mytrackingservers.com
 0.0.0.0	myvisualiq.net
+0.0.0.0	n2.mouseflow.com
 0.0.0.0	n69.com
 0.0.0.0	naj.sk
 0.0.0.0	naj22.proasdf.com
@@ -2931,6 +2945,7 @@
 0.0.0.0	nuttyorganization.com
 0.0.0.0	nzaza.com
 0.0.0.0	o0bc.com
+0.0.0.0	o2.mouseflow.com
 0.0.0.0	o333o.com
 0.0.0.0	oafishobservation.com
 0.0.0.0	oas.benchmark.fr
@@ -3310,7 +3325,9 @@
 0.0.0.0	realsrv.com
 0.0.0.0	realtechnetwork.com
 0.0.0.0	realtracker.com
+0.0.0.0	rebelhen.com
 0.0.0.0	rebelsubway.com
+0.0.0.0	rebelswing.com
 0.0.0.0	rec5.visualwebsiteoptimizer.com
 0.0.0.0	recapture.io
 0.0.0.0	receptiveink.com
@@ -3435,6 +3452,7 @@
 0.0.0.0	sail-horizon.com
 0.0.0.0	samsungacr.com
 0.0.0.0	samsungads.com
+0.0.0.0	sanalytics.disneyplus.com
 0.0.0.0	sanity-dataplane.rudderstack.com
 0.0.0.0	savoryorange.com
 0.0.0.0	saysidewalk.com
@@ -3764,7 +3782,9 @@
 0.0.0.0	t.visit.disneydestinations.com
 0.0.0.0	t.visitorqueue.com
 0.0.0.0	taboola.com
+0.0.0.0	tag-demo.mention-me.com
 0.0.0.0	tag.links-analytics.com
+0.0.0.0	tag.mention-me.com
 0.0.0.0	tagan.adlightning.com
 0.0.0.0	tagcommander.com
 0.0.0.0	tagger.opecloud.com
@@ -4171,6 +4191,7 @@
 0.0.0.0	web2.deja.com
 0.0.0.0	webads.co.nz
 0.0.0.0	webads.nl
+0.0.0.0	webanalytics.zohodcm.com
 0.0.0.0	webcash.nl
 0.0.0.0	webcontentassessor.com
 0.0.0.0	webcounter.cz
@@ -4213,6 +4234,7 @@
 0.0.0.0	wholesaletraffic.info
 0.0.0.0	wickedreports.com
 0.0.0.0	widespace.com
+0.0.0.0	widget.educationdynamics.com
 0.0.0.0	widget.privy.com
 0.0.0.0	widgetbucks.com
 0.0.0.0	wikia-ads.wikia.com
@@ -4286,6 +4308,7 @@
 0.0.0.0	yogyn.com
 0.0.0.0	youradexchange.com
 0.0.0.0	ypu.samsungelectronics.com
+0.0.0.0	yrquuaxo.ajrimmobilier.fr
 0.0.0.0	z3dmbpl6309s.com
 0.0.0.0	z501lpfg9x8v.com
 0.0.0.0	z5x.net

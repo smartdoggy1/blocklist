@@ -1,5 +1,5 @@
 # https://adaway.org/hosts.txt
-# Backed up on: 2022-12-03
+# Backed up on: 2023-06-24
 
 0.0.0.0	0ce3c-1fd43.api.pushwoosh.com
 0.0.0.0	100016075.collect.igodigital.com
@@ -1578,6 +1578,7 @@
 0.0.0.0	ads-sdk.avidly.com
 0.0.0.0	ads-sdk.upltv.com
 0.0.0.0	ads-secure.videohub.tv
+0.0.0.0	ads-static.phonepe.com
 0.0.0.0	ads-twitter.com
 0.0.0.0	ads-uat.bridgetrack.com
 0.0.0.0	ads-us-east-1.axonix.com
