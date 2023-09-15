@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2023-06-24
+# Backed up on: 2023-09-14
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -1188,6 +1188,7 @@
 0.0.0.0	analytics.posttv.com
 0.0.0.0	analytics.samdd.me
 0.0.0.0	analytics.santander.co.uk
+0.0.0.0	analytics.shorte.st
 0.0.0.0	analytics.siliconexpert.com
 0.0.0.0	analytics.swiggy.com
 0.0.0.0	analytics.tiktok.com
@@ -1196,6 +1197,7 @@
 0.0.0.0	analyticsapi.happypancake.net
 0.0.0.0	analytik.xyz
 0.0.0.0	ancientact.com
+0.0.0.0	androiddownload.net
 0.0.0.0	aniview.com
 0.0.0.0	annonser.dagbladet.no
 0.0.0.0	annoyedairport.com
@@ -1218,6 +1220,7 @@
 0.0.0.0	app-ab33.marketo.com
 0.0.0.0	app-analytics-v2.snapchat.com
 0.0.0.0	app-analytics.snapchat.com
+0.0.0.0	app-measurement.com
 0.0.0.0	app.pendo.io
 0.0.0.0	appboycdn.com
 0.0.0.0	appsflyer.com
@@ -1390,6 +1393,8 @@
 0.0.0.0	bbn.img.com.ua
 0.0.0.0	beachfront.com
 0.0.0.0	beacon.gu-web.net
+0.0.0.0	beacons.gcp.gvt2.com
+0.0.0.0	beacons.gvt2.com
 0.0.0.0	beam-ws.giraffe360.com
 0.0.0.0	beam.giraffe360.com
 0.0.0.0	beamincrease.com
@@ -1403,9 +1408,11 @@
 0.0.0.0	benefits.sovendus.com
 0.0.0.0	benfly.net
 0.0.0.0	berp.com
+0.0.0.0	bespoke.iln8.net
 0.0.0.0	best-realgirl2.com
 0.0.0.0	best-top.ro
 0.0.0.0	bestboundary.com
+0.0.0.0	bestbuy.7tiv.net
 0.0.0.0	bestprizesday2.life
 0.0.0.0	bestsearch.net
 0.0.0.0	bewilderedblade.com
@@ -1615,6 +1622,7 @@
 0.0.0.0	click.discord.com
 0.0.0.0	click.e.bbcmail.co.uk
 0.0.0.0	click.e.progressive.com
+0.0.0.0	click.e.zoom.us
 0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.sonos.com
@@ -1919,6 +1927,7 @@
 0.0.0.0	domainsteam.de
 0.0.0.0	domdex.com
 0.0.0.0	dotmetrics.net
+0.0.0.0	dotomi.com
 0.0.0.0	doubleclick.com
 0.0.0.0	doubleclick.de
 0.0.0.0	doubleclick.net
@@ -1990,6 +1999,7 @@
 0.0.0.0	email-open.adtidy.org
 0.0.0.0	email-opn.adguard.com
 0.0.0.0	email.m1.bktrksmail.com
+0.0.0.0	email.mg1.substack.com
 0.0.0.0	emaillinks.soundiiz.com
 0.0.0.0	emanog.com
 0.0.0.0	emarketer.com
@@ -2258,6 +2268,7 @@
 0.0.0.0	gp.dejanews.com
 0.0.0.0	gracefulsock.com
 0.0.0.0	graizoah.com
+0.0.0.0	grandfatherguitar.com
 0.0.0.0	grandioseguide.com
 0.0.0.0	grapeshot.co.uk
 0.0.0.0	greetzebra.com
@@ -2413,6 +2424,7 @@
 0.0.0.0	immensehoney.com
 0.0.0.0	imonitor.nethost.cz
 0.0.0.0	imonomy.com
+0.0.0.0	imp.i312864.net
 0.0.0.0	importedincrease.com
 0.0.0.0	impossibleexpansion.com
 0.0.0.0	imprese.cz
@@ -2606,6 +2618,8 @@
 0.0.0.0	line.jzs001.cn
 0.0.0.0	link-booster.de
 0.0.0.0	link.axios.com
+0.0.0.0	link.sbstck.com
+0.0.0.0	link.theatlantic.com
 0.0.0.0	link.uk.expediamail.com
 0.0.0.0	link4ads.com
 0.0.0.0	linkadd.de
@@ -2615,10 +2629,12 @@
 0.0.0.0	linkrain.com
 0.0.0.0	linkreferral.com
 0.0.0.0	links-ranking.de
+0.0.0.0	links.email.crunchbase.com
 0.0.0.0	links.zoopla.co.uk
 0.0.0.0	linkshighway.com
 0.0.0.0	linkstorms.com
 0.0.0.0	linkswaper.com
+0.0.0.0	linksynergy.com
 0.0.0.0	linktarget.com
 0.0.0.0	liquidad.narrowcastmedia.com
 0.0.0.0	litix.io
@@ -2700,6 +2716,7 @@
 0.0.0.0	marketing.osijek031.com
 0.0.0.0	marketingsolutions.yahoo.com
 0.0.0.0	marketo.com
+0.0.0.0	marlowpillow.sjv.io
 0.0.0.0	marriedbelief.com
 0.0.0.0	mas.sector.sk
 0.0.0.0	massivemark.com
@@ -3054,10 +3071,12 @@
 0.0.0.0	panickycurtain.com
 0.0.0.0	panickypancake.com
 0.0.0.0	panoramicplane.com
+0.0.0.0	parachutehome.sjv.io
 0.0.0.0	paradoxfactor.com
 0.0.0.0	parchedangle.com
 0.0.0.0	parchedsofa.com
 0.0.0.0	pardonpopular.com
+0.0.0.0	parentpicture.com
 0.0.0.0	parketsy.pro
 0.0.0.0	parsely.com
 0.0.0.0	parsimoniouspolice.com
@@ -3078,6 +3097,7 @@
 0.0.0.0	payserve.com
 0.0.0.0	pbnet.ru
 0.0.0.0	pbterra.com
+0.0.0.0	pc-tc.s3-eu-west-1.amazonaws.com
 0.0.0.0	pcash.imlive.com
 0.0.0.0	pctracking.net
 0.0.0.0	peep-auktion.de
@@ -3142,6 +3162,7 @@
 0.0.0.0	pluckypocket.com
 0.0.0.0	pluckytaste.com
 0.0.0.0	plugrush.com
+0.0.0.0	pocketfaucet.com
 0.0.0.0	pocketmath.com
 0.0.0.0	pointlesshour.com
 0.0.0.0	pointlessprofit.com
@@ -3178,6 +3199,7 @@
 0.0.0.0	presetrabbits.com
 0.0.0.0	previousplayground.com
 0.0.0.0	previouspotato.com
+0.0.0.0	prf.hn
 0.0.0.0	priceypies.com
 0.0.0.0	priefy.com
 0.0.0.0	primetime.net
@@ -3238,6 +3260,7 @@
 0.0.0.0	puffypaste.com
 0.0.0.0	puffypull.com
 0.0.0.0	puffypurpose.com
+0.0.0.0	pureclarity.net
 0.0.0.0	pushame.com
 0.0.0.0	pushance.com
 0.0.0.0	pushazer.com
@@ -3719,6 +3742,7 @@
 0.0.0.0	stickssheep.com
 0.0.0.0	stickyadstv.com
 0.0.0.0	stiffgame.com
+0.0.0.0	stomachscience.com
 0.0.0.0	storesurprise.com
 0.0.0.0	storetail.io
 0.0.0.0	stormyachiever.com
@@ -3830,6 +3854,7 @@
 0.0.0.0	telaria.com
 0.0.0.0	telemetrics.klaviyo.com
 0.0.0.0	telemetry.dropbox.com
+0.0.0.0	telemetry.malwarebytes.com
 0.0.0.0	telemetry.v.dropbox.com
 0.0.0.0	temelio.com
 0.0.0.0	tend.io
@@ -3927,6 +3952,7 @@
 0.0.0.0	track.nuxues.com
 0.0.0.0	track.segmetrics.io
 0.0.0.0	track.software-codes.com
+0.0.0.0	track.spe.schoolmessenger.com
 0.0.0.0	track.themaccleanup.info
 0.0.0.0	track.tkbo.com
 0.0.0.0	track.ultravpn.com
@@ -3944,6 +3970,7 @@
 0.0.0.0	tracker.cdnbye.com
 0.0.0.0	tracker.comunidadmarriott.com
 0.0.0.0	tracker.icerocket.com
+0.0.0.0	tracker.metricswave.com
 0.0.0.0	tracker.mmdlv.it
 0.0.0.0	tracker.samplicio.us
 0.0.0.0	tracker.vgame.us
@@ -4077,6 +4104,7 @@
 0.0.0.0	ultimateclixx.com
 0.0.0.0	ultramercial.com
 0.0.0.0	ultraoranges.com
+0.0.0.0	unaccountablepie.com
 0.0.0.0	unarmedindustry.com
 0.0.0.0	unbecomingbikes.com
 0.0.0.0	unbecominglamp.com
@@ -4328,6 +4356,7 @@
 0.0.0.0	zeus.developershed.com
 0.0.0.0	zeusclicks.com
 0.0.0.0	zion-telemetry.api.cnn.io
+0.0.0.0	zippingcare.com
 0.0.0.0	zlp6s.pw
 0.0.0.0	zm232.com
 0.0.0.0	zmedia.com
