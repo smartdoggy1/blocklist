@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2023-11-30
+# Backed up on: 2024-05-11
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -136,6 +136,7 @@
 0.0.0.0	ad.clix.pt
 0.0.0.0	ad.cooks.com
 0.0.0.0	ad.digitallook.com
+0.0.0.0	ad.dnoticias.pt
 0.0.0.0	ad.doctissimo.fr
 0.0.0.0	ad.domainfactory.de
 0.0.0.0	ad.eurosport.com
@@ -280,6 +281,7 @@
 0.0.0.0	ademails.com
 0.0.0.0	adengage.com
 0.0.0.0	adetracking.com
+0.0.0.0	adeure.com
 0.0.0.0	adexc.net
 0.0.0.0	adexchangegate.com
 0.0.0.0	adexchangeprediction.com
@@ -371,6 +373,7 @@
 0.0.0.0	admonitor.com
 0.0.0.0	admotion.com.ar
 0.0.0.0	adn.lrb.co.uk
+0.0.0.0	adnami.io
 0.0.0.0	adnet.asahi.com
 0.0.0.0	adnet.biz
 0.0.0.0	adnet.de
@@ -1235,6 +1238,7 @@
 0.0.0.0	appsflyer.com
 0.0.0.0	aps.hearstnp.com
 0.0.0.0	apsalar.com
+0.0.0.0	aptabase.com
 0.0.0.0	apture.com
 0.0.0.0	apu.samsungelectronics.com
 0.0.0.0	aquaticanswer.com
@@ -1299,6 +1303,8 @@
 0.0.0.0	aztracking.net
 0.0.0.0	b-1st.com
 0.0.0.0	b-s.tercept.com
+0.0.0.0	b.videoamp.com
+0.0.0.0	b3.videoamp.com
 0.0.0.0	ba.afl.rakuten.co.jp
 0.0.0.0	babs.tv2.dk
 0.0.0.0	backbeatmedia.com
@@ -1444,6 +1450,7 @@
 0.0.0.0	bikesboard.com
 0.0.0.0	billboard.cz
 0.0.0.0	biosda.com
+0.0.0.0	birthdaybelief.com
 0.0.0.0	bitmedianetwork.com
 0.0.0.0	bizad.nikkeibp.co.jp
 0.0.0.0	bizarrebaseball.com
@@ -1568,6 +1575,7 @@
 0.0.0.0	casinopays.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
+0.0.0.0	cattlecommittee.com
 0.0.0.0	causecherry.com
 0.0.0.0	cautiouscredit.com
 0.0.0.0	cbanners.virtuagirlhd.com
@@ -1643,6 +1651,7 @@
 0.0.0.0	click.email.microsoftemail.com
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.email.strawberry.no
+0.0.0.0	click.emails.argos.co.uk
 0.0.0.0	click.fool.com
 0.0.0.0	click.hookupinyourcity.com
 0.0.0.0	click.hooligapps.com
@@ -1651,6 +1660,7 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click.mail.hotels.com
+0.0.0.0	click.mail.salesforce.com
 0.0.0.0	click.mailing.ticketmaster.com
 0.0.0.0	click.mkt.grab.com
 0.0.0.0	click.negociosdigitaisnapratica.com.br
@@ -1749,6 +1759,7 @@
 0.0.0.0	completecabbage.com
 0.0.0.0	complextoad.com
 0.0.0.0	comprabanner.it
+0.0.0.0	concernedchange.com
 0.0.0.0	concernedcondition.com
 0.0.0.0	concerneddrink.com
 0.0.0.0	conditionchange.com
@@ -1856,12 +1867,15 @@
 0.0.0.0	customad.cnn.com
 0.0.0.0	customads.co
 0.0.0.0	customers.kameleoon.com
+0.0.0.0	cutcurrent.com
 0.0.0.0	cutechin.com
 0.0.0.0	cutecushion.com
 0.0.0.0	cuteturkey.com
 0.0.0.0	cxense.com
 0.0.0.0	cyberbounty.com
 0.0.0.0	cyrasi.com
+0.0.0.0	d-collect.jennifersoft.com
+0.0.0.0	d-collector.jennifersoft.com
 0.0.0.0	d.adroll.com
 0.0.0.0	d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0	d2cmedia.ca
@@ -1915,6 +1929,7 @@
 0.0.0.0	detailedgovernment.com
 0.0.0.0	detectdiscovery.com
 0.0.0.0	dev.visualwebsiteoptimizer.com
+0.0.0.0	dewdroplagoon.com
 0.0.0.0	dialerporn.com
 0.0.0.0	dianomi.com
 0.0.0.0	didtheyreadit.com
@@ -2045,6 +2060,7 @@
 0.0.0.0	endurableshop.com
 0.0.0.0	energeticladybug.com
 0.0.0.0	engage.dnsfilter.com
+0.0.0.0	engage.tines.com
 0.0.0.0	engage.webshrinker.com
 0.0.0.0	engage.windows.com
 0.0.0.0	engagebdr.com
@@ -2215,6 +2231,7 @@
 0.0.0.0	freewheel.com
 0.0.0.0	freewheel.tv
 0.0.0.0	freezingbuilding.com
+0.0.0.0	frequentflesh.com
 0.0.0.0	freshmarketer.com
 0.0.0.0	freshrelevance.com
 0.0.0.0	freshworks.com
@@ -2260,6 +2277,7 @@
 0.0.0.0	gctatics.com
 0.0.0.0	gearwom.de
 0.0.0.0	gekko.spiceworks.com
+0.0.0.0	generateoffice.com
 0.0.0.0	geo.digitalpoint.com
 0.0.0.0	geobanner.adultfriendfinder.com
 0.0.0.0	georiot.com
@@ -2313,6 +2331,7 @@
 0.0.0.0	greetzebra.com
 0.0.0.0	greyinstrument.com
 0.0.0.0	greystripe.com
+0.0.0.0	grouchybrothers.com
 0.0.0.0	groundtruth.com
 0.0.0.0	grychiphidu.com
 0.0.0.0	gscontxt.net
@@ -2330,11 +2349,14 @@
 0.0.0.0	h92zbpn4zcv1.com
 0.0.0.0	habitualhumor.com
 0.0.0.0	hadskiz.com
+0.0.0.0	halcyoncanyon.com
 0.0.0.0	haltingbadge.com
 0.0.0.0	hammerhearing.com
 0.0.0.0	handsomehose.com
 0.0.0.0	handyfield.com
 0.0.0.0	handyfireman.com
+0.0.0.0	handyincrease.com
+0.0.0.0	haplesshydrant.com
 0.0.0.0	hardtofindmilk.com
 0.0.0.0	harrenmedia.com
 0.0.0.0	harrenmedianetwork.com
@@ -2413,6 +2435,7 @@
 0.0.0.0	htlbid.com
 0.0.0.0	httpool.com
 0.0.0.0	hubadnetwork.com
+0.0.0.0	hubspotlinks.com
 0.0.0.0	hud8mxdt.computerhelpmirror.top
 0.0.0.0	hueads.com
 0.0.0.0	hueadsortb.com
@@ -2449,6 +2472,7 @@
 0.0.0.0	ientrymail.com
 0.0.0.0	iesnare.com
 0.0.0.0	ifa.tube8live.com
+0.0.0.0	ignals.com
 0.0.0.0	ihogaetw.com
 0.0.0.0	ilbanner.com
 0.0.0.0	ilead.itrack.it
@@ -2548,6 +2572,7 @@
 0.0.0.0	iubzka.online
 0.0.0.0	ivwbox.de
 0.0.0.0	ivykiosk.com
+0.0.0.0	iyfbodn.com
 0.0.0.0	iyfnzgb.com
 0.0.0.0	j93557g.com
 0.0.0.0	jadeitite.com
@@ -2560,10 +2585,13 @@
 0.0.0.0	joetec.net
 0.0.0.0	joyoussurprise.com
 0.0.0.0	js-agent.newrelic.com
+0.0.0.0	js-api.otherlevels.com
+0.0.0.0	js-tags.otherlevels.com
 0.0.0.0	js.iterable.com
 0.0.0.0	js.users.51.la
 0.0.0.0	jsecoin.com
 0.0.0.0	jsrdn.com
+0.0.0.0	jubilantglimmer.com
 0.0.0.0	juicyads.com
 0.0.0.0	juicyads.me
 0.0.0.0	jumptap.com
@@ -2960,6 +2988,7 @@
 0.0.0.0	nbjmp.com
 0.0.0.0	ncaudienceexchange.com
 0.0.0.0	ndparking.com
+0.0.0.0	nebulacrescent.com
 0.0.0.0	nedstatbasic.net
 0.0.0.0	needlessnorth.com
 0.0.0.0	needyneedle.com
@@ -2997,6 +3026,7 @@
 0.0.0.0	nhpfvdlbjg.com
 0.0.0.0	nitratory.com
 0.0.0.0	nitroclicks.com
+0.0.0.0	nocturnalloom.com
 0.0.0.0	noiselessplough.com
 0.0.0.0	nondescriptcrowd.com
 0.0.0.0	nondescriptnote.com
@@ -3098,6 +3128,7 @@
 0.0.0.0	optmstr.com
 0.0.0.0	optnmstr.com
 0.0.0.0	optnx.com
+0.0.0.0	orientedargument.com
 0.0.0.0	orionember.com
 0.0.0.0	ostr.io
 0.0.0.0	ota.cartrawler.com
@@ -3208,6 +3239,7 @@
 0.0.0.0	pixel.yabidos.com
 0.0.0.0	placed.com
 0.0.0.0	placeframe.com
+0.0.0.0	placidactivity.com
 0.0.0.0	plardi.com
 0.0.0.0	plausible.mangadex.org
 0.0.0.0	plausibleio.workers.dev
@@ -3246,6 +3278,7 @@
 0.0.0.0	porntrack.com
 0.0.0.0	possessivebucket.com
 0.0.0.0	possibleboats.com
+0.0.0.0	possiblepencil.com
 0.0.0.0	post.spmailtechno.com
 0.0.0.0	postback.iqm.com
 0.0.0.0	postrelease.com
@@ -3547,6 +3580,7 @@
 0.0.0.0	safeanalytics.net
 0.0.0.0	sageanalyst.net
 0.0.0.0	sail-horizon.com
+0.0.0.0	samplesamba.com
 0.0.0.0	samsungacr.com
 0.0.0.0	samsungads.com
 0.0.0.0	sanalytics.disneyplus.com
@@ -3565,6 +3599,7 @@
 0.0.0.0	scaredswing.com
 0.0.0.0	scarfsmash.com
 0.0.0.0	scatteredheat.com
+0.0.0.0	scatteredquiver.com
 0.0.0.0	scintillatingscissors.com
 0.0.0.0	scintillatingsilver.com
 0.0.0.0	scintillatingspace.com
@@ -3575,6 +3610,7 @@
 0.0.0.0	scratch2cash.com
 0.0.0.0	screechingfurniture.com
 0.0.0.0	screechingslip.com
+0.0.0.0	screechingstocking.com
 0.0.0.0	screechingstove.com
 0.0.0.0	scripte-monster.de
 0.0.0.0	scrubswim.com
@@ -3656,6 +3692,7 @@
 0.0.0.0	simpleanalytics.io
 0.0.0.0	simplehitcounter.com
 0.0.0.0	simpli.fi
+0.0.0.0	simulateswing.com
 0.0.0.0	sincerebuffalo.com
 0.0.0.0	sincerespy.com
 0.0.0.0	sinoa.com
@@ -3707,6 +3744,7 @@
 0.0.0.0	socialspark.com
 0.0.0.0	softclick.com.br
 0.0.0.0	soggysponge.com
+0.0.0.0	soggyzoo.com
 0.0.0.0	sombersea.com
 0.0.0.0	sombersquirrel.com
 0.0.0.0	sombersurprise.com
@@ -3821,6 +3859,7 @@
 0.0.0.0	steadfastsystem.com
 0.0.0.0	steelhouse.com
 0.0.0.0	steelhousemedia.com
+0.0.0.0	steepscale.com
 0.0.0.0	stepplane.com
 0.0.0.0	stickssheep.com
 0.0.0.0	stickyadstv.com
@@ -4026,6 +4065,7 @@
 0.0.0.0	track.addevent.com
 0.0.0.0	track.adform.net
 0.0.0.0	track.anchorfree.com
+0.0.0.0	track.canva.com
 0.0.0.0	track.contently.com
 0.0.0.0	track.effiliation.com
 0.0.0.0	track.flexlinks.com
@@ -4138,6 +4178,7 @@
 0.0.0.0	traildelsfars.com
 0.0.0.0	traktrafficflow.com
 0.0.0.0	tranquilcanyon.com
+0.0.0.0	tranquilplume.com
 0.0.0.0	tranquilside.com
 0.0.0.0	travis.bosscasinos.com
 0.0.0.0	traytouch.com
@@ -4207,6 +4248,7 @@
 0.0.0.0	unbecominglamp.com
 0.0.0.0	understoodocean.com
 0.0.0.0	undertone.com
+0.0.0.0	unidentifiedanalytics.web.app
 0.0.0.0	universcine.com
 0.0.0.0	unknowntray.com
 0.0.0.0	unless.com
@@ -4263,6 +4305,7 @@
 0.0.0.0	verticalmass.com
 0.0.0.0	vervewireless.com
 0.0.0.0	vibrantmedia.com
+0.0.0.0	vibrantsundown.com
 0.0.0.0	vid.pubmatic.com
 0.0.0.0	vidcpm.com
 0.0.0.0	video-stats.video.google.com
@@ -4459,6 +4502,7 @@
 0.0.0.0	zencudo.co.uk
 0.0.0.0	zenkreka.com
 0.0.0.0	zenzuu.com
+0.0.0.0	zephyrlabyrinth.com
 0.0.0.0	zeus.developershed.com
 0.0.0.0	zeusclicks.com
 0.0.0.0	zion-telemetry.api.cnn.io
