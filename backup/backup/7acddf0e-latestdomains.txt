@@ -1,5 +1,5 @@
 # https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# Backed up on: 2024-10-17
+# Backed up on: 2025-02-06
 
 0.0.0.0	00zyku.com
 0.0.0.0	0124logistics.com
@@ -902,6 +902,7 @@
 0.0.0.0	braam.com.br
 0.0.0.0	bracbank.info
 0.0.0.0	braceletsupplier.com
+0.0.0.0	bradescu.com
 0.0.0.0	bradleyinstitute.co.za
 0.0.0.0	brainstormvc.me
 0.0.0.0	bramaleaorthopedics.ca
@@ -1418,6 +1419,7 @@
 0.0.0.0	cypressbrook.com
 0.0.0.0	d-cem.com
 0.0.0.0	d-rco.duckdns.org
+0.0.0.0	d.kma.kz
 0.0.0.0	d.top4top.io
 0.0.0.0	d2.tokendl001.com
 0.0.0.0	d2.udashi.com
@@ -3115,6 +3117,7 @@
 0.0.0.0	k-mart.co.in
 0.0.0.0	k-service.spb.ru
 0.0.0.0	k0pla.com
+0.0.0.0	k2ygoods.top
 0.0.0.0	kaartinen.org
 0.0.0.0	kabderrick.skmbugagroup.com
 0.0.0.0	kachetemarketing.com
@@ -3794,6 +3797,7 @@
 0.0.0.0	microsoft-cloud15.co.za
 0.0.0.0	microsoft-cloud8.co.za
 0.0.0.0	microsoft-cloud9.co.za
+0.0.0.0	microsoftcomdefenderupdate.vercel.app
 0.0.0.0	microsoftvirutalmachinefilesafetytransf.duckdns.org
 0.0.0.0	microtechnology.hk
 0.0.0.0	mikeflavell.com
@@ -5358,6 +5362,7 @@
 0.0.0.0	soomaal.softuvo.xyz
 0.0.0.0	sophiesreview.com
 0.0.0.0	sopk.kz
+0.0.0.0	soportegira.net
 0.0.0.0	soprocerto.pt
 0.0.0.0	soroptimist-international-muenster.de
 0.0.0.0	soslegal.com.pe
@@ -5884,6 +5889,7 @@
 0.0.0.0	topper.morfey.by
 0.0.0.0	topsdemo.co.in
 0.0.0.0	topshelfcasino.com
+0.0.0.0	topsoft.info
 0.0.0.0	toraech.com
 0.0.0.0	torchonwaterproofing.co.nz
 0.0.0.0	torshshop.ir
@@ -6478,6 +6484,7 @@
 0.0.0.0	www.back-control.de
 0.0.0.0	www.bap-host.com
 0.0.0.0	www.barzdigital.com
+0.0.0.0	www.bclick.com.br
 0.0.0.0	www.beiletoys.com
 0.0.0.0	www.bereketsutesisatcisi.com
 0.0.0.0	www.bestminesweeper.com
@@ -6858,6 +6865,7 @@
 0.0.0.0	www.swapkit.ie
 0.0.0.0	www.sxhxrj.com
 0.0.0.0	www.sys321.com
+0.0.0.0	www.system-corporation.com
 0.0.0.0	www.szhealthshield.com
 0.0.0.0	www.taxicabsrilanka.com
 0.0.0.0	www.taylordbackups.com

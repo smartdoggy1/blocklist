@@ -1,5 +1,10 @@
 (^|\.)(doubleclick|trafficjunky|algolia)\.net$
 (^|\.)(qualtrics|tremorhub|algolianet)\.com$
+(^|\.)adsco\.re$
+(^|\.)ingest\.sentry\.io$
 (^|\.)intercom\.io$
 (^|\.)online-metrix\.(net|com)$
 (ads|austin|data|logs|track)\.roku\.com$
+.*\-panelresearch\.googlevideo\.com$
+.*\.shop$
+\.adn\..*cdn\.net
