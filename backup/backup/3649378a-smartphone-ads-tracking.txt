@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
-# Backed up on: 2022-04-08
+# Backed up on: 2025-08-07
 
 0.0.0.0	0.fls.doubleclick.net
 0.0.0.0	00.fls.doubleclick.net
@@ -2228,7 +2228,6 @@
 0.0.0.0	livecheck.yourbetterofferfinal.best
 0.0.0.0	livefyre.com
 0.0.0.0	lkhb.cloud.avg.com
-0.0.0.0	lm.facebook.com
 0.0.0.0	loc.map.baidu.com
 0.0.0.0	loc.sc-jpl.com
 0.0.0.0	loca.sc-jpl.com

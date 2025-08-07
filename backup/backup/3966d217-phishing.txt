@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
-# Backed up on: 2023-02-24
+# Backed up on: 2025-08-07
 
 0.0.0.0	0.01.2.13.3.sydneypropertyinvestors.com
 0.0.0.0	0.01.2.23.3.sydneypropertyinvestors.com
@@ -4445,7 +4445,6 @@
 0.0.0.0	afcdallas.com
 0.0.0.0	afconsultingagent.lk
 0.0.0.0	afcoshockdoctor.com.au
-0.0.0.0	afd.fr
 0.0.0.0	afdata.com
 0.0.0.0	afdcadasd.000webhostapp.com
 0.0.0.0	afecto.cl
@@ -4574,7 +4573,6 @@
 0.0.0.0	after-dinner-frigat.000webhostapp.com
 0.0.0.0	after3theatre.org
 0.0.0.0	afterlifeindustries.com
-0.0.0.0	aftership.com
 0.0.0.0	afterwork.com.au
 0.0.0.0	aftlight.com
 0.0.0.0	aftu.com.au
@@ -7391,7 +7389,6 @@
 0.0.0.0	andalnetconsultpost201.ml
 0.0.0.0	andaluciaempresarial.com
 0.0.0.0	andaniandpartners.com
-0.0.0.0	andapangasinan.gov.ph
 0.0.0.0	andasuvi.com.br
 0.0.0.0	andat.com.vn
 0.0.0.0	andean-receipt.000webhostapp.com
@@ -7997,7 +7994,6 @@
 0.0.0.0	apapple.com
 0.0.0.0	aparatosolucoes.com.br
 0.0.0.0	aparet.ml
-0.0.0.0	aparriwaterdistrict.gov.ph
 0.0.0.0	apartamentoenvalencia.com.ve
 0.0.0.0	apartamentosadriana.com.br
 0.0.0.0	apartamentoturisticogranada.es
@@ -8390,7 +8386,6 @@
 0.0.0.0	app.no.applefaktur13.aes2applefaktur.ml
 0.0.0.0	app.pessoafisica.exclusiva.prime.private.tssl.com.br
 0.0.0.0	app.pngsgold.com
-0.0.0.0	app.powerbigov.us
 0.0.0.0	app.rickshawrides.in
 0.0.0.0	app.riolabz.com
 0.0.0.0	app.salmacorp.net
@@ -9523,7 +9518,6 @@
 0.0.0.0	appledefense.com
 0.0.0.0	appledegisim.com
 0.0.0.0	appledent.com
-0.0.0.0	appledetails.u
 0.0.0.0	appledevice-find.com
 0.0.0.0	appledevicescom.com
 0.0.0.0	appledevs.com
@@ -14182,7 +14176,6 @@
 0.0.0.0	balangankab.go.id
 0.0.0.0	balanrealty.com
 0.0.0.0	balaw.ec
-0.0.0.0	balaymalaueg.gov.ph
 0.0.0.0	balazhimim.id
 0.0.0.0	balba.mx
 0.0.0.0	balbaki.com
@@ -15882,7 +15875,6 @@
 0.0.0.0	bessiesim.club
 0.0.0.0	best-air.co.il
 0.0.0.0	best-battleup.gq
-0.0.0.0	best-cons.ru
 0.0.0.0	best-detox.com
 0.0.0.0	best-digital-slr-cameras.com
 0.0.0.0	best-drop.me
@@ -17330,7 +17322,6 @@
 0.0.0.0	blog.berniagabagus.com
 0.0.0.0	blog.breakawaymedia.com
 0.0.0.0	blog.brm-inc.com
-0.0.0.0	blog.btdeployments.cu.m
 0.0.0.0	blog.btdeployments.cu.ma
 0.0.0.0	blog.buildingselfconfidence.co.uk
 0.0.0.0	blog.carmenloven.si
@@ -19667,7 +19658,6 @@
 0.0.0.0	bylinky.biz
 0.0.0.0	byliza.com
 0.0.0.0	bylka.com
-0.0.0.0	byloth.net
 0.0.0.0	bymabogados.cl
 0.0.0.0	bymail.cl
 0.0.0.0	byonmath.com
@@ -19977,7 +19967,6 @@
 0.0.0.0	cal-maxtransport.com
 0.0.0.0	calabashawnings.co.uk
 0.0.0.0	caladrius.com.au
-0.0.0.0	calambamisocc.gov.ph
 0.0.0.0	calametal.com
 0.0.0.0	calaosafari.com
 0.0.0.0	calaproduct.com
@@ -20579,7 +20568,6 @@
 0.0.0.0	cardisease.com
 0.0.0.0	cardnanny.com
 0.0.0.0	cardoctormobile.com
-0.0.0.0	cardonarizal.gov.ph
 0.0.0.0	cardozos.com
 0.0.0.0	cardplanetindia.com
 0.0.0.0	cardplumbing.com
@@ -21405,7 +21393,6 @@
 0.0.0.0	cdn-myappstoreservice.com
 0.0.0.0	cdn-outlook.email
 0.0.0.0	cdn.runescape.com.sd3.pw
-0.0.0.0	cdn2.hubspot.net
 0.0.0.0	cdntrungbo.edu.vn
 0.0.0.0	cdnusercontent.men
 0.0.0.0	cdodtnyty.odyuhua.maxgrowth.ru
@@ -23365,7 +23352,6 @@
 0.0.0.0	cinemanetflix.com
 0.0.0.0	cinemania.us
 0.0.0.0	cinemanity.com
-0.0.0.0	cinemazed.be
 0.0.0.0	cinemiz.net
 0.0.0.0	cineredsocial.com
 0.0.0.0	cinexfilm.com
@@ -25244,7 +25230,6 @@
 0.0.0.0	confairs.com
 0.0.0.0	confeccoesegito.com.br
 0.0.0.0	confeiruna.com
-0.0.0.0	conferences.sigcomm.org
 0.0.0.0	conferma-amazon.com
 0.0.0.0	confermazione-info-update.it
 0.0.0.0	confetti.com.co
@@ -26536,7 +26521,6 @@
 0.0.0.0	credimeta.com
 0.0.0.0	credinnova.pe
 0.0.0.0	credit-agricole-alert.com
-0.0.0.0	credit-agricole.fr
 0.0.0.0	credit-agricolefrance.ga
 0.0.0.0	credit-card-information.elliottback.com
 0.0.0.0	credit-cusb.com
@@ -31889,7 +31873,6 @@
 0.0.0.0	dulcimpbordados.com.br
 0.0.0.0	duldi.com
 0.0.0.0	duluxshop.lk
-0.0.0.0	dumalinao.gov.ph
 0.0.0.0	dumalnquicaires.com
 0.0.0.0	dumancy.pl
 0.0.0.0	dumationnaure.cf
@@ -34308,7 +34291,6 @@
 0.0.0.0	enelssd.mambo.co.ke
 0.0.0.0	enem.ulbratorres.com.br
 0.0.0.0	enemy.pbphgwbr.in
-0.0.0.0	enercal.nc
 0.0.0.0	enercei.it
 0.0.0.0	enercomrocksalt.com
 0.0.0.0	enerdataonline.com
@@ -43405,7 +43387,6 @@
 0.0.0.0	goymotions.com
 0.0.0.0	goyqospy.qijvipapv.fastsize.ru
 0.0.0.0	gp-enterprise.in
-0.0.0.0	gp.org
 0.0.0.0	gpalmerandassociates.com
 0.0.0.0	gpatbd.com
 0.0.0.0	gpayconnect.com
@@ -48971,7 +48952,6 @@
 0.0.0.0	ibuyappleiphones.com
 0.0.0.0	ibuybroward.com
 0.0.0.0	ibuywilson.com
-0.0.0.0	ibx.key.com
 0.0.0.0	iby.iwob.maxgrowth.ru
 0.0.0.0	ibz.vhvpybze.in
 0.0.0.0	ic.meegmfio.in
@@ -50446,7 +50426,6 @@
 0.0.0.0	imsolutions.id
 0.0.0.0	imssupplements.com
 0.0.0.0	imstagram-log.000webhostapp.com
-0.0.0.0	imsva91-ctp.trendmicro.com
 0.0.0.0	imt-inc.com
 0.0.0.0	imtheboss.org
 0.0.0.0	imtmn.edu.bd
@@ -51078,7 +51057,6 @@
 0.0.0.0	infrc2206.000webhostapp.com
 0.0.0.0	infusion.pbphgwbr.in
 0.0.0.0	infusorian-altimete.000webhostapp.com
-0.0.0.0	ing-diba.de
 0.0.0.0	ing.inactividad.online
 0.0.0.0	ing8f7c6czvu8gf7cv9hg8.top
 0.0.0.0	ingappupdate.com
@@ -54113,7 +54091,6 @@
 0.0.0.0	jgioutdooradvertising1-my.sharepoint.com
 0.0.0.0	jgmeiring.us
 0.0.0.0	jgnb.000webhostapp.com
-0.0.0.0	jgorka.pl
 0.0.0.0	jgphillips333.000webhostapp.com
 0.0.0.0	jgregori.icu
 0.0.0.0	jgtuh.duckdns.org
@@ -57514,7 +57491,6 @@
 0.0.0.0	kurularinsaat.com.tr
 0.0.0.0	kurwa-mac.com
 0.0.0.0	kurz-permanentmakeup.sk
-0.0.0.0	kurzelinks.de
 0.0.0.0	kuser.usa.cc
 0.0.0.0	kushadangahs.edu.bd
 0.0.0.0	kushalengineersinc.com
@@ -57733,7 +57709,6 @@
 0.0.0.0	labanquepostale.fr.informations-personnelles008.com
 0.0.0.0	labanquepostale.fr.kenandkentlawyers.com
 0.0.0.0	labares.com.br
-0.0.0.0	labason.gov.ph
 0.0.0.0	labdaiven.com
 0.0.0.0	labelgallery.net
 0.0.0.0	labelkaret.com
@@ -58632,7 +58607,6 @@
 0.0.0.0	ldcwatch.org
 0.0.0.0	ldcx.market
 0.0.0.0	ldcxmanket.com
-0.0.0.0	ldex.exchange
 0.0.0.0	ldexmarket.com
 0.0.0.0	ldfa.ml
 0.0.0.0	ldgsx9yg0l2ukppof9ni.utahelkwhisperer.com
@@ -69168,7 +69142,6 @@
 0.0.0.0	nab.activateaccount.info
 0.0.0.0	nab.bank-confirmation.in
 0.0.0.0	nab.bank-verification.info
-0.0.0.0	nab.com.au
 0.0.0.0	nab.com.au-66c28750.national-australia-bank-179602f4.3inatree.com.au
 0.0.0.0	nab.com.au.device-confirm.services
 0.0.0.0	nab.com.au.lawrencepur.com
@@ -69727,7 +69700,6 @@
 0.0.0.0	ncorecreative.com
 0.0.0.0	ncp.kjukenhi.in
 0.0.0.0	ncqcqh.com
-0.0.0.0	ncr.csc.gov.ph
 0.0.0.0	ncrealestatedata.com
 0.0.0.0	ncrefrigeracao.com.br
 0.0.0.0	ncrgifts.com
@@ -69781,7 +69753,6 @@
 0.0.0.0	ne.xaoujti.maxgrowth.ru
 0.0.0.0	ne1co.info
 0.0.0.0	ne2beroas.godaddysites.com
-0.0.0.0	nea.gov.ph
 0.0.0.0	neagenea.gr
 0.0.0.0	neaindustrias.com
 0.0.0.0	neajrmcl.tk
@@ -70366,7 +70337,6 @@
 0.0.0.0	netflixproo.com
 0.0.0.0	netflixquebec.com
 0.0.0.0	netflixrate.com
-0.0.0.0	netflixreality.com
 0.0.0.0	netflixreanimate.com
 0.0.0.0	netflixrecadastro.com
 0.0.0.0	netflixrehberi.com
@@ -72016,7 +71986,6 @@
 0.0.0.0	npmghs.edu.bd
 0.0.0.0	npoforum.ru
 0.0.0.0	npp89.ddnsgeek.com
-0.0.0.0	nppa.com.au
 0.0.0.0	npumatlanta.org
 0.0.0.0	npv.com.ve
 0.0.0.0	npvkdy.site
@@ -77119,7 +77088,6 @@
 0.0.0.0	paypal.com.ma.cgi.bin.webscr.cmd.flow.session.ok-dui.com
 0.0.0.0	paypal.com.mushasconsult.com
 0.0.0.0	paypal.com.myaccount.validation.der.iatxmjzqhibe81zwertghuhjfdeessdffghhjjjkk.bufrtgdsfggrwwssrr.fzzy7nidicadefnalea-center.com
-0.0.0.0	paypal.com.myaccount.validation.der.iatxmjzqhibe81zwertghuhjfdeessdffghhjjjkk.bufrtgdsfggrwwssrr.fzzy7nidicadefnalea-center.com.
 0.0.0.0	paypal.com.myaccount.verification.authentication.account.notification.account.update.secure.account-stats.com.blesuites.com
 0.0.0.0	paypal.com.notice.update.account.4242578.rinduberat.com
 0.0.0.0	paypal.com.open-case-id-4512-5521-4586-9965.com
@@ -77143,7 +77111,6 @@
 0.0.0.0	paypal.com.update.token.x0twl1mck7p4auyq8bf3.service.loisirs77.fr
 0.0.0.0	paypal.com.upgrade.information.account.securitychecking.sinobest-ltd.com.hk
 0.0.0.0	paypal.com.us.continue.myaccount.account.active.login.us.intl.internationa.transfer.now.login.myaccount.account.active.login.us
-0.0.0.0	paypal.com.us.continue.myaccount.account.active.login.us.intl.internationa.transfer.now.login.myaccount.account.active.login.us.
 0.0.0.0	paypal.com.user-id568545.update-to-date.duckdns.org
 0.0.0.0	paypal.com.verif-case-id-2220-7773-6664-5145.com
 0.0.0.0	paypal.com.verif-id-030319.com
@@ -78101,7 +78068,6 @@
 0.0.0.0	pennshillsoap.com
 0.0.0.0	pennstatenotary.com
 0.0.0.0	pennsylvanian-drawe.000webhostapp.com
-0.0.0.0	pennymac.com
 0.0.0.0	pennyy.tk
 0.0.0.0	penopedia.com
 0.0.0.0	penproduction.ro
@@ -80341,7 +80307,6 @@
 0.0.0.0	postesysuperpostes.com
 0.0.0.0	postfinance-kontrolle.com
 0.0.0.0	postfinance-onlinebanking-e-finance.boostvibes.ch
-0.0.0.0	postfinance.ch
 0.0.0.0	postfinance3dsecure.ch
 0.0.0.0	postgradgrays.com
 0.0.0.0	postgrado.udec.cl
@@ -80613,7 +80578,6 @@
 0.0.0.0	pradeepnairphotography.com
 0.0.0.0	pradeepsingh.in
 0.0.0.0	pradel-artistecontemporain.fr
-0.0.0.0	pradelletorri.it
 0.0.0.0	pradomotos.com.br
 0.0.0.0	praet.gq
 0.0.0.0	praf.ru
@@ -81704,7 +81668,6 @@
 0.0.0.0	prospectscientific.com
 0.0.0.0	prosperbizdepot.com
 0.0.0.0	prosperchannel.com
-0.0.0.0	prosperidad.gov.ph
 0.0.0.0	prosperous.szlftjcm.in
 0.0.0.0	prossrtys.000webhostapp.com
 0.0.0.0	prostarwiki.com
@@ -84496,8 +84459,6 @@
 0.0.0.0	reginaldthompson.net
 0.0.0.0	regiojardines.com
 0.0.0.0	regiollanta.mx
-0.0.0.0	region12.dilg.gov.ph
-0.0.0.0	region3.dilg.gov.ph
 0.0.0.0	regionkozla.pl
 0.0.0.0	regionmaya.com.mx
 0.0.0.0	regionmorges.ch
@@ -84821,7 +84782,6 @@
 0.0.0.0	renovarapometria.com
 0.0.0.0	renovation4all.gr
 0.0.0.0	renovationkingdom.com
-0.0.0.0	renovationkingdom.com.au
 0.0.0.0	renovationsincalgary.com
 0.0.0.0	renowala.com
 0.0.0.0	renownunited.com.au
@@ -85173,7 +85133,6 @@
 0.0.0.0	retreg.duckdns.org
 0.0.0.0	retrievalmagnetics.com
 0.0.0.0	retriever.pbphgwbr.in
-0.0.0.0	retro-bit.com
 0.0.0.0	retroamusements.com.au
 0.0.0.0	retrobacklore.net
 0.0.0.0	retrodungeon.net
@@ -85411,7 +85370,6 @@
 0.0.0.0	rhriss.com.br
 0.0.0.0	rhrossi.com.br
 0.0.0.0	rhsdfgal99.usa.cc
-0.0.0.0	rhsgroup.ro
 0.0.0.0	rht-ezwp.karthost.xyz
 0.0.0.0	rhutucxuopmkjkg.nut.cc
 0.0.0.0	rhymeless-delight.000webhostapp.com
@@ -86211,7 +86169,6 @@
 0.0.0.0	romarestaurantbridgwater.co.uk
 0.0.0.0	romastone.vn
 0.0.0.0	romblon.esti.edu.ph
-0.0.0.0	romblonwaterdistrict.gov.ph
 0.0.0.0	rome-apartments-it.com
 0.0.0.0	romehigie.com.br
 0.0.0.0	romeo.3.goodway.phenixcustomers.co.uk
@@ -92048,7 +92005,6 @@
 0.0.0.0	shrisha.co.in
 0.0.0.0	shritirlokpuri.com
 0.0.0.0	shrivelled-print.000webhostapp.com
-0.0.0.0	shrtm.nu
 0.0.0.0	shs.grafixreview.com
 0.0.0.0	shsceo.com
 0.0.0.0	shsh-rental.net
@@ -93352,7 +93308,6 @@
 0.0.0.0	smarttraders.co.in
 0.0.0.0	smartube.vn
 0.0.0.0	smartunique.com
-0.0.0.0	smarturl.it
 0.0.0.0	smartwaysolutions.in
 0.0.0.0	smartwearsales.com
 0.0.0.0	smartweb.pt
@@ -98338,7 +98293,6 @@
 0.0.0.0	taladkhao.com
 0.0.0.0	taladrizcargo.cl
 0.0.0.0	talagram.ir
-0.0.0.0	talaingod.gov.ph
 0.0.0.0	talak.usa.cc
 0.0.0.0	talal-int.com
 0.0.0.0	talamos.co.il
@@ -100815,7 +100769,6 @@
 0.0.0.0	tianweihk.com
 0.0.0.0	tianyingsport.com
 0.0.0.0	tianyuwenxue.zzcn.org
-0.0.0.0	tiaongwaterdistrict.gov.ph
 0.0.0.0	tiara.szlftjcm.in
 0.0.0.0	tiaradewi827.000webhostapp.com
 0.0.0.0	tiasentosa.co.id
@@ -101989,7 +101942,6 @@
 0.0.0.0	transactionlimited-paypal.com
 0.0.0.0	transactionvalet.com
 0.0.0.0	transaktual.com
-0.0.0.0	transamericaannuities.com.login.login.aspx.profile.web.ssocontroller.cmd.ssoresume.idpxuhs3.resumesaml20.idp.sso.pingspentityft.
 0.0.0.0	transazimut.ru
 0.0.0.0	transbiblica.org
 0.0.0.0	transcarriersltd.com
@@ -104630,7 +104582,6 @@
 0.0.0.0	usaa.com-sec-inet-auth-logon-ent-logon-logon-redirectjsp8774.oceanvibes.com.au
 0.0.0.0	usaa.com.alert.bin-accountverification.onlinebanking.com.alhodhud.com
 0.0.0.0	usaa.com.inet.entlogon.logon.redirectjsp.ef4bce064403e276e26b792bda81c384ce09593b819e632a1.3923ef2c8955cookieid112824nosde.baove
-0.0.0.0	usaa.com.inet.entlogon.logon.redirectjsp.ef4bce064403e276e26b792bda81c384ce09593b819e632a1.3923ef2c8955cookieid112824nosdeasd.23
 0.0.0.0	usaa.com.inet.entlogon.logon.redirectjsp.true.details.refererident.srinics.com.au
 0.0.0.0	usaa.com.login-systemsecurity-securityvalidati-verify.twoguysandawebsite.com
 0.0.0.0	usaa.com.rtsth.ltd
@@ -113383,7 +113334,6 @@
 0.0.0.0	www.afatrading.co.ke
 0.0.0.0	www.afconsultingagent.lk
 0.0.0.0	www.afcoshockdoctor.com.au
-0.0.0.0	www.afd.fr
 0.0.0.0	www.afdata.com
 0.0.0.0	www.afdcadasd.000webhostapp.com
 0.0.0.0	www.afecto.cl
@@ -115694,7 +115644,6 @@
 0.0.0.0	www.andakara.com
 0.0.0.0	www.andalbagat.net
 0.0.0.0	www.andaniandpartners.com
-0.0.0.0	www.andapangasinan.gov.ph
 0.0.0.0	www.andasuvi.com.br
 0.0.0.0	www.andean-receipt.000webhostapp.com
 0.0.0.0	www.andeankingdomhuaraz.com
@@ -116104,7 +116053,6 @@
 0.0.0.0	www.anz.com.inetbank.bankmain.2fa-sec.com
 0.0.0.0	www.anz.com.inetbank.bankmain.2faverify.com
 0.0.0.0	www.anz.sch.id
-0.0.0.0	www.anz.services.com-6159368de39251d7a-login.id.security.trackid.piwikb7c1867dd7ba9c57.42852106be93c1ba151be6947208b67c.lyrittn.
 0.0.0.0	www.anzei.org
 0.0.0.0	www.anzotherm.hu
 0.0.0.0	www.anzs-bersatu.myjino.ru
@@ -116148,7 +116096,6 @@
 0.0.0.0	www.apalkf.cf
 0.0.0.0	www.apapple.com
 0.0.0.0	www.aparnasinha.com
-0.0.0.0	www.aparriwaterdistrict.gov.ph
 0.0.0.0	www.apartamentosasturias.net
 0.0.0.0	www.apartamentoturisticogranada.es
 0.0.0.0	www.apartcar.com.ar
@@ -121083,7 +121030,6 @@
 0.0.0.0	www.balasdecocoribeirao.com.br
 0.0.0.0	www.balatonmeats.com
 0.0.0.0	www.balaw.ec
-0.0.0.0	www.balaymalaueg.gov.ph
 0.0.0.0	www.balazhimim.id
 0.0.0.0	www.balba.mx
 0.0.0.0	www.balbet.ro
@@ -121427,7 +121373,6 @@
 0.0.0.0	www.barclaycard-credit-cards.com
 0.0.0.0	www.barclaycard-deutschland-sicherheit.info
 0.0.0.0	www.barclaycard.co.uk-online-customers-personal-support-privacy-policy.fletcherfarmfoundation.org
-0.0.0.0	www.barclaycard.co.uk-personal-codeb6259568de39651d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675780483825.exaways.c
 0.0.0.0	www.barclayroeder.com
 0.0.0.0	www.barclays-ae.com
 0.0.0.0	www.barclays-bank.info
@@ -122294,7 +122239,6 @@
 0.0.0.0	www.bespokemediadubai.com
 0.0.0.0	www.bessiesim.club
 0.0.0.0	www.best-air.co.il
-0.0.0.0	www.best-cons.ru
 0.0.0.0	www.best-detox.com
 0.0.0.0	www.best-digital-slr-cameras.com
 0.0.0.0	www.best-drop.me
@@ -124962,7 +124906,6 @@
 0.0.0.0	www.byginobianchi.com
 0.0.0.0	www.byktol.com
 0.0.0.0	www.byliza.com
-0.0.0.0	www.byloth.net
 0.0.0.0	www.bymabogados.cl
 0.0.0.0	www.bymail.cl
 0.0.0.0	www.bynow.com.br
@@ -125174,7 +125117,6 @@
 0.0.0.0	www.cal-family.com
 0.0.0.0	www.calabashawnings.co.uk
 0.0.0.0	www.caladrius.com.au
-0.0.0.0	www.calambamisocc.gov.ph
 0.0.0.0	www.calamo.org.mx
 0.0.0.0	www.calaosafari.com
 0.0.0.0	www.calaproduct.com
@@ -125612,7 +125554,6 @@
 0.0.0.0	www.cardionova.in
 0.0.0.0	www.cardnanny.com
 0.0.0.0	www.cardoctormobile.com
-0.0.0.0	www.cardonarizal.gov.ph
 0.0.0.0	www.cardozos.com
 0.0.0.0	www.cardplanetindia.com
 0.0.0.0	www.cardplumbing.com
@@ -128943,7 +128884,6 @@
 0.0.0.0	www.conservational-book.000webhostapp.com
 0.0.0.0	www.conservativebabylon.com
 0.0.0.0	www.conservativetones.com
-0.0.0.0	www.conservatorio.tn.it
 0.0.0.0	www.conservatoriodemotril.com
 0.0.0.0	www.conserved-downgrade.000webhostapp.com
 0.0.0.0	www.consignadosantander.com.br
@@ -133207,7 +133147,6 @@
 0.0.0.0	www.dulp.ru
 0.0.0.0	www.duluti.com.br
 0.0.0.0	www.duluxshop.lk
-0.0.0.0	www.dumalinao.gov.ph
 0.0.0.0	www.dumbplans.gq
 0.0.0.0	www.dumbplans.ml
 0.0.0.0	www.dumbrell.com
@@ -134821,7 +134760,6 @@
 0.0.0.0	www.enecalcados.com
 0.0.0.0	www.enelssd.mambo.co.ke
 0.0.0.0	www.enem.ulbratorres.com.br
-0.0.0.0	www.enercal.nc
 0.0.0.0	www.enercei.it
 0.0.0.0	www.enercomrocksalt.com
 0.0.0.0	www.enerdataonline.com
@@ -138325,7 +138263,6 @@
 0.0.0.0	www.fototheka.pl
 0.0.0.0	www.fotozas.ca
 0.0.0.0	www.foukart.com
-0.0.0.0	www.foundation-alliance.com
 0.0.0.0	www.foundationworldschool.com
 0.0.0.0	www.foundingpianos.com.au
 0.0.0.0	www.fountaincitywrecker.com
@@ -143358,7 +143295,6 @@
 0.0.0.0	www.https.pay-pal-it.dhxe28sde23ssf.conto-ppl.mioconto-online.it
 0.0.0.0	www.https.pay-palaccountactivation.id-9829839s837r6s4g4555s33eh23kk43.mio-conto-online.it
 0.0.0.0	www.https.paypal-it.attivailtuoconto.it
-0.0.0.0	www.https.portale-titolari-nexi-italia-online-verifica-nexi.it.infomazione.nexi-identita.conto.nexi.bp2ip.dayasinergibisnis.co.i
 0.0.0.0	www.https.secure.bank-of-america.login.sign.aepsumtzlh.underpains.duckdns.org
 0.0.0.0	www.https.secure.bank-of-america.login.sign.btbnuabqua.underpains.duckdns.org
 0.0.0.0	www.https.secure.bank-of-america.login.sign.clnsxtcsql.underpains.duckdns.org
@@ -147780,7 +147716,6 @@
 0.0.0.0	www.jginspecao.com.br
 0.0.0.0	www.jgisme.com
 0.0.0.0	www.jgnb.000webhostapp.com
-0.0.0.0	www.jgorka.pl
 0.0.0.0	www.jgphillips333.000webhostapp.com
 0.0.0.0	www.jgtuh.duckdns.org
 0.0.0.0	www.jh-qweynj.ga
@@ -150105,7 +150040,6 @@
 0.0.0.0	www.lab2a.ma
 0.0.0.0	www.labanquepostale-securitee.com
 0.0.0.0	www.labanquepostale.fr.kenandkentlawyers.com
-0.0.0.0	www.labason.gov.ph
 0.0.0.0	www.labbet.fi
 0.0.0.0	www.labelgallery.net
 0.0.0.0	www.labella-lodge.com
@@ -151999,10 +151933,7 @@
 0.0.0.0	www.login.microsoftonline-idnoxa1-19031.worldmoneytransfer.pl
 0.0.0.0	www.login.microsoftonline.com.auth.jamentrust.org
 0.0.0.0	www.login.microsoftonline.com.common.account.oauth22.authorizeclient.id.4345a7b9.9a63.4910.a426.35363201d503.thriveconsulting.ne
-0.0.0.0	www.login.microsoftonline.com.common.oauth2.authorize.clientid4345a7b9.9a63.4910.a426-35363201d503.response.spreadsheetlimited.c
-0.0.0.0	www.login.microsoftonline.com.common.oauth2.authorize.clientid4345a7b99a634910a42635363201d503.response.mode.form.postresponse.t
 0.0.0.0	www.login.microsoftonline.com.common.oauth2.authorize.xcees.org
-0.0.0.0	www.login.microsoftonline.com.common8u75xfbqf19f91pahcgi6qsaw.authorizef91pahcgi6qsawvsxkv0ik2m1btdsy.oauth278ce259pkh6jtcee8u75
 0.0.0.0	www.login.microsoftonline.com.muvimov.net
 0.0.0.0	www.login.microsoftonline.comcommonoauth2authorize.edlorm.com
 0.0.0.0	www.login.orlandotrucksales.com
@@ -158410,7 +158341,6 @@
 0.0.0.0	www.netflixproo.com
 0.0.0.0	www.netflixquebec.com
 0.0.0.0	www.netflixrate.com
-0.0.0.0	www.netflixreality.com
 0.0.0.0	www.netflixreanimate.com
 0.0.0.0	www.netflixrecadastro.com
 0.0.0.0	www.netflixrehberi.com
@@ -163014,7 +162944,6 @@
 0.0.0.0	www.pennstatenotary.com
 0.0.0.0	www.penny-davis.com
 0.0.0.0	www.pennyforthem.com.au
-0.0.0.0	www.pennymac.com
 0.0.0.0	www.pennyy.tk
 0.0.0.0	www.penopedia.com
 0.0.0.0	www.penrax.ml
@@ -164684,7 +164613,6 @@
 0.0.0.0	www.pradeepmondal.com
 0.0.0.0	www.pradeepnairphotography.com
 0.0.0.0	www.pradeepsingh.in
-0.0.0.0	www.pradelletorri.it
 0.0.0.0	www.praf.ru
 0.0.0.0	www.pragathipatham.org
 0.0.0.0	www.pragatiivfcentre.com
@@ -165416,7 +165344,6 @@
 0.0.0.0	www.prospectscientific.com
 0.0.0.0	www.prosperbizdepot.com
 0.0.0.0	www.prosperchannel.com
-0.0.0.0	www.prosperidad.gov.ph
 0.0.0.0	www.prostatasaludable.com
 0.0.0.0	www.prostate-snip-bronchi.com
 0.0.0.0	www.prostatitiscanada.ca
@@ -167179,8 +167106,6 @@
 0.0.0.0	www.regidorpuebla.org.mx
 0.0.0.0	www.regina318.000webhostapp.com
 0.0.0.0	www.reginadorsey.com
-0.0.0.0	www.region12.dilg.gov.ph
-0.0.0.0	www.region3.dilg.gov.ph
 0.0.0.0	www.regionkozla.pl
 0.0.0.0	www.regionmaya.com.mx
 0.0.0.0	www.regishops.com
@@ -167383,7 +167308,6 @@
 0.0.0.0	www.renovarapometria.com
 0.0.0.0	www.renovation4all.gr
 0.0.0.0	www.renovationkingdom.com
-0.0.0.0	www.renovationkingdom.com.au
 0.0.0.0	www.renowala.com
 0.0.0.0	www.renren-project.eu
 0.0.0.0	www.rensalbrothers.com
@@ -167616,7 +167540,6 @@
 0.0.0.0	www.retreatatoceanview.com.au
 0.0.0.0	www.retreg.duckdns.org
 0.0.0.0	www.retrievalmagnetics.com
-0.0.0.0	www.retro-bit.com
 0.0.0.0	www.retrobacklore.net
 0.0.0.0	www.retrodungeon.net
 0.0.0.0	www.retrographics.net
@@ -167767,7 +167690,6 @@
 0.0.0.0	www.rhondanelson.com
 0.0.0.0	www.rhondayoungconsulting.com.au
 0.0.0.0	www.rhoster.com.br
-0.0.0.0	www.rhsgroup.ro
 0.0.0.0	www.rhymeless-delight.000webhostapp.com
 0.0.0.0	www.rhymercorp.com
 0.0.0.0	www.rhynooffroad.com.au
@@ -168307,7 +168229,6 @@
 0.0.0.0	www.romantulis.ca
 0.0.0.0	www.romarestaurantbridgwater.co.uk
 0.0.0.0	www.romastone.vn
-0.0.0.0	www.romblonwaterdistrict.gov.ph
 0.0.0.0	www.rome-apartments-it.com
 0.0.0.0	www.romeo.3.goodway.phenixcustomers.co.uk
 0.0.0.0	www.romeo.4.goodway.phenixcustomers.co.uk
@@ -171969,7 +171890,6 @@
 0.0.0.0	www.shrisaishardha.com
 0.0.0.0	www.shrisha.co.in
 0.0.0.0	www.shritirlokpuri.com
-0.0.0.0	www.shrtm.nu
 0.0.0.0	www.shs.grafixreview.com
 0.0.0.0	www.shsh-rental.net
 0.0.0.0	www.shshide.com
@@ -172895,7 +172815,6 @@
 0.0.0.0	www.smarttorun.pl
 0.0.0.0	www.smarttrade-investment.net
 0.0.0.0	www.smarttraders.co.in
-0.0.0.0	www.smarturl.it
 0.0.0.0	www.smartwardapp.com
 0.0.0.0	www.smartwaysolutions.in
 0.0.0.0	www.smartwearsales.com
@@ -174624,7 +174543,6 @@
 0.0.0.0	www.stor-apple.com
 0.0.0.0	www.stora-design.ru
 0.0.0.0	www.stora.contentprovider.biz
-0.0.0.0	www.storage.googleapis.com
 0.0.0.0	www.storagepinetown.co.za
 0.0.0.0	www.store-amazon.com
 0.0.0.0	www.store-apple.msk.ru
@@ -175992,7 +175910,6 @@
 0.0.0.0	www.taktonet.pl
 0.0.0.0	www.takumi-system.biz
 0.0.0.0	www.taladkhao.com
-0.0.0.0	www.talaingod.gov.ph
 0.0.0.0	www.talal-int.com
 0.0.0.0	www.talamos.co.il
 0.0.0.0	www.talampayaexc.tur.ar
@@ -177770,7 +177687,6 @@
 0.0.0.0	www.tianarafidy.ca
 0.0.0.0	www.tianyingsport.com
 0.0.0.0	www.tianyuwenxue.zzcn.org
-0.0.0.0	www.tiaongwaterdistrict.gov.ph
 0.0.0.0	www.tiaradewi827.000webhostapp.com
 0.0.0.0	www.tiasentosa.co.id
 0.0.0.0	www.tibatrade.com
@@ -180219,7 +180135,6 @@
 0.0.0.0	www.usa4shopping.com
 0.0.0.0	www.usaa-com-inet-ent-logon-logonredirectjsp-true.saiganeshsarees.com
 0.0.0.0	www.usaa.com-login-pages.id3432534641f6a850a564167e47e1fdd0fdacef8342d42f0ad67748442231.emeklilik-hesaplama.com
-0.0.0.0	www.usaa.com.inet.entlogon.logon.redirectjsp.ef4bce064403e276e26b792bda81c384ce09593b819e632a1.3923ef2c8955cookieid112824nosde.b
 0.0.0.0	www.usaa.com.inet.entlogon.logon.redirectjsp.true.details.refererident.srinics.com.au
 0.0.0.0	www.usaa.com.rtsth.ltd
 0.0.0.0	www.usaa.unas.cz
@@ -186391,7 +186306,6 @@
 0.0.0.0	www.zam.co.in
 0.0.0.0	www.zamanlar2.com
 0.0.0.0	www.zambile.ro
-0.0.0.0	www.zamboangadelsur.gov.ph
 0.0.0.0	www.zambrano1.000webhostapp.com
 0.0.0.0	www.zamburi.ro
 0.0.0.0	www.zamektoszek.eu
@@ -189562,7 +189476,6 @@
 0.0.0.0	zalghani.my
 0.0.0.0	zam.co.in
 0.0.0.0	zamanlar2.com
-0.0.0.0	zamboangadelsur.gov.ph
 0.0.0.0	zambrano1.000webhostapp.com
 0.0.0.0	zamburi.ro
 0.0.0.0	zamcnzle.fasvuqiq.maxgrowth.ru
@@ -190310,10 +190223,3 @@
 0.0.0.0	zzz.nosu.yi.org
 0.0.0.0	zzzha.com
 0.0.0.0	zzzzzqp.com
-0.0.0.0	гослуги.рф
-0.0.0.0	госсуслуга.рф
-0.0.0.0	госсуслуугии.рф
-0.0.0.0	госулуги.рф
-0.0.0.0	госуслуги-госномера.рф
-0.0.0.0	госуслуги-ру.рф
-0.0.0.0	госуспуги.рф

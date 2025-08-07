@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-# Backed up on: 2021-12-11
+# Backed up on: 2025-08-07
 
 0.0.0.0	1681.engine.mobileapptracking.com
 0.0.0.0	a-graph.facebook.com
@@ -25,7 +25,6 @@
 0.0.0.0	applvn.com
 0.0.0.0	appspot-preview.l.google.com
 0.0.0.0	ase.adserver.snapads.com
-0.0.0.0	b-api.facebook.com
 0.0.0.0	config.ioam.de
 0.0.0.0	connect.tapjoy.com
 0.0.0.0	cp.pushwoosh.com

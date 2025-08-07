@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt
-# Backed up on: 2021-09-26
+# Backed up on: 2025-08-07
 
 0.0.0.0	0-0-----------------------------------------------------------0.com
 0.0.0.0	0-google.com
@@ -9561,7 +9561,6 @@
 0.0.0.0	antivirusconsulting.com
 0.0.0.0	antiviruscontacthelp.com
 0.0.0.0	antiviruscontactnumber.co.uk
-0.0.0.0	antiviruscontactsupport.com
 0.0.0.0	antiviruscontactsupport.wordpress.com
 0.0.0.0	antiviruscontrol.date
 0.0.0.0	antiviruscontrol.download
@@ -21705,7 +21704,6 @@
 0.0.0.0	compellosupport.com
 0.0.0.0	compensation.stream
 0.0.0.0	competentusers.tk
-0.0.0.0	competera.net
 0.0.0.0	competition-from.tk
 0.0.0.0	competitionjobalert.com
 0.0.0.0	competitivenegotiation.tk
@@ -30394,7 +30392,6 @@
 0.0.0.0	dumfound.us
 0.0.0.0	dummkopf.us
 0.0.0.0	dummying.us
-0.0.0.0	dummysoftware.com
 0.0.0.0	dumpcart.us
 0.0.0.0	dumpiest.us
 0.0.0.0	dumpings.us
@@ -43826,7 +43823,6 @@
 0.0.0.0	half-past-six.tk
 0.0.0.0	halfamile.tk
 0.0.0.0	halfbadworld.com
-0.0.0.0	halftimebeverage.com
 0.0.0.0	hallucinatory.pw
 0.0.0.0	hallucinogen.pw
 0.0.0.0	hallucinoses.pw
@@ -73658,7 +73654,6 @@
 0.0.0.0	peoplehave.tk
 0.0.0.0	peopleit.tk
 0.0.0.0	peopleon.tk
-0.0.0.0	peopleperhour.com
 0.0.0.0	peopleproject.global
 0.0.0.0	peoplesaythat.tk
 0.0.0.0	peoplespending.tk
@@ -80883,7 +80878,6 @@
 0.0.0.0	secured-alerts.com
 0.0.0.0	secured-intlpaypal.com
 0.0.0.0	secured-login.info
-0.0.0.0	secured-login.net
 0.0.0.0	secured-my-account-identity.support
 0.0.0.0	secured-myaccountnow.support
 0.0.0.0	secured-myaccounts-now.support
@@ -91880,7 +91874,6 @@
 0.0.0.0	taxxsq.support
 0.0.0.0	tayasal.com
 0.0.0.0	tayassuniacin.host
-0.0.0.0	taylorandng.com
 0.0.0.0	taylorscales.com
 0.0.0.0	tbaytel.support
 0.0.0.0	tbaytelsupport.com
@@ -106229,7 +106222,6 @@
 0.0.0.0	webtechsolution.us
 0.0.0.0	webtechsupport.net
 0.0.0.0	webtechsupports.com
-0.0.0.0	webteh.hr
 0.0.0.0	webtools-tech.com
 0.0.0.0	webubisof409-online.gq
 0.0.0.0	webui_34785312.hookupss.com
@@ -106303,7 +106295,6 @@
 0.0.0.0	wefbee.com
 0.0.0.0	wefixcomputersonline.com
 0.0.0.0	weflywheel90.info
-0.0.0.0	wefunder.com
 0.0.0.0	wefundsg.com
 0.0.0.0	weguardcomputers.com
 0.0.0.0	wehad.tkwehad.tk
@@ -116160,7 +116151,6 @@
 0.0.0.0	www.antivirusconsulting.com
 0.0.0.0	www.antiviruscontacthelp.com
 0.0.0.0	www.antiviruscontactnumber.co.uk
-0.0.0.0	www.antiviruscontactsupport.com
 0.0.0.0	www.antiviruscontactsupport.wordpress.com
 0.0.0.0	www.antiviruscontrol.date
 0.0.0.0	www.antiviruscontrol.download
@@ -126028,7 +126018,6 @@
 0.0.0.0	www.comparzon.com
 0.0.0.0	www.compaysupportid.cloud
 0.0.0.0	www.compellosupport.com
-0.0.0.0	www.competera.net
 0.0.0.0	www.competitionjobalert.com
 0.0.0.0	www.competnet.com.br
 0.0.0.0	www.completeapplesolution.com
@@ -131877,7 +131866,6 @@
 0.0.0.0	www.duenotepromotion.it
 0.0.0.0	www.duetravel.com
 0.0.0.0	www.duisdale.com
-0.0.0.0	www.dummysoftware.com
 0.0.0.0	www.dumps-cvv2.com
 0.0.0.0	www.dumpsseller.com
 0.0.0.0	www.dungeonrampagehack.com
@@ -142277,7 +142265,6 @@
 0.0.0.0	www.hajminnesota.com
 0.0.0.0	www.halat-whatsapp.com
 0.0.0.0	www.halfbadworld.com
-0.0.0.0	www.halftimebeverage.com
 0.0.0.0	www.halkbankasi-ramazan-hediyeleri.com
 0.0.0.0	www.hallstrom.org
 0.0.0.0	www.halo.support
@@ -143278,7 +143265,6 @@
 0.0.0.0	www.houseofcaju.com.br
 0.0.0.0	www.housewatches.ru
 0.0.0.0	www.housewindows.net
-0.0.0.0	www.houzz.com
 0.0.0.0	www.houzz.es
 0.0.0.0	www.hovarr.com
 0.0.0.0	www.how-2-remove.com
@@ -158566,7 +158552,6 @@
 0.0.0.0	www.networksupportsystems.net
 0.0.0.0	www.networksupportsystems.org
 0.0.0.0	www.networkupdate.pw
-0.0.0.0	www.netzkino.de
 0.0.0.0	www.netzsupport.com
 0.0.0.0	www.neu-anmeldung.com
 0.0.0.0	www.neueschuheonline.com
@@ -165389,7 +165374,6 @@
 0.0.0.0	www.pentarium.com
 0.0.0.0	www.peoplecloudsupport.com
 0.0.0.0	www.peopleforplants.com.au
-0.0.0.0	www.peopleperhour.com
 0.0.0.0	www.peopleproject.global
 0.0.0.0	www.peoplesaythat.tk
 0.0.0.0	www.peoplesearchlookups.com
@@ -170690,7 +170674,6 @@
 0.0.0.0	www.secured-alerts.com
 0.0.0.0	www.secured-intlpaypal.com
 0.0.0.0	www.secured-login.info
-0.0.0.0	www.secured-login.net
 0.0.0.0	www.secured-myaccounts-now.support
 0.0.0.0	www.secured-onedrive.com
 0.0.0.0	www.secured-tls-locked-detected-cloud-id-services.com
@@ -172392,7 +172375,6 @@
 0.0.0.0	www.sleekwriters.org
 0.0.0.0	www.sleepgood24.ru
 0.0.0.0	www.slickdeals.online
-0.0.0.0	www.slideshare.net
 0.0.0.0	www.slim-coaching.fr
 0.0.0.0	www.slimasupport.com
 0.0.0.0	www.slimatrexnorway.com
@@ -178587,7 +178569,6 @@
 0.0.0.0	www.taxxpackagesupport.com
 0.0.0.0	www.taxxsq.support
 0.0.0.0	www.tayasal.com
-0.0.0.0	www.taylorandng.com
 0.0.0.0	www.taylorscales.com
 0.0.0.0	www.tayyipoto.com.tr
 0.0.0.0	www.tazhenkaol.info
@@ -190336,7 +190317,6 @@
 0.0.0.0	www.webtechsolution.us
 0.0.0.0	www.webtechsupport.net
 0.0.0.0	www.webtechsupports.com
-0.0.0.0	www.webteh.hr
 0.0.0.0	www.webtools-tech.com
 0.0.0.0	www.webui_34785312.hookupss.com
 0.0.0.0	www.webuildbc.com

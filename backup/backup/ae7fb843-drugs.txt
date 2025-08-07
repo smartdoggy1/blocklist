@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/blocklistproject/Lists/master/drugs.txt
-# Backed up on: 2024-05-11
+# Backed up on: 2025-08-07
 
 0.0.0.0	000host.totaocimall.com
 0.0.0.0	001kanpou.com
@@ -4331,7 +4331,6 @@
 0.0.0.0	docitmed.sg
 0.0.0.0	doclamp.com
 0.0.0.0	docmedbill.sg
-0.0.0.0	docmorris.de
 0.0.0.0	docrxgp.com
 0.0.0.0	doctorabout.com
 0.0.0.0	doctoralq.ru
@@ -19618,7 +19617,6 @@
 0.0.0.0	www.dmhnch.xn--c1akiqp2bma.xn--p1ai
 0.0.0.0	www.dmviagratruykfj.com
 0.0.0.0	www.dnviagrarudfh.com
-0.0.0.0	www.docmorris.de
 0.0.0.0	www.docrxgp.com
 0.0.0.0	www.doctormyrx.com
 0.0.0.0	www.doctorsolve.com
