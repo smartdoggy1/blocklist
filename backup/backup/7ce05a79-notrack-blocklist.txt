@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2025-02-06
+# Backed up on: 2025-08-07
 
 0.0.0.0	01mspmd5yalky8.com
 0.0.0.0	028708717f.com
@@ -167,6 +167,7 @@
 0.0.0.0	aax-us-iad.amazon.com
 0.0.0.0	aaxads.com
 0.0.0.0	aaxdetect.com
+0.0.0.0	ab1n.net
 0.0.0.0	abbine.com
 0.0.0.0	abedwest.com
 0.0.0.0	ablebodiedcool.com
@@ -633,6 +634,7 @@
 0.0.0.0	adv.r7.com
 0.0.0.0	adv.satsis.info
 0.0.0.0	adv.sec.intl.miui.com
+0.0.0.0	adv.widdimo.com
 0.0.0.0	adv.zdravnitza.com
 0.0.0.0	advanced-web-analytics.com
 0.0.0.0	advantage.as
@@ -850,6 +852,7 @@
 0.0.0.0	analytics.api.vatominc.com
 0.0.0.0	analytics.archive.org
 0.0.0.0	analytics.arecontvision.com
+0.0.0.0	analytics.audioeye.com
 0.0.0.0	analytics.autodesk.com
 0.0.0.0	analytics.awscommon.mcafee.com
 0.0.0.0	analytics.awsmcafeeccs.mcafee.com
@@ -6717,6 +6720,7 @@
 0.0.0.0	mkt12295.com
 0.0.0.0	mkt12296.com
 0.0.0.0	mkt12297.com
+0.0.0.0	mkt12298.com
 0.0.0.0	mkt123.com
 0.0.0.0	mkt1230.com
 0.0.0.0	mkt1231.com
@@ -7603,6 +7607,7 @@
 0.0.0.0	mkt2021.com
 0.0.0.0	mkt2022.com
 0.0.0.0	mkt2023.com
+0.0.0.0	mkt20231126.com
 0.0.0.0	mkt2024.com
 0.0.0.0	mkt2025.com
 0.0.0.0	mkt2026.com
@@ -17965,6 +17970,7 @@
 0.0.0.0	sillyflowermachine.com
 0.0.0.0	silverpop.com
 0.0.0.0	silverundergofold.com
+0.0.0.0	simpleanalytics.com
 0.0.0.0	simpleanalytics.io
 0.0.0.0	simpleanalyticscdn.com
 0.0.0.0	simpleheatmaps.com

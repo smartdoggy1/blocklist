@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2025-02-06
+# Backed up on: 2025-08-07
 
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
@@ -426,7 +426,9 @@
 0.0.0.0	ads-click.com
 0.0.0.0	ads-dev.pinterest.com
 0.0.0.0	ads-game-187f4.firebaseapp.com
+0.0.0.0	ads-img.mozilla.org
 0.0.0.0	ads-kesselhaus.com
+0.0.0.0	ads-portal-cdn.vidaatv.net
 0.0.0.0	ads-software.net
 0.0.0.0	ads-trk.vidible.tv
 0.0.0.0	ads-twitter.com
@@ -654,6 +656,7 @@
 0.0.0.0	ads.mopub.com
 0.0.0.0	ads.motor-forum.nl
 0.0.0.0	ads.motormedia.nl
+0.0.0.0	ads.mozilla.org
 0.0.0.0	ads.msn.com
 0.0.0.0	ads.multimania.lycos.fr
 0.0.0.0	ads.muslimehelfen.org
@@ -702,6 +705,7 @@
 0.0.0.0	ads.printscr.com
 0.0.0.0	ads.prisacom.com
 0.0.0.0	ads.privatemedia.co
+0.0.0.0	ads.prod.webservices.mozgcp.net
 0.0.0.0	ads.program3.com
 0.0.0.0	ads.programattik.com
 0.0.0.0	ads.psd2html.com
@@ -1051,6 +1055,7 @@
 0.0.0.0	adverticum.com
 0.0.0.0	adverticum.net
 0.0.0.0	adverticus.de
+0.0.0.0	advertipros.com
 0.0.0.0	advertise.com
 0.0.0.0	advertiseireland.com
 0.0.0.0	advertisementafterthought.com
@@ -1266,6 +1271,7 @@
 0.0.0.0	aserv.motorsgate.com
 0.0.0.0	asewlfjqwlflkew.com
 0.0.0.0	asia999.website
+0.0.0.0	askdriver.com
 0.0.0.0	aso1.net
 0.0.0.0	assets1.exgfnetwork.com
 0.0.0.0	assoc-amazon.com
@@ -1418,6 +1424,7 @@
 0.0.0.0	bbn.img.com.ua
 0.0.0.0	beachfront.com
 0.0.0.0	beacon.gu-web.net
+0.0.0.0	beacon.netflix.com
 0.0.0.0	beacons.gcp.gvt2.com
 0.0.0.0	beacons.gvt2.com
 0.0.0.0	beam-ws.giraffe360.com
@@ -1448,6 +1455,7 @@
 0.0.0.0	bidbarrel.cbsnews.com
 0.0.0.0	bidclix.com
 0.0.0.0	bidclix.net
+0.0.0.0	bidpapers.com
 0.0.0.0	bidr.io
 0.0.0.0	bidsopt.com
 0.0.0.0	bidswitch.net
@@ -1652,6 +1660,7 @@
 0.0.0.0	click.allkeyshop.com
 0.0.0.0	click.bkdpt.com
 0.0.0.0	click.cartsguru.io
+0.0.0.0	click.ccg.nintendo.com
 0.0.0.0	click.cision.com
 0.0.0.0	click.classmates.com
 0.0.0.0	click.comm.rcibank.co.uk
@@ -1668,6 +1677,7 @@
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.email.strawberry.no
 0.0.0.0	click.emails.argos.co.uk
+0.0.0.0	click.emails.tuclothing.sainsburys.co.uk
 0.0.0.0	click.fool.com
 0.0.0.0	click.hookupinyourcity.com
 0.0.0.0	click.hooligapps.com
@@ -1685,6 +1695,7 @@
 0.0.0.0	click.nvgaming.nvidia.com
 0.0.0.0	click.redditmail.com
 0.0.0.0	click.twcwigs.com
+0.0.0.0	click.uber.com
 0.0.0.0	click.v.visionlab.es
 0.0.0.0	click2freemoney.com
 0.0.0.0	click360v2-ingest.azurewebsites.net
@@ -1715,6 +1726,7 @@
 0.0.0.0	clicks.mods.de
 0.0.0.0	clicks.monzo.com
 0.0.0.0	clickserve.cc-dt.com
+0.0.0.0	clicksinfo.thefork.co.uk
 0.0.0.0	clicktag.de
 0.0.0.0	clickthruserver.com
 0.0.0.0	clickthrutraffic.com
@@ -1882,12 +1894,14 @@
 0.0.0.0	cubics.com
 0.0.0.0	culturedcrayon.com
 0.0.0.0	cumbersomecloud.com
+0.0.0.0	curbminers.com
 0.0.0.0	curtaincows.com
 0.0.0.0	curvedsquirrel.com
 0.0.0.0	cushiondrum.com
 0.0.0.0	custom.plausible.io
 0.0.0.0	customad.cnn.com
 0.0.0.0	customads.co
+0.0.0.0	customerevents.netflix.com
 0.0.0.0	customers.kameleoon.com
 0.0.0.0	cutcurrent.com
 0.0.0.0	cutechin.com
@@ -2020,9 +2034,11 @@
 0.0.0.0	dzairads.com
 0.0.0.0	e-adimages.scrippsnetworks.com
 0.0.0.0	e-bannerx.com
+0.0.0.0	e-eu.customeriomail.com
 0.0.0.0	e-m.fr
 0.0.0.0	e-n-t-e-r-n-e-x.com
 0.0.0.0	e-planning.net
+0.0.0.0	e.customeriomail.com
 0.0.0.0	e.kde.cz
 0.0.0.0	e37364.dscd.akamaiedge.net
 0.0.0.0	eadexchange.com
@@ -2037,6 +2053,7 @@
 0.0.0.0	ecircle-ag.com
 0.0.0.0	ecleneue.com
 0.0.0.0	eclick.vn
+0.0.0.0	eclicks.deliveroo.com
 0.0.0.0	eclkmpbn.com
 0.0.0.0	eclkspbn.com
 0.0.0.0	economicpizzas.com
@@ -2067,6 +2084,7 @@
 0.0.0.0	email-open.adtidy.net
 0.0.0.0	email-open.adtidy.org
 0.0.0.0	email-opn.adguard.com
+0.0.0.0	email-trk.ihg-businessedge.com
 0.0.0.0	email.m1.bktrksmail.com
 0.0.0.0	email.mg1.substack.com
 0.0.0.0	emailer.stockbit.com
@@ -2078,6 +2096,7 @@
 0.0.0.0	emerse.com
 0.0.0.0	emetriq.de
 0.0.0.0	emjcd.com
+0.0.0.0	eml.blackduck.com
 0.0.0.0	emltrk.com
 0.0.0.0	emodoinc.com
 0.0.0.0	emptyescort.com
@@ -2161,6 +2180,7 @@
 0.0.0.0	expmediadirect1.com
 0.0.0.0	exponea.com
 0.0.0.0	exponential.com
+0.0.0.0	exportdialog.com
 0.0.0.0	express-submit.de
 0.0.0.0	extractobservation.com
 0.0.0.0	extreme-dm.com
@@ -2321,6 +2341,7 @@
 0.0.0.0	getxmlisi.com
 0.0.0.0	gfcim5.gq
 0.0.0.0	giddycoat.com
+0.0.0.0	glasscoyote.com
 0.0.0.0	glisteningsign.com
 0.0.0.0	globalismedia.com
 0.0.0.0	globaltakeoff.net
@@ -2485,6 +2506,7 @@
 0.0.0.0	huezzcjskf.site
 0.0.0.0	hurricanedigitalmedia.com
 0.0.0.0	hurtteeth.com
+0.0.0.0	hydraconcept.com
 0.0.0.0	hydramedia.com
 0.0.0.0	hyperbanner.net
 0.0.0.0	hypertracker.com
@@ -2725,6 +2747,7 @@
 0.0.0.0	li.walmart.com
 0.0.0.0	li.ziffimages.com
 0.0.0.0	liadm.com
+0.0.0.0	libraryfacts.com
 0.0.0.0	lifeimpressions.net
 0.0.0.0	liftdna.com
 0.0.0.0	ligatus.com
@@ -2737,9 +2760,11 @@
 0.0.0.0	line.jzs001.cn
 0.0.0.0	link-booster.de
 0.0.0.0	link.axios.com
+0.0.0.0	link.email.davidlloydclubs.co.uk
 0.0.0.0	link.email.usmagazine.com
 0.0.0.0	link.go.chase
 0.0.0.0	link.sbstck.com
+0.0.0.0	link.team.hyperoptic.com
 0.0.0.0	link.theatlantic.com
 0.0.0.0	link.uk.expediamail.com
 0.0.0.0	link4ads.com
@@ -2751,6 +2776,7 @@
 0.0.0.0	linkreferral.com
 0.0.0.0	links-ranking.de
 0.0.0.0	links.email.crunchbase.com
+0.0.0.0	links.housekeep.com
 0.0.0.0	links.prosservice.fr
 0.0.0.0	links.zoopla.co.uk
 0.0.0.0	linkshighway.com
@@ -3085,6 +3111,7 @@
 0.0.0.0	nhpfvdlbjg.com
 0.0.0.0	nitratory.com
 0.0.0.0	nitroclicks.com
+0.0.0.0	nmtracking.netflix.com
 0.0.0.0	nocturnalloom.com
 0.0.0.0	noiselessplough.com
 0.0.0.0	nondescriptcrowd.com
@@ -3133,6 +3160,7 @@
 0.0.0.0	offerforge.com
 0.0.0.0	offermatica.com
 0.0.0.0	offshoreanglehost.com
+0.0.0.0	offshoregeology.com
 0.0.0.0	ogads-pa.googleapis.com
 0.0.0.0	oglasi.posjetnica.com
 0.0.0.0	ogury.com
@@ -3216,6 +3244,7 @@
 0.0.0.0	paddleangle.com
 0.0.0.0	padsbrown.com
 0.0.0.0	padssup.com
+0.0.0.0	page-redirect.eu
 0.0.0.0	pagead.l.google.com
 0.0.0.0	pagefair.com
 0.0.0.0	pagefair.net
@@ -3329,6 +3358,7 @@
 0.0.0.0	pointroll.com
 0.0.0.0	pokkt.com
 0.0.0.0	polishedfolly.com
+0.0.0.0	polo.feathr.co
 0.0.0.0	popads.net
 0.0.0.0	popcash.net
 0.0.0.0	popflawlessads.com
@@ -3620,6 +3650,7 @@
 0.0.0.0	robotreplay.com
 0.0.0.0	rockabox.co
 0.0.0.0	rockagainst.com
+0.0.0.0	rockstarwriter.com
 0.0.0.0	roia.biz
 0.0.0.0	rok.com.com
 0.0.0.0	rollconnection.com
@@ -3628,9 +3659,11 @@
 0.0.0.0	rotabanner.com
 0.0.0.0	roughroll.com
 0.0.0.0	roxr.net
+0.0.0.0	rpt-ads.vidaahub.com
 0.0.0.0	rqtrk.eu
 0.0.0.0	rs6.net
 0.0.0.0	rsalcdp.com
+0.0.0.0	rsc-ads.vidaahub.com
 0.0.0.0	rta.dailymail.co.uk
 0.0.0.0	rtb.gumgum.com
 0.0.0.0	rtb.openx.net
@@ -4083,6 +4116,7 @@
 0.0.0.0	temelio.com
 0.0.0.0	tend.io
 0.0.0.0	tendertest.com
+0.0.0.0	ter-jrnl-oc.vidaahub.com
 0.0.0.0	tercept.com
 0.0.0.0	terriblethumb.com
 0.0.0.0	teststocking.com
@@ -4096,6 +4130,7 @@
 0.0.0.0	theadhost.com
 0.0.0.0	thebugs.ws
 0.0.0.0	theclickads.com
+0.0.0.0	themangotea.com
 0.0.0.0	themoneytizer.com
 0.0.0.0	therapistla.com
 0.0.0.0	thinkablerice.com
@@ -4158,6 +4193,8 @@
 0.0.0.0	touchclarity.natwest.com
 0.0.0.0	tour.brazzers.com
 0.0.0.0	tpnads.com
+0.0.0.0	tr.api.fanbyte.com
+0.0.0.0	track-eu.customer.io
 0.0.0.0	track-on.eu
 0.0.0.0	track-on.pl
 0.0.0.0	track.addevent.com
@@ -4165,6 +4202,7 @@
 0.0.0.0	track.anchorfree.com
 0.0.0.0	track.canva.com
 0.0.0.0	track.contently.com
+0.0.0.0	track.customer.io
 0.0.0.0	track.effiliation.com
 0.0.0.0	track.flexlinks.com
 0.0.0.0	track.flexlinkspro.com
@@ -4282,6 +4320,7 @@
 0.0.0.0	travis.bosscasinos.com
 0.0.0.0	traytouch.com
 0.0.0.0	trck.a8.net
+0.0.0.0	trck.mtrgt.id
 0.0.0.0	trcked.me
 0.0.0.0	trcking4wdm.de
 0.0.0.0	trcklion.com
@@ -4297,6 +4336,7 @@
 0.0.0.0	triplelift.com
 0.0.0.0	triptease.io
 0.0.0.0	trix.net
+0.0.0.0	trk.4ff.pro
 0.0.0.0	trk.bad-tool-tell-doubt.xyz
 0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.bee-data.com
@@ -4352,6 +4392,7 @@
 0.0.0.0	unknowntray.com
 0.0.0.0	unless.com
 0.0.0.0	unloadyourself.com
+0.0.0.0	unruly.co
 0.0.0.0	unrulymedia.com
 0.0.0.0	untd.com
 0.0.0.0	untidyquestion.com
@@ -4362,6 +4403,7 @@
 0.0.0.0	uowbqce.surf
 0.0.0.0	upu.samsungelectronics.com
 0.0.0.0	uramog.com
+0.0.0.0	urbanlaurel.com
 0.0.0.0	url9467.comms-2.zoopla.co.uk
 0.0.0.0	urlcash.net
 0.0.0.0	urldata.net
@@ -4419,6 +4461,7 @@
 0.0.0.0	vidora.com
 0.0.0.0	view4cash.de
 0.0.0.0	viglink.com
+0.0.0.0	vilenexus.com
 0.0.0.0	virtualvincent.com
 0.0.0.0	visiblemeasures.com
 0.0.0.0	visistat.com
