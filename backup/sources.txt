@@ -3,16 +3,15 @@
 # https://v.firebog.net/hosts/Prigent-Malware.txt
 # https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://adaway.org/hosts.txt
-https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://gitlab.com/quidsup/ntrk-tracker-radar/-/raw/master/ddg_tracker_radar_confirmed.hosts
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://phishing.army/download/phishing_army_blocklist.txt
+# https://phishing.army/download/phishing_army_blocklist_extended.txt  # removing due to a lot of garbage entries
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -38,4 +37,5 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
-https://winhelp2002.mvps.org/hosts.txt
+# https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#pro
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/hosts/pro.txt

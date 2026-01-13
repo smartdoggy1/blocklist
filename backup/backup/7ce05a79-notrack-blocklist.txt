@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2025-08-07
+# Backed up on: 2026-01-13
 
 0.0.0.0	0i0i0i0.com
 0.0.0.0	0sntp7dnrr.com
@@ -1556,6 +1556,7 @@
 0.0.0.0	grapeshot.co.uk
 0.0.0.0	graph.accountkit.com
 0.0.0.0	gravity.com
+0.0.0.0	greedygame.com
 0.0.0.0	greengrowth.space
 0.0.0.0	greystripe.com
 0.0.0.0	gridmidia.com
@@ -1684,6 +1685,7 @@
 0.0.0.0	improvedigital.com
 0.0.0.0	improvely.com
 0.0.0.0	improving.duckduckgo.com
+0.0.0.0	imptracking.com
 0.0.0.0	imrworldwide.com
 0.0.0.0	in-adreq.vivoglobal.com
 0.0.0.0	in-adsjssdk.vivoglobal.com
@@ -1724,6 +1726,7 @@
 0.0.0.0	inspectlet.com
 0.0.0.0	inspector-collector.m.naver.com
 0.0.0.0	inspectorstrongerpill.com
+0.0.0.0	inspi-dsp.com
 0.0.0.0	instabug.com
 0.0.0.0	installationmidterm.com
 0.0.0.0	instana.io
@@ -13842,6 +13845,7 @@
 0.0.0.0	piwik.com-online.com
 0.0.0.0	piwik.pro
 0.0.0.0	piwikpro.com
+0.0.0.0	pixad.com.tr
 0.0.0.0	pixanalytics.pixnet.net
 0.0.0.0	pixel-static.spotify.com
 0.0.0.0	pixel.ad
@@ -13878,6 +13882,7 @@
 0.0.0.0	platformsrat.com
 0.0.0.0	plausible.io
 0.0.0.0	playbuzz.com
+0.0.0.0	playdigo.com
 0.0.0.0	player-telemetry.vimeo.com
 0.0.0.0	playground.xyz
 0.0.0.0	playgroundordinarilymess.com

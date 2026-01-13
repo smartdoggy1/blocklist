@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-# Backed up on: 2025-08-07
+# Backed up on: 2026-01-13
 
 0.0.0.0	0077777700140002.myhomescreen.tv
 0.0.0.0	2mdn.net
@@ -35,6 +35,7 @@
 0.0.0.0	api.euro.hismarttv.com
 0.0.0.0	api.thetake.com
 0.0.0.0	api.us.hismarttv.com
+0.0.0.0	app.hbbtv.hse24.com
 0.0.0.0	apu.samsungelectronics.com
 0.0.0.0	austin.logs.roku.com
 0.0.0.0	auth-em.hismarttv.com
@@ -116,6 +117,8 @@
 0.0.0.0	hbbtv.superrtl.de
 0.0.0.0	hbbtv01p.anixe.net
 0.0.0.0	hbbtvapp.sonnenklar.tv
+0.0.0.0	hse-ctv.com
+0.0.0.0	hse24.tvtelemetrie.de
 0.0.0.0	i-stream.pl
 0.0.0.0	ibis.lgappstv.com
 0.0.0.0	ichnaea.netflix.com
@@ -236,6 +239,7 @@
 0.0.0.0	vd.contents.prod.eu.s3.amazonaws.com
 0.0.0.0	vd.emp.prd.s3.amazonaws.com
 0.0.0.0	vdterms.samsungcloudsolution.com
+0.0.0.0	www.samsungotn.net
 0.0.0.0	www.samsungrm.net
 0.0.0.0	x2.vindicosuite.com
 0.0.0.0	xml.opera.com
