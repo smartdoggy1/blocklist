@@ -1,7 +1,6 @@
-# https://dbl.oisd.nl/basic/
 # https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts
-# https://v.firebog.net/hosts/Prigent-Malware.txt
-# https://v.firebog.net/hosts/Prigent-Phishing.txt
+# https://v.firebog.net/hosts/Prigent-Malware.txt   # online, but too many spam hosts
+# https://v.firebog.net/hosts/Prigent-Phishing.txt  # dead
 https://adaway.org/hosts.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
