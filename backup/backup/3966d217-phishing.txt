@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
-# Backed up on: 2025-08-07
+# Backed up on: 2026-07-23
 
 0.0.0.0	0.01.2.13.3.sydneypropertyinvestors.com
 0.0.0.0	0.01.2.23.3.sydneypropertyinvestors.com
@@ -15707,6 +15707,7 @@
 0.0.0.0	benderpainting.bc.ca
 0.0.0.0	benderterrace.net
 0.0.0.0	bendery-fortress.com
+0.0.0.0	bendigorewardsaj-homes.info
 0.0.0.0	bendinat-villa.com
 0.0.0.0	bendiouis-immobilier.com
 0.0.0.0	benditagraca.com.br
@@ -55817,6 +55818,7 @@
 0.0.0.0	kazps.com
 0.0.0.0	kazukogstone.com
 0.0.0.0	kazuled.com.vn
+0.0.0.0	kazwex.com
 0.0.0.0	kazzpc.com
 0.0.0.0	kba.org.pk
 0.0.0.0	kbanka.com
@@ -90199,6 +90201,7 @@
 0.0.0.0	sellyourcell.in
 0.0.0.0	sellyourmac.co.za
 0.0.0.0	selmart.net
+0.0.0.0	selot.jp.net
 0.0.0.0	selouskingalodge.com
 0.0.0.0	seltvideos.com
 0.0.0.0	selvagoldcovering.com
@@ -95383,6 +95386,7 @@
 0.0.0.0	staubsblog.com
 0.0.0.0	staubwoelkchen.at
 0.0.0.0	stavreko.cz
+0.0.0.0	stay-house24891.com
 0.0.0.0	stayclassy.ru
 0.0.0.0	staydryboatlauncher.com
 0.0.0.0	stayinsa.co.za
@@ -95462,6 +95466,7 @@
 0.0.0.0	steamcommuinlty.com
 0.0.0.0	steamcommujtliy.com
 0.0.0.0	steamcommumnity.com
+0.0.0.0	steamcommumtiy.com
 0.0.0.0	steamcommunety.com
 0.0.0.0	steamcommunety.net
 0.0.0.0	steamcommuniitu.com
@@ -103490,6 +103495,7 @@
 0.0.0.0	uk-appleid.com
 0.0.0.0	uk-appleidservice.com
 0.0.0.0	uk-bnk.com
+0.0.0.0	uk-dpd-parcelmovex.sbs
 0.0.0.0	uk-paypal.net
 0.0.0.0	uk-refund-support.com
 0.0.0.0	uk-restore.com
@@ -122116,6 +122122,7 @@
 0.0.0.0	www.benderpainting.bc.ca
 0.0.0.0	www.benderterrace.net
 0.0.0.0	www.bendery-fortress.com
+0.0.0.0	www.bendigorewardsaj-homes.info
 0.0.0.0	www.bendinat-villa.com
 0.0.0.0	www.bendmunchkinmanor.com
 0.0.0.0	www.bends.in
@@ -178871,6 +178878,7 @@
 0.0.0.0	www.trustlinkmm.com
 0.0.0.0	www.trustmidia.com.br
 0.0.0.0	www.trustpasslogin.com
+0.0.0.0	www.trustpilot.com
 0.0.0.0	www.trustsolucoes.com.br
 0.0.0.0	www.trusttravelusa.com
 0.0.0.0	www.trusturman.com

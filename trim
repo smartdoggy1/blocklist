@@ -8,3 +8,5 @@
 .*\-panelresearch\.googlevideo\.com$
 .*\.shop$
 \.adn\..*cdn\.net
+\.(shop|cfd|monster|zip|mov|bond|buzz|sbs|icu)$
+(^|\.)kameleoon\..+$
