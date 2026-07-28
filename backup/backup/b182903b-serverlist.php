@@ -1,5 +1,5 @@
 # https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
-# Backed up on: 2026-07-23
+# Backed up on: 2026-07-27
 
 0.0.0.0	101com.com
 0.0.0.0	180hits.de
@@ -17,6 +17,7 @@
 0.0.0.0	30ads.com
 0.0.0.0	3337723.com
 0.0.0.0	33across.com
+0.0.0.0	360yield-basic.com
 0.0.0.0	360yield.com
 0.0.0.0	3lift.com
 0.0.0.0	3o9s.short.gy

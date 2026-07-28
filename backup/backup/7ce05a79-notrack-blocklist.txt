@@ -1,5 +1,5 @@
 # https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Backed up on: 2026-01-13
+# Backed up on: 2026-07-27
 
 0.0.0.0	0i0i0i0.com
 0.0.0.0	0sntp7dnrr.com
@@ -2074,6 +2074,7 @@
 0.0.0.0	metrics.royalmail.com
 0.0.0.0	metrics.sdkbox.com
 0.0.0.0	metrics.ubuntu.com
+0.0.0.0	metrics.vinted.lt
 0.0.0.0	metrics.washingtonpost.com
 0.0.0.0	metrics2.data.hicloud.com
 0.0.0.0	metricswpsh.com
@@ -15323,6 +15324,7 @@
 0.0.0.0	track.wattpad.com
 0.0.0.0	track.wattpadhq.com
 0.0.0.0	track.wikibuy.com
+0.0.0.0	track.zpbt.uk
 0.0.0.0	track1.avplayer.com
 0.0.0.0	trackad.cz
 0.0.0.0	trackalyzer.com

@@ -1,5 +1,5 @@
 # https://v.firebog.net/hosts/Easyprivacy.txt
-# Backed up on: 2026-07-23
+# Backed up on: 2026-07-27
 
 0.0.0.0	0.myikas.com
 0.0.0.0	0.net.easyjet.com
@@ -4363,6 +4363,7 @@
 0.0.0.0	acv.mc-nurse.net
 0.0.0.0	acv.mc-pharma.net
 0.0.0.0	acv.me-hikari.net
+0.0.0.0	acv.mira-dsp.com
 0.0.0.0	acv.next-air-wifi.com
 0.0.0.0	acv.next-internet.info
 0.0.0.0	acv.nft-hikari.net
@@ -4960,6 +4961,7 @@
 0.0.0.0	allinsurance.allinsure.ca
 0.0.0.0	allnewhost.com
 0.0.0.0	alloutdubstep.com
+0.0.0.0	alloy-rap.reclameaqui.com.br
 0.0.0.0	alloy-web.zvuk.com
 0.0.0.0	alloytitans.com
 0.0.0.0	allreach.actonservice.com
@@ -7533,6 +7535,7 @@
 0.0.0.0	bespokesandals.com
 0.0.0.0	bestboundary.com
 0.0.0.0	bestbuy.actonservice.com
+0.0.0.0	bestclimbers.net
 0.0.0.0	bestill.help.no
 0.0.0.0	bestinfo.bluetrustloans.com
 0.0.0.0	bestshoesboot.com
@@ -13614,6 +13617,7 @@
 0.0.0.0	financialservices.nada.org
 0.0.0.0	financialservices.teranet.ca
 0.0.0.0	find.api.micloud.xiaomi.net.iberostar.com
+0.0.0.0	findcalculator.com
 0.0.0.0	findthetruth.allergyai.com
 0.0.0.0	findyourdelight.com
 0.0.0.0	findyourinfluence.actonservice.com
@@ -15493,6 +15497,7 @@
 0.0.0.0	hit.salesfire.co.uk
 0.0.0.0	hit.skrz.cz
 0.0.0.0	hitachi-hightech-as.actonservice.com
+0.0.0.0	hitboxdesigns.com
 0.0.0.0	hitmse.altinbas.com
 0.0.0.0	hits.antena3.com
 0.0.0.0	hits.dealer.com
@@ -18354,6 +18359,7 @@
 0.0.0.0	l936.expressnews.com
 0.0.0.0	la.idgenterprise.com
 0.0.0.0	lab.prodesp.sp.gov.br
+0.0.0.0	labelsensor.com
 0.0.0.0	laboredlocket.com
 0.0.0.0	labs.verticurl.com
 0.0.0.0	lacinfo.motorolasolutions.com
@@ -18400,6 +18406,7 @@
 0.0.0.0	landlordspy.com
 0.0.0.0	landrykling.actonservice.com
 0.0.0.0	landstar.actonservice.com
+0.0.0.0	landsuites.com
 0.0.0.0	landuscooperative.actonservice.com
 0.0.0.0	landwestern.com
 0.0.0.0	lansinoh.actonservice.com
@@ -19706,6 +19713,7 @@
 0.0.0.0	loobmf.hardloop.fr
 0.0.0.0	look-ahead.nurturemarketing.com
 0.0.0.0	loopcybersec.com
+0.0.0.0	looprecycled.com
 0.0.0.0	loosecase.com
 0.0.0.0	looseloaf.com
 0.0.0.0	lord.actonservice.com
@@ -22048,6 +22056,7 @@
 0.0.0.0	memorizematch.com
 0.0.0.0	memorizeneck.com
 0.0.0.0	mennoc.mezlan.com
+0.0.0.0	menteechain.com
 0.0.0.0	mentorsticks.com
 0.0.0.0	mer.stdout.cz
 0.0.0.0	mercadeo.promerica.fi.cr
@@ -24637,6 +24646,7 @@
 0.0.0.0	obs.branderblender.com
 0.0.0.0	obs.du89buildings.com
 0.0.0.0	obs.esnlocco.com
+0.0.0.0	obs.greencolumnblog.com
 0.0.0.0	obs.jollyoutdoorjogger.com
 0.0.0.0	obs.system1onesource.com
 0.0.0.0	obscenesidewalk.com
@@ -24998,6 +25008,7 @@
 0.0.0.0	onelinksmartscript.appsflyer.com
 0.0.0.0	onelinksmartscript.appsflyersdk.com
 0.0.0.0	onem.marketing.onemarketinguxp.com
+0.0.0.0	onemorebump.com
 0.0.0.0	onenet.gakujutsu.com
 0.0.0.0	onesourcebackground.actonservice.com
 0.0.0.0	onespecify.com
@@ -25028,6 +25039,7 @@
 0.0.0.0	onlineshop.ricoh.pl
 0.0.0.0	onlinestarten.net
 0.0.0.0	onlinevacationcenter.actonservice.com
+0.0.0.0	onlystreets.com
 0.0.0.0	onlywoofs.com
 0.0.0.0	onmlkjiion.carte-gr.total.fr
 0.0.0.0	onoztg.ultimate-guitar.com
@@ -25987,6 +25999,7 @@
 0.0.0.0	player-metrics.instaread.co
 0.0.0.0	player-telemetry.vimeo.com
 0.0.0.0	playerhappy.com
+0.0.0.0	playerscache.com
 0.0.0.0	playfulriver.com
 0.0.0.0	plbcsd.vidaxl.se
 0.0.0.0	plbusiness.samsung.com
@@ -26314,6 +26327,7 @@
 0.0.0.0	protosell.actonservice.com
 0.0.0.0	protys.protys.fr
 0.0.0.0	providentcrm.actonservice.com
+0.0.0.0	provingmagic.com
 0.0.0.0	prowareness.actonservice.com
 0.0.0.0	proxima.midjourney.com
 0.0.0.0	proxy.dzeio.com
@@ -26718,6 +26732,7 @@
 0.0.0.0	r4nds.absorba.com
 0.0.0.0	raac33.net
 0.0.0.0	rabbit.donald.cat
+0.0.0.0	rabbitboots.com
 0.0.0.0	rabbitbreath.com
 0.0.0.0	rabbitrifle.com
 0.0.0.0	rac.ruutu.fi
@@ -29338,6 +29353,7 @@
 0.0.0.0	sihoqd.sheridan.com.au
 0.0.0.0	silentcredit.com
 0.0.0.0	silentjackal.com
+0.0.0.0	silentsingle.com
 0.0.0.0	silentwrench.com
 0.0.0.0	siliconslow.com
 0.0.0.0	sillyscrew.com
@@ -32546,6 +32562,7 @@
 0.0.0.0	smon.loc.gov
 0.0.0.0	smqzbr.proozy.com
 0.0.0.0	smrt.as
+0.0.0.0	smrtwheel.com
 0.0.0.0	sms-vbs.branch.rocks
 0.0.0.0	sms.3.se
 0.0.0.0	sms.ajopharmabeta.riteaid.com
@@ -32648,6 +32665,7 @@
 0.0.0.0	social.talenttitan.com
 0.0.0.0	social.tinyview.com
 0.0.0.0	socialflow.branch.rocks
+0.0.0.0	socialsend.net
 0.0.0.0	sockpacks.com
 0.0.0.0	socs.hagerty.com
 0.0.0.0	soejzg.efe.com.pe
@@ -34587,6 +34605,7 @@
 0.0.0.0	stats.ozwebsites.biz
 0.0.0.0	stats.p42.ai
 0.0.0.0	stats.pacificdentalservices.com
+0.0.0.0	stats.panet.com
 0.0.0.0	stats.parqet.com
 0.0.0.0	stats.parrot.dev
 0.0.0.0	stats.passwordyeti.com
@@ -38515,6 +38534,7 @@
 0.0.0.0	tracking-api.bookzone.ro
 0.0.0.0	tracking-api.hotmart.com
 0.0.0.0	tracking-api.mangopulse.net
+0.0.0.0	tracking-api.razor.media
 0.0.0.0	tracking-explore-uat.agilent.com
 0.0.0.0	tracking-explore.agilent.com
 0.0.0.0	tracking-live.kr3m.com

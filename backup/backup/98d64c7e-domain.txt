@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
-# Backed up on: 2026-07-23
+# Backed up on: 2026-07-27
 
 0.0.0.0	0a0d-d3l1vr.b-cdn.net
 0.0.0.0	0i0i0i0.com
@@ -371,6 +371,7 @@
 0.0.0.0	ac.adpia.vn
 0.0.0.0	ac.askingpoint.com
 0.0.0.0	ac.batmobi.net
+0.0.0.0	ac.enticecreep.com
 0.0.0.0	ac.mmstat.com
 0.0.0.0	ac.rnm.ca
 0.0.0.0	ac.tynt.com
@@ -3134,6 +3135,7 @@
 0.0.0.0	api.districtm.ca
 0.0.0.0	api.donglogs.com
 0.0.0.0	api.ematicsolutions.com
+0.0.0.0	api.enticecreep.com
 0.0.0.0	api.eskimi.com
 0.0.0.0	api.eu.amplitude.com
 0.0.0.0	api.europe.bidtellect.com
@@ -7570,6 +7572,7 @@
 0.0.0.0	enterprisertb.djaxadserver.com
 0.0.0.0	enterprises550.net
 0.0.0.0	entertainingeyes.com
+0.0.0.0	enticecreep.com
 0.0.0.0	entitlements.kochava.com
 0.0.0.0	entravision.com
 0.0.0.0	enviousthread.com
@@ -8947,6 +8950,7 @@
 0.0.0.0	hgub2polye.com
 0.0.0.0	hh-btr.com
 0.0.0.0	hh788.com
+0.0.0.0	hhbwhgtciqe.com
 0.0.0.0	hhbypdoecp.com
 0.0.0.0	hhuajhdidxut.com
 0.0.0.0	hi-cdn.adsparc.net
@@ -10154,6 +10158,7 @@
 0.0.0.0	kernh41.com
 0.0.0.0	ketchapp.org
 0.0.0.0	ketquaxosotoancau.org
+0.0.0.0	kettledroopingcontinuation.com
 0.0.0.0	keymaker.go.sonobi.com
 0.0.0.0	keywee.co
 0.0.0.0	keyword.ad.daum.net
@@ -10333,6 +10338,7 @@
 0.0.0.0	lapnicjaqxu.com
 0.0.0.0	largeer.com
 0.0.0.0	lassampy.com
+0.0.0.0	late-bloomingwalluphospital.com
 0.0.0.0	laughcloth.com
 0.0.0.0	laughedaffront.com
 0.0.0.0	lauloajaiph.net
@@ -10894,6 +10900,7 @@
 0.0.0.0	ltv-spark-webui.kube-prod.vungle.com
 0.0.0.0	ltv.tapjoy.com
 0.0.0.0	ltvapi.tapjoy.com
+0.0.0.0	lu.hymenicshi.qpon
 0.0.0.0	lucead.com
 0.0.0.0	lucidlykidney.com
 0.0.0.0	lucidmedia.com
@@ -11796,6 +11803,7 @@
 0.0.0.0	mydas.mobi
 0.0.0.0	mydayoff.galaxiemedia.fr
 0.0.0.0	mydmp.exelator.com
+0.0.0.0	myesutdnuyddu.com
 0.0.0.0	myfastcdn.com
 0.0.0.0	mylwwuqdhidkmx.com
 0.0.0.0	myntelligence.com
@@ -12370,6 +12378,7 @@
 0.0.0.0	onwardclick.xs.ak-is2.net
 0.0.0.0	onwardperishvaluables.com
 0.0.0.0	oo.moatads.com
+0.0.0.0	oofmhbmqdn.com
 0.0.0.0	ootchoft.com
 0.0.0.0	opcharizardon.com
 0.0.0.0	opdhoxor.com
@@ -14718,6 +14727,7 @@
 0.0.0.0	runative-syndicate.com
 0.0.0.0	runative.com
 0.0.0.0	rundsp.com
+0.0.0.0	rupmnmephml.com
 0.0.0.0	rusenov.com
 0.0.0.0	ruslan.indoleads.com
 0.0.0.0	rutpunishsnitch.com
@@ -17287,6 +17297,7 @@
 0.0.0.0	tr.attribuly.com
 0.0.0.0	tr.blismedia.com
 0.0.0.0	tr.brand-display.com
+0.0.0.0	tr.enticecreep.com
 0.0.0.0	tr.iadsdk.apple.com
 0.0.0.0	tr.lfeeder.com
 0.0.0.0	tr.line.me
@@ -17754,6 +17765,7 @@
 0.0.0.0	twinrdsyn.com
 0.0.0.0	twinrdsyte.com
 0.0.0.0	twistconcept.com
+0.0.0.0	twitchegotistical.com
 0.0.0.0	twittad.com
 0.0.0.0	twyn.com
 0.0.0.0	tx-ad.a.yximgs.com
@@ -18270,6 +18282,7 @@
 0.0.0.0	vcm-match.dotomi.com
 0.0.0.0	vcqclbetewdnq.website
 0.0.0.0	vcs.zijieapi.com
+0.0.0.0	vd.bundthoecake.cyou
 0.0.0.0	vda.viettel.vn
 0.0.0.0	vdacdn1.viettel.vn
 0.0.0.0	vdacdn2.viettel.vn
@@ -18888,6 +18901,7 @@
 0.0.0.0	wopsedoaltuwp.com
 0.0.0.0	workday.exponential.com
 0.0.0.0	workdaylab.exponential.com
+0.0.0.0	workdeadlinededicate.com
 0.0.0.0	worker1.advertnative.com
 0.0.0.0	worker2.advertnative.com
 0.0.0.0	worker3.advertnative.com
